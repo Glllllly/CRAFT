@@ -1,0 +1,92 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Check In Date:",
+      "value_text": "10/12/2023"
+    },
+    {
+      "key_text": "Check Out Date:",
+      "value_text": "10/14/2023"
+    },
+    {
+      "key_text": "Guest Name:",
+      "value_text": "John Doe"
+    },
+    {
+      "key_text": "Bed Type:",
+      "value_text": "King"
+    },
+    {
+      "key_text": "Smoking Preference:",
+      "value_text": "Non-Smoking"
+    },
+    {
+      "key_text": "Confirmation #:",
+      "value_text": "RH-5521A"
+    },
+    {
+      "key_text": "Guest Name:",
+      "value_text": "Jane Smith"
+    },
+    {
+      "key_text": "Bed Type:",
+      "value_text": "Queen"
+    },
+    {
+      "key_text": "Smoking Preference:",
+      "value_text": "Non-Smoking"
+    },
+    {
+      "key_text": "Confirmation #:",
+      "value_text": "RH-5521B"
+    },
+    {
+      "key_text": "Guest Name:",
+      "value_text": null
+    },
+    {
+      "key_text": "Bed Type:",
+      "value_text": null
+    },
+    {
+      "key_text": "Smoking Preference:",
+      "value_text": null
+    },
+    {
+      "key_text": "Confirmation #:",
+      "value_text": null
+    },
+    {
+      "key_text": "Name:",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Biology"
+    },
+    {
+      "key_text": "College:",
+      "value_text": "Science, Technology and Mathematics"
+    },
+    {
+      "key_text": "FHSU FAX #:",
+      "value_text": "785-628-4000"
+    },
+    {
+      "key_text": "FHSU Phone #:",
+      "value_text": "785-628-4214"
+    },
+    {
+      "key_text": "BPC Last 5 Digits:",
+      "value_text": "12345"
+    },
+    {
+      "key_text": "Will Pay Personally:",
+      "value_text": "No"
+    }
+  ]
+}
+
+Narrative:
+This room reservation form for Fort Hays State University at the Ramada Hays details a stay from October 12, 2023, to October 14, 2023. Two guests are registered: John Doe, staying in a non-smoking room with a king bed (Confirmation #RH-5521A), and Jane Smith, in a non-smoking room with a queen bed (Confirmation #RH-5521B). A third guest slot remains empty. The reservation was coordinated by Sarah Miller of the Biology department under the College of Science, Technology and Mathematics. Her contact information includes the FHSU fax number 785-628-4000 and phone number 785-628-4214. The last five digits of the BPC card provided are 12345, and it is noted that the individual will not be paying personally.

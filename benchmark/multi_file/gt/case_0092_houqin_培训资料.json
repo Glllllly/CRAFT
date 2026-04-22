@@ -1,0 +1,126 @@
+{
+  "excel": "case_0092_houqin_培训资料__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "98811"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "操作记录_3867"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "操作记录"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M9:Q9",
+      "value": "维护计划"
+    },
+    {
+      "label": "date",
+      "value_cell": "D12:H12",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M12:Q12",
+      "value": "2026-02-10T05:30:30.123455"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D15:H15",
+      "value": "陈芳"
+    },
+    {
+      "label": "培训编号",
+      "value_cell": "D20:H20",
+      "value": "TRAIN-002"
+    },
+    {
+      "label": "培训主题",
+      "value_cell": "M20:Q20",
+      "value": "库存管理培训"
+    },
+    {
+      "label": "培训时间",
+      "value_cell": "D23:H23",
+      "value": "2024-02-15 09:00"
+    },
+    {
+      "label": "培训地点",
+      "value_cell": "M23:Q23",
+      "value": "培训中心"
+    },
+    {
+      "label": "培训时长",
+      "value_cell": "D26:H26",
+      "value": "2小时"
+    },
+    {
+      "label": "培训讲师",
+      "value_cell": "M26:Q26",
+      "value": "培训师3"
+    },
+    {
+      "label": "参加人员",
+      "value_cell": "D29:H29",
+      "value": "43人"
+    },
+    {
+      "label": "考核方式",
+      "value_cell": "D34:H34",
+      "value": "笔试+实操"
+    },
+    {
+      "label": "及格线",
+      "value_cell": "M34:Q34",
+      "value": "80分"
+    },
+    {
+      "label": "练习题目",
+      "value_cell": "D37:H37",
+      "value": "56题"
+    },
+    {
+      "label": "讲义提纲",
+      "value_cell": "M37:Q37",
+      "value": "共24页"
+    },
+    {
+      "label": "status",
+      "value_cell": "D42:H42",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M42:Q42",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D45:H45",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "M45:Q45",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D48:H48",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M48:Q48",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

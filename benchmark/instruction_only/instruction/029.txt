@@ -1,0 +1,162 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88291"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Content Strategist"
+    },
+    {
+      "key_text": "Date of Hire",
+      "value_text": "2021-03-15"
+    },
+    {
+      "key_text": "Last Day of Employment",
+      "value_text": "2023-10-31"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "David Thorne"
+    },
+    {
+      "key_text": "Reason for Leaving (brief)",
+      "value_text": "Career advancement"
+    },
+    {
+      "key_text": "Resignation",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Redundancy / Layoff",
+      "value_text": null
+    },
+    {
+      "key_text": "End of Contract",
+      "value_text": null
+    },
+    {
+      "key_text": "Better Opportunity",
+      "value_text": null
+    },
+    {
+      "key_text": "Compensation",
+      "value_text": null
+    },
+    {
+      "key_text": "Career Development",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Please describe your reason for leaving in more detail",
+      "value_text": "I have been offered a Lead role at a tech startup that aligns more closely with my long-term career goals in product marketing."
+    },
+    {
+      "key_text": "New employer / role",
+      "value_text": "Innovate Solutions / Head of Marketing"
+    },
+    {
+      "key_text": "Industry of new role",
+      "value_text": "Software Development"
+    },
+    {
+      "key_text": "Overall job satisfaction",
+      "value_text": "Satisfied"
+    },
+    {
+      "key_text": "Relationship with manager",
+      "value_text": "Excellent"
+    },
+    {
+      "key_text": "Relationship with colleagues",
+      "value_text": "Excellent"
+    },
+    {
+      "key_text": "Work-life balance",
+      "value_text": "Good"
+    },
+    {
+      "key_text": "Career development opportunities",
+      "value_text": "Good"
+    },
+    {
+      "key_text": "Company culture",
+      "value_text": "Excellent"
+    },
+    {
+      "key_text": "Compensation & benefits",
+      "value_text": "Good"
+    },
+    {
+      "key_text": "What did you enjoy most about working here?",
+      "value_text": "The collaborative team environment and the creative freedom I was given on the Q3 campaign projects."
+    },
+    {
+      "key_text": "What could the company improve?",
+      "value_text": "The internal communication between the design and marketing departments could be more streamlined to avoid project bottlenecks."
+    },
+    {
+      "key_text": "Any specific incidents or concerns you wish to raise?",
+      "value_text": "None."
+    },
+    {
+      "key_text": "Definitely",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Probably",
+      "value_text": null
+    },
+    {
+      "key_text": "Unlikely",
+      "value_text": null
+    },
+    {
+      "key_text": "Yes",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Maybe",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": null
+    },
+    {
+      "key_text": "May we share your anonymised feedback with leadership?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "HR Representative",
+      "value_text": "Marcus Vane"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-26"
+    }
+  ]
+}
+
+Narrative:
+Sarah J. Miller (ID: EMP-88291), who worked as a Senior Content Strategist in the Marketing department, is completing her exit interview. She was hired on March 15, 2021, and her final day with the company will be October 31, 2023. Her manager is David Thorne. Sarah is leaving due to a resignation, specifically citing career development as her primary reason. She explained that she accepted a Head of Marketing role at Innovate Solutions in the software development industry to further her long-term goals. 
+
+Regarding her experience, Sarah felt satisfied overall. She rated her relationship with her manager and colleagues, as well as the company culture, as excellent. She found her work-life balance, career development opportunities, and compensation to be good. When asked about her time here, she highlighted the team collaboration and creative freedom as the best parts of her role, though she suggested that internal communication between design and marketing teams could be improved. She has no specific incidents to report. Sarah would definitely recommend the company to others and might consider returning in the future. She has consented to sharing her anonymized feedback with leadership. The form was signed by Sarah on October 25, 2023, and acknowledged by HR representative Marcus Vane on October 26, 2023.

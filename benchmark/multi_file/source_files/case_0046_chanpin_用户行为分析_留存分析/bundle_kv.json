@@ -1,0 +1,2043 @@
+{
+  "bundle_dir": "case_0046_chanpin_用户行为分析_留存分析",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "分析_26.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "41%",
+          "raw_key": "D14留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：41%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "58%",
+          "raw_key": "D1留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：58%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "10%",
+          "raw_key": "D30留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：10%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "59%",
+          "raw_key": "D7留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：59%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "14%",
+          "raw_key": "M3留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：14%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 54%",
+          "raw_key": "下月目标",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 54%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师3",
+          "raw_key": "分析人",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期27",
+          "raw_key": "分析期间",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期27",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0026",
+          "raw_key": "分析编号",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0026",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留17%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留17%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=39% D30=37%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=39% D30=37%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=81% D30=34%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=81% D30=34%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "139万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：139万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=18% D30=82%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=18% D30=82%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "分析_28.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "19%",
+          "raw_key": "D14留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：19%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "44%",
+          "raw_key": "D1留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：44%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "23%",
+          "raw_key": "D30留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：23%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "54%",
+          "raw_key": "D7留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：54%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "16%",
+          "raw_key": "M3留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：16%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 49%",
+          "raw_key": "下月目标",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 49%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师5",
+          "raw_key": "分析人",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期29",
+          "raw_key": "分析期间",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期29",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0028",
+          "raw_key": "分析编号",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0028",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留22%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留22%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=56% D30=18%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=56% D30=18%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=80% D30=51%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=80% D30=51%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "139万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：139万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=26% D30=44%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=26% D30=44%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "分析_40.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "40%",
+          "raw_key": "D14留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：40%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "63%",
+          "raw_key": "D1留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：63%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "12%",
+          "raw_key": "D30留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：12%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "43%",
+          "raw_key": "D7留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：43%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "17%",
+          "raw_key": "M3留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：17%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 42%",
+          "raw_key": "下月目标",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 42%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师5",
+          "raw_key": "分析人",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期41",
+          "raw_key": "分析期间",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期41",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0040",
+          "raw_key": "分析编号",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0040",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留26%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留26%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=39% D30=28%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=39% D30=28%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=66% D30=56%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=66% D30=56%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "104万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：104万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=41% D30=77%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=41% D30=77%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "分析_73.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "42%",
+          "raw_key": "D14留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：42%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "56%",
+          "raw_key": "D1留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：56%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "20%",
+          "raw_key": "D30留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：20%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "41%",
+          "raw_key": "D7留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：41%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "14%",
+          "raw_key": "M3留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：14%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 47%",
+          "raw_key": "下月目标",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 47%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师2",
+          "raw_key": "分析人",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期22",
+          "raw_key": "分析期间",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期22",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0073",
+          "raw_key": "分析编号",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0073",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留39%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留39%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=30% D30=37%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=30% D30=37%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=20% D30=69%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=20% D30=69%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "143万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：143万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=37% D30=20%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=37% D30=20%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "分析_75.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "24%",
+          "raw_key": "D14留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：24%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "60%",
+          "raw_key": "D1留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：60%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "21%",
+          "raw_key": "D30留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：21%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "27%",
+          "raw_key": "D7留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：27%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "18%",
+          "raw_key": "M3留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：18%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 55%",
+          "raw_key": "下月目标",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 55%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师4",
+          "raw_key": "分析人",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期24",
+          "raw_key": "分析期间",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期24",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0075",
+          "raw_key": "分析编号",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0075",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留17%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留17%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=49% D30=26%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=49% D30=26%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=43% D30=61%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=43% D30=61%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "103万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：103万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=37% D30=78%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=37% D30=78%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "d14留存",
+      "candidates": [
+        {
+          "key": "d14留存",
+          "value": "41%",
+          "raw_key": "D14留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：41%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d14留存",
+          "value": "19%",
+          "raw_key": "D14留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：19%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d14留存",
+          "value": "40%",
+          "raw_key": "D14留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：40%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d14留存",
+          "value": "42%",
+          "raw_key": "D14留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：42%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d14留存",
+          "value": "24%",
+          "raw_key": "D14留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D14留存：24%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "d1留存",
+      "candidates": [
+        {
+          "key": "d1留存",
+          "value": "58%",
+          "raw_key": "D1留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：58%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "44%",
+          "raw_key": "D1留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：44%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "63%",
+          "raw_key": "D1留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：63%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "56%",
+          "raw_key": "D1留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：56%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d1留存",
+          "value": "60%",
+          "raw_key": "D1留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D1留存：60%",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "d30留存",
+      "candidates": [
+        {
+          "key": "d30留存",
+          "value": "10%",
+          "raw_key": "D30留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：10%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "23%",
+          "raw_key": "D30留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：23%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "12%",
+          "raw_key": "D30留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：12%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "20%",
+          "raw_key": "D30留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：20%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d30留存",
+          "value": "21%",
+          "raw_key": "D30留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D30留存：21%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "d7留存",
+      "candidates": [
+        {
+          "key": "d7留存",
+          "value": "59%",
+          "raw_key": "D7留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：59%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "54%",
+          "raw_key": "D7留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：54%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "43%",
+          "raw_key": "D7留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：43%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "41%",
+          "raw_key": "D7留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：41%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "d7留存",
+          "value": "27%",
+          "raw_key": "D7留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "D7留存：27%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "m3留存",
+      "candidates": [
+        {
+          "key": "m3留存",
+          "value": "14%",
+          "raw_key": "M3留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：14%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "16%",
+          "raw_key": "M3留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：16%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "17%",
+          "raw_key": "M3留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：17%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "14%",
+          "raw_key": "M3留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：14%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "m3留存",
+          "value": "18%",
+          "raw_key": "M3留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "M3留存：18%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "下月目标",
+      "candidates": [
+        {
+          "key": "下月目标",
+          "value": "D7留存 54%",
+          "raw_key": "下月目标",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 54%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 49%",
+          "raw_key": "下月目标",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 49%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 42%",
+          "raw_key": "下月目标",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 42%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 47%",
+          "raw_key": "下月目标",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 47%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月目标",
+          "value": "D7留存 55%",
+          "raw_key": "下月目标",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月目标：D7留存 55%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分析人",
+      "candidates": [
+        {
+          "key": "分析人",
+          "value": "数据分析师3",
+          "raw_key": "分析人",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师5",
+          "raw_key": "分析人",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师5",
+          "raw_key": "分析人",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师2",
+          "raw_key": "分析人",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析人",
+          "value": "数据分析师4",
+          "raw_key": "分析人",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析人：数据分析师4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分析期间",
+      "candidates": [
+        {
+          "key": "分析期间",
+          "value": "周期27",
+          "raw_key": "分析期间",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期27",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期29",
+          "raw_key": "分析期间",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期29",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期41",
+          "raw_key": "分析期间",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期41",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期22",
+          "raw_key": "分析期间",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期22",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析期间",
+          "value": "周期24",
+          "raw_key": "分析期间",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析期间：周期24",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分析编号",
+      "candidates": [
+        {
+          "key": "分析编号",
+          "value": "RET-0026",
+          "raw_key": "分析编号",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0026",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0028",
+          "raw_key": "分析编号",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0028",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0040",
+          "raw_key": "分析编号",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0040",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0073",
+          "raw_key": "分析编号",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0073",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分析编号",
+          "value": "RET-0075",
+          "raw_key": "分析编号",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分析编号：RET-0075",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "已实施",
+      "candidates": [
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已实施",
+          "value": "优惠政策)",
+          "raw_key": "已实施",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已实施：优惠政策)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "执行措施",
+      "candidates": [
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行措施",
+          "value": "3条主要措施)已制定",
+          "raw_key": "执行措施",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行措施：3条主要措施)已制定",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "效果评估",
+      "candidates": [
+        {
+          "key": "效果评估",
+          "value": "挽留17%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留17%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留22%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留22%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留26%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留26%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留39%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留39%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "效果评估",
+          "value": "挽留17%的流失用户",
+          "raw_key": "效果评估",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "效果评估：挽留17%的流失用户",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "新用户留存",
+      "candidates": [
+        {
+          "key": "新用户留存",
+          "value": "D7=39% D30=37%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=39% D30=37%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=56% D30=18%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=56% D30=18%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=39% D30=28%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=39% D30=28%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=30% D30=37%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=30% D30=37%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新用户留存",
+          "value": "D7=49% D30=26%",
+          "raw_key": "新用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新用户留存：D7=49% D30=26%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "活跃用户留存",
+      "candidates": [
+        {
+          "key": "活跃用户留存",
+          "value": "D7=81% D30=34%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=81% D30=34%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=80% D30=51%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=80% D30=51%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=66% D30=56%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=66% D30=56%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=20% D30=69%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=20% D30=69%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活跃用户留存",
+          "value": "D7=43% D30=61%",
+          "raw_key": "活跃用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "活跃用户留存：D7=43% D30=61%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "流失用户数",
+      "candidates": [
+        {
+          "key": "流失用户数",
+          "value": "139万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：139万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "139万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：139万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "104万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：104万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "143万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：143万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流失用户数",
+          "value": "103万",
+          "raw_key": "流失用户数",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "流失用户数：103万",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "高价值用户留存",
+      "candidates": [
+        {
+          "key": "高价值用户留存",
+          "value": "D7=18% D30=82%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_26.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=18% D30=82%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=26% D30=44%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_28.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=26% D30=44%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=41% D30=77%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=41% D30=77%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=37% D30=20%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_73.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=37% D30=20%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "高价值用户留存",
+          "value": "D7=37% D30=78%",
+          "raw_key": "高价值用户留存",
+          "source_file": "分析_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "高价值用户留存：D7=37% D30=78%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

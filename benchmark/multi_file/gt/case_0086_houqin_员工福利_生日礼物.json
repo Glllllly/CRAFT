@@ -1,0 +1,71 @@
+{
+  "excel": "case_0086_houqin_员工福利_生日礼物__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "16667"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "培训计划_5339"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "培训计划"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A11:D12",
+      "value": "2026-02-10T05:30:32.447358"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F11:I12",
+      "value": "黄欢"
+    },
+    {
+      "label": "status",
+      "value_cell": "A17:D18",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F17:I18",
+      "value": "中"
+    },
+    {
+      "label": "date",
+      "value_cell": "K17:N18",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "A21:D22",
+      "value": "例行"
+    },
+    {
+      "label": "from",
+      "value_cell": "A27:D28",
+      "value": "刘涛@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F27:I28",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K27:N28",
+      "value": "物品清单"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A31:D32",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

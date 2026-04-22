@@ -1,0 +1,44 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "状态",
+                                   "selected_value":  "待确认",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "系统",
+                                   "selected_value":  "Windows",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "网络",
+                                   "selected_value":  "WiFi",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "附件",
+                                   "selected_value":  "截图、日志、录屏",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "分配给",
+                                   "selected_value":  "开发10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "浏览器",
+                                   "selected_value":  "Chrome",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "严重级别",
+                                   "selected_value":  "P1严重",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "问题现象",
+                                   "selected_value":  "无法加载",
+                                   "conflict":  false
+                               }
+                           ]
+}

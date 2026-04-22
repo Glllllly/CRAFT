@@ -1,0 +1,2043 @@
+{
+  "bundle_dir": "case_0044_chanpin_用户支持_工单管理",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "工单_0009.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P3",
+          "raw_key": "严重等级",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P3",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-01-28 13:16",
+          "raw_key": "创建时间",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-01-28 13:16",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "123分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：123分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100009",
+          "raw_key": "工单编号",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户1858",
+          "raw_key": "用户ID",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户1858",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "86/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：86/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "工单_0029.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-12-27 06:34",
+          "raw_key": "创建时间",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-12-27 06:34",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "101分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：101分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100029",
+          "raw_key": "工单编号",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户2729",
+          "raw_key": "用户ID",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户2729",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "74/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：74/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "工单_0041.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师2",
+          "raw_key": "分配给",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师2",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-08-02 17:51",
+          "raw_key": "创建时间",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-08-02 17:51",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "126分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：126分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100041",
+          "raw_key": "工单编号",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100041",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户2375",
+          "raw_key": "用户ID",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户2375",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "62/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：62/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "工单_0049.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P3",
+          "raw_key": "严重等级",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P3",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-07-21 15:25",
+          "raw_key": "创建时间",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-07-21 15:25",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "116分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：116分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100049",
+          "raw_key": "工单编号",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户9308",
+          "raw_key": "用户ID",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户9308",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "64/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：64/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "工单_0069.txt",
+      "source_type": "txt",
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-04-08 06:10",
+          "raw_key": "创建时间",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-04-08 06:10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "146分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：146分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100069",
+          "raw_key": "工单编号",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户4767",
+          "raw_key": "用户ID",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户4767",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "77/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：77/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "严重等级",
+      "candidates": [
+        {
+          "key": "严重等级",
+          "value": "P3",
+          "raw_key": "严重等级",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P3",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重等级",
+          "value": "P3",
+          "raw_key": "严重等级",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P3",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重等级",
+          "value": "P1",
+          "raw_key": "严重等级",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重等级：P1",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内部备注",
+      "candidates": [
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部备注",
+          "value": "持续跟踪",
+          "raw_key": "内部备注",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部备注：持续跟踪",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分配给",
+      "candidates": [
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师2",
+          "raw_key": "分配给",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师2",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "支持工程师10",
+          "raw_key": "分配给",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：支持工程师10",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "创建时间",
+      "candidates": [
+        {
+          "key": "创建时间",
+          "value": "2024-01-28 13:16",
+          "raw_key": "创建时间",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-01-28 13:16",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-12-27 06:34",
+          "raw_key": "创建时间",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-12-27 06:34",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-08-02 17:51",
+          "raw_key": "创建时间",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-08-02 17:51",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-07-21 15:25",
+          "raw_key": "创建时间",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-07-21 15:25",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-04-08 06:10",
+          "raw_key": "创建时间",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-04-08 06:10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "处理方法",
+      "candidates": [
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理方法",
+          "value": "远程协助)",
+          "raw_key": "处理方法",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理方法：远程协助)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "处理时间",
+      "candidates": [
+        {
+          "key": "处理时间",
+          "value": "123分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：123分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "101分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：101分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "126分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：126分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "116分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：116分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理时间",
+          "value": "146分钟",
+          "raw_key": "处理时间",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理时间：146分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "处理状态",
+      "candidates": [
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "处理状态",
+          "value": "待处理)",
+          "raw_key": "处理状态",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "处理状态：待处理)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "工单编号",
+      "candidates": [
+        {
+          "key": "工单编号",
+          "value": "TICKET-100009",
+          "raw_key": "工单编号",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100029",
+          "raw_key": "工单编号",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100041",
+          "raw_key": "工单编号",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100041",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100049",
+          "raw_key": "工单编号",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工单编号",
+          "value": "TICKET-100069",
+          "raw_key": "工单编号",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "工单编号：TICKET-100069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "影响范围",
+      "candidates": [
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "单用户)",
+          "raw_key": "影响范围",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：单用户)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "是否解决",
+      "candidates": [
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否解决",
+          "value": "已解决)",
+          "raw_key": "是否解决",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否解决：已解决)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户id",
+      "candidates": [
+        {
+          "key": "用户id",
+          "value": "用户1858",
+          "raw_key": "用户ID",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户1858",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户2729",
+          "raw_key": "用户ID",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户2729",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户2375",
+          "raw_key": "用户ID",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户2375",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户9308",
+          "raw_key": "用户ID",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户9308",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户id",
+          "value": "用户4767",
+          "raw_key": "用户ID",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户ID：用户4767",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户满意度",
+      "candidates": [
+        {
+          "key": "用户满意度",
+          "value": "86/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：86/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "74/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：74/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "62/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：62/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "64/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：64/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户满意度",
+          "value": "77/100分",
+          "raw_key": "用户满意度",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户满意度：77/100分",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户遇到问题",
+      "candidates": [
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户遇到问题",
+          "value": "无法登录",
+          "raw_key": "用户遇到问题",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户遇到问题：无法登录",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "联系方式",
+      "candidates": [
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联系方式",
+          "value": "用户邮箱或电话",
+          "raw_key": "联系方式",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "联系方式：用户邮箱或电话",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "重现步骤",
+      "candidates": [
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "重现步骤",
+          "value": "已记录",
+          "raw_key": "重现步骤",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "重现步骤：已记录",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "问题类型",
+      "candidates": [
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0041.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题类型",
+          "value": "功能问题",
+          "raw_key": "问题类型",
+          "source_file": "工单_0069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题类型：功能问题",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

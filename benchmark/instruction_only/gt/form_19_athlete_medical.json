@@ -1,0 +1,196 @@
+﻿{
+    "excel":  "form_19_athlete_medical.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A11:H11",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "I11:P11",
+                      "value":  "Marcus"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "Q11:X11",
+                      "value":  "8849201"
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "A13:H13",
+                      "value":  "05/12/2003"
+                  },
+                  {
+                      "label":  "Age",
+                      "value_cell":  "I13:L13",
+                      "value":  "20"
+                  },
+                  {
+                      "label":  "Gender",
+                      "value_cell":  "M13:P13",
+                      "value":  "Male"
+                  },
+                  {
+                      "label":  "Academic Year",
+                      "value_cell":  "Q13:X13",
+                      "value":  "Junior"
+                  },
+                  {
+                      "label":  "Sport(s)",
+                      "value_cell":  "A15:L15",
+                      "value":  "Basketball"
+                  },
+                  {
+                      "label":  "Position / Event",
+                      "value_cell":  "M15:X15",
+                      "value":  "Point Guard"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "A17:H17",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "University E-mail",
+                      "value_cell":  "I17:P17",
+                      "value":  "mhenderson@university.edu"
+                  },
+                  {
+                      "label":  "Dorm / Local Address",
+                      "value_cell":  "Q17:X17",
+                      "value":  "Oak Hall, Room 302"
+                  },
+                  {
+                      "label":  "Emergency Contact 鈥?Full Name",
+                      "value_cell":  "A22:N22",
+                      "value":  "Sarah Henderson"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "P22:X22",
+                      "value":  "Mother"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "A24:H24",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Cell Phone (Contact)",
+                      "value_cell":  "I24:P24",
+                      "value":  "555-111-2222"
+                  },
+                  {
+                      "label":  "Work Phone",
+                      "value_cell":  "Q24:X24",
+                      "value":  "555-333-4444"
+                  },
+                  {
+                      "label":  "Contact E-mail",
+                      "value_cell":  "A26:L26",
+                      "value":  "shenderson@email.com"
+                  },
+                  {
+                      "label":  "Physician Name \u0026 Phone",
+                      "value_cell":  "M26:X26",
+                      "value":  "Dr. Alan Grant, 555-777-8888"
+                  },
+                  {
+                      "label":  "Primary Insurance Company",
+                      "value_cell":  "A31:L31",
+                      "value":  "Blue Shield Health"
+                  },
+                  {
+                      "label":  "Policy / Member ID",
+                      "value_cell":  "M31:X31",
+                      "value":  "BSH998877665"
+                  },
+                  {
+                      "label":  "Group Number",
+                      "value_cell":  "A33:L33",
+                      "value":  "G-554433"
+                  },
+                  {
+                      "label":  "Policyholder Name",
+                      "value_cell":  "M33:X33",
+                      "value":  "Sarah Henderson"
+                  },
+                  {
+                      "label":  "Current Medications (name, dose, frequency, reason)",
+                      "value_cell":  "A38:X38",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Known Allergies 鈥?describe reaction",
+                      "value_cell":  "A40:X40",
+                      "value":  "Penicillin - Hives"
+                  },
+                  {
+                      "label":  "Chronic Conditions, Diagnoses, or Ongoing Medical Issues",
+                      "value_cell":  "A42:X42",
+                      "value":  "Mild seasonal asthma"
+                  },
+                  {
+                      "label":  "Prior Surgeries or Hospitalizations (dates \u0026 procedures)",
+                      "value_cell":  "A44:X44",
+                      "value":  "Appendectomy, August 2018"
+                  },
+                  {
+                      "label":  "Concussion History 鈥?dates and resolution",
+                      "value_cell":  "A46:X46",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Previous Injuries (with dates)",
+                      "value_cell":  "A51:L51",
+                      "value":  "Sprained left ankle, March 2021"
+                  },
+                  {
+                      "label":  "Previous Sport-Related Surgeries",
+                      "value_cell":  "M51:X51",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Shoulder",
+                      "value_cell":  "F53:G53",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Elbow/Wrist",
+                      "value_cell":  "L53:M53",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Back/Spine",
+                      "value_cell":  "R53:S53",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Hip",
+                      "value_cell":  "X53:Y53",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "I authorize the athletic training staff to provide emergency medical care if needed.",
+                      "value_cell":  "A57:X57",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Athlete Signature",
+                      "value_cell":  "A59:J59",
+                      "value":  "Marcus Henderson"
+                  },
+                  {
+                      "label":  "Parent/Guardian Signature (if under 18)",
+                      "value_cell":  "K59:T59",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "U59:X59",
+                      "value":  "08/25/2023"
+                  }
+              ]
+}

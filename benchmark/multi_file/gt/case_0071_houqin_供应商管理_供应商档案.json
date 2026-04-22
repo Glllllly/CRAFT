@@ -1,0 +1,91 @@
+{
+  "excel": "case_0071_houqin_供应商管理_供应商档案__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "34765"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "人员清单_6979"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "人员清单"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A11:D12",
+      "value": "郑十"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F11:I12",
+      "value": "2026-02-10T05:30:32.812625"
+    },
+    {
+      "label": "date",
+      "value_cell": "K11:N12",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A17:D18",
+      "value": "李明"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F17:I18",
+      "value": "销售部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K17:N18",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "A21:D22",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "from",
+      "value_cell": "A27:D28",
+      "value": "黄欢@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F27:I28",
+      "value": "孙七@company.com"
+    },
+    {
+      "label": "status",
+      "value_cell": "K27:N28",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A31:D32",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F31:I32",
+      "value": "紧急"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A37:D38",
+      "value": "总结报告"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F37:I38",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

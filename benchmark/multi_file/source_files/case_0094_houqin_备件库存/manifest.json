@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0094_houqin_备件库存",
+    "tenant":  "houqin",
+    "topic":  "备件库存",
+    "subtopic":  "",
+    "source_dir":  "houqin\\备件库存",
+    "total_files_in_source_dir":  65,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\备件库存\\维护计划_4030.json",
+                      "copied_name":  "维护计划_4030.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\备件库存\\维修记录_3931.csv",
+                      "copied_name":  "维修记录_3931.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1335
+                  },
+                  {
+                      "source_rel":  "houqin\\备件库存\\备件清单_7.txt",
+                      "copied_name":  "备件清单_7.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  379
+                  },
+                  {
+                      "source_rel":  "houqin\\备件库存\\费用统计_2638.eml",
+                      "copied_name":  "费用统计_2638.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\备件库存\\购置申请_3073.csv",
+                      "copied_name":  "购置申请_3073.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1326
+                  }
+              ]
+}

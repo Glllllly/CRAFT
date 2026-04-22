@@ -1,0 +1,50 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "后制动片remark",
+                                   "selected_value":  "OE# 34216873093 = 0986AB1733",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "空调滤清器remark",
+                                   "selected_value":  "外置,多效 Pro+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "存储治理",
+                                   "selected_value":  "旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "容灾优化",
+                                   "selected_value":  "待启动。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "监控看板",
+                                   "selected_value":  "部分已完成，部分开发中。",
+                                   "conflict":  false
+                               },
+                               
+                               {
+                                   "key":  "燃油滤清器",
+                                   "selected_value":  "0986AF8190",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "空调滤清器（单效）",
+                                   "selected_value":  "0986AF5263",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "空调滤清器（银抗菌）",
+                                   "selected_value":  "0986AF5623",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "核心问题",
+                                   "selected_value":  "Pipeline资源增速超预期",
+                                   "conflict":  false
+                               }
+                           ]
+}

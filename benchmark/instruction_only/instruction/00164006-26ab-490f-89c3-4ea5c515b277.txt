@@ -1,0 +1,48 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "1. What is your average balance per month?",
+      "value_text": "$15,000.00"
+    },
+    {
+      "key_text": "2. How many deposit items do you have per month?",
+      "value_text": "45"
+    },
+    {
+      "key_text": "3. How many ACH credits do you have per month?",
+      "value_text": "12"
+    },
+    {
+      "key_text": "4. How many ACH debits do you have per month?",
+      "value_text": "25"
+    },
+    {
+      "key_text": "5. How many deposits do you make per month?",
+      "value_text": "8"
+    },
+    {
+      "key_text": "6. How many checks do you write per month?",
+      "value_text": "15"
+    },
+    {
+      "key_text": "7. Do you have any existing loans @ QNB",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "8. What is the total QNB loan balance?",
+      "value_text": "$50,000.00"
+    },
+    {
+      "key_text": "9. Would you like to make deposits from your office?",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Total Fees",
+      "value_text": "$35.50"
+    }
+  ]
+}
+
+Narrative:
+According to the Remote Deposit Account Analysis for Quantum National Bank, the average monthly balance is $15,000.00. The account activity consists of 45 deposit items across 8 deposits made each month. There are typically 12 ACH credits and 25 ACH debits processed, and 15 checks are written per month. The customer has existing loans with QNB with a total balance of $50,000.00 and has expressed interest in making deposits directly from their office. Based on these parameters, the calculated total fees come to $35.50.

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0299_yunyin_workflows",
+    "tenant":  "yunyin",
+    "topic":  "workflows",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\workflows",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\workflows\\workflow_33.yaml",
+                      "copied_name":  "workflow_33.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1592
+                  },
+                  {
+                      "source_rel":  "yunyin\\workflows\\workflow_32.yaml",
+                      "copied_name":  "workflow_32.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1592
+                  },
+                  {
+                      "source_rel":  "yunyin\\workflows\\workflow_34.yaml",
+                      "copied_name":  "workflow_34.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1592
+                  },
+                  {
+                      "source_rel":  "yunyin\\workflows\\workflow_36.yaml",
+                      "copied_name":  "workflow_36.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1592
+                  },
+                  {
+                      "source_rel":  "yunyin\\workflows\\workflow_35.yaml",
+                      "copied_name":  "workflow_35.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1592
+                  }
+              ]
+}

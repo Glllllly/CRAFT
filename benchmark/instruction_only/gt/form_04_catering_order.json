@@ -1,0 +1,176 @@
+﻿{
+    "excel":  "form_04_catering_order.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Event Name / Title",
+                      "value_cell":  "A9:L9",
+                      "value":  "Annual Corporate Strategy Summit"
+                  },
+                  {
+                      "label":  "Event Date",
+                      "value_cell":  "M9:X9",
+                      "value":  "October 15, 2023"
+                  },
+                  {
+                      "label":  "Start Time",
+                      "value_cell":  "A11:H11",
+                      "value":  "09:00 AM"
+                  },
+                  {
+                      "label":  "End Time",
+                      "value_cell":  "I11:P11",
+                      "value":  "05:00 PM"
+                  },
+                  {
+                      "label":  "Setup Time Required",
+                      "value_cell":  "Q11:X11",
+                      "value":  "2 Hours"
+                  },
+                  {
+                      "label":  "Event Location / Venue Name",
+                      "value_cell":  "A13:L13",
+                      "value":  "Grand Plaza Hotel"
+                  },
+                  {
+                      "label":  "Room / Hall / Outdoor Area",
+                      "value_cell":  "M13:X13",
+                      "value":  "Executive Ballroom"
+                  },
+                  {
+                      "label":  "Organiser Full Name",
+                      "value_cell":  "A15:L15",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department / Organisation",
+                      "value_cell":  "M15:X15",
+                      "value":  "Marketing Department"
+                  },
+                  {
+                      "label":  "Organiser Phone",
+                      "value_cell":  "A17:H17",
+                      "value":  "555-0128"
+                  },
+                  {
+                      "label":  "Organiser E-mail",
+                      "value_cell":  "I17:P17",
+                      "value":  "s.jenkins@corporate.com"
+                  },
+                  {
+                      "label":  "Budget Code / PO Number",
+                      "value_cell":  "Q17:X17",
+                      "value":  "MKT-2023-884"
+                  },
+                  {
+                      "label":  "Expected Guest Count",
+                      "value_cell":  "A19:L19",
+                      "value":  "150"
+                  },
+                  {
+                      "label":  "VIP / Special Guests?  Y / N",
+                      "value_cell":  "M19:X19",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Breakfast Items Requested (if applicable)",
+                      "value_cell":  "A25:X25",
+                      "value":  "Assorted pastries, seasonal fruit platter, and yogurt parfaits."
+                  },
+                  {
+                      "label":  "Lunch / Dinner Items Requested",
+                      "value_cell":  "A27:X27",
+                      "value":  "Grilled chicken breast, roasted vegetables, and quinoa salad."
+                  },
+                  {
+                      "label":  "Beverages (coffee, tea, juice, water, alcohol)",
+                      "value_cell":  "A29:X29",
+                      "value":  "Freshly brewed coffee, selection of teas, orange juice, and sparkling water."
+                  },
+                  {
+                      "label":  "Desserts / Cake / Specialty Items",
+                      "value_cell":  "A31:X31",
+                      "value":  "Mini chocolate tarts and lemon drizzle cake."
+                  },
+                  {
+                      "label":  "Dietary Restrictions to Accommodate",
+                      "value_cell":  "A33:L33",
+                      "value":  "Vegetarian and Gluten-Free options required."
+                  },
+                  {
+                      "label":  "Allergen Information Required?  Y / N",
+                      "value_cell":  "M33:X33",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "None",
+                      "value_cell":  "H38:I38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "White",
+                      "value_cell":  "N38:O38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Colour (specify)",
+                      "value_cell":  "T38:U38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Setup Only",
+                      "value_cell":  "H39:I39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Full Service",
+                      "value_cell":  "N39:O39",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Bartender",
+                      "value_cell":  "T39:U39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Audio / Visual Needs",
+                      "value_cell":  "A40:L40",
+                      "value":  "Projector, screen, and wireless microphones."
+                  },
+                  {
+                      "label":  "Flowers / Centrepieces Required?  Y / N",
+                      "value_cell":  "M40:X40",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Estimated Budget  $",
+                      "value_cell":  "A45:L45",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "Final Invoice To  (Name / Dept)",
+                      "value_cell":  "M45:X45",
+                      "value":  "Finance Dept - Attn: Accounts Payable"
+                  },
+                  {
+                      "label":  "Organiser Signature",
+                      "value_cell":  "A54:L54",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q54:X54",
+                      "value":  "September 25, 2023"
+                  },
+                  {
+                      "label":  "Catering Manager Approval",
+                      "value_cell":  "A56:L56",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q56:X56",
+                      "value":  "September 26, 2023"
+                  }
+              ]
+}

@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "form_24_marketing_brief.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Campaign Name / Working Title",
+                      "value_cell":  "A9:L9",
+                      "value":  "Summer Refresh 2024"
+                  },
+                  {
+                      "label":  "Request Date",
+                      "value_cell":  "M9:U9",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "Requesting Department / Brand",
+                      "value_cell":  "A11:L11",
+                      "value":  "Consumer Electronics Division"
+                  },
+                  {
+                      "label":  "Campaign Owner / Primary Contact",
+                      "value_cell":  "M11:X11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I13:P13",
+                      "value":  "s.jenkins@company.com"
+                  },
+                  {
+                      "label":  "Budget  $",
+                      "value_cell":  "Q13:X13",
+                      "value":  "50,000"
+                  },
+                  {
+                      "label":  "Campaign Start Date",
+                      "value_cell":  "A15:L15",
+                      "value":  "2024-06-01"
+                  },
+                  {
+                      "label":  "Campaign End Date / Go-Live Date",
+                      "value_cell":  "M13:U13",
+                      "value":  "2024-08-31"
+                  },
+                  {
+                      "label":  "Key Performance Indicator (KPI)",
+                      "value_cell":  "A21:L21",
+                      "value":  "Conversion Rate"
+                  },
+                  {
+                      "label":  "Target Metric / Success Definition",
+                      "value_cell":  "M21:X21",
+                      "value":  "3% increase in online store checkout completions"
+                  },
+                  {
+                      "label":  "Campaign Objective 鈥?what do you want to achieve? (be specific)",
+                      "value_cell":  "A22:X23",
+                      "value":  "Drive awareness and sales for the new portable speaker line by highlighting durability and battery life to outdoor enthusiasts."
+                  },
+                  {
+                      "label":  "Primary Target Audience  (demographic, persona)",
+                      "value_cell":  "A29:L29",
+                      "value":  "Outdoor enthusiasts aged 18-35"
+                  },
+                  {
+                      "label":  "Secondary Audience (if any)",
+                      "value_cell":  "M29:X29",
+                      "value":  "Tech-savvy urban commuters"
+                  },
+                  {
+                      "label":  "Geographic Focus",
+                      "value_cell":  "A31:L31",
+                      "value":  "North America"
+                  },
+                  {
+                      "label":  "Audience Size / Reach Estimate",
+                      "value_cell":  "M31:X31",
+                      "value":  "1.5 Million"
+                  },
+                  {
+                      "label":  "Key Audience Insights / Behaviours / Pain Points",
+                      "value_cell":  "A32:X32",
+                      "value":  "Users fear battery failure during long trips; value rugged, waterproof design."
+                  },
+                  {
+                      "label":  "Core Message / Single Minded Proposition (SMP)",
+                      "value_cell":  "A37:X37",
+                      "value":  "Adventure without limits: Sound that lasts as long as your journey."
+                  },
+                  {
+                      "label":  "Key Support Points / USPs  (max 5 bullets)",
+                      "value_cell":  "A39:X39",
+                      "value":  "24-hour battery life; IP67 waterproof rating; Lightweight construction; 360-degree sound."
+                  },
+                  {
+                      "label":  "Mandatory Inclusions  (logos, disclaimers, legal copy, URLs)",
+                      "value_cell":  "A41:X41",
+                      "value":  "Company logo, standard warranty disclaimer, link to www.company.com/audio"
+                  },
+                  {
+                      "label":  "Tone of Voice  (e.g., professional, playful, urgent, empathetic)",
+                      "value_cell":  "A43:X43",
+                      "value":  "Energetic, adventurous, and reliable."
+                  },
+                  {
+                      "label":  "Digital / Social",
+                      "value_cell":  "H48:I48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "N48:O48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Print",
+                      "value_cell":  "T48:U48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Specific Deliverables Required  (e.g., 3脳 social posts, 1脳 landing page, 2脳 banner sizes)",
+                      "value_cell":  "A49:X49",
+                      "value":  "5x Instagram/TikTok video ads, 1x dedicated product landing page, 3x display banner sizes."
+                  },
+                  {
+                      "label":  "Creative Lead / Agency",
+                      "value_cell":  "A52:L52",
+                      "value":  "In-house Creative Studio"
+                  },
+                  {
+                      "label":  "Media Buying Required?  Y / N",
+                      "value_cell":  "M52:X52",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Brand",
+                      "value_cell":  "H56:I56",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Legal",
+                      "value_cell":  "N56:O56",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Compliance",
+                      "value_cell":  "T56:U56",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Requestor Signature",
+                      "value_cell":  "A63:M63",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q63:X63",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "Marketing Director",
+                      "value_cell":  "A65:M65",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q65:X65",
+                      "value":  "2024-05-16"
+                  },
+                  {
+                      "label":  "Brand / Legal Review",
+                      "value_cell":  "A67:M67",
+                      "value":  "Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q67:X67",
+                      "value":  "2024-05-17"
+                  }
+              ]
+}

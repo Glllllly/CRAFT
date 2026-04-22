@@ -1,0 +1,24 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "功能",
+                                   "selected_value":  "列表展示",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "间距",
+                                   "selected_value":  "标准间距",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "审批状态",
+                                   "selected_value":  "待审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "访问频率",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               }
+                           ]
+}

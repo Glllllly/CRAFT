@@ -1,0 +1,136 @@
+{
+  "excel": "case_0218_houqin_项目管理__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "49282"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "设备清单_5489"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "设备清单"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M9:Q9",
+      "value": "资产清单"
+    },
+    {
+      "label": "date",
+      "value_cell": "D12:H12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M12:Q12",
+      "value": "2026-02-10T05:30:31.775903"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D15:H15",
+      "value": "郑十"
+    },
+    {
+      "label": "项目编号",
+      "value_cell": "D20:H20",
+      "value": "PROJ-018"
+    },
+    {
+      "label": "项目名称",
+      "value_cell": "M20:Q20",
+      "value": "后勤管理系统优化18期"
+    },
+    {
+      "label": "项目类型",
+      "value_cell": "D23:H23",
+      "value": "运营优化"
+    },
+    {
+      "label": "项目负责人",
+      "value_cell": "M23:Q23",
+      "value": "员工19"
+    },
+    {
+      "label": "项目成员",
+      "value_cell": "D26:H26",
+      "value": "10人"
+    },
+    {
+      "label": "项目预算",
+      "value_cell": "M26:Q26",
+      "value": "¥227752"
+    },
+    {
+      "label": "风险评估",
+      "value_cell": "D29:H29",
+      "value": "低风险"
+    },
+    {
+      "label": "当前进度",
+      "value_cell": "D34:H34",
+      "value": "57%"
+    },
+    {
+      "label": "关键路径",
+      "value_cell": "M34:Q34",
+      "value": "73天"
+    },
+    {
+      "label": "第一阶段",
+      "value_cell": "D37:H37",
+      "value": "需求分析 (10天)"
+    },
+    {
+      "label": "第二阶段",
+      "value_cell": "M37:Q37",
+      "value": "方案设计 (29天)"
+    },
+    {
+      "label": "第三阶段",
+      "value_cell": "D40:H40",
+      "value": "实施执行 (37天)"
+    },
+    {
+      "label": "第四阶段",
+      "value_cell": "M40:Q40",
+      "value": "验收交付 (13天)"
+    },
+    {
+      "label": "from",
+      "value_cell": "D45:H45",
+      "value": "李四@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M45:Q45",
+      "value": "孙七@company.com"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D48:H48",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M48:Q48",
+      "value": "紧急"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D51:H51",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "status",
+      "value_cell": "D56:H56",
+      "value": "进行中"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "nextreview",
+                                   "selected_value":  "2024-05-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lastreviewed",
+                                   "selected_value":  "2024-02-10",
+                                   "conflict":  false
+                               }
+                           ]
+}

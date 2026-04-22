@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0266_yunyin_brand-management",
+    "tenant":  "yunyin",
+    "topic":  "brand-management",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\brand-management",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\brand-management\\brand_guidelines_35.md",
+                      "copied_name":  "brand_guidelines_35.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1382
+                  },
+                  {
+                      "source_rel":  "yunyin\\brand-management\\brand_guidelines_34.md",
+                      "copied_name":  "brand_guidelines_34.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1382
+                  },
+                  {
+                      "source_rel":  "yunyin\\brand-management\\brand_guidelines_36.md",
+                      "copied_name":  "brand_guidelines_36.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1382
+                  },
+                  {
+                      "source_rel":  "yunyin\\brand-management\\brand_guidelines_38.md",
+                      "copied_name":  "brand_guidelines_38.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1382
+                  },
+                  {
+                      "source_rel":  "yunyin\\brand-management\\brand_guidelines_37.md",
+                      "copied_name":  "brand_guidelines_37.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1382
+                  }
+              ]
+}

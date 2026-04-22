@@ -1,0 +1,16 @@
+{
+  "excel": "case_0046_chanpin_用户行为分析_留存分析__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "已实施",
+      "value_cell": "A6:D7",
+      "value": "优惠政策"
+    },
+    {
+      "label": "执行措施",
+      "value_cell": "A12:D13",
+      "value": "3条主要措施已制定"
+    }
+  ]
+}

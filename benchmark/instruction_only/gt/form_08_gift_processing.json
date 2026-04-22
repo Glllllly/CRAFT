@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_08_gift_processing.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Donor Full Name / Organisation:",
+                      "value_cell":  "N8:X8",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Donor ID (if existing):",
+                      "value_cell":  "H9",
+                      "value":  "D-88291"
+                  },
+                  {
+                      "label":  "Donor Type:",
+                      "value_cell":  "M9:P9",
+                      "value":  "Individual"
+                  },
+                  {
+                      "label":  "Date of Gift:",
+                      "value_cell":  "V9:X9",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Mailing Address:",
+                      "value_cell":  "N10:X10",
+                      "value":  "452 Maplewood Drive"
+                  },
+                  {
+                      "label":  "City:",
+                      "value_cell":  "D11:H11",
+                      "value":  "Seattle"
+                  },
+                  {
+                      "label":  "State:",
+                      "value_cell":  "L11",
+                      "value":  "WA"
+                  },
+                  {
+                      "label":  "ZIP:",
+                      "value_cell":  "P11",
+                      "value":  "98101"
+                  },
+                  {
+                      "label":  "Country:",
+                      "value_cell":  "U11:X11",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "D12:H12",
+                      "value":  "206-555-0198"
+                  },
+                  {
+                      "label":  "E-mail:",
+                      "value_cell":  "L12:P12",
+                      "value":  "e.rodriguez@email.com"
+                  },
+                  {
+                      "label":  "Donor Relationship:",
+                      "value_cell":  "U12:X12",
+                      "value":  "Alumni"
+                  },
+                  {
+                      "label":  "Gift Amount  $:",
+                      "value_cell":  "F16:H16",
+                      "value":  "5000.00"
+                  },
+                  {
+                      "label":  "Currency:",
+                      "value_cell":  "M16:N16",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "Date Received:",
+                      "value_cell":  "T16:X16",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Designation / Fund Name:",
+                      "value_cell":  "N17:X17",
+                      "value":  "University Scholarship Fund"
+                  },
+                  {
+                      "label":  "Fund Code:",
+                      "value_cell":  "E18:H18",
+                      "value":  "SCH-2023"
+                  },
+                  {
+                      "label":  "Campaign Code:",
+                      "value_cell":  "N18:P18",
+                      "value":  "FALL-23"
+                  },
+                  {
+                      "label":  "Appeal Code:",
+                      "value_cell":  "V18:X18",
+                      "value":  "ALUM-DIR"
+                  },
+                  {
+                      "label":  "Restrictions / Special Instructions:",
+                      "value_cell":  "N20:X20",
+                      "value":  "For merit-based scholarships only."
+                  },
+                  {
+                      "label":  "Pledge Total  $:",
+                      "value_cell":  "G24:H24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Payment Schedule:",
+                      "value_cell":  "O24:P24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Pledge End Date:",
+                      "value_cell":  "W24:X24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Pledge Reminder Method (mail / email / phone):",
+                      "value_cell":  "P25:X25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Acknowledgement Letter Sent:  Y / N",
+                      "value_cell":  "K29:L29",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Date Sent:",
+                      "value_cell":  "Q29:X29",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Tax Receipt Number:",
+                      "value_cell":  "N30:X30",
+                      "value":  "TX-992011"
+                  },
+                  {
+                      "label":  "Notes:",
+                      "value_cell":  "H31:X31",
+                      "value":  "Donor requested annual impact report."
+                  },
+                  {
+                      "label":  "Processed By",
+                      "value_cell":  "A38:M38",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q38:X38",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Gift Processing Supervisor",
+                      "value_cell":  "A40:M40",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date: (Supervisor)",
+                      "value_cell":  "Q40:X40",
+                      "value":  "2023-10-19"
+                  }
+              ]
+}

@@ -1,0 +1,2918 @@
+{
+  "bundle_dir": "case_0282_yunyin_partnership",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "partner_agreement_22.md",
+      "source_type": "md",
+      "candidate_count": 23,
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_22_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_22_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$217970000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $217970000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "16% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 16% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "75450",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 75450",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "6296900",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 6296900",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1585700",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1585700",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2475300000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2475300000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "1315900",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1315900",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "partner_agreement_26.md",
+      "source_type": "md",
+      "candidate_count": 23,
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_26_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_26_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$276650000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $276650000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "33% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 33% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "51330",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 51330",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "2064500",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 2064500",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1992400",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1992400",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$1541600000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $1541600000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "1884400",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1884400",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "partner_agreement_28.md",
+      "source_type": "md",
+      "candidate_count": 23,
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_28_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_28_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$245180000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $245180000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "14% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 14% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "158285",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 158285",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "5882100",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 5882100",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1300000",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1300000",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2379500000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2379500000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "438800",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 438800",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "partner_agreement_31.md",
+      "source_type": "md",
+      "candidate_count": 23,
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_31_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_31_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$238760000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $238760000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "19% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 19% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "159075",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 159075",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "5804300",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 5804300",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1178700",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1178700",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2206300000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2206300000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "2514100",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 2514100",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "partner_agreement_32.md",
+      "source_type": "md",
+      "candidate_count": 23,
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_32_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_32_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$194940000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $194940000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "32% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 32% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "18480",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 18480",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "1620500",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 1620500",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$3048900",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $3048900",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2106800000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2106800000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "1721900",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1721900",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "**agreementdate**",
+      "candidates": [
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**agreementdate**",
+          "value": "2024-02-10",
+          "raw_key": "- **Agreement Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Agreement Date**: 2024-02-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**documentversion**",
+      "candidates": [
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**duration**",
+      "candidates": [
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**duration**",
+          "value": "12 months",
+          "raw_key": "- **Duration**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Duration**: 12 months",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**effectivedate**",
+      "candidates": [
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**effectivedate**",
+          "value": "2024-02-15",
+          "raw_key": "- **Effective Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Effective Date**: 2024-02-15",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**ourcompany**",
+      "candidates": [
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ourcompany**",
+          "value": "Product Company",
+          "raw_key": "- **Our Company**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Our Company**: Product Company",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**partnercompany**",
+      "candidates": [
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_22_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_22_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_26_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_26_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_28_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_28_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_31_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_31_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**partnercompany**",
+          "value": "Partner_32_Company",
+          "raw_key": "- **Partner Company**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Partner Company**: Partner_32_Company",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**reviewdate**",
+      "candidates": [
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reviewdate**",
+          "value": "2024-05-10",
+          "raw_key": "**Review Date**",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Review Date**: 2024-05-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "annualcommitment",
+      "candidates": [
+        {
+          "key": "annualcommitment",
+          "value": "$217970000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $217970000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$276650000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $276650000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$245180000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $245180000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$238760000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $238760000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "annualcommitment",
+          "value": "$194940000",
+          "raw_key": "- Annual commitment",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Annual commitment: $194940000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "authorizedby",
+      "candidates": [
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "authorizedby",
+          "value": "General Manager",
+          "raw_key": "- Authorized by",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Authorized by: General Manager",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "commission",
+      "candidates": [
+        {
+          "key": "commission",
+          "value": "16% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 16% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "33% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 33% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "14% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 14% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "19% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 19% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "commission",
+          "value": "32% per referral",
+          "raw_key": "- Commission",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Commission: 32% per referral",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "contentpieces",
+      "candidates": [
+        {
+          "key": "contentpieces",
+          "value": "75450",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 75450",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "51330",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 51330",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "158285",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 158285",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "159075",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 159075",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentpieces",
+          "value": "18480",
+          "raw_key": "- Content pieces",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content pieces: 18480",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2024-02-10",
+          "raw_key": "- Date",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: 2024-02-10",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "disputeresolution",
+      "candidates": [
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "disputeresolution",
+          "value": "Arbitration",
+          "raw_key": "- Dispute resolution",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Dispute resolution: Arbitration",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "jointeventattendance",
+      "candidates": [
+        {
+          "key": "jointeventattendance",
+          "value": "6296900",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 6296900",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "2064500",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 2064500",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "5882100",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 5882100",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "5804300",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 5804300",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "jointeventattendance",
+          "value": "1620500",
+          "raw_key": "- Joint event attendance",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Joint event attendance: 1620500",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketingsupport",
+      "candidates": [
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingsupport",
+          "value": "Digital materials provided",
+          "raw_key": "- Marketing support",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing support: Digital materials provided",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "minimumordervalue",
+      "candidates": [
+        {
+          "key": "minimumordervalue",
+          "value": "$1585700",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1585700",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1992400",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1992400",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1300000",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1300000",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$1178700",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $1178700",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "minimumordervalue",
+          "value": "$3048900",
+          "raw_key": "- Minimum order value",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Minimum order value: $3048900",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "paymentterms",
+      "candidates": [
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "paymentterms",
+          "value": "Net 30",
+          "raw_key": "- Payment terms",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payment terms: Net 30",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "payoutfrequency",
+      "candidates": [
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "payoutfrequency",
+          "value": "Monthly",
+          "raw_key": "- Payout frequency",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Payout frequency: Monthly",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "renewalconditions",
+      "candidates": [
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "renewalconditions",
+          "value": "Automatic unless terminated",
+          "raw_key": "- Renewal conditions",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Renewal conditions: Automatic unless terminated",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "revenuetarget",
+      "candidates": [
+        {
+          "key": "revenuetarget",
+          "value": "$2475300000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2475300000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$1541600000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $1541600000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2379500000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2379500000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2206300000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2206300000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$2106800000",
+          "raw_key": "- Revenue target",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $2106800000",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "candidates": [
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "status",
+          "value": "Pending Signature",
+          "raw_key": "- Status",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Status: Pending Signature",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "targetnewcustomers",
+      "candidates": [
+        {
+          "key": "targetnewcustomers",
+          "value": "1315900",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1315900",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "1884400",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1884400",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "438800",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 438800",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "2514100",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 2514100",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "targetnewcustomers",
+          "value": "1721900",
+          "raw_key": "- Target new customers",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target new customers: 1721900",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "transitionperiod",
+      "candidates": [
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_22.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "transitionperiod",
+          "value": "60 days",
+          "raw_key": "- Transition period",
+          "source_file": "partner_agreement_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Transition period: 60 days",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

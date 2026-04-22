@@ -1,0 +1,14 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "备注",
+                                   "selected_value":  "日常办公需求补充",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "物品",
+                                   "selected_value":  "办公设备、家具、工具等",
+                                   "conflict":  false
+                               }
+                           ]
+}

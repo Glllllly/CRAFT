@@ -1,0 +1,47 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "First Name", "value_text": "Jonathan" },
+    { "key_text": "Middle Initial", "value_text": "P" },
+    { "key_text": "Last Name", "value_text": "Miller" },
+    { "key_text": "Work Phone Number", "value_text": "509-527-5555" },
+    { "key_text": "Whitman E-mail Address", "value_text": "millerjp@whitman.edu" },
+    { "key_text": "Mother's Maiden Name (for security purposes)", "value_text": "Anderson" },
+    { "key_text": "Cardholder's Department Name", "value_text": "Biology" },
+    { "key_text": "Job Title or Position", "value_text": "Lab Manager" },
+    { "key_text": "Travel Only", "value_text": null },
+    { "key_text": "Purchase Only", "value_text": null },
+    { "key_text": "Travel & Purchase", "value_text": "X" },
+    { "key_text": "Yes", "value_text": "X" },
+    { "key_text": "No", "value_text": null },
+    { "key_text": "Custodian First & Last Name  *", "value_text": "Jonathan Miller" },
+    { "key_text": "Card Custodian Phone Number", "value_text": "509-527-5555" },
+    { "key_text": "Custodian E-mail Address  @whitman.edu", "value_text": "millerjp" },
+    { "key_text": "Statement Street Address", "value_text": "345 Boyer Ave" },
+    { "key_text": "City", "value_text": "Walla Walla" },
+    { "key_text": "State", "value_text": "WA" },
+    { "key_text": "Zip", "value_text": "99362" },
+    { "key_text": "Department or Budget Name", "value_text": "Biology Department" },
+    { "key_text": "Department or Budget Code (including dashes)", "value_text": "BIO-102-44" },
+    { "key_text": "Requested Monthly Limit", "value_text": "$2,500" },
+    { "key_text": "Requested Single Trans Limit", "value_text": "$500" },
+    { "key_text": "Requested Daily # Limit", "value_text": "5" },
+    { "key_text": "Birth Date  mm/dd/yy", "value_text": "05/12/85" },
+    { "key_text": "Last 4 Digits of Office Phone No.", "value_text": "5555" },
+    { "key_text": "Home Street Address", "value_text": "1220 Isaacs Ave" },
+    { "key_text": "Home Street Address", "value_text": "1220 Isaacs Ave" },
+    { "key_text": "City", "value_text": "Walla Walla" },
+    { "key_text": "Home Street Address", "value_text": "1220 Isaacs Ave" },
+    { "key_text": "State", "value_text": "WA" },
+    { "key_text": "Zip", "value_text": "99362" },
+    { "key_text": "Country", "value_text": "USA" },
+    { "key_text": "Country of Citizenship", "value_text": "USA" },
+    { "key_text": "Signature of Employee/Cardholder and Date", "value_text": "Jonathan Miller, 10/24/23" },
+    { "key_text": "Signature of Budget Officer / Date  (Other than applicant)", "value_text": "Sarah Jenkins, 10/25/23" },
+    { "key_text": "Hierarchy Level / Hierarchy ID", "value_text": "Level 2 / 9982" },
+    { "key_text": "Program Administrator Signature / Date", "value_text": "Admin Office, 10/26/23" }
+  ]
+}
+
+Narrative:
+Jonathan P. Miller, the Lab Manager for the Biology department, is applying for a new credit card. He has requested "Travel & Purchase" privileges, indicated by an "X" in the form, and confirmed his eligibility with a "Yes." As the card custodian, Jonathan provided his contact information, including his office phone number (509-527-5555) and email (millerjp@whitman.edu). The monthly spending limit requested is $2,500, with a single transaction limit of $500 and a daily limit of 5 transactions. The department code associated with this request is BIO-102-44. Jonathan provided his personal details, including his birth date of 05/12/85 and his home address on Isaacs Ave in Walla Walla. The form has been signed by Jonathan, authorized by Budget Officer Sarah Jenkins, and finalized by the Program Administrator on October 26, 2023.

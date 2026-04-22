@@ -1,0 +1,103 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Asset Number:",
+      "value_text": "5248/ 1234 /000"
+    },
+    {
+      "key_text": "Description of Asset:",
+      "value_text": "Dell Latitude 5420 Laptop"
+    },
+    {
+      "key_text": "Serial No:",
+      "value_text": "ABC123XYZ"
+    },
+    {
+      "key_text": "Model:",
+      "value_text": "Latitude 5420"
+    },
+    {
+      "key_text": "Building Name:",
+      "value_text": "McElwain Building (24A)"
+    },
+    {
+      "key_text": "Room No:",
+      "value_text": "315"
+    },
+    {
+      "key_text": "Employee Responsible for Asset:",
+      "value_text": "Dr. Sarah Jenkins"
+    },
+    {
+      "key_text": "Asset to be taken off campus: YES/NO (Please circle)",
+      "value_text": "YES"
+    },
+    {
+      "key_text": "If Yes, Off Campus Form Completed?:",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Asset Number Sticker Affixed By:",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Date Affixed:",
+      "value_text": "15/05/2023"
+    },
+    {
+      "key_text": "Date Asset Engraved:",
+      "value_text": "16/05/2023"
+    },
+    {
+      "key_text": "Retired Asset Number:",
+      "value_text": null
+    },
+    {
+      "key_text": "Retirement Date:",
+      "value_text": null
+    },
+    {
+      "key_text": "Description of Asset:",
+      "value_text": null
+    },
+    {
+      "key_text": "Reason for Retirement (see below):",
+      "value_text": null
+    },
+    {
+      "key_text": "PO Number:",
+      "value_text": "PO-987654"
+    },
+    {
+      "key_text": "Unifi Receipt No",
+      "value_text": "REC-112233"
+    },
+    {
+      "key_text": "Entered into Asset Register by?",
+      "value_text": "Linda Chen"
+    },
+    {
+      "key_text": "Asset Disposal Form Completed by:",
+      "value_text": null
+    },
+    {
+      "key_text": "Sent to assets@fbs.uq.edu.au on:",
+      "value_text": null
+    },
+    {
+      "key_text": "Account to which proceeds were deposited:",
+      "value_text": null
+    },
+    {
+      "key_text": "Amount of Cash proceeds:",
+      "value_text": null
+    },
+    {
+      "key_text": "Account:",
+      "value_text": null}
+  ]
+}
+
+Narrative:
+This Asset Form from the University of Queensland's School of Psychology documents the addition of a new Dell Latitude 5420 Laptop, which has been assigned the asset number 5248/1234/000. The device, serial number ABC123XYZ, is located in Room 315 of the McElwain Building (24A) and is under the responsibility of Dr. Sarah Jenkins. It is approved for off-campus use, with the necessary paperwork already completed. Mark Thompson affixed the asset sticker on May 15, 2023, and the laptop was engraved the following day. On the administrative side, the Finance Office has recorded Purchase Order PO-987654 and Unifi Receipt REC-112233, with Linda Chen confirming the entry into the asset register. Since this is a new addition, all fields in the asset retirement section remain blank.

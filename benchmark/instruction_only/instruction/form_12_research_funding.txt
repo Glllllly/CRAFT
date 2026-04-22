@@ -1,0 +1,130 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "PI Full Name",
+      "value_text": "Dr. Elena R. Vance"
+    },
+    {
+      "key_text": "Faculty ID",
+      "value_text": "FA-889201"
+    },
+    {
+      "key_text": "Department / School",
+      "value_text": "Department of Environmental Science"
+    },
+    {
+      "key_text": "Academic Rank",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "Office Phone",
+      "value_text": "555-012-3489"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "e.vance@university.edu"
+    },
+    {
+      "key_text": "Project Title",
+      "value_text": "Microplastic Accumulation Patterns in Urban Watersheds"
+    },
+    {
+      "key_text": "Funding Category  (Seed / Bridge / Innovation / Travel)",
+      "value_text": "Seed"
+    },
+    {
+      "key_text": "Amount Requested  $",
+      "value_text": "15,000"
+    },
+    {
+      "key_text": "Proposed Start Date",
+      "value_text": "2024-09-01"
+    },
+    {
+      "key_text": "Proposed End Date",
+      "value_text": "2025-08-31"
+    },
+    {
+      "key_text": "Project Abstract  (150 words max)",
+      "value_text": "This project investigates the distribution and concentration of microplastics within urban river systems. By analyzing water samples from three major metropolitan sites, we aim to establish a baseline for pollution levels and identify primary source points for local remediation strategies."
+    },
+    {
+      "key_text": "Specific Aims / Research Questions",
+      "value_text": "1. Quantify microplastic density per liter. 2. Determine the polymer composition of collected samples. 3. Assess correlation with storm-water runoff events."
+    },
+    {
+      "key_text": "Methodology / Approach",
+      "value_text": "Utilizing field collection via plankton nets followed by laboratory analysis using Fourier-transform infrared spectroscopy (FTIR) to identify synthetic polymer types."
+    },
+    {
+      "key_text": "Personnel / Stipends  $",
+      "value_text": "8,000"
+    },
+    {
+      "key_text": "Equipment / Materials  $",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "Travel  $",
+      "value_text": "2,000"
+    },
+    {
+      "key_text": "Indirect Costs  $",
+      "value_text": "0"
+    },
+    {
+      "key_text": "TOTAL  $",
+      "value_text": "15,000"
+    },
+    {
+      "key_text": "Budget Justification",
+      "value_text": "Funds cover two graduate student stipends, field sampling equipment, and travel expenses for site visits."
+    },
+    {
+      "key_text": "Expected Outcomes and Contribution to Field",
+      "value_text": "The study will produce a comprehensive dataset on urban microplastic pollution, contributing to regional environmental policy development."
+    },
+    {
+      "key_text": "Plan for External Funding After Seed Period",
+      "value_text": "Findings will be used to support a formal application for NSF Environmental Engineering grant funding in late 2025."
+    },
+    {
+      "key_text": "PI Signature",
+      "value_text": "Elena R. Vance"
+    },
+    {
+      "key_text": "Department Chair",
+      "value_text": "Dr. Marcus Thorne"
+    },
+    {
+      "key_text": "Dean of Research",
+      "value_text": "Dr. Sarah Jenkins"
+    },
+    {
+      "key_text": "VP Research",
+      "value_text": "Dr. Alan Grant"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-08-15"
+    },
+    {
+      "key_text": "Date (Chair)",
+      "value_text": "2024-08-16"
+    },
+    {
+      "key_text": "Date (Dean)",
+      "value_text": "2024-08-18"
+    },
+    {
+      "key_text": "Date (VP)",
+      "value_text": "2024-08-20"
+    }
+  ]
+}
+
+Narrative:
+Dr. Elena R. Vance, an Associate Professor in the Department of Environmental Science, has submitted a proposal for a project titled "Microplastic Accumulation Patterns in Urban Watersheds." Identified by her Faculty ID FA-889201, she is requesting $15,000 in Seed funding to run the project from September 1, 2024, to August 31, 2025. 
+
+The research aims to quantify microplastic density and polymer composition in urban rivers to help inform local remediation. The budget allocates $8,000 for personnel, $5,000 for equipment, and $2,000 for travel. Dr. Vance plans to use these preliminary results to apply for a larger NSF grant in the future. The application has been signed by the PI, Department Chair Dr. Marcus Thorne, Dean of Research Dr. Sarah Jenkins, and VP Research Dr. Alan Grant, with signatures dated between August 15 and August 20, 2024.

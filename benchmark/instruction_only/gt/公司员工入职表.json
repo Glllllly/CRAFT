@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "公司员工入职表.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "濮? 鍚?",
+                      "value_cell":  "C3",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鎬? 鍒?",
+                      "value_cell":  "I3",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "姘? 鏃?",
+                      "value_cell":  "P3",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "鑱旂郴鐢佃瘽",
+                      "value_cell":  "C4",
+                      "value":  "13800138000"
+                  },
+                  {
+                      "label":  "鍑虹敓骞存湀",
+                      "value_cell":  "I4",
+                      "value":  "1992-05"
+                  },
+                  {
+                      "label":  "韬? 楂?",
+                      "value_cell":  "P4",
+                      "value":  "178cm"
+                  },
+                  {
+                      "label":  "绫? 璐?",
+                      "value_cell":  "C5",
+                      "value":  "灞变笢闈掑矝"
+                  },
+                  {
+                      "label":  "鏀挎不闈㈣矊",
+                      "value_cell":  "I5",
+                      "value":  "涓叡鍏氬憳"
+                  },
+                  {
+                      "label":  "濠? 鍚?",
+                      "value_cell":  "P5",
+                      "value":  "宸插"
+                  },
+                  {
+                      "label":  "鎴峰彛鎵€鍦ㄥ湴",
+                      "value_cell":  "C6",
+                      "value":  "灞变笢鐪侀潚宀涘競甯傚崡鍖?"
+                  },
+                  {
+                      "label":  "韬唤璇佸彿鐮?",
+                      "value_cell":  "J6",
+                      "value":  "37020219920512xxxx"
+                  },
+                  {
+                      "label":  "姣曚笟闄㈡牎",
+                      "value_cell":  "D7",
+                      "value":  "灞变笢澶у"
+                  },
+                  {
+                      "label":  "鏂囧寲绋嬪害",
+                      "value_cell":  "N7",
+                      "value":  "鏈"
+                  },
+                  {
+                      "label":  "涓? 涓?",
+                      "value_cell":  "D8",
+                      "value":  "璁＄畻鏈虹瀛︿笌鎶€鏈?"
+                  },
+                  {
+                      "label":  "鏈変綍鐗归暱",
+                      "value_cell":  "N8",
+                      "value":  "鏁版嵁鍒嗘瀽銆佺紪绋嬪紑鍙?"
+                  },
+                  {
+                      "label":  "鎶€鏈亴绉?",
+                      "value_cell":  "D9",
+                      "value":  "涓骇宸ョ▼甯?"
+                  },
+                  {
+                      "label":  "璇█鑳藉姏",
+                      "value_cell":  "J9",
+                      "value":  "鑻辫鍏骇"
+                  },
+                  {
+                      "label":  "瀹跺涵鐢佃瘽",
+                      "value_cell":  "D10",
+                      "value":  "0532-88886666"
+                  },
+                  {
+                      "label":  "瀹跺涵鍦板潃",
+                      "value_cell":  "J10",
+                      "value":  "灞变笢鐪侀潚宀涘競甯傚崡鍖洪娓腑璺?23鍙?"
+                  },
+                  {
+                      "label":  "绱ф€ヨ仈绯荤數璇?",
+                      "value_cell":  "D11",
+                      "value":  "13900000000"
+                  },
+                  {
+                      "label":  "绱ф€ヨ仈绯讳汉",
+                      "value_cell":  "J11",
+                      "value":  "鏉庝附"
+                  }
+              ]
+}

@@ -1,0 +1,211 @@
+﻿{
+    "excel":  "form_04_patient_intake.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A9:H9",
+                      "value":  "Montgomery"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "I9:P9",
+                      "value":  "Elena"
+                  },
+                  {
+                      "label":  "Date of Birth  mm/dd/yyyy",
+                      "value_cell":  "Q9:S9",
+                      "value":  "04/12/1992"
+                  },
+                  {
+                      "label":  "Student / Employee ID",
+                      "value_cell":  "A11:H11",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Gender Identity",
+                      "value_cell":  "I11:N11",
+                      "value":  "Female"
+                  },
+                  {
+                      "label":  "Preferred Pronouns",
+                      "value_cell":  "O11:R11",
+                      "value":  "She/Her"
+                  },
+                  {
+                      "label":  "Marital Status",
+                      "value_cell":  "S11:X11",
+                      "value":  "Single"
+                  },
+                  {
+                      "label":  "Permanent Home Address",
+                      "value_cell":  "A13:X13",
+                      "value":  "742 Evergreen Terrace"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A15:J15",
+                      "value":  "Springfield"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "L15:N15",
+                      "value":  "IL"
+                  },
+                  {
+                      "label":  "ZIP",
+                      "value_cell":  "O15:R15",
+                      "value":  "62704"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "S15:X15",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "A17:H17",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "I17:P17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Work Phone",
+                      "value_cell":  "Q17:X17",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Primary E-mail Address",
+                      "value_cell":  "A19:L19",
+                      "value":  "elena.m@email.com"
+                  },
+                  {
+                      "label":  "Secondary E-mail Address",
+                      "value_cell":  "M19:X19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Emergency Contact 鈥?Full Name",
+                      "value_cell":  "A24:N24",
+                      "value":  "Marcus Montgomery"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "O24:X24",
+                      "value":  "Brother"
+                  },
+                  {
+                      "label":  "Emergency Phone (Primary)",
+                      "value_cell":  "A26:I26",
+                      "value":  "555-222-3333"
+                  },
+                  {
+                      "label":  "Emergency Phone (Secondary)",
+                      "value_cell":  "J26:P26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Email",
+                      "value_cell":  "Q26:X26",
+                      "value":  "marcus.m@email.com"
+                  },
+                  {
+                      "label":  "Primary Insurance Provider",
+                      "value_cell":  "A31:L31",
+                      "value":  "Blue Cross Blue Shield"
+                  },
+                  {
+                      "label":  "Policy / Member ID Number",
+                      "value_cell":  "M31:X31",
+                      "value":  "BCBS99887766"
+                  },
+                  {
+                      "label":  "Group Number",
+                      "value_cell":  "M33:X3",
+                      "value":  "G-55443"
+                  },
+                  {
+                      "label":  "Insurance Phone Number",
+                      "value_cell":  "M33:X33",
+                      "value":  "800-555-0199"
+                  },
+                  {
+                      "label":  "Policyholder\u0027s Full Name",
+                      "value_cell":  "M35:X35",
+                      "value":  "Elena Montgomery"
+                  },
+                  {
+                      "label":  "Policyholder\u0027s Date of Birth",
+                      "value_cell":  "M35:X35",
+                      "value":  "04/12/1992"
+                  },
+                  {
+                      "label":  "Secondary Insurance Provider (if any)",
+                      "value_cell":  "M37:X37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Secondary Policy Number",
+                      "value_cell":  "M37:X37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Current Medications (name, dosage, frequency)",
+                      "value_cell":  "A42:X42",
+                      "value":  "Lisinopril, 10mg, once daily"
+                  },
+                  {
+                      "label":  "Known Allergies (medication, food, environmental) 鈥?specify reactions",
+                      "value_cell":  "A44:X44",
+                      "value":  "Penicillin (hives)"
+                  },
+                  {
+                      "label":  "Chronic Conditions / Diagnoses",
+                      "value_cell":  "A44:X44",
+                      "value":  "Hypertension"
+                  },
+                  {
+                      "label":  "Previous Surgeries or Hospitalizations (with approximate dates)",
+                      "value_cell":  "A46:X46",
+                      "value":  "Appendectomy, 2015"
+                  },
+                  {
+                      "label":  "Primary Care Provider\u0027s Name \u0026 Contact (outside this clinic)",
+                      "value_cell":  "A48:X48",
+                      "value":  "Dr. Sarah Jenkins, 555-111-2222"
+                  },
+                  {
+                      "label":  "Chief Complaint / Reason for Visit",
+                      "value_cell":  "A55:X56",
+                      "value":  "Persistent dry cough and mild fever."
+                  },
+                  {
+                      "label":  "Symptom Duration",
+                      "value_cell":  "A58:H53",
+                      "value":  "4 days"
+                  },
+                  {
+                      "label":  "Severity (1鈥?0)",
+                      "value_cell":  "I58:N58",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Date Symptoms Began",
+                      "value_cell":  "058:X58",
+                      "value":  "10/20/2023"
+                  },
+                  {
+                      "label":  "Patient Signature",
+                      "value_cell":  "A61:N61",
+                      "value":  "Elena Montgomery"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "O61:X61",
+                      "value":  "10/24/2023"
+                  }
+              ]
+}

@@ -1,0 +1,293 @@
+{
+  "bundle_dir": "case_0270_yunyin_compliance",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "compliance_checklist_23.md",
+      "source_type": "md",
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_23.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_23.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "compliance_checklist_26.md",
+      "source_type": "md",
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "compliance_checklist_27.md",
+      "source_type": "md",
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "compliance_checklist_28.md",
+      "source_type": "md",
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "compliance_checklist_29.md",
+      "source_type": "md",
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_29.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_29.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "lastreviewed",
+      "candidates": [
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_23.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastreviewed",
+          "value": "2024-02-10",
+          "raw_key": "Last Reviewed",
+          "source_file": "compliance_checklist_29.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Reviewed: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "nextreview",
+      "candidates": [
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_23.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextreview",
+          "value": "2024-05-10",
+          "raw_key": "Next Review",
+          "source_file": "compliance_checklist_29.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Next Review: 2024-05-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

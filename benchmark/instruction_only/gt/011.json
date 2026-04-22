@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "011.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:H11",
+                      "value":  "Logistics"
+                  },
+                  {
+                      "label":  "Job Title / Position",
+                      "value_cell":  "I11:P11",
+                      "value":  "Supply Chain Coordinator"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "Q11:X11",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "A13:H13",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Manager E-mail / Phone",
+                      "value_cell":  "I13:X13",
+                      "value":  "s.jenkins@company.com / 555-0192"
+                  },
+                  {
+                      "label":  "Name of Deceased",
+                      "value_cell":  "A18:L18",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date of Passing",
+                      "value_cell":  "M18:X18",
+                      "value":  "2023-10-10"
+                  },
+                  {
+                      "label":  "Spouse / Partner",
+                      "value_cell":  "H20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Child",
+                      "value_cell":  "M20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Parent",
+                      "value_cell":  "R20",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Other Relationship (if \"Other\" selected above)",
+                      "value_cell":  "A21:X21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Leave Start Date",
+                      "value_cell":  "A23:L23",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Leave End Date",
+                      "value_cell":  "M23:X23",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Total Days Requested",
+                      "value_cell":  "A25:L25",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Location of Services (City, Country)",
+                      "value_cell":  "M25:X25",
+                      "value":  "Chicago, USA"
+                  },
+                  {
+                      "label":  "Yes 鈥?Domestic",
+                      "value_cell":  "H27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Yes 鈥?International",
+                      "value_cell":  "M27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "R27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Death Certificate",
+                      "value_cell":  "H31",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Obituary",
+                      "value_cell":  "M31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Funeral Programme",
+                      "value_cell":  "R31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Additional Context (if documentation unavailable)",
+                      "value_cell":  "A32:X32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Paid Bereavement Leave",
+                      "value_cell":  "H37",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Remaining from PTO",
+                      "value_cell":  "M37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Unpaid",
+                      "value_cell":  "R37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Bereavement Days Available per Policy",
+                      "value_cell":  "A38:L38",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Days Previously Used This Year",
+                      "value_cell":  "M38:X38",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "Additional notes or requests",
+                      "value_cell":  "A40:X40",
+                      "value":  "Will provide contact info for HR if needed regarding the funeral arrangements."
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A48:L48",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N48:X48",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Manager Acknowledgement",
+                      "value_cell":  "A51:L51",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N51:X51",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "HR Representative",
+                      "value_cell":  "A54:L54",
+                      "value":  "Michael Ross"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N54:X54",
+                      "value":  "2023-10-13"
+                  }
+              ]
+}

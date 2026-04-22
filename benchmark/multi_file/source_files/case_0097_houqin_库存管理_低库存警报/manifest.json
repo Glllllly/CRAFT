@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0097_houqin_库存管理_低库存警报",
+    "tenant":  "houqin",
+    "topic":  "库存管理",
+    "subtopic":  "低库存警报",
+    "source_dir":  "houqin\\库存管理\\低库存警报",
+    "total_files_in_source_dir":  30,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\库存管理\\低库存警报\\采购计划_6055.json",
+                      "copied_name":  "采购计划_6055.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\低库存警报\\培训计划_5198.csv",
+                      "copied_name":  "培训计划_5198.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\低库存警报\\年报_3157.txt",
+                      "copied_name":  "年报_3157.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  206
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\低库存警报\\工作报告_6267.eml",
+                      "copied_name":  "工作报告_6267.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\低库存警报\\物品清单_8040.csv",
+                      "copied_name":  "物品清单_8040.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1344
+                  }
+              ]
+}

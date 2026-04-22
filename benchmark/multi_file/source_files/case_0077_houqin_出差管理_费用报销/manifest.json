@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0077_houqin_出差管理_费用报销",
+    "tenant":  "houqin",
+    "topic":  "出差管理",
+    "subtopic":  "费用报销",
+    "source_dir":  "houqin\\出差管理\\费用报销",
+    "total_files_in_source_dir":  56,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\出差管理\\费用报销\\设备清单_9392.json",
+                      "copied_name":  "设备清单_9392.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\费用报销\\登记表_4823.csv",
+                      "copied_name":  "登记表_4823.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\费用报销\\费用报销单_9.txt",
+                      "copied_name":  "费用报销单_9.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  824
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\费用报销\\维护计划_4488.eml",
+                      "copied_name":  "维护计划_4488.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\费用报销\\备件申请_3529.csv",
+                      "copied_name":  "备件申请_3529.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

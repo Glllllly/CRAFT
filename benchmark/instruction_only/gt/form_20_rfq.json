@@ -1,0 +1,251 @@
+﻿{
+    "excel":  "form_20_rfq.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requesting Department / Unit",
+                      "value_cell":  "A9:L9",
+                      "value":  "Information Technology Services"
+                  },
+                  {
+                      "label":  "Department Code",
+                      "value_cell":  "M9:X9",
+                      "value":  "ITS-9920"
+                  },
+                  {
+                      "label":  "Buyer / Contact Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Contact Phone \u0026 E-mail",
+                      "value_cell":  "M11:X11",
+                      "value":  "555-012-3456 / s.jenkins@corp.com"
+                  },
+                  {
+                      "label":  "RFQ Issue Date",
+                      "value_cell":  "A13:H13",
+                      "value":  "2023-10-01"
+                  },
+                  {
+                      "label":  "Quote Due Date",
+                      "value_cell":  "I13:P13",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Delivery Date Required",
+                      "value_cell":  "Q13:X13",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Vendor / Supplier Name",
+                      "value_cell":  "A18:L18",
+                      "value":  "TechFlow Solutions Inc."
+                  },
+                  {
+                      "label":  "Vendor Contact Name",
+                      "value_cell":  "M18:X18",
+                      "value":  "Mark Sterling"
+                  },
+                  {
+                      "label":  "Vendor Phone",
+                      "value_cell":  "A20:H20",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Vendor Fax",
+                      "value_cell":  "I20:P20",
+                      "value":  "555-987-6544"
+                  },
+                  {
+                      "label":  "Vendor E-mail",
+                      "value_cell":  "Q20:X20",
+                      "value":  "sales@techflow.com"
+                  },
+                  {
+                      "label":  "Vendor Address",
+                      "value_cell":  "A22:X22",
+                      "value":  "123 Innovation Drive, Silicon Valley, CA 94025"
+                  },
+                  {
+                      "label":  "Item 1 鈥?Description",
+                      "value_cell":  "A27:N27",
+                      "value":  "Ergonomic Office Chairs"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "O27:R27",
+                      "value":  "Each"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "S27:U27",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "V27:X27",
+                      "value":  "250.00"
+                  },
+                  {
+                      "label":  "Item 2 鈥?Description",
+                      "value_cell":  "A29:N29",
+                      "value":  "Standing Desks"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "O29:R29",
+                      "value":  "Each"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "S29:U29",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "V29:X29",
+                      "value":  "400.00"
+                  },
+                  {
+                      "label":  "Item 3 鈥?Description",
+                      "value_cell":  "A31:N31",
+                      "value":  "Monitor Arms"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "O31:R31",
+                      "value":  "Each"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "S31:U31",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "V31:X31",
+                      "value":  "80.00"
+                  },
+                  {
+                      "label":  "Item 4 鈥?Description",
+                      "value_cell":  "A33:N33",
+                      "value":  "Power Strips"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "O33:R33",
+                      "value":  "Box"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "S33:U33",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "V33:X33",
+                      "value":  "50.00"
+                  },
+                  {
+                      "label":  "Item 5 鈥?Description",
+                      "value_cell":  "A35:N35",
+                      "value":  "Cable Management Kits"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "O35:R35",
+                      "value":  "Set"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "S35:U35",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "V35:X35",
+                      "value":  "30.00"
+                  },
+                  {
+                      "label":  "Subtotal  $",
+                      "value_cell":  "S37:X37",
+                      "value":  "5,400.00"
+                  },
+                  {
+                      "label":  "Tax  $",
+                      "value_cell":  "S39:X39",
+                      "value":  "432.00"
+                  },
+                  {
+                      "label":  "Shipping  $",
+                      "value_cell":  "S41:X41",
+                      "value":  "150.00"
+                  },
+                  {
+                      "label":  "TOTAL  $",
+                      "value_cell":  "S43:X43",
+                      "value":  "5,982.00"
+                  },
+                  {
+                      "label":  "Payment Terms",
+                      "value_cell":  "A48:L48",
+                      "value":  "Net 30"
+                  },
+                  {
+                      "label":  "Warranty / Guarantee Period",
+                      "value_cell":  "M48:X48",
+                      "value":  "2 Years"
+                  },
+                  {
+                      "label":  "Delivery Terms  (FOB Destination / Origin)",
+                      "value_cell":  "A50:L50",
+                      "value":  "FOB Destination"
+                  },
+                  {
+                      "label":  "Lead Time (Days)",
+                      "value_cell":  "M50:X50",
+                      "value":  "14"
+                  },
+                  {
+                      "label":  "Special Terms, Exceptions, or Notes from Vendor",
+                      "value_cell":  "A52:X52",
+                      "value":  "Prices valid for 30 days. Includes professional assembly."
+                  },
+                  {
+                      "label":  "Authorized Representative Name",
+                      "value_cell":  "A57:N57",
+                      "value":  "Mark Sterling"
+                  },
+                  {
+                      "label":  "Title",
+                      "value_cell":  "O57:X57",
+                      "value":  "Sales Manager"
+                  },
+                  {
+                      "label":  "Vendor Signature",
+                      "value_cell":  "A59:N59",
+                      "value":  "M. Sterling"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "O59:X59",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "PO Number Issued",
+                      "value_cell":  "A64:H64",
+                      "value":  "PO-88291"
+                  },
+                  {
+                      "label":  "Buyer Signature",
+                      "value_cell":  "I64:R64",
+                      "value":  "S. Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "S64:X64",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

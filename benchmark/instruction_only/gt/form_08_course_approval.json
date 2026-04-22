@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "form_08_course_approval.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Instructor Full Name",
+                      "value_cell":  "A9:H9",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Faculty ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "FA-889201"
+                  },
+                  {
+                      "label":  "Department / School",
+                      "value_cell":  "A11:L11",
+                      "value":  "School of Computer Science"
+                  },
+                  {
+                      "label":  "Academic Rank",
+                      "value_cell":  "M11:X11",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "Office Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-0128"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I13:R13",
+                      "value":  "evance@university.edu"
+                  },
+                  {
+                      "label":  "Term / Semester",
+                      "value_cell":  "S13:X13",
+                      "value":  "Fall 2024"
+                  },
+                  {
+                      "label":  "Course Subject Code",
+                      "value_cell":  "A18:F18",
+                      "value":  "CSCI"
+                  },
+                  {
+                      "label":  "Course Number",
+                      "value_cell":  "H18:J18",
+                      "value":  "402"
+                  },
+                  {
+                      "label":  "Credit Hours",
+                      "value_cell":  "K18:N18",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Section Number",
+                      "value_cell":  "018:R18",
+                      "value":  "01"
+                  },
+                  {
+                      "label":  "CRN (if existing)",
+                      "value_cell":  "S18:X18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Course Title",
+                      "value_cell":  "A20:X20",
+                      "value":  "Introduction to Quantum Computing"
+                  },
+                  {
+                      "label":  "Course Description (brief)",
+                      "value_cell":  "A22:L22",
+                      "value":  "Foundations of qubits, gates, and algorithms."
+                  },
+                  {
+                      "label":  "Pre-Requisites / Co-Requisites",
+                      "value_cell":  "M22:X22",
+                      "value":  "CSCI 201, MATH 250"
+                  },
+                  {
+                      "label":  "New Course",
+                      "value_cell":  "F24:G24",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Title Change",
+                      "value_cell":  "L24:M24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Description Change",
+                      "value_cell":  "R24:S24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credit Change",
+                      "value_cell":  "X24:Y24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Cancel Section",
+                      "value_cell":  "AD24:AE24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Proposed Meeting Days (MWF / TR / etc.)",
+                      "value_cell":  "A25:L25",
+                      "value":  "TR"
+                  },
+                  {
+                      "label":  "Meeting Time  (Start 鈥?End)",
+                      "value_cell":  "M25:X25",
+                      "value":  "14:00 - 15:30"
+                  },
+                  {
+                      "label":  "Room / Building Request",
+                      "value_cell":  "A27:L27",
+                      "value":  "Science Hall 304"
+                  },
+                  {
+                      "label":  "Expected Enrollment Cap",
+                      "value_cell":  "M27:X27",
+                      "value":  "25"
+                  },
+                  {
+                      "label":  "General Education",
+                      "value_cell":  "F32:G32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Major Core",
+                      "value_cell":  "L32:M32",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Elective",
+                      "value_cell":  "R32:S32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Writing Intensive",
+                      "value_cell":  "X32:Y32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Lab",
+                      "value_cell":  "AD32:AE32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Rationale / Justification for Change or New Course",
+                      "value_cell":  "A33:X33",
+                      "value":  "Expanding curriculum to include emerging quantum technologies."
+                  },
+                  {
+                      "label":  "Instructor Signature",
+                      "value_cell":  "A38:H38",
+                      "value":  "/s/ Elena Vance"
+                  },
+                  {
+                      "label":  "Dept Chair Signature",
+                      "value_cell":  "I38:P38",
+                      "value":  "/s/ Marcus Thorne"
+                  },
+                  {
+                      "label":  "Dean Signature",
+                      "value_cell":  "Q38:X38",
+                      "value":  "/s/ Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Instructor)",
+                      "value_cell":  "A40:H40",
+                      "value":  "2024-03-15"
+                  },
+                  {
+                      "label":  "Date (Chair)",
+                      "value_cell":  "I40:P40",
+                      "value":  "2024-03-18"
+                  },
+                  {
+                      "label":  "Date (Dean)",
+                      "value_cell":  "Q40:X40",
+                      "value":  "2024-03-20"
+                  }
+              ]
+}

@@ -1,0 +1,176 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By — Full Name",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "4421"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "j.miller@company.com"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Payee Name  (Company or Individual)",
+      "value_text": "Creative Design Solutions Inc."
+    },
+    {
+      "key_text": "Payee Phone / E-mail",
+      "value_text": "555-0199 / billing@creativedesign.com"
+    },
+    {
+      "key_text": "Payee Mailing Address",
+      "value_text": "742 Evergreen Terrace"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Springfield"
+    },
+    {
+      "key_text": "State",
+      "value_text": "IL"
+    },
+    {
+      "key_text": "ZIP",
+      "value_text": "62704"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Payee Tax ID / SSN (last 4)",
+      "value_text": "9982"
+    },
+    {
+      "key_text": "W-9 on File?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Invoice / Reference Number",
+      "value_text": "INV-2023-884"
+    },
+    {
+      "key_text": "Invoice Date",
+      "value_text": "2023-10-05"
+    },
+    {
+      "key_text": "Description of Payment",
+      "value_text": "Q4 Branding Campaign Assets"
+    },
+    {
+      "key_text": "GL / Account Code",
+      "value_text": "MKT-5500"
+    },
+    {
+      "key_text": "Payment Amount  $",
+      "value_text": "2500.00"
+    },
+    {
+      "key_text": "Tax Amount  $",
+      "value_text": "0.00"
+    },
+    {
+      "key_text": "Total Amount  $",
+      "value_text": "2500.00"
+    },
+    {
+      "key_text": "Check",
+      "value_text": "X"
+    },
+    {
+      "key_text": "ACH",
+      "value_text": null
+    },
+    {
+      "key_text": "Wire Transfer",
+      "value_text": null
+    },
+    {
+      "key_text": "Petty Cash",
+      "value_text": null
+    },
+    {
+      "key_text": "Check Payable To (if different from above)",
+      "value_text": null
+    },
+    {
+      "key_text": "Requested Check Date",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Mail to Payee",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Hold for Pickup",
+      "value_text": null
+    },
+    {
+      "key_text": "Return to Requestor",
+      "value_text": null
+    },
+    {
+      "key_text": "Overnight Mail",
+      "value_text": null
+    },
+    {
+      "key_text": "Invoice",
+      "value_text": "X"
+    },
+    {
+      "key_text": "ReceiptV",
+      "value_text": null
+    },
+    {
+      "key_text": "Contract",
+      "value_text": null
+    },
+    {
+      "key_text": "PO Copy",
+      "value_text": null
+    },
+    {
+      "key_text": "Explanation / Additional Notes",
+      "value_text": "Final payment for Q4 graphic design services as per contract."
+    },
+    {
+      "key_text": "Requestor Signature",
+      "value_text": "J. Miller"
+    },
+    {
+      "key_text": "Manager / Director",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Finance Approval",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    }
+  ]
+}
+
+Narrative:
+Jonathan Miller from the Marketing department (ext. 4421) submitted this payment request on October 12, 2023. The request is for Creative Design Solutions Inc., located at 742 Evergreen Terrace, Springfield, IL 62704, USA. The payee's contact information is 555-0199 or billing@creativedesign.com, their tax ID ends in 9982, and a W-9 is already on file. The payment is for invoice INV-2023-884, dated October 5, 2023, covering Q4 Branding Campaign Assets under GL code MKT-5500. The total amount is $2,500.00, with no tax. Payment will be made via Check, which should be mailed to the payee by October 20, 2023. An invoice is attached as supporting documentation, and the request includes a note stating this is the final payment for Q4 graphic design services. The form is signed by Jonathan Miller, approved by manager Sarah Jenkins on October 13, 2023, and approved by Finance representative David Chen on October 14, 2023.

@@ -1,0 +1,116 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name (Optional)",
+      "value_text": "Jordan A. Smith"
+    },
+    {
+      "key_text": "Employee ID (Optional)",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department / Unit",
+      "value_text": "Marketing Operations"
+    },
+    {
+      "key_text": "Job Title / Position",
+      "value_text": "Senior Campaign Manager"
+    },
+    {
+      "key_text": "Preferred Contact Method",
+      "value_text": "Email: j.smith@company.com"
+    },
+    {
+      "key_text": "Date of Submission",
+      "value_text": "2023-10-24"
+    },
+    {
+      "key_text": "Harassment",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Discrimination",
+      "value_text": null
+    },
+    {
+      "key_text": "Pay / Benefits",
+      "value_text": null
+    },
+    {
+      "key_text": "Date(s) of Incident(s)",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Location of Incident(s)",
+      "value_text": "Main Conference Room B"
+    },
+    {
+      "key_text": "Person(s) Involved",
+      "value_text": "Marcus Thorne (Supervisor)"
+    },
+    {
+      "key_text": "Detailed Description — describe what happened, who was involved, and witnesses",
+      "value_text": "During the weekly strategy meeting on Oct 20, Marcus Thorne repeatedly interrupted my presentation and made derogatory comments regarding my professional capabilities in front of the entire team. Sarah Jenkins witnessed the interaction."
+    },
+    {
+      "key_text": "Evidence / Documentation Available (describe; do not attach originals yet)",
+      "value_text": "Meeting recording and email follow-up thread from the same day."
+    },
+    {
+      "key_text": "Previous Steps Taken to Resolve This Issue",
+      "value_text": "None, I felt uncomfortable addressing this directly with the supervisor."
+    },
+    {
+      "key_text": "Desired Outcome / Resolution Sought",
+      "value_text": "Formal mediation and a review of workplace conduct standards."
+    },
+    {
+      "key_text": "Received By",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date Received",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Assigned Investigator",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Target Resolution Date",
+      "value_text": "2023-11-08"
+    },
+    {
+      "key_text": "Investigator Notes / Disposition",
+      "value_text": "Initial intake completed; scheduling interviews with complainant and witness."
+    },
+    {
+      "key_text": "HR Business Partner",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-26"
+    },
+    {
+      "key_text": "Employee Relations Manager",
+      "value_text": "Thomas Wright"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-26"
+    },
+    {
+      "key_text": "HR Director",
+      "value_text": "Linda Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-27"
+    }
+  ]
+}
+
+Narrative:
+Jordan A. Smith, an employee (ID: EMP-88429) working as a Senior Campaign Manager in Marketing Operations, submitted this harassment complaint on October 24, 2023. They can be contacted via email at j.smith@company.com. The incident occurred on October 20, 2023, in Main Conference Room B, involving their supervisor, Marcus Thorne. Jordan alleges that Mr. Thorne made disparaging remarks about their work during a meeting, with Sarah Jenkins serving as a witness. Jordan has not taken prior steps to resolve this, citing discomfort, and is seeking formal mediation. The report was received by Elena Rodriguez on October 25, 2023. David Chen has been assigned as the investigator, with a target resolution date of November 8, 2023, and notes that intake is complete. The form was signed by HR Business Partner Sarah Miller on October 26, Employee Relations Manager Thomas Wright on October 26, and HR Director Linda Vance on October 27, 2023.

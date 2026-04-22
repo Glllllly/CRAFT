@@ -1,0 +1,68 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "TODAY'S DATE =",
+      "value_text": "2026年2月1日"
+    },
+    {
+      "key_text": "STATE:",
+      "value_text": "California"
+    },
+    {
+      "key_text": "CITY/COUNTY:",
+      "value_text": "Los Angeles"
+    },
+    {
+      "key_text": "AGE RANGE:",
+      "value_text": "17-18"
+    },
+    {
+      "key_text": "GENDER:",
+      "value_text": "Female"
+    },
+    {
+      "key_text": "OTHER INFO:",
+      "value_text": "First-generation college student"
+    },
+    {
+      "key_text": "TALENTS:",
+      "value_text": "Classical piano, competitive swimming"
+    },
+    {
+      "key_text": "CERTIFICATIONS:",
+      "value_text": "CPR/First Aid, Seal of Biliteracy (Spanish)"
+    },
+    {
+      "key_text": "UNIQUE ABILITIES:",
+      "value_text": "Fluent in three languages, advanced coding skills in Python"
+    },
+    {
+      "key_text": "AWARDS:",
+      "value_text": "National Merit Scholar, AP Scholar with Distinction"
+    },
+    {
+      "key_text": "HONOR ROLL:",
+      "value_text": "All four years of high school"
+    },
+    {
+      "key_text": "CLASS RANKING:",
+      "value_text": "12"
+    },
+    {
+      "key_text": "OUT OF",
+      "value_text": "450"
+    },
+    {
+      "key_text": "STUDENT:",
+      "value_text": "Jane Doe"
+    },
+    {
+      "key_text": "PARENT(S):",
+      "value_text": "John and Mary Doe"
+    }
+  ]
+}
+
+Narrative:
+This scholarship search profile was completed on February 1, 2026. The student, Jane Doe, is a 17-18 year old female residing in Los Angeles, California, and identifies as a first-generation college student. Her skill set includes talents in classical piano and competitive swimming, with professional certifications in CPR/First Aid and a Spanish Seal of Biliteracy. She also possesses unique abilities in trilingual communication and advanced Python coding. Academically, Jane is highly accomplished, having earned National Merit Scholar and AP Scholar with Distinction honors while maintaining a spot on the Honor Roll for all four years of high school. She currently holds a class rank of 12 out of 450 students. Finally, the form lists her parents, John and Mary Doe, for membership tracking purposes.

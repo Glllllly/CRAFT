@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "form_03_it_service_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name:",
+                      "value_cell":  "F6:I6",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Staff ID:",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Email Address:",
+                      "value_cell":  "F7:I7",
+                      "value":  "j.miller@company.com"
+                  },
+                  {
+                      "label":  "Phone Extension:",
+                      "value_cell":  "M7:P7",
+                      "value":  "412"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "F8:I8",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Date of Request:",
+                      "value_cell":  "M8:P8",
+                      "value":  "2023-10-24"
+                  },
+                  {
+                      "label":  "Request Type  (Hardware / Software / Network / Account / Other):",
+                      "value_cell":  "F11:I11",
+                      "value":  "Hardware"
+                  },
+                  {
+                      "label":  "Priority  (Low / Med / High / Critical):",
+                      "value_cell":  "M11:P11",
+                      "value":  "Med"
+                  },
+                  {
+                      "label":  "Affected Device / System:",
+                      "value_cell":  "F12:I12",
+                      "value":  "Workstation Monitor"
+                  },
+                  {
+                      "label":  "Asset Tag No.:",
+                      "value_cell":  "M12:P12",
+                      "value":  "ASSET-99021"
+                  },
+                  {
+                      "label":  "Description of Issue or Request:",
+                      "value_cell":  "F13:P13",
+                      "value":  "The primary display monitor is flickering intermittently and has developed a vertical dead pixel line."
+                  },
+                  {
+                      "label":  "Business Impact if Unresolved:",
+                      "value_cell":  "F14:P14",
+                      "value":  "Significantly impairs ability to perform graphic design tasks and video editing projects."
+                  },
+                  {
+                      "label":  "Preferred Resolution Date:",
+                      "value_cell":  "F15:P15",
+                      "value":  "2023-10-27"
+                  },
+                  {
+                      "label":  "IT Helpdesk Technician",
+                      "value_cell":  "A21:J21",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M21:P21",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "IT Manager",
+                      "value_cell":  "A23:J23",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M23:P23",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Department Head (capital purchase)",
+                      "value_cell":  "A25:J25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M25:P25",
+                      "value":  null
+                  }
+              ]
+}

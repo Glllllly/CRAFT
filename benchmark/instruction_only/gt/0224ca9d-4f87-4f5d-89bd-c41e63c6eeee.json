@@ -1,0 +1,76 @@
+﻿{
+    "excel":  "0224ca9d-4f87-4f5d-89bd-c41e63c6eeee.xlsx",
+    "sheet":  "LEAVE REPORT FOR EXEMPT STAFF",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name:",
+                      "value_cell":  "E9:J9",
+                      "value":  "Miller, Sarah Jane"
+                  },
+                  {
+                      "label":  "Datatel ID Number:",
+                      "value_cell":  "F11:J11",
+                      "value":  "0123456"
+                  },
+                  {
+                      "label":  "Department Name:",
+                      "value_cell":  "F13:J13",
+                      "value":  "Information Technology"
+                  },
+                  {
+                      "label":  "VACATION LEAVE",
+                      "value_cell":  "F21:J21",
+                      "value":  "16 Hours: 05/15/2023, 05/16/2023"
+                  },
+                  {
+                      "label":  "SICK LEAVE",
+                      "value_cell":  "F22:J22",
+                      "value":  "8 Hours: 05/22/2023"
+                  },
+                  {
+                      "label":  "COMMUNITY SERVICE LEAVE",
+                      "value_cell":  "F23:J23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "BEREAVEMENT LEAVE",
+                      "value_cell":  "F24:J24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "In-State",
+                      "value_cell":  "A25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Out-of-State",
+                      "value_cell":  "D25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "JURY DUTY",
+                      "value_cell":  "F26:J26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other Comments:",
+                      "value_cell":  "A30:J32",
+                      "value":  "Taking a short vacation and one sick day."
+                  },
+                  {
+                      "label":  "Employee\u0027s Signature",
+                      "value_cell":  "A36:C36",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "F36:H36",
+                      "value":  "06/01/2023"
+                  },
+                  {
+                      "label":  "Supervisor\u0027s Signature *",
+                      "value_cell":  "J36",
+                      "value":  "Robert Smith"
+                  }
+              ]
+}

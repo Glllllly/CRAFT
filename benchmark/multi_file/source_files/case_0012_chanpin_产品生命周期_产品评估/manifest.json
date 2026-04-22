@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0012_chanpin_产品生命周期_产品评估",
+    "tenant":  "chanpin",
+    "topic":  "产品生命周期",
+    "subtopic":  "产品评估",
+    "source_dir":  "chanpin\\产品生命周期\\产品评估",
+    "total_files_in_source_dir":  90,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品生命周期\\产品评估\\评估_54.txt",
+                      "copied_name":  "评估_54.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  503
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品生命周期\\产品评估\\评估_39.txt",
+                      "copied_name":  "评估_39.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  503
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品生命周期\\产品评估\\评估_50.txt",
+                      "copied_name":  "评估_50.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  503
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品生命周期\\产品评估\\评估_47.txt",
+                      "copied_name":  "评估_47.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  502
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品生命周期\\产品评估\\评估_4.txt",
+                      "copied_name":  "评估_4.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  502
+                  }
+              ]
+}

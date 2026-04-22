@@ -1,0 +1,56 @@
+﻿{
+    "excel":  "2_Attachment A2.xlsx",
+    "sheet":  "Summary",
+    "pairs":  [
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "E5:I5",
+                      "value":  "December 14, 2000"
+                  },
+                  {
+                      "label":  "Company Name:",
+                      "value_cell":  "E6:I6",
+                      "value":  "Pacific Energy Solutions Inc."
+                  },
+                  {
+                      "label":  "Address 1:",
+                      "value_cell":  "E7:I7",
+                      "value":  "4500 Energy Plaza"
+                  },
+                  {
+                      "label":  "Address 2:",
+                      "value_cell":  "E8:I8",
+                      "value":  "Suite 300"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "E9:I9",
+                      "value":  "San Francisco"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "E10:I10",
+                      "value":  "CA"
+                  },
+                  {
+                      "label":  "Zip Code",
+                      "value_cell":  "E11:I11",
+                      "value":  "94105"
+                  },
+                  {
+                      "label":  "Telephone:",
+                      "value_cell":  "E13:I13",
+                      "value":  "415-555-0198"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "E14:I15",
+                      "value":  "415-555-0199"
+                  },
+                  {
+                      "label":  "Delivery Point:",
+                      "value_cell":  "E16:I16",
+                      "value":  "SP-15"
+                  }
+              ]
+}

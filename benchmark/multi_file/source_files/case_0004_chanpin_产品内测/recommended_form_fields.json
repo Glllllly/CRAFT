@@ -1,0 +1,104 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "优点",
+                                   "selected_value":  "功能完整)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "建议",
+                                   "selected_value":  "优化交互",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "缺点",
+                                   "selected_value":  "功能不完善",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "待评估",
+                                   "selected_value":  "11个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "一般问题",
+                                   "selected_value":  "16个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "严重问题",
+                                   "selected_value":  "2个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内测人数",
+                                   "selected_value":  "305人",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内测周期",
+                                   "selected_value":  "18天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内测版本",
+                                   "selected_value":  "V1.17-beta",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "建议反馈",
+                                   "selected_value":  "33条",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "总问题数",
+                                   "selected_value":  "67个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报告编号",
+                                   "selected_value":  "BT-0060",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "计划修复",
+                                   "selected_value":  "17个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "功能完成度",
+                                   "selected_value":  "64%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已修复问题",
+                                   "selected_value":  "29个",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "整体满意度",
+                                   "selected_value":  "73/100",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "易用性评分",
+                                   "selected_value":  "71/100",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "是否可发布",
+                                   "selected_value":  "可发布",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "界面设计评分",
+                                   "selected_value":  "74/100",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "预期发布时间",
+                                   "selected_value":  "2024-01-05",
+                                   "conflict":  false
+                               }
+                           ]
+}

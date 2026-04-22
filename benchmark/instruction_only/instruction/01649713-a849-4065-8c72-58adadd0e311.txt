@@ -1,0 +1,72 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "CHECK #",
+      "value_text": null
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "04/22/2013"
+    },
+    {
+      "key_text": "FROM:",
+      "value_text": "Sarah J. Miller, Biology Department"
+    },
+    {
+      "key_text": "DATE:",
+      "value_text": "04/15/2013"
+    },
+    {
+      "key_text": "Please make payment in the amount of $",
+      "value_text": "450.00"
+    },
+    {
+      "key_text": "Payable to:",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Mail to:",
+      "value_text": "1871 Old Main Drive, Shippensburg, PA 17257"
+    },
+    {
+      "key_text": "Undergraduate Research Grant Number: UGR 2012/13-",
+      "value_text": "042"
+    },
+    {
+      "key_text": "Explanation of funds being requested:",
+      "value_text": "Reimbursement for travel expenses to the Northeast Regional Biology Conference in Boston, MA."
+    },
+    {
+      "key_text": "Undergraduate Researcher Name (PRINTED)",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Undergraduate Researcher Signature (REQUIRED)",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Faculty Mentor Name (PRINTED)",
+      "value_text": "Dr. Robert Thompson"
+    },
+    {
+      "key_text": "Faculty Mentor Signature (REQUIRED)",
+      "value_text": "Robert Thompson"
+    },
+    {
+      "key_text": "Director - Institute for Public Service",
+      "value_text": "Dr. Linda Stevenson"
+    },
+    {
+      "key_text": "SU Foundation Accounting Dept.",
+      "value_text": "James P. Whitmore"
+    },
+    {
+      "key_text": "REMARKS OR SPECIAL NOTES:",
+      "value_text": "Original itemized receipts for airfare and hotel stay are attached for verification."
+    }
+  ]
+}
+
+Narrative:
+This Grant Expenditure Request was submitted to the Shippensburg University Foundation Accounting Department on April 15, 2013, by Sarah J. Miller from the Biology Department. She is requesting a reimbursement of $450.00 for travel expenses related to attending the Northeast Regional Biology Conference in Boston. The request is associated with Undergraduate Research Grant UGR 2012/13-042. The payment should be made payable to Sarah J. Miller and sent to the campus address at 1871 Old Main Drive. The form is signed by the researcher, Sarah J. Miller, and her faculty mentor, Dr. Robert Thompson. It also shows approval signatures from Dr. Linda Stevenson, Director of the Institute for Public Service, and James P. Whitmore from the Accounting Department, dated April 22, 2013. A special note indicates that the necessary receipts for airfare and lodging are attached to the form.

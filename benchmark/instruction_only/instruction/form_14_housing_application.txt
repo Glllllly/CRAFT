@@ -1,0 +1,114 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Student ID",
+      "value_text": "8849201"
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Montgomery"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Elena"
+    },
+    {
+      "key_text": "Preferred Name",
+      "value_text": "Ellie"
+    },
+    {
+      "key_text": "Date of Birth",
+      "value_text": "05/12/2004"
+    },
+    {
+      "key_text": "Gender Identity",
+      "value_text": "Female"
+    },
+    {
+      "key_text": "Pronouns",
+      "value_text": "She/Her"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-012-8849"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "555-998-2210"
+    },
+    {
+      "key_text": "University E-mail",
+      "value_text": "emontgomery@university.edu"
+    },
+    {
+      "key_text": "Permanent Home Address",
+      "value_text": "442 Oak Ridge Drive"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL, 62704"
+    },
+    {
+      "key_text": "Academic Level",
+      "value_text": "Sophomore"
+    },
+    {
+      "key_text": "Major / Program",
+      "value_text": "Biology"
+    },
+    {
+      "key_text": "Expected Graduation",
+      "value_text": "May 2026"
+    },
+    {
+      "key_text": "Academic Year Applying For",
+      "value_text": "2024-2025"
+    },
+    {
+      "key_text": "Semester / Term Start",
+      "value_text": "Fall 2024"
+    },
+    {
+      "key_text": "Preferred Roommate Name (if any)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Roommate Student ID",
+      "value_text": "8849205"
+    },
+    {
+      "key_text": "Special Housing Accommodation Needs (medical, disability, etc.)",
+      "value_text": null
+    },
+    {
+      "key_text": "Any Additional Preferences or Notes",
+      "value_text": "Prefer a room on a lower floor if possible."
+    },
+    {
+      "key_text": "Emergency Contact Name",
+      "value_text": "Robert Montgomery"
+    },
+    {
+      "key_text": "Relationship",
+      "value_text": "Father"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-998-2210"
+    },
+    {
+      "key_text": "Applicant Signature",
+      "value_text": "Elena Montgomery"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/15/2024"
+    }
+  ]
+}
+
+Narrative:
+Elena Montgomery, who goes by Ellie, is a sophomore biology student (ID: 8849201) applying for housing for the 2024-2025 academic year, starting in the Fall 2024 semester. Born on May 12, 2004, she identifies as female and uses she/her pronouns. She can be reached via her university email, emontgomery@university.edu, or her cell phone at 555-012-8849. Her permanent address is 442 Oak Ridge Drive, Springfield, IL 62704, and she has listed her home phone as 555-998-2210. 
+
+For her housing request, she has indicated a preference to room with Sarah Jenkins (ID: 8849205). She has no specific medical accommodation needs, though she noted a preference for a lower floor. In case of an emergency, the university should contact her father, Robert Montgomery, at 555-998-2210. The form was signed by Elena Montgomery on March 15, 2024.

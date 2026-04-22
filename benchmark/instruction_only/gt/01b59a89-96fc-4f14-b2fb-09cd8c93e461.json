@@ -1,0 +1,116 @@
+﻿{
+    "excel":  "01b59a89-96fc-4f14-b2fb-09cd8c93e461.xlsx",
+    "sheet":  "Travel to Present Application",
+    "pairs":  [
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "B4:G4",
+                      "value":  "Dr. Alice Thompson"
+                  },
+                  {
+                      "label":  "Date of Application:",
+                      "value_cell":  "J4:K4",
+                      "value":  "11/15/2023"
+                  },
+                  {
+                      "label":  "Name of conference:",
+                      "value_cell":  "A7:K7",
+                      "value":  "2024 Annual Humanities Symposium"
+                  },
+                  {
+                      "label":  "Sponsoring organization or institution:",
+                      "value_cell":  "A10:K10",
+                      "value":  "National Endowment for the Humanities"
+                  },
+                  {
+                      "label":  "Location:",
+                      "value_cell":  "C12:K12",
+                      "value":  "Chicago, IL"
+                  },
+                  {
+                      "label":  "Dates:",
+                      "value_cell":  "B14:G14",
+                      "value":  "March 14-17, 2024"
+                  },
+                  {
+                      "label":  "Number of days:",
+                      "value_cell":  "J14",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Title of paper being presented:  (if applicable)",
+                      "value_cell":  "A17:K17",
+                      "value":  "The Evolution of Digital Literacy in Post-Secondary Education"
+                  },
+                  {
+                      "label":  "Airfare",
+                      "value_cell":  "F26",
+                      "value":  "$385.00"
+                  },
+                  {
+                      "label":  "Airport Parking",
+                      "value_cell":  "F27",
+                      "value":  "$60.00"
+                  },
+                  {
+                      "label":  "Airport Shuttle",
+                      "value_cell":  "F28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Car Mileage",
+                      "value_cell":  "C30",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "Tolls en route",
+                      "value_cell":  "F31",
+                      "value":  "$12.50"
+                  },
+                  {
+                      "label":  "Parking at Conference",
+                      "value_cell":  "F32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "College Car/Driver/Car Rental",
+                      "value_cell":  "F33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Train/Bus",
+                      "value_cell":  "F34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Subway/Taxi",
+                      "value_cell":  "F35",
+                      "value":  "$45.00"
+                  },
+                  {
+                      "label":  "2. Conference registration fee",
+                      "value_cell":  "G38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "3. Miscellaneous expenses",
+                      "value_cell":  "G39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Meals",
+                      "value_cell":  "F41",
+                      "value":  "$240.00"
+                  },
+                  {
+                      "label":  "Hotel",
+                      "value_cell":  "F42",
+                      "value":  "$750.00"
+                  },
+                  {
+                      "label":  "Notes, if needed:",
+                      "value_cell":  "A52:K52",
+                      "value":  "Early bird registration was used to save $100."
+                  }
+              ]
+}

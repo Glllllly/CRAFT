@@ -1,0 +1,80 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Visitor Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Organization / Company",
+      "value_text": "Apex Systems Integrators"
+    },
+    {
+      "key_text": "Purpose of Visit",
+      "value_text": "Annual server room maintenance and infrastructure audit."
+    },
+    {
+      "key_text": "Visitor Email",
+      "value_text": "m.thorne@apexsystems.com"
+    },
+    {
+      "key_text": "Visitor Phone",
+      "value_text": "555-012-8849"
+    },
+    {
+      "key_text": "ID Type & Number",
+      "value_text": "Driver License #DL-9948273"
+    },
+    {
+      "key_text": "Host Employee Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Host Department",
+      "value_text": "Information Technology"
+    },
+    {
+      "key_text": "Visit Date(s)",
+      "value_text": "October 24, 2023"
+    },
+    {
+      "key_text": "Visit Time  (From – To)",
+      "value_text": "09:00 AM – 04:00 PM"
+    },
+    {
+      "key_text": "Area(s) to be Accessed",
+      "value_text": "Data Center, Server Room B, and Main Distribution Frame."
+    },
+    {
+      "key_text": "Equipment Brought On-Site",
+      "value_text": "Laptop, diagnostic toolkit, and cable testing hardware."
+    },
+    {
+      "key_text": "NDA Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Escort Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Host Employee (Signature)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Host)",
+      "value_text": "October 20, 2023"
+    },
+    {
+      "key_text": "Security / Facilities Manager",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date (Security)",
+      "value_text": "October 21, 2023"
+    }
+  ]
+}
+
+Narrative:
+This visitor access request form is for Marcus Thorne, a representative from Apex Systems Integrators, who is scheduled to visit on October 24, 2023, for annual server room maintenance and an infrastructure audit. He can be reached at m.thorne@apexsystems.com or 555-012-8849, and he has provided his driver's license number (DL-9948273) for identification. His host is Sarah Jenkins from the Information Technology department. The visit is set for 9:00 AM to 4:00 PM, covering access to the Data Center, Server Room B, and the Main Distribution Frame. Marcus will be bringing his laptop, diagnostic toolkit, and cable testing hardware. An NDA and an escort are both required for this visit. The form has been signed by the host, Sarah Jenkins, on October 20, 2023, and authorized by the Security/Facilities Manager, Robert Miller, on October 21, 2023.

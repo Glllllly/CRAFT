@@ -1,0 +1,116 @@
+﻿{
+    "excel":  "010a6a24-084f-42f1-94ac-b89d792fa6b0.xlsx",
+    "sheet":  "Contracting",
+    "pairs":  [
+                  {
+                      "label":  "TAXPAYER NAME",
+                      "value_cell":  "B4",
+                      "value":  "Mountain Top Builders Inc."
+                  },
+                  {
+                      "label":  "MAILING ADDRESS",
+                      "value_cell":  "B5",
+                      "value":  "456 Aspen Lane"
+                  },
+                  {
+                      "label":  "CITY, ST ZIP",
+                      "value_cell":  "B6",
+                      "value":  "Flagstaff, AZ 86004"
+                  },
+                  {
+                      "label":  "CITY LICENSE NO.",
+                      "value_cell":  "B7",
+                      "value":  "FLG-88219-B"
+                  },
+                  {
+                      "label":  "REPORT PERIOD",
+                      "value_cell":  "B8",
+                      "value":  "June 2024"
+                  },
+                  {
+                      "label":  "DELINQUENT IF NOT RECEIVED BY",
+                      "value_cell":  "B9",
+                      "value":  "July 20, 2024"
+                  },
+                  {
+                      "label":  "BUSINESS DESCRIPTION LINE 1",
+                      "value_cell":  "B10",
+                      "value":  "Residential Remodeling"
+                  },
+                  {
+                      "label":  "BUSINESS DESCRIPTION LINE 2",
+                      "value_cell":  "B11",
+                      "value":  null
+                  },
+                  {
+                      "label":  "BUS. CLASS LINE 1",
+                      "value_cell":  "B12",
+                      "value":  "015"
+                  },
+                  {
+                      "label":  "BUS. CLASS LINE 2",
+                      "value_cell":  "B13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SFX LINE 1",
+                      "value_cell":  "B14",
+                      "value":  "001"
+                  },
+                  {
+                      "label":  "SFX LINE 2",
+                      "value_cell":  "B15",
+                      "value":  null
+                  },
+                  {
+                      "label":  "GROSS CONTRACTING INCOME LINE 1",
+                      "value_cell":  "B17",
+                      "value":  "75,000.00"
+                  },
+                  {
+                      "label":  "GROSS CONTRACTING INCOME LINE 2",
+                      "value_cell":  "B18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DOES THIS INCOME INCLUDE TAX?",
+                      "value_cell":  "B19",
+                      "value":  "NO"
+                  },
+                  {
+                      "label":  "SUBCONTRACTING DEDUCTION LINE 1",
+                      "value_cell":  "B20",
+                      "value":  "20,000.00"
+                  },
+                  {
+                      "label":  "SUBCONTRACTING DEDUCTION LINE 2",
+                      "value_cell":  "B21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "OUT-OF-CITY DEDUCTION LINE 1",
+                      "value_cell":  "B22",
+                      "value":  "10,000.00"
+                  },
+                  {
+                      "label":  "OUT-OF-CITY DEDUCTION LINE 2",
+                      "value_cell":  "B23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "STATE LAND DEDUCTION LINE 1",
+                      "value_cell":  "B24",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "STATE LAND DEDUCTION LINE 2",
+                      "value_cell":  "B25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "ENTER AMOUNT OF CHECK",
+                      "value_cell":  "B29",
+                      "value":  "4,250.70"
+                  }
+              ]
+}

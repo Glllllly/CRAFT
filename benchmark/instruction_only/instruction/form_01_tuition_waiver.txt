@@ -1,0 +1,110 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Student Full Name:",
+      "value_text": "Alexander J. Montgomery"
+    },
+    {
+      "key_text": "Student ID:",
+      "value_text": "8849201"
+    },
+    {
+      "key_text": "Date of Birth:",
+      "value_text": "05/12/2002"
+    },
+    {
+      "key_text": "Academic Year:",
+      "value_text": "2024"
+    },
+    {
+      "key_text": "Degree Program / Major:",
+      "value_text": "Bachelor of Science in Mechanical Engineering"
+    },
+    {
+      "key_text": "School / College:",
+      "value_text": "College of Engineering"
+    },
+    {
+      "key_text": "Expected Graduation:",
+      "value_text": "May 2026"
+    },
+    {
+      "key_text": "Home Phone:",
+      "value_text": "555-0128"
+    },
+    {
+      "key_text": "Cell Phone:",
+      "value_text": "555-9982"
+    },
+    {
+      "key_text": "E-mail:",
+      "value_text": "a.montgomery@university.edu"
+    },
+    {
+      "key_text": "Type of Waiver Requested:",
+      "value_text": "Tuition Fee Waiver"
+    },
+    {
+      "key_text": "Semester / Term:",
+      "value_text": "Fall"
+    },
+    {
+      "key_text": "Academic Year:",
+      "value_text": "2024"
+    },
+    {
+      "key_text": "Amount Requested $:",
+      "value_text": "2500"
+    },
+    {
+      "key_text": "Reason / Justification (attach supporting docs):",
+      "value_text": "Employer sponsorship program"
+    },
+    {
+      "key_text": "Sponsoring Organisation:",
+      "value_text": "Apex Tech Solutions"
+    },
+    {
+      "key_text": "Contact Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Contact Phone:",
+      "value_text": "555-4433"
+    },
+    {
+      "key_text": "Authorisation Letter Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Student Signature",
+      "value_text": "Alexander J. Montgomery"
+    },
+    {
+      "key_text": "Data",
+      "value_text": "08/15/2024"
+    },
+    {
+      "key_text": "Department Chair",
+      "value_text": "Dr. Robert H. Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/20/2024"
+    },
+    {
+      "key_text": "Financial Aid Director",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/22/2024"
+    }
+  ]
+}
+
+Narrative:
+This waiver application is for Alexander J. Montgomery, a student with ID 8849201, born on May 12, 2002. Alexander is currently in the 2024 academic year, pursuing a Bachelor of Science in Mechanical Engineering within the College of Engineering, with an expected graduation date of May 2026. For contact purposes, he provided his home phone 555-0128, cell phone 555-9982, and email a.montgomery@university.edu. 
+
+He is requesting a tuition fee waiver of $2,500 for the Fall 2024 semester due to an employer sponsorship program. The sponsoring organization is Apex Tech Solutions, represented by contact person Sarah Jenkins, who can be reached at 555-4433. The authorization letter is attached as indicated by a 'Y'. The form is signed by Alexander J. Montgomery on August 15, 2024, with subsequent approvals from Department Chair Dr. Robert H. Smith on August 20, 2024, and Financial Aid Director Elena Rodriguez on August 22, 2024.

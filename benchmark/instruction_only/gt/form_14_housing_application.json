@@ -1,0 +1,136 @@
+﻿{
+    "excel":  "form_14_housing_application.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "A9:F9",
+                      "value":  "8849201"
+                  },
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "G9:N9",
+                      "value":  "Montgomery"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "O9:T9",
+                      "value":  "Elena"
+                  },
+                  {
+                      "label":  "Preferred Name",
+                      "value_cell":  "U9:X9",
+                      "value":  "Ellie"
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "A11:H11",
+                      "value":  "05/12/2004"
+                  },
+                  {
+                      "label":  "Gender Identity",
+                      "value_cell":  "I11:P11",
+                      "value":  "Female"
+                  },
+                  {
+                      "label":  "Pronouns",
+                      "value_cell":  "Q11:X11",
+                      "value":  "She/Her"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-8849"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "I13:P13",
+                      "value":  "555-998-2210"
+                  },
+                  {
+                      "label":  "University E-mail",
+                      "value_cell":  "Q13:X13",
+                      "value":  "emontgomery@university.edu"
+                  },
+                  {
+                      "label":  "Permanent Home Address",
+                      "value_cell":  "A15:L15",
+                      "value":  "442 Oak Ridge Drive"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M15:X15",
+                      "value":  "Springfield, IL, 62704"
+                  },
+                  {
+                      "label":  "Academic Level",
+                      "value_cell":  "A20:H20",
+                      "value":  "Sophomore"
+                  },
+                  {
+                      "label":  "Major / Program",
+                      "value_cell":  "I20:R20",
+                      "value":  "Biology"
+                  },
+                  {
+                      "label":  "Expected Graduation",
+                      "value_cell":  "E20:X20",
+                      "value":  "May 2026"
+                  },
+                  {
+                      "label":  "Academic Year Applying For",
+                      "value_cell":  "A22:L22",
+                      "value":  "2024-2025"
+                  },
+                  {
+                      "label":  "Semester / Term Start",
+                      "value_cell":  "M22:X22",
+                      "value":  "Fall 2024"
+                  },
+                  {
+                      "label":  "Preferred Roommate Name (if any)",
+                      "value_cell":  "A30:L30",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Roommate Student ID",
+                      "value_cell":  "M30:X30",
+                      "value":  "8849205"
+                  },
+                  {
+                      "label":  "Special Housing Accommodation Needs (medical, disability, etc.)",
+                      "value_cell":  "A32:X32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Any Additional Preferences or Notes",
+                      "value_cell":  "A40:X40",
+                      "value":  "Prefer a room on a lower floor if possible."
+                  },
+                  {
+                      "label":  "Emergency Contact Name",
+                      "value_cell":  "A45:L45",
+                      "value":  "Robert Montgomery"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M45:R45",
+                      "value":  "Father"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "S45:X45",
+                      "value":  "555-998-2210"
+                  },
+                  {
+                      "label":  "Applicant Signature",
+                      "value_cell":  "A48:N48",
+                      "value":  "Elena Montgomery"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "O48:X48",
+                      "value":  "03/15/2024"
+                  }
+              ]
+}

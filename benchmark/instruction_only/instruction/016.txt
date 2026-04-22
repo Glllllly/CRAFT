@@ -1,0 +1,144 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Product Owner / Champion Name",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Department / Business Unit",
+      "value_text": "Digital Transformation"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "e.rodriguez@company.com"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-0128"
+    },
+    {
+      "key_text": "Submission Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Target Launch Date",
+      "value_text": "2024-03-01"
+    },
+    {
+      "key_text": "Product / Service Name",
+      "value_text": "EcoTrack AI Analytics Suite"
+    },
+    {
+      "key_text": "One-Sentence Description (elevator pitch)",
+      "value_text": "An AI-powered dashboard that optimizes industrial energy consumption in real-time to reduce carbon footprints."
+    },
+    {
+      "key_text": "Problem Being Solved / Opportunity Addressed",
+      "value_text": "Manufacturing firms struggle with rising energy costs and lack granular data to meet new ESG reporting requirements."
+    },
+    {
+      "key_text": "Proposed Solution / Description of Product or Service",
+      "value_text": "A SaaS platform integrating with existing IoT sensors to provide predictive analytics and automated energy-saving recommendations."
+    },
+    {
+      "key_text": "Target Customer Segment",
+      "value_text": "Mid-to-large scale manufacturing plants"
+    },
+    {
+      "key_text": "Estimated Total Addressable Market $",
+      "value_text": "450,000,000"
+    },
+    {
+      "key_text": "Key Customer Pain Point",
+      "value_text": "High operational overhead due to energy waste"
+    },
+    {
+      "key_text": "Evidence / Research Basis",
+      "value_text": "Internal survey of 50 existing clients showing 30% interest in automated sustainability tools."
+    },
+    {
+      "key_text": "Key Competitors / Alternatives",
+      "value_text": "EnergyGrid Solutions, Manual audit firms, and legacy building management systems."
+    },
+    {
+      "key_text": "Unique Differentiator / Value Proposition",
+      "value_text": "Real-time AI predictive modeling that functions without requiring complete hardware infrastructure overhauls."
+    },
+    {
+      "key_text": "Projected Year 1 Revenue  $",
+      "value_text": "1,200,000"
+    },
+    {
+      "key_text": "Projected Year 2 Revenue  $",
+      "value_text": "3,500,000"
+    },
+    {
+      "key_text": "Development Cost Estimate  $",
+      "value_text": "750,000"
+    },
+    {
+      "key_text": "Time to Recover Investment  (months)",
+      "value_text": "18"
+    },
+    {
+      "key_text": "Resource Requirements  (headcount / tech / budget)",
+      "value_text": "4 Full-stack devs, 2 Data Scientists, $200k cloud compute budget"
+    },
+    {
+      "key_text": "Risk Level  (Low / Med / High)",
+      "value_text": "Med"
+    },
+    {
+      "key_text": "Development Complexity  (Low / Med / High)",
+      "value_text": "High"
+    },
+    {
+      "key_text": "Regulatory / Compliance Requirements",
+      "value_text": "GDPR, ISO 50001 energy management standards"
+    },
+    {
+      "key_text": "Product Owner",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Head of Product",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "CFO  (if capex > $100k)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "CEO / Board",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-20"
+    }
+  ]
+}
+
+Narrative:
+This request is being submitted by Elena Rodriguez from the Digital Transformation department. Elena can be reached via email at e.rodriguez@company.com or by phone at 555-0128. The submission date for this proposal is October 15, 2023, with a target launch set for March 1, 2024.
+
+The project, titled "EcoTrack AI Analytics Suite," is an AI-powered dashboard designed to optimize industrial energy consumption in real-time to help companies reduce their carbon footprints. We are addressing the problem that manufacturing firms currently struggle with rising energy costs and lack the granular data necessary to meet new ESG reporting requirements. Our proposed solution is a SaaS platform that integrates with existing IoT sensors to provide predictive analytics and automated energy-saving recommendations.
+
+We are targeting mid-to-large scale manufacturing plants, with an estimated total addressable market of $450,000,000. The key customer pain point is high operational overhead caused by energy waste, a fact supported by an internal survey of 50 existing clients showing 30% interest in automated sustainability tools. Our main competition includes EnergyGrid Solutions, manual audit firms, and legacy building management systems. However, our unique differentiator is our real-time AI predictive modeling that functions without requiring a complete hardware infrastructure overhaul.
+
+Financially, we project $1,200,000 in revenue for Year 1 and $3,500,000 for Year 2. With a development cost estimate of $750,000, we anticipate a time to recover the investment of 18 months. Resource requirements include four full-stack developers, two data scientists, and a $200,000 cloud compute budget. The project is considered to have a Medium risk level and High development complexity, with necessary compliance regarding GDPR and ISO 50001 energy management standards.
+
+The proposal has been signed by Product Owner Elena Rodriguez on October 15, 2023. Further authorizations have been provided by Head of Product Marcus Thorne on October 16, 2023, CFO Sarah Jenkins on October 18, 2023, and CEO David Chen on October 20, 2023.

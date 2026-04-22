@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0217_houqin_问题处理",
+    "tenant":  "houqin",
+    "topic":  "问题处理",
+    "subtopic":  "",
+    "source_dir":  "houqin\\问题处理",
+    "total_files_in_source_dir":  67,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\问题处理\\项目计划_9402.json",
+                      "copied_name":  "项目计划_9402.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\问题处理\\工作计划_4229.csv",
+                      "copied_name":  "工作计划_4229.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1392
+                  },
+                  {
+                      "source_rel":  "houqin\\问题处理\\问题记录_15.txt",
+                      "copied_name":  "问题记录_15.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  521
+                  },
+                  {
+                      "source_rel":  "houqin\\问题处理\\库存清单_9864.eml",
+                      "copied_name":  "库存清单_9864.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\问题处理\\审核单_8813.csv",
+                      "copied_name":  "审核单_8813.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1383
+                  }
+              ]
+}

@@ -1,0 +1,19 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "campaigna",
+                                   "selected_value":  "On track, 85% completion",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "campaignb",
+                                   "selected_value":  "Needs adjustment, performance below target",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "campaignc",
+                                   "selected_value":  "Exceeded expectations, ROI 3.5x",
+                                   "conflict":  false
+                               }
+                           ]
+}

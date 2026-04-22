@@ -1,0 +1,1668 @@
+{
+  "bundle_dir": "case_0022_chanpin_产品设计_交互设计",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "交互文档_51.txt",
+      "source_type": "txt",
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库4",
+          "raw_key": "图标",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库4",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体1",
+          "raw_key": "字体",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3",
+          "raw_key": "版本",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型2",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型2",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师4",
+          "raw_key": "设计师",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师4",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-09-11",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-09-11",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0051",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0051",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面51",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面51",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系2",
+          "raw_key": "颜色",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系2",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "交互文档_52.txt",
+      "source_type": "txt",
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库1",
+          "raw_key": "图标",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库1",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体2",
+          "raw_key": "字体",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体2",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型3",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型3",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师5",
+          "raw_key": "设计师",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师5",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-05-10",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-05-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0052",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0052",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面52",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面52",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系3",
+          "raw_key": "颜色",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系3",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "交互文档_53.txt",
+      "source_type": "txt",
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库2",
+          "raw_key": "图标",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库2",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体3",
+          "raw_key": "字体",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3",
+          "raw_key": "版本",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型4",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型4",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师6",
+          "raw_key": "设计师",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师6",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-12-08",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-12-08",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0053",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0053",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面53",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面53",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系4",
+          "raw_key": "颜色",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系4",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "交互文档_54.txt",
+      "source_type": "txt",
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库3",
+          "raw_key": "图标",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库3",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体1",
+          "raw_key": "字体",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V1",
+          "raw_key": "版本",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型5",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型5",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师1",
+          "raw_key": "设计师",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-06-01",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-06-01",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0054",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0054",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面54",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面54",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系5",
+          "raw_key": "颜色",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系5",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "交互文档_55.txt",
+      "source_type": "txt",
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库4",
+          "raw_key": "图标",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库4",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体2",
+          "raw_key": "字体",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体2",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型1",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型1",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师2",
+          "raw_key": "设计师",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-06-02",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-06-02",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0055",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0055",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面55",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面55",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系1",
+          "raw_key": "颜色",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系1",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "功能",
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "列表展示",
+          "raw_key": "功能",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：列表展示",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "图标",
+      "candidates": [
+        {
+          "key": "图标",
+          "value": "图标库4",
+          "raw_key": "图标",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库4",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库1",
+          "raw_key": "图标",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库1",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库2",
+          "raw_key": "图标",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库2",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库3",
+          "raw_key": "图标",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库3",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图标",
+          "value": "图标库4",
+          "raw_key": "图标",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "图标：图标库4",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "字体",
+      "candidates": [
+        {
+          "key": "字体",
+          "value": "字体1",
+          "raw_key": "字体",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体2",
+          "raw_key": "字体",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体2",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体3",
+          "raw_key": "字体",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体1",
+          "raw_key": "字体",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "字体",
+          "value": "字体2",
+          "raw_key": "字体",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "字体：字体2",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "审批状态",
+      "candidates": [
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批状态",
+          "value": "待审批)",
+          "raw_key": "审批状态",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审批状态：待审批)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "版本",
+      "candidates": [
+        {
+          "key": "版本",
+          "value": "V3",
+          "raw_key": "版本",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3",
+          "raw_key": "版本",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V1",
+          "raw_key": "版本",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户类型",
+      "candidates": [
+        {
+          "key": "用户类型",
+          "value": "用户类型2",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型2",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型3",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型3",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型4",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型4",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型5",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型5",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户类型",
+          "value": "用户类型1",
+          "raw_key": "用户类型",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户类型：用户类型1",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计师",
+      "candidates": [
+        {
+          "key": "设计师",
+          "value": "设计师4",
+          "raw_key": "设计师",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师4",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师5",
+          "raw_key": "设计师",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师5",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师6",
+          "raw_key": "设计师",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师6",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师1",
+          "raw_key": "设计师",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计师",
+          "value": "设计师2",
+          "raw_key": "设计师",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计师：设计师2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计日期",
+      "candidates": [
+        {
+          "key": "设计日期",
+          "value": "2024-09-11",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-09-11",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-05-10",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-05-10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-12-08",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-12-08",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-06-01",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-06-01",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计日期",
+          "value": "2024-06-02",
+          "raw_key": "设计日期",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计日期：2024-06-02",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计编号",
+      "candidates": [
+        {
+          "key": "设计编号",
+          "value": "DES-0051",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0051",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0052",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0052",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0053",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0053",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0054",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0054",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计编号",
+          "value": "DES-0055",
+          "raw_key": "设计编号",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计编号：DES-0055",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "访问频率",
+      "candidates": [
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "访问频率",
+          "value": "高)",
+          "raw_key": "访问频率",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "访问频率：高)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "间距",
+      "candidates": [
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "间距",
+          "value": "标准间距",
+          "raw_key": "间距",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "间距：标准间距",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "页面名称",
+      "candidates": [
+        {
+          "key": "页面名称",
+          "value": "页面51",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面51",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面52",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面52",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面53",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面53",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面54",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面54",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "页面名称",
+          "value": "页面55",
+          "raw_key": "页面名称",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "页面名称：页面55",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "颜色",
+      "candidates": [
+        {
+          "key": "颜色",
+          "value": "品牌色系2",
+          "raw_key": "颜色",
+          "source_file": "交互文档_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系2",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系3",
+          "raw_key": "颜色",
+          "source_file": "交互文档_52.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系3",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系4",
+          "raw_key": "颜色",
+          "source_file": "交互文档_53.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系4",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系5",
+          "raw_key": "颜色",
+          "source_file": "交互文档_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系5",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "颜色",
+          "value": "品牌色系1",
+          "raw_key": "颜色",
+          "source_file": "交互文档_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "颜色：品牌色系1",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

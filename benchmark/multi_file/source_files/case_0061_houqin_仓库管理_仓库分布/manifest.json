@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0061_houqin_仓库管理_仓库分布",
+    "tenant":  "houqin",
+    "topic":  "仓库管理",
+    "subtopic":  "仓库分布",
+    "source_dir":  "houqin\\仓库管理\\仓库分布",
+    "total_files_in_source_dir":  34,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\仓库管理\\仓库分布\\维修记录_5803.json",
+                      "copied_name":  "维修记录_5803.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\仓库分布\\费用统计_4489.csv",
+                      "copied_name":  "费用统计_4489.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1374
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\仓库分布\\仓库布局说明.txt",
+                      "copied_name":  "仓库布局说明.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  929
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\仓库分布\\库存统计_7944.eml",
+                      "copied_name":  "库存统计_7944.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\仓库分布\\访问记录_1328.csv",
+                      "copied_name":  "访问记录_1328.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

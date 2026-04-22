@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Datum",
+      "value_text": "15.06.2023"
+    },
+    {
+      "key_text": "Unterschrift des Lehrlings, Schülers bzw. Praktikanten",
+      "value_text": "Lukas Müller"
+    },
+    {
+      "key_text": "Datum",
+      "value_text": "16.06.2023"
+    },
+    {
+      "key_text": "Unterschrift des Ausbilders",
+      "value_text": "Hans Schmidt"
+    },
+    {
+      "key_text": "Kontrolle des Arbeitsbuches anlässlich",
+      "value_text": "Abschluss des 2. Lehrjahres"
+    },
+    {
+      "key_text": "Bemerkung",
+      "value_text": "Alle Berichte wurden ordnungsgemäß und zeitgerecht verfasst. Keine Beanstandungen."
+    },
+    {
+      "key_text": "Datum",
+      "value_text": "20.06.2023"
+    },
+    {
+      "key_text": "Unterschrift des Kontrollors/Fachlehrers",
+      "value_text": "Dr. Petra Weber"
+    }
+  ]
+}
+
+Narrative:
+This document is a confirmation and control form for an apprentice's work logbook. In the first section, the apprentice Lukas Müller signed the form on June 15, 2023, confirming that he personally made all entries. Next, the trainer Hans Schmidt signed on June 16, 2023, verifying that he has regularly reviewed the logbook and discussed it with the student. The final section documents a formal control carried out on June 20, 2023, on the occasion of completing the second year of apprenticeship. The remarks indicate that all reports were written correctly and on time, with no issues found. This final section was signed by the subject teacher, Dr. Petra Weber.

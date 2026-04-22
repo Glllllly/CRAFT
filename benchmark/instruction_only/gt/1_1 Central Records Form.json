@@ -1,0 +1,131 @@
+﻿{
+    "excel":  "1_1 Central Records Form.xlsx",
+    "sheet":  "rename (2)",
+    "pairs":  [
+                  {
+                      "label":  "Retention Schedule Number",
+                      "value_cell":  "A4:C4",
+                      "value":  "408"
+                  },
+                  {
+                      "label":  "R.C. Number",
+                      "value_cell":  "D4:E4",
+                      "value":  "0771"
+                  },
+                  {
+                      "label":  "Company Number",
+                      "value_cell":  "F4",
+                      "value":  "413"
+                  },
+                  {
+                      "label":  "Destination Date",
+                      "value_cell":  "G4:H4",
+                      "value":  "10/15/1997"
+                  },
+                  {
+                      "label":  "Transfer Number",
+                      "value_cell":  "I4:J4",
+                      "value":  "97-024"
+                  },
+                  {
+                      "label":  "Company",
+                      "value_cell":  "A6:E6",
+                      "value":  "ENRON CORP"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "F6:H6",
+                      "value":  "Merchant Finance"
+                  },
+                  {
+                      "label":  "Section",
+                      "value_cell":  "I6:J6",
+                      "value":  "Accounting"
+                  },
+                  {
+                      "label":  "Retention Schedule Item Number",
+                      "value_cell":  "A10:B12",
+                      "value":  "20403"
+                  },
+                  {
+                      "label":  "Record Title by Filing Arrangement and Record Series Range, eg. 1-5, A-H, etc. (Title Same as Used in Retention Schedule)",
+                      "value_cell":  "C10:F12",
+                      "value":  "Cactus Reports 1997, Cactus Distribution Schedules, Cactus Report"
+                  },
+                  {
+                      "label":  "From",
+                      "value_cell":  "G10:G12",
+                      "value":  "01/01/1997"
+                  },
+                  {
+                      "label":  "To",
+                      "value_cell":  "H10:H12",
+                      "value":  "12/31/1997"
+                  },
+                  {
+                      "label":  "Container Number",
+                      "value_cell":  "I10:I12",
+                      "value":  "Z0063220"
+                  },
+                  {
+                      "label":  "Location #",
+                      "value_cell":  "J10:J12",
+                      "value":  "A-12"
+                  },
+                  {
+                      "label":  "Prepared By",
+                      "value_cell":  "A14:D14",
+                      "value":  "Dana Davis"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "E14",
+                      "value":  "10/12/1997"
+                  },
+                  {
+                      "label":  "Building/Room/City",
+                      "value_cell":  "F14:J14",
+                      "value":  "ENRON CORP./EB 2448a/HOUSTON"
+                  },
+                  {
+                      "label":  "Department Head",
+                      "value_cell":  "A16:D16",
+                      "value":  "Hope Vargas"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "E16",
+                      "value":  "10/13/1997"
+                  },
+                  {
+                      "label":  "Computer Input By",
+                      "value_cell":  "F16:I16",
+                      "value":  "John Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "J16",
+                      "value":  "10/14/1997"
+                  },
+                  {
+                      "label":  "Checked and Received by",
+                      "value_cell":  "A18:D18",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "E18",
+                      "value":  "10/16/1997"
+                  },
+                  {
+                      "label":  "Verified by",
+                      "value_cell":  "F18:I18",
+                      "value":  "Robert Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "J18",
+                      "value":  "10/17/1997"
+                  }
+              ]
+}

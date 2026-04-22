@@ -1,0 +1,136 @@
+{
+  "excel": "case_0099_houqin_库存管理_物品清单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "55959"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "访问记录_8628"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "访问记录"
+    },
+    {
+      "label": "subject",
+      "value_cell": "P6:S7",
+      "value": "工作计划"
+    },
+    {
+      "label": "date",
+      "value_cell": "A10:D11",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F10:I11",
+      "value": "2026-02-10T05:30:32.917000"
+    },
+    {
+      "label": "更新时间",
+      "value_cell": "K10:N11",
+      "value": "2024年2月10日"
+    },
+    {
+      "label": "status",
+      "value_cell": "A16:D17",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F16:I17",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K16:N17",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "P16:S17",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "A20:D21",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F20:I21",
+      "value": "李四"
+    },
+    {
+      "label": "显示器(8台)库位",
+      "value_cell": "A26:D27",
+      "value": "B2-01"
+    },
+    {
+      "label": "会议桌(12张)库位",
+      "value_cell": "F26:I27",
+      "value": "C3-02"
+    },
+    {
+      "label": "办公椅(45把)库位",
+      "value_cell": "K26:N27",
+      "value": "C3-01"
+    },
+    {
+      "label": "文件柜(30个)库位",
+      "value_cell": "P26:S27",
+      "value": "C3-03"
+    },
+    {
+      "label": "键盘鼠标套装(25套)库位",
+      "value_cell": "A30:D31",
+      "value": "B2-02"
+    },
+    {
+      "label": "a4纸(75箱)库位",
+      "value_cell": "A36:D37",
+      "value": "A1-01"
+    },
+    {
+      "label": "充电器(60个)库位",
+      "value_cell": "F36:I37",
+      "value": "B2-04"
+    },
+    {
+      "label": "订书机(45台)库位",
+      "value_cell": "K36:N37",
+      "value": "A1-03"
+    },
+    {
+      "label": "文件夹(500个)库位",
+      "value_cell": "P36:S37",
+      "value": "A1-04"
+    },
+    {
+      "label": "笔类(1200支)库位",
+      "value_cell": "A40:D41",
+      "value": "A1-02"
+    },
+    {
+      "label": "白板笔(2000支)库位",
+      "value_cell": "F40:I41",
+      "value": "A1-05"
+    },
+    {
+      "label": "usb数据线(150条)库位",
+      "value_cell": "K40:N41",
+      "value": "B2-03"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A46:D47",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

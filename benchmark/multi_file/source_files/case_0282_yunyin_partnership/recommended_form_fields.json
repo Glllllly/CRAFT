@@ -1,0 +1,49 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "2024-02-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "Pending Signature",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "authorizedby",
+                                   "selected_value":  "General Manager",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "paymentterms",
+                                   "selected_value":  "Net 30",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "payoutfrequency",
+                                   "selected_value":  "Monthly",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketingsupport",
+                                   "selected_value":  "Digital materials provided",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "transitionperiod",
+                                   "selected_value":  "60 days",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "disputeresolution",
+                                   "selected_value":  "Arbitration",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "renewalconditions",
+                                   "selected_value":  "Automatic unless terminated",
+                                   "conflict":  false
+                               }
+                           ]
+}

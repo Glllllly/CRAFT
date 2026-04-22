@@ -1,0 +1,111 @@
+{
+  "excel": "case_0193_houqin_物资申请_已发放__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "55341"
+    },
+    {
+      "label": "申请编号",
+      "value_cell": "M6:Q6",
+      "value": "MAT-2024-010"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "D9:H9",
+      "value": "2024-01-16"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "M9:Q9",
+      "value": "刘伟"
+    },
+    {
+      "label": "申请部门",
+      "value_cell": "D12:H12",
+      "value": "人力资源部"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D17:H17",
+      "value": "库存清单"
+    },
+    {
+      "label": "用途说明",
+      "value_cell": "M17:Q17",
+      "value": "办公环境改善"
+    },
+    {
+      "label": "预算科目",
+      "value_cell": "D20:H20",
+      "value": "固定资产/办公用品"
+    },
+    {
+      "label": "预计金额",
+      "value_cell": "M20:Q20",
+      "value": "¥13713"
+    },
+    {
+      "label": "申请状态",
+      "value_cell": "D25:H25",
+      "value": "已发放"
+    },
+    {
+      "label": "status",
+      "value_cell": "M25:Q25",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D28:H28",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M28:Q28",
+      "value": "紧急"
+    },
+    {
+      "label": "title",
+      "value_cell": "D33:H33",
+      "value": "总结报告_2969"
+    },
+    {
+      "label": "type",
+      "value_cell": "M33:Q33",
+      "value": "总结报告"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D36:H36",
+      "value": "王五"
+    },
+    {
+      "label": "date",
+      "value_cell": "M36:Q36",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D39:H39",
+      "value": "2026-02-10T05:30:30.697599"
+    },
+    {
+      "label": "from",
+      "value_cell": "M39:Q39",
+      "value": "孙七@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D42:H42",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M42:Q42",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

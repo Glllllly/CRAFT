@@ -1,0 +1,131 @@
+﻿{
+    "excel":  "form_01_tuition_waiver.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student Full Name:",
+                      "value_cell":  "J9:X9",
+                      "value":  "Alexander J. Montgomery"
+                  },
+                  {
+                      "label":  "Student ID:",
+                      "value_cell":  "E10:H10",
+                      "value":  "8849201"
+                  },
+                  {
+                      "label":  "Date of Birth:",
+                      "value_cell":  "N10:P10",
+                      "value":  "05/12/2002"
+                  },
+                  {
+                      "label":  "Academic Year:",
+                      "value_cell":  "V10:X10",
+                      "value":  "2024"
+                  },
+                  {
+                      "label":  "Degree Program / Major:",
+                      "value_cell":  "J11:X11",
+                      "value":  "Bachelor of Science in Mechanical Engineering"
+                  },
+                  {
+                      "label":  "School / College:",
+                      "value_cell":  "G12:L12",
+                      "value":  "College of Engineering"
+                  },
+                  {
+                      "label":  "Expected Graduation:",
+                      "value_cell":  "T12:X12",
+                      "value":  "May 2026"
+                  },
+                  {
+                      "label":  "Home Phone:",
+                      "value_cell":  "E13:H13",
+                      "value":  "555-0128"
+                  },
+                  {
+                      "label":  "Cell Phone:",
+                      "value_cell":  "M13:P13",
+                      "value":  "555-9982"
+                  },
+                  {
+                      "label":  "E-mail:",
+                      "value_cell":  "T13:X13",
+                      "value":  "a.montgomery@university.edu"
+                  },
+                  {
+                      "label":  "Type of Waiver Requested:",
+                      "value_cell":  "R17:X17",
+                      "value":  "Tuition Fee Waiver"
+                  },
+                  {
+                      "label":  "Semester / Term:",
+                      "value_cell":  "G18:H18",
+                      "value":  "Fall"
+                  },
+                  {
+                      "label":  "Academic Year:",
+                      "value_cell":  "N18:P18",
+                      "value":  "2024"
+                  },
+                  {
+                      "label":  "Amount Requested $:",
+                      "value_cell":  "W18:X18",
+                      "value":  "2500"
+                  },
+                  {
+                      "label":  "Reason / Justification (attach supporting docs):",
+                      "value_cell":  "R19:X19",
+                      "value":  "Employer sponsorship program"
+                  },
+                  {
+                      "label":  "Sponsoring Organisation:",
+                      "value_cell":  "N24:X24",
+                      "value":  "Apex Tech Solutions"
+                  },
+                  {
+                      "label":  "Contact Name:",
+                      "value_cell":  "F25:L25",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Contact Phone:",
+                      "value_cell":  "R25:X25",
+                      "value":  "555-4433"
+                  },
+                  {
+                      "label":  "Authorisation Letter Attached?  Y / N",
+                      "value_cell":  "T26:X26",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Student Signature",
+                      "value_cell":  "A33:M33",
+                      "value":  "Alexander J. Montgomery"
+                  },
+                  {
+                      "label":  "Data",
+                      "value_cell":  "Q33:X33",
+                      "value":  "08/15/2024"
+                  },
+                  {
+                      "label":  "Department Chair",
+                      "value_cell":  "A35:M35",
+                      "value":  "Dr. Robert H. Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q35:X35",
+                      "value":  "08/20/2024"
+                  },
+                  {
+                      "label":  "Financial Aid Director",
+                      "value_cell":  "A37:M37",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q37:X37",
+                      "value":  "08/22/2024"
+                  }
+              ]
+}

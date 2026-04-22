@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "form_20_meeting_room_booking.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requester Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "I7:M7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Date of Meeting",
+                      "value_cell":  "A9:H9",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "Start Time",
+                      "value_cell":  "I9:M9",
+                      "value":  "10:00 AM"
+                  },
+                  {
+                      "label":  "End Time",
+                      "value_cell":  "A11:H11",
+                      "value":  "11:30 AM"
+                  },
+                  {
+                      "label":  "Number of Attendees",
+                      "value_cell":  "I11:M11",
+                      "value":  "8"
+                  },
+                  {
+                      "label":  "Preferred Room / Location",
+                      "value_cell":  "A15:H15",
+                      "value":  "Conference Room A"
+                  },
+                  {
+                      "label":  "Alternative Room",
+                      "value_cell":  "I15:M15",
+                      "value":  "Conference Room B"
+                  },
+                  {
+                      "label":  "Projector / Display Required  Y / N",
+                      "value_cell":  "A17:H17",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Video Conferencing Required  Y / N",
+                      "value_cell":  "I17:M17",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Whiteboard Required  Y / N",
+                      "value_cell":  "A19:H19",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Catering / Refreshments  Y / N",
+                      "value_cell":  "I19:M19",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Meeting Title / Purpose",
+                      "value_cell":  "A21:M21",
+                      "value":  "Q4 Marketing Strategy Review"
+                  },
+                  {
+                      "label":  "External Visitors Expected  Y / N",
+                      "value_cell":  "A23:M23",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Facilities / Admin Coordinator",
+                      "value_cell":  "A29:J29",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Coordinator)",
+                      "value_cell":  "M29",
+                      "value":  "2023-11-10"
+                  }
+              ]
+}

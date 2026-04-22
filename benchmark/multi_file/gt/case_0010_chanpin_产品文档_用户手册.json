@@ -1,0 +1,21 @@
+{
+  "excel": "case_0010_chanpin_产品文档_用户手册__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "导出数据",
+      "value_cell": "D6:H6",
+      "value": "支持Excel、PDF等格式"
+    },
+    {
+      "label": "使用高级搜索",
+      "value_cell": "D11:H11",
+      "value": "支持多条件组合查询"
+    },
+    {
+      "label": "自定义设置",
+      "value_cell": "D16:H16",
+      "value": "个性化配置"
+    }
+  ]
+}

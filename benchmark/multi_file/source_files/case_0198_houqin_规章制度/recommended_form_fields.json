@@ -1,0 +1,114 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "工作日志_4391",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "进行中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "publish_date",
+                                   "selected_value":  "2024-01-30",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "紧急",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.584121",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "51125",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "王五@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "刘涛@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "工作日志",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "周八",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "库存统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "审批人",
+                                   "selected_value":  "总经理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "版本号",
+                                   "selected_value":  "V1.0",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "制定部门",
+                                   "selected_value":  "后勤部",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "制度名称",
+                                   "selected_value":  "采购管理办法",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "发布部门",
+                                   "selected_value":  "后勤部",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "审批部门",
+                                   "selected_value":  "总经办",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文件编号",
+                                   "selected_value":  "RULE-003",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "生效日期",
+                                   "selected_value":  "2024-02-01",
+                                   "conflict":  false
+                               }
+                           ]
+}

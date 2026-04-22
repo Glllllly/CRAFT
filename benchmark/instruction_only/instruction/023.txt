@@ -1,0 +1,142 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Reporter Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Employee / Contractor ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Team / Department",
+      "value_text": "Customer Success Engineering"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "m.thorne@company.com"
+    },
+    {
+      "key_text": "Date of Report",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Time of Report",
+      "value_text": "14:30"
+    },
+    {
+      "key_text": "Issue Title (short, descriptive summary)",
+      "value_text": "Payment gateway timeout during checkout process"
+    },
+    {
+      "key_text": "Affected System / Application",
+      "value_text": "E-Commerce Payment Portal"
+    },
+    {
+      "key_text": "Version / Build Number",
+      "value_text": "v4.2.1-stable"
+    },
+    {
+      "key_text": "Environment (Production / Staging / Dev / QA)",
+      "value_text": "Production"
+    },
+    {
+      "key_text": "Browser / OS (if applicable)",
+      "value_text": "Chrome 118 / Windows 11"
+    },
+    {
+      "key_text": "Date Issue First Observed",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Frequency (always / often / rarely / once)",
+      "value_text": "often"
+    },
+    {
+      "key_text": "Step 1",
+      "value_text": "Add items to the shopping cart."
+    },
+    {
+      "key_text": "Step 2",
+      "value_text": "Proceed to the checkout page."
+    },
+    {
+      "key_text": "Step 3",
+      "value_text": "Enter valid credit card information."
+    },
+    {
+      "key_text": "Step 4 (add more on back if needed)",
+      "value_text": "Click the 'Complete Purchase' button."
+    },
+    {
+      "key_text": "Expected Behaviour (what should happen?)",
+      "value_text": "The payment should process and redirect to the 'Thank You' confirmation page."
+    },
+    {
+      "key_text": "Actual Behaviour  (what actually happened?)",
+      "value_text": "The page hangs for 30 seconds and then displays a gateway timeout error."
+    },
+    {
+      "key_text": "Error Message Displayed  (exact text or code)",
+      "value_text": "504 Gateway Timeout: Payment API unresponsive"
+    },
+    {
+      "key_text": "Business Impact — who or what is affected?",
+      "value_text": "Customers cannot complete purchases, leading to direct loss of revenue."
+    },
+    {
+      "key_text": "Number of Users Affected  (approx.)",
+      "value_text": "50+"
+    },
+    {
+      "key_text": "Workaround Available?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Workaround Description  (if applicable)",
+      "value_text": "Users can use the PayPal express checkout option as an alternative."
+    },
+    {
+      "key_text": "Screenshot",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Screen Recording",
+      "value_text": null
+    },
+    {
+      "key_text": "Log File",
+      "value_text": "X"
+    },
+    {
+      "key_text": "File / Ticket Names",
+      "value_text": "payment_err_log_1012.txt"
+    },
+    {
+      "key_text": "Ticket System Reference  (Jira / Azure / other)",
+      "value_text": "Jira-PROD-992"
+    },
+    {
+      "key_text": "Reporter Signature",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "QA Lead / Triage Owner",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    }
+  ]
+}
+
+Narrative:
+This bug report was submitted by Marcus Thorne (EMP-88429) from the Customer Success Engineering team on October 12, 2023, at 2:30 PM. The issue, titled "Payment gateway timeout during checkout process," concerns the E-Commerce Payment Portal (v4.2.1-stable) in the Production environment, specifically affecting Chrome 118 users on Windows 11. The problem was first observed today and is occurring frequently. 
+
+The reproduction steps involve adding items to a cart, proceeding to checkout, entering credit card details, and clicking "Complete Purchase." While the system should redirect to a confirmation page, it hangs for 30 seconds before showing a "504 Gateway Timeout: Payment API unresponsive" error. This is a significant issue as it prevents customers from finalizing transactions. Approximately 50 users have been affected so far. A temporary workaround is available, as users can opt for PayPal express checkout instead. Supporting documentation, including a screenshot and a log file named "payment_err_log_1012.txt," has been attached and referenced under Jira-PROD-992. The report has been signed by Marcus Thorne and acknowledged by QA Lead Sarah Jenkins on the same day.

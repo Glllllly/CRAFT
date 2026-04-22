@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Az iskola neve:",
+      "value_text": "Budapest V. Kerületi Eötvös József Gimnázium"
+    },
+    {
+      "key_text": "Címe:",
+      "value_text": "1053 Budapest, Reáltanoda u. 7."
+    },
+    {
+      "key_text": "Telefonszáma:",
+      "value_text": "+36 1 317 3133"
+    },
+    {
+      "key_text": "Faxszáma:",
+      "value_text": "+36 1 317 3133"
+    },
+    {
+      "key_text": "A benevezett osztály száma és betűjele, vagy a szakkör/csoport megnevezése:",
+      "value_text": "10.B osztály"
+    },
+    {
+      "key_text": "Létszáma:",
+      "value_text": "28 fő"
+    },
+    {
+      "key_text": "A munkát irányító tanár neve:",
+      "value_text": "Dr. Kovács István"
+    },
+    {
+      "key_text": "E-mail címe:",
+      "value_text": "kovacs.istvan@eotvos-gimn.hu"
+    },
+    {
+      "key_text": "Telefonszáma (otthoni vagy mobil):",
+      "value_text": "+36 30 123 4567"
+    },
+    {
+      "key_text": "Honnan értesültek a pályázatunkról?",
+      "value_text": "Az iskola hirdetőtáblájáról."
+    },
+    {
+      "key_text": "Dátum:",
+      "value_text": "2023. október 12."
+    },
+    {
+      "key_text": "Aláírás:",
+      "value_text": "Kovács István"
+    }
+  ]
+}
+
+Narrative:
+This is an application form for the 'Achilleus pajzsa' correspondence competition. The participating school is the Budapest V. Kerületi Eötvös József Gimnázium, located at 1053 Budapest, Reáltanoda u. 7. Their school phone and fax number is +36 1 317 3133. The entry is for class 10.B, which consists of 28 students. The supervising teacher for the project is Dr. István Kovács, who can be reached via email at kovacs.istvan@eotvos-gimn.hu or by mobile phone at +36 30 123 4567. They learned about the competition from the school's notice board. The form was signed by István Kovács on October 12, 2023.

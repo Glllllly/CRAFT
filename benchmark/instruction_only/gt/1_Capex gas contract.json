@@ -1,0 +1,61 @@
+﻿{
+    "excel":  "1_Capex gas contract.xlsx",
+    "sheet":  "ms",
+    "pairs":  [
+                  {
+                      "label":  "DATE: ",
+                      "value_cell":  "B4",
+                      "value":  "October 12, 2023"
+                  },
+                  {
+                      "label":  "ATTORNEY:",
+                      "value_cell":  "D3",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "DEAL MAKER:",
+                      "value_cell":  "D4",
+                      "value":  "Michael Sterling"
+                  },
+                  {
+                      "label":  "COUNTERPARTY:",
+                      "value_cell":  "B5",
+                      "value":  "Apex Energy Solutions"
+                  },
+                  {
+                      "label":  "   ADDRESS:",
+                      "value_cell":  "B6",
+                      "value":  "4500 Industrial Way, Houston, TX 77002"
+                  },
+                  {
+                      "label":  "CONTACT:",
+                      "value_cell":  "D5",
+                      "value":  "Robert Vance"
+                  },
+                  {
+                      "label":  "TITLE:",
+                      "value_cell":  "D6",
+                      "value":  "Director of Procurement"
+                  },
+                  {
+                      "label":  "PHONE:",
+                      "value_cell":  "D7",
+                      "value":  "(713) 555-0198"
+                  },
+                  {
+                      "label":  "FAX:",
+                      "value_cell":  "D8",
+                      "value":  "(713) 555-0199"
+                  },
+                  {
+                      "label":  "S\u0026P Rating",
+                      "value_cell":  "D9",
+                      "value":  "BBB+"
+                  },
+                  {
+                      "label":  "Incorporation State",
+                      "value_cell":  "B9",
+                      "value":  "Delaware"
+                  }
+              ]
+}

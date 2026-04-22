@@ -1,0 +1,118 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Last Name",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Michael"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Street Address",
+      "value_text": "452 Oak Ridge Drive"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL 62704"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "217-555-0129"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "217-555-9832"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "m.henderson@company.org"
+    },
+    {
+      "key_text": "Department / Business Unit",
+      "value_text": "Logistics and Distribution"
+    },
+    {
+      "key_text": "Supervisor Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date of Incident",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Time of Incident",
+      "value_text": "09:30 AM"
+    },
+    {
+      "key_text": "Location of Incident",
+      "value_text": "Warehouse Loading Dock B"
+    },
+    {
+      "key_text": "Type of Claim  (Workers' Comp / Property / Vehicle / Liability / Other)",
+      "value_text": "Vehicle"
+    },
+    {
+      "key_text": "Description of Incident — what happened, how, and where",
+      "value_text": "While reversing the company delivery van at the loading dock, the rear bumper struck a concrete support pillar due to limited visibility."
+    },
+    {
+      "key_text": "Immediate Action Taken",
+      "value_text": "Stopped vehicle, secured the area, and notified floor manager immediately."
+    },
+    {
+      "key_text": "Was medical treatment sought?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Medical Provider / Hospital Name",
+      "value_text": null
+    },
+    {
+      "key_text": "Witnesses — Name(s) and Contact Information",
+      "value_text": "David Miller (Warehouse Staff) - ext. 4421"
+    },
+    {
+      "key_text": "Item / Vehicle Description",
+      "value_text": "Company Delivery Van"
+    },
+    {
+      "key_text": "Make / Model / Year",
+      "value_text": "Ford Transit 2021"
+    },
+    {
+      "key_text": "Serial / VIN Number",
+      "value_text": "1FT7X2CM6MKA99210"
+    },
+    {
+      "key_text": "Estimated Repair Cost  $",
+      "value_text": "1,250.00"
+    },
+    {
+      "key_text": "Damage Description",
+      "value_text": "Dented rear bumper and cracked plastic tail light assembly."
+    },
+    {
+      "key_text": "Claimant Signature",
+      "value_text": "Michael Henderson"
+    },
+    {
+      "key_text": "Supervisor Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    }
+  ]
+}
+
+Narrative:
+This insurance claim is filed by Michael Henderson (Employee ID: EMP-8842), who resides at 452 Oak Ridge Drive, Springfield, IL 62704. He can be reached at 217-555-9832 or via email at m.henderson@company.org. Michael works in the Logistics and Distribution department under the supervision of Sarah Jenkins.
+
+The incident occurred on October 14, 2023, at approximately 09:30 AM at the Warehouse Loading Dock B. This is a vehicle claim involving a 2021 Ford Transit (VIN: 1FT7X2CM6MKA99210). Michael reported that while he was reversing the van, the rear bumper struck a concrete support pillar. No medical treatment was required. David Miller, a member of the warehouse staff, witnessed the event. The vehicle sustained a dented rear bumper and a cracked tail light, with an estimated repair cost of $1,250.00. Michael took immediate action by stopping the vehicle and notifying his supervisor. The form was signed by both Michael Henderson and Sarah Jenkins on October 14, 2023.

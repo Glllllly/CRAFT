@@ -1,0 +1,206 @@
+{
+  "excel": "case_0299_yunyin_workflows__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "version",
+      "value_cell": "A6:D7",
+      "value": "1.0"
+    },
+    {
+      "label": "steps.0.id",
+      "value_cell": "A12:D13",
+      "value": "collect_metrics"
+    },
+    {
+      "label": "steps.0.action",
+      "value_cell": "F12:I13",
+      "value": "fetch_analytics"
+    },
+    {
+      "label": "steps.1.id",
+      "value_cell": "K12:N13",
+      "value": "process_data"
+    },
+    {
+      "label": "steps.1.action",
+      "value_cell": "P12:S13",
+      "value": "transform"
+    },
+    {
+      "label": "steps.1.input",
+      "value_cell": "A16:D17",
+      "value": "collect_metrics"
+    },
+    {
+      "label": "steps.2.id",
+      "value_cell": "F16:I17",
+      "value": "generate_report"
+    },
+    {
+      "label": "steps.2.action",
+      "value_cell": "K16:N17",
+      "value": "create_report"
+    },
+    {
+      "label": "steps.2.input",
+      "value_cell": "P16:S17",
+      "value": "process_data"
+    },
+    {
+      "label": "steps.3.id",
+      "value_cell": "A20:D21",
+      "value": "send_notification"
+    },
+    {
+      "label": "steps.3.action",
+      "value_cell": "F20:I21",
+      "value": "send_email"
+    },
+    {
+      "label": "steps.3.input",
+      "value_cell": "K20:N21",
+      "value": "generate_report"
+    },
+    {
+      "label": "steps.4.id",
+      "value_cell": "P20:S21",
+      "value": "update_dashboard"
+    },
+    {
+      "label": "steps.4.action",
+      "value_cell": "A24:D25",
+      "value": "update_dashboard"
+    },
+    {
+      "label": "steps.4.input",
+      "value_cell": "F24:I25",
+      "value": "process_data"
+    },
+    {
+      "label": "steps.0.config.metrics.0",
+      "value_cell": "A30:D31",
+      "value": "impressions"
+    },
+    {
+      "label": "steps.0.config.metrics.1",
+      "value_cell": "F30:I31",
+      "value": "clicks"
+    },
+    {
+      "label": "steps.0.config.metrics.2",
+      "value_cell": "K30:N31",
+      "value": "conversions"
+    },
+    {
+      "label": "steps.0.config.metrics.3",
+      "value_cell": "P30:S31",
+      "value": "spend"
+    },
+    {
+      "label": "steps.0.config.sources.0",
+      "value_cell": "A34:D35",
+      "value": "google_analytics"
+    },
+    {
+      "label": "steps.0.config.sources.1",
+      "value_cell": "F34:I35",
+      "value": "facebook_ads"
+    },
+    {
+      "label": "steps.0.config.sources.2",
+      "value_cell": "K34:N35",
+      "value": "hubspot"
+    },
+    {
+      "label": "steps.1.config.calculations.0.name",
+      "value_cell": "P34:S35",
+      "value": "ROI"
+    },
+    {
+      "label": "steps.1.config.calculations.1.name",
+      "value_cell": "A38:D39",
+      "value": "ROAS"
+    },
+    {
+      "label": "steps.1.config.calculations.2.name",
+      "value_cell": "F38:I39",
+      "value": "CTR"
+    },
+    {
+      "label": "steps.2.config.sections.0",
+      "value_cell": "A44:D45",
+      "value": "summary"
+    },
+    {
+      "label": "steps.2.config.sections.1",
+      "value_cell": "F44:I45",
+      "value": "metrics"
+    },
+    {
+      "label": "steps.2.config.sections.2",
+      "value_cell": "K44:N45",
+      "value": "insights"
+    },
+    {
+      "label": "steps.2.config.sections.3",
+      "value_cell": "P44:S45",
+      "value": "recommendations"
+    },
+    {
+      "label": "steps.2.config.format",
+      "value_cell": "A48:D49",
+      "value": "pdf"
+    },
+    {
+      "label": "steps.3.config.recipients.0",
+      "value_cell": "F48:I49",
+      "value": "marketing_team@company.com"
+    },
+    {
+      "label": "steps.3.config.recipients.1",
+      "value_cell": "K48:N49",
+      "value": "leadership@company.com"
+    },
+    {
+      "label": "notifications.onsuccess.0.type",
+      "value_cell": "P48:S49",
+      "value": "email"
+    },
+    {
+      "label": "notifications.onfailure.0.type",
+      "value_cell": "A52:D53",
+      "value": "email"
+    },
+    {
+      "label": "notifications.onfailure.0.message",
+      "value_cell": "F52:I53",
+      "value": "Workflow failed"
+    },
+    {
+      "label": "notifications.onfailure.1.type",
+      "value_cell": "K52:N53",
+      "value": "slack"
+    },
+    {
+      "label": "notifications.onfailure.1.channel",
+      "value_cell": "P52:S53",
+      "value": "#operations-alerts"
+    },
+    {
+      "label": "triggers.0.type",
+      "value_cell": "A58:D59",
+      "value": "schedule"
+    },
+    {
+      "label": "triggers.0.cron",
+      "value_cell": "F58:I59",
+      "value": "0 9 * * 1"
+    },
+    {
+      "label": "triggers.1.type",
+      "value_cell": "K58:N59",
+      "value": "manual"
+    }
+  ]
+}

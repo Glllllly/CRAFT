@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0193_houqin_物资申请_已发放",
+    "tenant":  "houqin",
+    "topic":  "物资申请",
+    "subtopic":  "已发放",
+    "source_dir":  "houqin\\物资申请\\已发放",
+    "total_files_in_source_dir":  56,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\物资申请\\已发放\\总结报告_6183.json",
+                      "copied_name":  "总结报告_6183.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\已发放\\费用统计_8852.csv",
+                      "copied_name":  "费用统计_8852.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\已发放\\物资申请_10.txt",
+                      "copied_name":  "物资申请_10.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  284
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\已发放\\库存清单_6289.eml",
+                      "copied_name":  "库存清单_6289.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\已发放\\名单_5963.csv",
+                      "copied_name":  "名单_5963.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

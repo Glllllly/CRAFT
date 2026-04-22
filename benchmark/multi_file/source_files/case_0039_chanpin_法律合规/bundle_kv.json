@@ -1,0 +1,1793 @@
+{
+  "bundle_dir": "case_0039_chanpin_法律合规",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "合规文档_32.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "97/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：97/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "3个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：3个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0032",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0032",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "24条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：24条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务3",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-07-06",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-07-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "合规文档_33.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "66/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：66/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "2个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：2个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0033",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0033",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "28条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：28条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务1",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-02-25",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-02-25",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "合规文档_34.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "85/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：85/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "1个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：1个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0034",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0034",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "17条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：17条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务2",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-01-06",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-01-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "合规文档_35.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "84/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：84/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "3个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：3个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0035",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "26条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：26条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务3",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-03-21",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-03-21",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "合规文档_36.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "89/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：89/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "1个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：1个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0036",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0036",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "17条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：17条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务1",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-06-16",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-06-16",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "下步计划",
+      "candidates": [
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下步计划",
+          "value": "定期审查、及时更新、用户反馈收集",
+          "raw_key": "下步计划",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下步计划：定期审查、及时更新、用户反馈收集",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "关键条款",
+      "candidates": [
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键条款",
+          "value": "用户隐私保护、知识产权、责任限制、服务保证",
+          "raw_key": "关键条款",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键条款：用户隐私保护、知识产权、责任限制、服务保证",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "合规得分",
+      "candidates": [
+        {
+          "key": "合规得分",
+          "value": "97/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：97/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "66/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：66/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "85/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：85/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "84/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：84/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "合规得分",
+          "value": "89/100",
+          "raw_key": "合规得分",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "合规得分：89/100",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "存在问题",
+      "candidates": [
+        {
+          "key": "存在问题",
+          "value": "3个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：3个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "2个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：2个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "1个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：1个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "3个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：3个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "1个",
+          "raw_key": "存在问题",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：1个",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "审查通过",
+      "candidates": [
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审查通过",
+          "value": "已通过)",
+          "raw_key": "审查通过",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "审查通过：已通过)",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "已采取",
+      "candidates": [
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已采取",
+          "value": "加强用户告知、完善隐私保护、优化服务条款",
+          "raw_key": "已采取",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已采取：加强用户告知、完善隐私保护、优化服务条款",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档类型",
+      "candidates": [
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档类型",
+          "value": "隐私政策)",
+          "raw_key": "文档类型",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档类型：隐私政策)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档编号",
+      "candidates": [
+        {
+          "key": "文档编号",
+          "value": "COMP-0032",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0032",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0033",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0033",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0034",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0034",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0035",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档编号",
+          "value": "COMP-0036",
+          "raw_key": "文档编号",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档编号：COMP-0036",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "更新状态",
+      "candidates": [
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新状态",
+          "value": "已更新)",
+          "raw_key": "更新状态",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新状态：已更新)",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "条款数量",
+      "candidates": [
+        {
+          "key": "条款数量",
+          "value": "24条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：24条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "28条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：28条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "17条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：17条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "26条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：26条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "条款数量",
+          "value": "17条",
+          "raw_key": "条款数量",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "条款数量：17条",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "法务负责",
+      "candidates": [
+        {
+          "key": "法务负责",
+          "value": "法务3",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务1",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务2",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务3",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法务负责",
+          "value": "法务1",
+          "raw_key": "法务负责",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法务负责：法务1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "法律风险",
+      "candidates": [
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "法律风险",
+          "value": "低)",
+          "raw_key": "法律风险",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "法律风险：低)",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "生效日期",
+      "candidates": [
+        {
+          "key": "生效日期",
+          "value": "2024-07-06",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-07-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-02-25",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-02-25",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-01-06",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-01-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-03-21",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-03-21",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生效日期",
+          "value": "2024-06-16",
+          "raw_key": "生效日期",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生效日期：2024-06-16",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "符合法律",
+      "candidates": [
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_32.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_33.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_34.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "符合法律",
+          "value": "《电商法》)",
+          "raw_key": "符合法律",
+          "source_file": "合规文档_36.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "符合法律：《电商法》)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

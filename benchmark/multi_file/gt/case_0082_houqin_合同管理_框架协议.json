@@ -1,0 +1,96 @@
+{
+  "excel": "case_0082_houqin_合同管理_框架协议__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "86824"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "工作日志_7406"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "工作日志"
+    },
+    {
+      "label": "date",
+      "value_cell": "P6:S7",
+      "value": "Tue, 10 Feb 2026 05:30:33 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A10:D11",
+      "value": "2026-02-10T05:30:33.083048"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F10:I11",
+      "value": "陈芳"
+    },
+    {
+      "label": "status",
+      "value_cell": "A16:D17",
+      "value": "待审批"
+    },
+    {
+      "label": "from",
+      "value_cell": "F16:I17",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K16:N17",
+      "value": "黄欢@company.com"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "P16:S17",
+      "value": "重要"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A20:D21",
+      "value": "高"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A26:D27",
+      "value": "工作计划"
+    },
+    {
+      "label": "记录人",
+      "value_cell": "F26:I27",
+      "value": "周八"
+    },
+    {
+      "label": "记录日期",
+      "value_cell": "K26:N27",
+      "value": "2026-02-10 05:30:33"
+    },
+    {
+      "label": "事件内容",
+      "value_cell": "P26:S27",
+      "value": "按照既定计划进行相关工作"
+    },
+    {
+      "label": "参与人员",
+      "value_cell": "A30:D31",
+      "value": "周八, 王五"
+    },
+    {
+      "label": "处理结果",
+      "value_cell": "F30:I31",
+      "value": "已按流程处理"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A36:D37",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

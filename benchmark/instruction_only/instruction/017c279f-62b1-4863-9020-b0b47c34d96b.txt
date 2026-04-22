@@ -1,0 +1,29 @@
+```json
+{
+  "pairs": [
+    {"key_text": "NAME", "value_text": "Grand View Suites"},
+    {"key_text": "Location:", "value_text": "123 Main St, Grand Prairie, TX 75050"},
+    {"key_text": "Number of Rooms", "value_text": "50"},
+    {"key_text": "Reporting Period:", "value_text": "September 2023"},
+    {"key_text": "Due Date:", "value_text": "October 20, 2023"},
+    {"key_text": "TOTAL GROSS RECEIPTS (Excluding Room Taxes):", "value_text": "45,000.00"},
+    {"key_text": "Federal Officer/Employees", "value_text": "1,200.00"},
+    {"key_text": "Permanent Residents", "value_text": "3,000.00"},
+    {"key_text": "NET TAXABLE RECEIPTS:", "value_text": "40,800.00"},
+    {"key_text": "AMOUNT OF TAX AT 7%:", "value_text": "2,856.00"},
+    {"key_text": "5% Penalty on tax received not more than 30 days after due date", "value_text": "0.00"},
+    {"key_text": "5% Penalty on tax received more than 30 days after due date", "value_text": "0.00"},
+    {"key_text": "6% Interest per annum beginning 60 days after the due date", "value_text": "0.00"},
+    {"key_text": "AMOUNT OF PENALTY AND INTEREST DUE:", "value_text": "0.00"},
+    {"key_text": "TOTAL AMOUNT REMITTED:", "value_text": "2,856.00"},
+    {"key_text": "Signature", "value_text": "Alex Johnson"},
+    {"key_text": "Date", "value_text": "October 15, 2023"},
+    {"key_text": "Daytime Phone", "value_text": "(972) 555-0123"}
+  ]
+}
+```
+
+Narrative:
+This is the hotel occupancy tax report for Grand View Suites, located at 123 Main St in Grand Prairie, Texas. The establishment has 50 rooms and is reporting for the period of September 2023, with a filing due date of October 20, 2023. 
+
+The total gross receipts for the month, excluding room taxes, amounted to $45,000.00. From this, allowable exemptions were deducted, including $1,200.00 for federal officers or employees and $3,000.00 for permanent residents. This results in net taxable receipts of $40,800.00. At a 7% tax rate, the tax due is $2,856.00. Since the payment is being made on time, there are no penalties or interest charges. The total amount remitted is $2,856.00. The report was signed by Alex Johnson on October 15, 2023, who can be reached at (972) 555-0123.

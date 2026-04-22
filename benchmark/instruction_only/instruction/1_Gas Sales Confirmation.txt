@@ -1,0 +1,72 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Account Manager",
+      "value_text": "Robert J. Sterling"
+    },
+    {
+      "key_text": "Deal Date:",
+      "value_text": "March 15, 2002"
+    },
+    {
+      "key_text": "Gas Sale Date (s)",
+      "value_text": "April 1, 2002 - December 31, 2003"
+    },
+    {
+      "key_text": "Total Quantity",
+      "value_text": "150,000 MMBtu"
+    },
+    {
+      "key_text": "Gas Sale Price",
+      "value_text": "$3.25 per MMBtu"
+    },
+    {
+      "key_text": "Company:",
+      "value_text": "Energy Solutions Corp"
+    },
+    {
+      "key_text": "Contact Name:",
+      "value_text": "Alice Thompson"
+    },
+    {
+      "key_text": "FAX Number:",
+      "value_text": "713-555-0129"
+    },
+    {
+      "key_text": "Address:",
+      "value_text": "1200 Industrial Way, Suite 400, Houston, TX 77002"
+    },
+    {
+      "key_text": "Month Bill To Be Rec'd",
+      "value_text": "May 2002"
+    },
+    {
+      "key_text": "Expected Bill  Amount",
+      "value_text": "$16,250.00"
+    },
+    {
+      "key_text": "Comments:",
+      "value_text": "Subject to standard pipeline tariff regulations and monthly nomination adjustments."
+    },
+    {
+      "key_text": "Gas Buyer Signature",
+      "value_text": "Alice Thompson"
+    },
+    {
+      "key_text": "      Date:",
+      "value_text": "March 18, 2002"
+    },
+    {
+      "key_text": "TW Acct Manager Signature",
+      "value_text": "Robert J. Sterling"
+    },
+    {
+      "key_text": "      Date:",
+      "value_text": "March 19, 2002"
+    }
+  ]
+}
+
+Narrative:
+This gas sale confirmation is managed by Robert J. Sterling and was finalized on March 15, 2002. The agreement covers gas sales between April 1, 2002, and December 31, 2003, for a total quantity of 150,000 MMBtu at a price of $3.25 per MMBtu. The purchasing party is Energy Solutions Corp, represented by Alice Thompson, who can be reached via fax at 713-555-0129 or at their office located at 1200 Industrial Way, Suite 400, Houston, TX 77002. The first bill is expected in May 2002 for an amount of $16,250.00. The document includes a note that the deal is subject to standard pipeline tariff regulations and monthly nomination adjustments. The form was signed by Alice Thompson on March 18, 2002, and subsequently signed by Robert J. Sterling on March 19, 2002.

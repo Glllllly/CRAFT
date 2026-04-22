@@ -1,0 +1,36 @@
+{
+  "excel": "case_0026_chanpin_发布上线_发布计划__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "发布方式",
+      "value_cell": "A7:D8",
+      "value": "全量发布)"
+    },
+    {
+      "label": "风险等级",
+      "value_cell": "F7:I8",
+      "value": "低"
+    },
+    {
+      "label": "破坏性变更",
+      "value_cell": "K7:N8",
+      "value": "无"
+    },
+    {
+      "label": "安全检查",
+      "value_cell": "A13:D14",
+      "value": "已完成"
+    },
+    {
+      "label": "应急方案",
+      "value_cell": "F13:I14",
+      "value": "已准备"
+    },
+    {
+      "label": "数据迁移",
+      "value_cell": "K13:N14",
+      "value": "无"
+    }
+  ]
+}

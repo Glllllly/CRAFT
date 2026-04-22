@@ -1,0 +1,206 @@
+﻿{
+    "excel":  "form_13_hazmat_authorization.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Principal User 鈥?Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan A. Sterling"
+                  },
+                  {
+                      "label":  "Employee / Student ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "ST-998234"
+                  },
+                  {
+                      "label":  "Department / Lab Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Molecular Biology Dept"
+                  },
+                  {
+                      "label":  "Building \u0026 Room Number",
+                      "value_cell":  "M11:X11",
+                      "value":  "Science Hall, Room 402"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I13:P13",
+                      "value":  "j.sterling@university.edu"
+                  },
+                  {
+                      "label":  "Supervisor / PI Name",
+                      "value_cell":  "Q13:X13",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Chemical / Material Name (IUPAC or Common)",
+                      "value_cell":  "A18:L18",
+                      "value":  "Acetone"
+                  },
+                  {
+                      "label":  "CAS Registry Number",
+                      "value_cell":  "M18:X18",
+                      "value":  "67-64-1"
+                  },
+                  {
+                      "label":  "Physical State  (Solid / Liquid / Gas)",
+                      "value_cell":  "A20:J20",
+                      "value":  "Liquid"
+                  },
+                  {
+                      "label":  "Hazard Class",
+                      "value_cell":  "K20:R20",
+                      "value":  "Flammable Liquid (Class 3)"
+                  },
+                  {
+                      "label":  "Quantity Requested",
+                      "value_cell":  "S20:X20",
+                      "value":  "2.5 Liters"
+                  },
+                  {
+                      "label":  "Manufacturer / Supplier",
+                      "value_cell":  "A22:L22",
+                      "value":  "Sigma-Aldrich"
+                  },
+                  {
+                      "label":  "Product / Catalog Number",
+                      "value_cell":  "M22:X22",
+                      "value":  "650501-4L"
+                  },
+                  {
+                      "label":  "Flammable",
+                      "value_cell":  "F24:G24",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Corrosive",
+                      "value_cell":  "L24:M24",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Toxic",
+                      "value_cell":  "R24:S24",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Oxidizer",
+                      "value_cell":  "X24:Y24",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Intended Use / Experimental Procedure",
+                      "value_cell":  "A25:X25",
+                      "value":  "Cleaning of laboratory glassware and equipment surfaces."
+                  },
+                  {
+                      "label":  "Proposed Storage Location",
+                      "value_cell":  "A30:L30",
+                      "value":  "Flammable Storage Cabinet, Room 402"
+                  },
+                  {
+                      "label":  "Storage Conditions  (Temp, Humidity, etc.)",
+                      "value_cell":  "M30:X30",
+                      "value":  "Room temperature, well-ventilated"
+                  },
+                  {
+                      "label":  "Maximum Quantity On-Hand at Any Time",
+                      "value_cell":  "A32:L32",
+                      "value":  "5 Liters"
+                  },
+                  {
+                      "label":  "Disposal Method / Waste Stream",
+                      "value_cell":  "M32:X32",
+                      "value":  "Hazardous Waste Stream B (Organic Solvents)"
+                  },
+                  {
+                      "label":  "Safety Glasses",
+                      "value_cell":  "F34:G34",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Face Shield",
+                      "value_cell":  "L34:M34",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Gloves",
+                      "value_cell":  "R34:S34",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Lab Coat",
+                      "value_cell":  "X34:Y34",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Emergency Response / First Aid Procedures (SDS reference)",
+                      "value_cell":  "A35:X35",
+                      "value":  "Flush eyes with water for 15 mins; move to fresh air if inhaled."
+                  },
+                  {
+                      "label":  "Lab Safety Orientation",
+                      "value_cell":  "F40:G40",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Chemical Hygiene",
+                      "value_cell":  "L40:M40",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Hazcom / GHS",
+                      "value_cell":  "R40:S40",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Spill Response",
+                      "value_cell":  "X40:Y40",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Date of Most Recent Safety Training",
+                      "value_cell":  "A41:L41",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "Training Certificate Number",
+                      "value_cell":  "M41:X41",
+                      "value":  "CERT-99281-XYZ"
+                  },
+                  {
+                      "label":  "Requestor Signature",
+                      "value_cell":  "A46:L46",
+                      "value":  "J. Sterling"
+                  },
+                  {
+                      "label":  "PI / Supervisor",
+                      "value_cell":  "M46:P46",
+                      "value":  "E. Vance"
+                  },
+                  {
+                      "label":  "EHS Officer",
+                      "value_cell":  "Q46:X46",
+                      "value":  "M. Ross"
+                  },
+                  {
+                      "label":  "Date (Requestor)",
+                      "value_cell":  "A48:L48",
+                      "value":  "2024-05-10"
+                  },
+                  {
+                      "label":  "Date (PI)",
+                      "value_cell":  "M48:P48",
+                      "value":  "2024-05-11"
+                  },
+                  {
+                      "label":  "Date (EHS)",
+                      "value_cell":  "Q48:X48",
+                      "value":  "2024-05-12"
+                  }
+              ]
+}

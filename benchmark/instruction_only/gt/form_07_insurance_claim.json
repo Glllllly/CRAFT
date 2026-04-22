@@ -1,0 +1,141 @@
+﻿{
+    "excel":  "form_07_insurance_claim.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A9:H9",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "I9:P9",
+                      "value":  "Michael"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "Q9:X9",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Street Address",
+                      "value_cell":  "A11:L11",
+                      "value":  "452 Oak Ridge Drive"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M11:X11",
+                      "value":  "Springfield, IL 62704"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "217-555-0129"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I13:P13",
+                      "value":  "217-555-9832"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "Q13:X13",
+                      "value":  "m.henderson@company.org"
+                  },
+                  {
+                      "label":  "Department / Business Unit",
+                      "value_cell":  "A15:L15",
+                      "value":  "Logistics and Distribution"
+                  },
+                  {
+                      "label":  "Supervisor Name",
+                      "value_cell":  "M15:X15",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date of Incident",
+                      "value_cell":  "A20:H20",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Time of Incident",
+                      "value_cell":  "I20:N20",
+                      "value":  "09:30 AM"
+                  },
+                  {
+                      "label":  "Location of Incident",
+                      "value_cell":  "020:X20",
+                      "value":  "Warehouse Loading Dock B"
+                  },
+                  {
+                      "label":  "Type of Claim  (Workers\u0027 Comp / Property / Vehicle / Liability / Other)",
+                      "value_cell":  "A22:X22",
+                      "value":  "Vehicle"
+                  },
+                  {
+                      "label":  "Description of Incident 鈥?what happened, how, and where",
+                      "value_cell":  "A24:X26",
+                      "value":  "While reversing the company delivery van at the loading dock, the rear bumper struck a concrete support pillar due to limited visibility."
+                  },
+                  {
+                      "label":  "Immediate Action Taken",
+                      "value_cell":  "A28:X28",
+                      "value":  "Stopped vehicle, secured the area, and notified floor manager immediately."
+                  },
+                  {
+                      "label":  "Was medical treatment sought?  Y / N",
+                      "value_cell":  "A30:L30",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Medical Provider / Hospital Name",
+                      "value_cell":  "M30:X30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Witnesses 鈥?Name(s) and Contact Information",
+                      "value_cell":  "A32:X32",
+                      "value":  "David Miller (Warehouse Staff) - ext. 4421"
+                  },
+                  {
+                      "label":  "Item / Vehicle Description",
+                      "value_cell":  "A37:L37",
+                      "value":  "Company Delivery Van"
+                  },
+                  {
+                      "label":  "Make / Model / Year",
+                      "value_cell":  "M37:X37",
+                      "value":  "Ford Transit 2021"
+                  },
+                  {
+                      "label":  "Serial / VIN Number",
+                      "value_cell":  "A39:L39",
+                      "value":  "1FT7X2CM6MKA99210"
+                  },
+                  {
+                      "label":  "Estimated Repair Cost  $",
+                      "value_cell":  "M39:X39",
+                      "value":  "1,250.00"
+                  },
+                  {
+                      "label":  "Damage Description",
+                      "value_cell":  "A41:X41",
+                      "value":  "Dented rear bumper and cracked plastic tail light assembly."
+                  },
+                  {
+                      "label":  "Claimant Signature",
+                      "value_cell":  "A46:H46",
+                      "value":  "Michael Henderson"
+                  },
+                  {
+                      "label":  "Supervisor Signature",
+                      "value_cell":  "I46:P46",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q46:X46",
+                      "value":  "2023-10-14"
+                  }
+              ]
+}

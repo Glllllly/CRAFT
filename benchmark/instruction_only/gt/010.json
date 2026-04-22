@@ -1,0 +1,171 @@
+﻿{
+    "excel":  "010.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name (optional 鈥?anonymous accepted)",
+                      "value_cell":  "A10:L10",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "Contact Phone (optional)",
+                      "value_cell":  "M10:X10",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Address of Complainant",
+                      "value_cell":  "A12:L12",
+                      "value":  "42 Oakwood Terrace, Springfield"
+                  },
+                  {
+                      "label":  "E-mail (optional)",
+                      "value_cell":  "M12:X12",
+                      "value":  "j.miller@email.com"
+                  },
+                  {
+                      "label":  "Address Where Problem Occurs",
+                      "value_cell":  "A17:L17",
+                      "value":  "Industrial Park Site B, 100 Manufacturing Way"
+                  },
+                  {
+                      "label":  "Date of Incident / First Occurrence",
+                      "value_cell":  "M17:X17",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Time of Incident (From 鈥?To)",
+                      "value_cell":  "A19:L19",
+                      "value":  "22:00 鈥?06:00"
+                  },
+                  {
+                      "label":  "Frequency (daily / weekly / one-off)",
+                      "value_cell":  "M19:X19",
+                      "value":  "daily"
+                  },
+                  {
+                      "label":  "Noise",
+                      "value_cell":  "H20",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Dust / Particulates",
+                      "value_cell":  "M20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Odour",
+                      "value_cell":  "R20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Detailed Description of the Nuisance",
+                      "value_cell":  "A22:X22",
+                      "value":  "High-decibel industrial machinery grinding and heavy vehicle reversing alarms occurring throughout the night."
+                  },
+                  {
+                      "label":  "Source of Nuisance (business / activity)",
+                      "value_cell":  "A24:L24",
+                      "value":  "Metal Fabrication Plant"
+                  },
+                  {
+                      "label":  "Name of Responsible Party (if known)",
+                      "value_cell":  "M24:X24",
+                      "value":  "Apex Metalworks Ltd"
+                  },
+                  {
+                      "label":  "Minor Annoyance",
+                      "value_cell":  "H28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Moderate Impact",
+                      "value_cell":  "M28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Severe / Persistent",
+                      "value_cell":  "R28",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "How has this affected you or your household / business?",
+                      "value_cell":  "A30:X30",
+                      "value":  "Significant sleep deprivation leading to health issues and inability to work effectively during the day."
+                  },
+                  {
+                      "label":  "Have you contacted the responsible party? Y / N",
+                      "value_cell":  "A32:L32",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Outcome of Any Prior Contact",
+                      "value_cell":  "M32:X32",
+                      "value":  "Spoke to site manager, but noise levels have not decreased."
+                  },
+                  {
+                      "label":  "Have you contacted any other authority? Y / N",
+                      "value_cell":  "A34:L34",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Which authority?",
+                      "value_cell":  "M34:X34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Photographs",
+                      "value_cell":  "G38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Video Recording",
+                      "value_cell":  "L38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Noise Meter Readings",
+                      "value_cell":  "Q38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Description of Evidence Provided",
+                      "value_cell":  "A40:X40",
+                      "value":  "A 5-minute video clip with audio and a log of decibel readings taken from the bedroom window."
+                  },
+                  {
+                      "label":  "What action are you requesting from the authority?",
+                      "value_cell":  "A45:X45",
+                      "value":  "An official noise assessment and enforcement of local night-time operation regulations."
+                  },
+                  {
+                      "label":  "Date Complaint Submitted",
+                      "value_cell":  "A47:L47",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Reference Number  (Office Use)",
+                      "value_cell":  "M47:X47",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Complainant Signature",
+                      "value_cell":  "A54:L54",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N54:X54",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Receiving Officer",
+                      "value_cell":  "A57:L57",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N57:X57",
+                      "value":  null
+                  }
+              ]
+}

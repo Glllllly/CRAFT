@@ -1,0 +1,72 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "EXP",
+      "value_text": "2206.37"
+    },
+    {
+      "key_text": "LAST NAME",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "FIRST NAME, INITIAL",
+      "value_text": "Marcus J."
+    },
+    {
+      "key_text": "TITLE",
+      "value_text": "Project Manager"
+    },
+    {
+      "key_text": "EMPLOYEE NUMBER",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "COMPANY NUMBER",
+      "value_text": "CO-0060"
+    },
+    {
+      "key_text": "OFFICE NUMBER/FIELD LOCATION ",
+      "value_text": "Chicago HQ - Suite 400"
+    },
+    {
+      "key_text": "PHONE NUMBER FOR QUESTIONS",
+      "value_text": "312-555-0198"
+    },
+    {
+      "key_text": "EMPLOYEE",
+      "value_text": "Marcus J. Henderson"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "APPROVAL",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": " (Print Name)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "APPROVAL",
+      "value_text": "Robert Thorne"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "2023-10-17"
+    },
+    {
+      "key_text": " (Print Name)",
+      "value_text": "Robert Thorne"
+    }
+  ]
+}
+
+Narrative:
+This expense report is for Marcus J. Henderson, a Project Manager (Employee Number EMP-88429) based out of the Chicago HQ office. The total expenditure reported is 2,206.37, associated with Company Number CO-0060. For any questions regarding these expenses, Marcus can be reached at 312-555-0198. The form was signed by the employee, Marcus J. Henderson, on October 15, 2023. It received primary approval from Sarah Jenkins on October 16, 2023, and final approval from Robert Thorne on October 17, 2023.

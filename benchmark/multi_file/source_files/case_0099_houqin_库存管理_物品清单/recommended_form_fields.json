@@ -1,0 +1,134 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "访问记录_8628",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "待审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "重要",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.917000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "55959",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "吴九@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "刘林@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "访问记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "李四",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "工作计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "显示器(8台)库位",
+                                   "selected_value":  "B2-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "a4纸(75箱)库位",
+                                   "selected_value":  "A1-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "会议桌(12张)库位",
+                                   "selected_value":  "C3-02",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "充电器(60个)库位",
+                                   "selected_value":  "B2-04",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "办公椅(45把)库位",
+                                   "selected_value":  "C3-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文件柜(30个)库位",
+                                   "selected_value":  "C3-03",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "订书机(45台)库位",
+                                   "selected_value":  "A1-03",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文件夹(500个)库位",
+                                   "selected_value":  "A1-04",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "笔类(1200支)库位",
+                                   "selected_value":  "A1-02",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "白板笔(2000支)库位",
+                                   "selected_value":  "A1-05",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "键盘鼠标套装(25套)库位",
+                                   "selected_value":  "B2-02",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "usb数据线(150条)库位",
+                                   "selected_value":  "B2-03",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "更新时间",
+                                   "selected_value":  "2024年2月10日",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,16 @@
+{
+  "excel": "case_0210_houqin_采购管理__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "物品",
+      "value_cell": "A6:D7",
+      "value": "办公设备、家具、工具等"
+    },
+    {
+      "label": "备注",
+      "value_cell": "A12:D13",
+      "value": "日常办公需求补充"
+    }
+  ]
+}

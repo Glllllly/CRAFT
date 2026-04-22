@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Student ID",
+      "value_text": "88293041"
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Marcus"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "m.henderson@university.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-9988"
+    },
+    {
+      "key_text": "Current Academic Year / Level",
+      "value_text": "Junior"
+    },
+    {
+      "key_text": "Course Subject",
+      "value_text": "BIO"
+    },
+    {
+      "key_text": "Course Number",
+      "value_text": "302"
+    },
+    {
+      "key_text": "Section",
+      "value_text": "01"
+    },
+    {
+      "key_text": "CRN",
+      "value_text": "44921"
+    },
+    {
+      "key_text": "Credit Hours",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Course Title",
+      "value_text": "Advanced Cellular Biology"
+    },
+    {
+      "key_text": "Term / Semester",
+      "value_text": "Fall"
+    },
+    {
+      "key_text": "Year",
+      "value_text": "2023"
+    },
+    {
+      "key_text": "Instructor Name",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Current Grade on Record",
+      "value_text": "C+"
+    },
+    {
+      "key_text": "Requested Grade",
+      "value_text": "B"
+    },
+    {
+      "key_text": "Grade Type",
+      "value_text": "Letter"
+    },
+    {
+      "key_text": "Clerical / Recording Error",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Additional Work Submitted",
+      "value_text": null
+    },
+    {
+      "key_text": "Medical / Emergency",
+      "value_text": null
+    },
+    {
+      "key_text": "Incomplete Contract Fulfilled",
+      "value_text": null
+    },
+    {
+      "key_text": "Other",
+      "value_text": null
+    },
+    {
+      "key_text": "Reason:",
+      "value_text": "Clerical error in midterm exam score entry."
+    },
+    {
+      "key_text": "Detailed Explanation of Basis for Change / Appeal",
+      "value_text": "The midterm exam grade was recorded as 62/100 instead of 82/100, which significantly impacted the final course grade."
+    },
+    {
+      "key_text": "Documentation Attached",
+      "value_text": "Original graded midterm exam paper"
+    },
+    {
+      "key_text": "Approve Grade Change",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Deny Request",
+      "value_text": null
+    },
+    {
+      "key_text": "Refer to Academic Integrity",
+      "value_text": null
+    },
+    {
+      "key_text": "Faculty Comments / Justification",
+      "value_text": "Verified the error against my grade book records. The correction is accurate."
+    },
+    {
+      "key_text": "Faculty Signature",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "01/15/2024"
+    },
+    {
+      "key_text": "New Grade Entered",
+      "value_text": "B"
+    },
+    {
+      "key_text": "Dept Chair / Dean",
+      "value_text": "Prof. Arthur Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "01/18/2024"
+    },
+    {
+      "key_text": "Registrar Use",
+      "value_text": "Processed"
+    }
+  ]
+}
+
+Narrative:
+This grade change request is for student Marcus Henderson (ID: 88293041), a Junior, regarding his performance in BIO 302, Advanced Cellular Biology, taught by Dr. Elena Vance in the Fall 2023 semester. Marcus is requesting to change his current grade of C+ to a B. The basis for this appeal is a clerical recording error, specifically involving a midterm exam score that was entered incorrectly (62 instead of 82). The student has provided the original graded midterm exam as documentation. Dr. Vance has approved the request, noting that she verified the error in her records. The faculty signature and the new grade of B were entered on January 15, 2024. Subsequently, the Department Chair, Prof. Arthur Miller, signed off on the request on January 18, 2024, and the Registrar's office has marked the request as processed.

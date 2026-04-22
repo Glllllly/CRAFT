@@ -1,0 +1,36 @@
+﻿{
+    "excel":  "1_Alerts_Testing_Template.xlsx",
+    "sheet":  "Comments",
+    "pairs":  [
+                  {
+                      "label":  "User Name",
+                      "value_cell":  "B2:H2",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "Date comments entered",
+                      "value_cell":  "L2:M2",
+                      "value":  "10/24/2023"
+                  },
+                  {
+                      "label":  "User Comments:",
+                      "value_cell":  "A4:M4",
+                      "value":  "The system is throwing a 500 internal server error when attempting to export the monthly transaction report as a CSV file."
+                  },
+                  {
+                      "label":  "PLOG number (assigned by IT)",
+                      "value_cell":  "C5:D5",
+                      "value":  "44921"
+                  },
+                  {
+                      "label":  "Prod Support Issue (P) or Enhancement (E)",
+                      "value_cell":  "J5",
+                      "value":  "P"
+                  },
+                  {
+                      "label":  "IT Feedback:",
+                      "value_cell":  "A7:M7",
+                      "value":  "We have identified a timeout issue in the database query. A patch is currently being deployed to resolve this."
+                  }
+              ]
+}

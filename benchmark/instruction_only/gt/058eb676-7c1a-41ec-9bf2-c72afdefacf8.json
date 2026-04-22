@@ -1,0 +1,161 @@
+﻿{
+    "excel":  "058eb676-7c1a-41ec-9bf2-c72afdefacf8.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "B6:K6",
+                      "value":  "Dr. Elena Rodriguez"
+                  },
+                  {
+                      "label":  "V Number:",
+                      "value_cell":  "O6:P6",
+                      "value":  "V00123456"
+                  },
+                  {
+                      "label":  "Primary Department:",
+                      "value_cell":  "F7:K7",
+                      "value":  "Biological Sciences"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "N7:P7",
+                      "value":  "208-885-1234"
+                  },
+                  {
+                      "label":  "Primary Job Title:",
+                      "value_cell":  "F8:K8",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "%  Primary Appointment:",
+                      "value_cell":  "P8",
+                      "value":  "100%"
+                  },
+                  {
+                      "label":  "Faculty,Non-faculty Exempt,Classified,Classifed Exempt:",
+                      "value_cell":  "J9:K9",
+                      "value":  "Faculty"
+                  },
+                  {
+                      "label":  "Permanent Salary Base",
+                      "value_cell":  "O9:P9",
+                      "value":  "85,000"
+                  },
+                  {
+                      "label":  "Hiring Department:",
+                      "value_cell":  "G10:K10",
+                      "value":  "College of Science - Dean\u0027s Office"
+                  },
+                  {
+                      "label":  "AY or FY",
+                      "value_cell":  "O10:P10",
+                      "value":  "AY"
+                  },
+                  {
+                      "label":  "Primary Contact Person/Phone:",
+                      "value_cell":  "G11:K11",
+                      "value":  "Sarah Miller / 208-885-5678"
+                  },
+                  {
+                      "label":  "Campus Zip:",
+                      "value_cell":  "O11:P11",
+                      "value":  "3051"
+                  },
+                  {
+                      "label":  "Secondary Contact Person/Phone:",
+                      "value_cell":  "G12:K12",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Campus Zip:",
+                      "value_cell":  "O12:P12",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Temporary Increase",
+                      "value_cell":  "F14:K14",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "Source of funds:",
+                      "value_cell":  "O14:P14",
+                      "value":  "General Fund - 10101"
+                  },
+                  {
+                      "label":  "Additional Compensation",
+                      "value_cell":  "F15:K15",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Period of Time:",
+                      "value_cell":  "E17:P17",
+                      "value":  "August 15, 2023 - May 15, 2024"
+                  },
+                  {
+                      "label":  "Description/Justification:",
+                      "value_cell":  "F18:P18, A19:P19, A20:P20, A21:P21, A22:P22, A23:P23, A24:P24, A25:P25",
+                      "value":  "Temporary salary increase for serving as the Interim Department Chair during the 2023-2024 Academic Year. Responsibilities include overseeing departmental budget, faculty reviews, and curriculum planning."
+                  },
+                  {
+                      "label":  "Primary Department Administrator",
+                      "value_cell":  "A28:J28",
+                      "value":  "Dr. James Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M28:P28",
+                      "value":  "07/15/2023"
+                  },
+                  {
+                      "label":  "Primary RCM/Unit Administrator",
+                      "value_cell":  "A30:J30",
+                      "value":  "Dean Robert Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M30:P30",
+                      "value":  "07/18/2023"
+                  },
+                  {
+                      "label":  "Secondary/Hiring Department Administrator",
+                      "value_cell":  "A32:J32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M32:P32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Secondary/Hiring RCM/Unit Administrator",
+                      "value_cell":  "A34:J34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M34:P34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Executive Director of Planning and Budget",
+                      "value_cell":  "A36:J37",
+                      "value":  "Linda Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M36:P37",
+                      "value":  "07/25/2023"
+                  },
+                  {
+                      "label":  "Provost/Vice President/President",
+                      "value_cell":  "A39:J40",
+                      "value":  "Dr. Torrey Lawrence"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M39:P40",
+                      "value":  "08/01/2023"
+                  }
+              ]
+}

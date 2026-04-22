@@ -1,0 +1,36 @@
+{
+  "excel": "case_0277_yunyin_documentation__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "lastupdated",
+      "value_cell": "D6:H6",
+      "value": "2024-02-10"
+    },
+    {
+      "label": "communication",
+      "value_cell": "D11:H11",
+      "value": "Slack, Microsoft Teams"
+    },
+    {
+      "label": "projectmanagement",
+      "value_cell": "M11:Q11",
+      "value": "Asana, Monday.com"
+    },
+    {
+      "label": "analytics",
+      "value_cell": "D16:H16",
+      "value": "Google Analytics, Mixpanel"
+    },
+    {
+      "label": "socialmedia",
+      "value_cell": "M16:Q16",
+      "value": "Hootsuite, Buffer"
+    },
+    {
+      "label": "marketingautomation",
+      "value_cell": "D19:H19",
+      "value": "HubSpot"
+    }
+  ]
+}

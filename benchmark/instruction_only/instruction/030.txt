@@ -1,0 +1,190 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Project Title",
+      "value_text": "Neural Plasticity in Aging Populations"
+    },
+    {
+      "key_text": "Project / Grant Reference Number",
+      "value_text": "NIH-2024-8892"
+    },
+    {
+      "key_text": "Principal Investigator",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "PI E-mail",
+      "value_text": "e.vance@university.edu"
+    },
+    {
+      "key_text": "Institution / Department",
+      "value_text": "Department of Neuroscience"
+    },
+    {
+      "key_text": "Project Duration (months)",
+      "value_text": "36"
+    },
+    {
+      "key_text": "Funding Body",
+      "value_text": "National Institutes of Health"
+    },
+    {
+      "key_text": "Grant Value $",
+      "value_text": "450,000"
+    },
+    {
+      "key_text": "DMP Version",
+      "value_text": "1.0"
+    },
+    {
+      "key_text": "Date of This Version",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "What types of data will be collected or created?",
+      "value_text": "High-resolution fMRI brain imaging scans, cognitive assessment scores, and demographic survey data."
+    },
+    {
+      "key_text": "Estimated Volume of Data",
+      "value_text": "2.5 TB"
+    },
+    {
+      "key_text": "File Formats to be Used",
+      "value_text": "NIfTI, CSV, JSON"
+    },
+    {
+      "key_text": "How will data be collected?",
+      "value_text": "Clinical MRI scanning sessions and electronic participant questionnaires."
+    },
+    {
+      "key_text": "Who will collect it?",
+      "value_text": "Postdoctoral research associates and clinical technicians."
+    },
+    {
+      "key_text": "How will data quality and consistency be ensured?",
+      "value_text": "Standardized calibration of MRI machines and automated validation scripts for survey inputs."
+    },
+    {
+      "key_text": "Metadata Standards to be Used",
+      "value_text": "BIDS (Brain Imaging Data Structure)"
+    },
+    {
+      "key_text": "Documentation Method",
+      "value_text": "Electronic lab notebooks and project-specific codebooks."
+    },
+    {
+      "key_text": "How will data be organised / named",
+      "value_text": "Hierarchical folder structure by subject ID; files named by date and session type."
+    },
+    {
+      "key_text": "Ethics Approval Reference Number",
+      "value_text": "IRB-2024-0042"
+    },
+    {
+      "key_text": "Date of Approval",
+      "value_text": "2024-04-10"
+    },
+    {
+      "key_text": "Does data include personal data?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "GDPR / Privacy law compliance approach",
+      "value_text": "Pseudonymization of all participant records and secure storage on encrypted servers."
+    },
+    {
+      "key_text": "IP / Copyright Ownership",
+      "value_text": "University Intellectual Property Office"
+    },
+    {
+      "key_text": "Data Sharing Agreements Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Primary Storage Location",
+      "value_text": "University Secured Research Server"
+    },
+    {
+      "key_text": "Backup Location",
+      "value_text": "Off-site cloud storage (AWS GovCloud)"
+    },
+    {
+      "key_text": "Backup Frequency",
+      "value_text": "Daily"
+    },
+    {
+      "key_text": "Access Controls  (who can access?)",
+      "value_text": "Principal Investigator and authorized research staff via LDAP credentials."
+    },
+    {
+      "key_text": "Encryption Used?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Encryption Method / Tool",
+      "value_text": "AES-256 bit encryption"
+    },
+    {
+      "key_text": "Will data be shared?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Embargo Period  (if any)",
+      "value_text": "12 months"
+    },
+    {
+      "key_text": "Repository / Data Archive  (e.g., Zenodo, Dryad)",
+      "value_text": "OpenNeuro"
+    },
+    {
+      "key_text": "Licence for Shared Data  (e.g., CC-BY)",
+      "value_text": "CC-BY-NC 4.0"
+    },
+    {
+      "key_text": "Data Retention Period  (years)",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Deletion / Destruction Method",
+      "value_text": "NIST-standard secure digital wiping"
+    },
+    {
+      "key_text": "Any data that cannot be shared — explain reasons",
+      "value_text": "Raw high-resolution structural scans containing potentially identifiable facial features."
+    },
+    {
+      "key_text": "Principal Investigator",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-16"
+    },
+    {
+      "key_text": "Research Integrity Officer",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-18"
+    },
+    {
+      "key_text": "Data Protection Officer",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-19"
+    }
+  ]
+}
+
+Narrative:
+This Data Management Plan outlines the research project "Neural Plasticity in Aging Populations" (Ref: NIH-2024-8892), led by Principal Investigator Dr. Elena Vance at the Department of Neuroscience. The 36-month study, funded by the National Institutes of Health with a grant of $450,000, is currently on version 1.0, dated May 15, 2024. 
+
+The project involves collecting high-resolution fMRI scans, cognitive assessments, and surveys, totaling approximately 2.5 TB of data in NIfTI, CSV, and JSON formats. Data collection will be handled by postdoctoral associates and clinical technicians using standardized MRI protocols and automated validation. We will utilize the BIDS metadata standard and maintain documentation through lab notebooks and codebooks, with a strict hierarchical folder structure.
+
+Ethical approval was granted on April 10, 2024 (Ref: IRB-2024-0042). Since the study involves personal data, we will ensure GDPR compliance through pseudonymization. IP rights are held by the university. Primary data storage is on a secure university server with daily backups to AWS GovCloud, secured by AES-256 encryption and restricted access.
+
+We intend to share the data via OpenNeuro under a CC-BY-NC 4.0 license after a 12-month embargo, though raw structural scans with identifiable facial features will remain private. Data will be retained for 10 years before being destroyed via NIST-standard digital wiping. The plan is signed by Dr. Vance, Research Integrity Officer Marcus Thorne, and Data Protection Officer Sarah Jenkins, with dates ranging from May 16 to May 19, 2024.

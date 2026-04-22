@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0081_houqin_合同管理_服务合同",
+    "tenant":  "houqin",
+    "topic":  "合同管理",
+    "subtopic":  "服务合同",
+    "source_dir":  "houqin\\合同管理\\服务合同",
+    "total_files_in_source_dir":  33,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\合同管理\\服务合同\\会议记录_3420.json",
+                      "copied_name":  "会议记录_3420.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\服务合同\\培训计划_4137.csv",
+                      "copied_name":  "培训计划_4137.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\服务合同\\报销申请_7049.txt",
+                      "copied_name":  "报销申请_7049.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  224
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\服务合同\\资产清单_7478.eml",
+                      "copied_name":  "资产清单_7478.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\服务合同\\名单_7679.csv",
+                      "copied_name":  "名单_7679.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

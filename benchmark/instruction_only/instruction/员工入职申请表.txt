@@ -1,0 +1,62 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "姓名", "value_text": "张伟" },
+    { "key_text": "性别", "value_text": "男" },
+    { "key_text": "年龄", "value_text": "28" },
+    { "key_text": "血型", "value_text": "A型" },
+    { "key_text": "籍贯", "value_text": "江苏南京" },
+    { "key_text": "民族", "value_text": "汉族" },
+    { "key_text": "职称", "value_text": "中级工程师" },
+    { "key_text": "最高文化程度", "value_text": "本科" },
+    { "key_text": "健康情况", "value_text": "良好" },
+    { "key_text": "身高", "value_text": "175cm" },
+    { "key_text": "体重", "value_text": "70kg" },
+    { "key_text": "婚姻情况", "value_text": "已婚" },
+    { "key_text": "身份证号码", "value_text": "32010219960512XXXX" },
+    { "key_text": "联系电话", "value_text": "13812345678" },
+    { "key_text": "户籍所在地", "value_text": "江苏省南京市鼓楼区" },
+    { "key_text": "特长技能", "value_text": "项目管理、Python编程" },
+    { "key_text": "现居住地址", "value_text": "上海市浦东新区张江高科" },
+    { "key_text": "期望薪资", "value_text": "15000元/月" },
+    { "key_text": "紧急联系人及电话", "value_text": "李芳 13987654321" },
+    { "key_text": "邮政编码", "value_text": "201203" },
+    { "key_text": "起止年月", "value_text": "2020.07-2024.03" },
+    { "key_text": "工作单位", "value_text": "某科技有限公司" },
+    { "key_text": "职位", "value_text": "高级软件工程师" },
+    { "key_text": "离职原因", "value_text": "寻求职业发展" },
+    { "key_text": "起止年月", "value_text": "2016.09-2020.06" },
+    { "key_text": "教育培训机构", "value_text": "南京大学" },
+    { "key_text": "专业", "value_text": "计算机科学与技术" },
+    { "key_text": "外语程度", "value_text": "英语六级" },
+    { "key_text": "证书", "value_text": "PMP证书" },
+    { "key_text": "姓名", "value_text": "张强" },
+    { "key_text": "工作单位", "value_text": "某贸易公司" },
+    { "key_text": "职务", "value_text": "经理" },
+    { "key_text": "电话", "value_text": "13700001111" },
+    { "key_text": "受过何种奖励或专业训练", "value_text": "年度优秀员工奖" },
+    { "key_text": "能否出差", "value_text": "能" },
+    { "key_text": "能否加班", "value_text": "能" },
+    { "key_text": "能否接受工作调动", "value_text": "能" },
+    { "key_text": "是否曾在我公司应聘", "value_text": "否" },
+    { "key_text": "是否有亲属或朋友在我司工作", "value_text": "无" },
+    { "key_text": "申明人：", "value_text": "张伟" },
+    { "key_text": "员工签字：", "value_text": "张伟" },
+    { "key_text": "入职时间", "value_text": "2024.04.01" },
+    { "key_text": "所属部门", "value_text": "研发部" },
+    { "key_text": "职务", "value_text": "技术主管" },
+    { "key_text": "试用时间", "value_text": "3个月" },
+    { "key_text": "试用期工资", "value_text": "12000元" },
+    { "key_text": "转正后工资", "value_text": "15000元" },
+    { "key_text": "行政部经理意见", "value_text": "同意入职" },
+    { "key_text": "部门经理意见", "value_text": "同意录用" },
+    { "key_text": "总经理意见", "value_text": "批准" }
+  ]
+}
+
+Narrative:
+这份入职申请表由张伟填写。他是一名28岁的男性，汉族，A型血，籍贯江苏南京，目前拥有中级工程师职称，最高学历为本科。他的健康状况良好，身高175cm，体重70kg，婚姻状况为已婚。张伟的身份证号为32010219960512XXXX，联系电话是13812345678。他的户籍在南京鼓楼区，目前居住在上海浦东，邮编为201203。张伟擅长项目管理和Python编程，期望月薪为15000元，紧急联系人为李芳。
+
+在工作经历方面，他曾于2020年7月至2024年3月在某科技有限公司担任高级软件工程师，离职原因是寻求职业发展。教育背景上，他毕业于南京大学计算机科学与技术专业，拥有英语六级和PMP证书。他的家庭成员张强在某贸易公司担任经理。
+
+张伟表示能够接受出差、加班和工作调动，此前未在我公司应聘过，也没有亲属在我司工作。入职相关信息显示，他将于2024年4月1日加入研发部担任技术主管，试用期为3个月，试用期工资12000元，转正后为15000元。各部门经理及总经理均签署了同意录用的意见。

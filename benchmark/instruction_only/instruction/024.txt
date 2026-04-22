@@ -1,0 +1,160 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Legal Organisation Name",
+      "value_text": "Green Canopy Youth Initiative"
+    },
+    {
+      "key_text": "Charity / Nonprofit Registration Number",
+      "value_text": "88-49201-BC"
+    },
+    {
+      "key_text": "Organisation Address",
+      "value_text": "452 Maplewood Drive, Suite 200"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Vancouver"
+    },
+    {
+      "key_text": "State / Province",
+      "value_text": "British Columbia"
+    },
+    {
+      "key_text": "ZIP / Postcode",
+      "value_text": "V6B 1A1"
+    },
+    {
+      "key_text": "Organisation Phone",
+      "value_text": "604-555-0198"
+    },
+    {
+      "key_text": "Organisation E-mail",
+      "value_text": "contact@greencanopyyouth.org"
+    },
+    {
+      "key_text": "Website",
+      "value_text": "www.greencanopyyouth.org"
+    },
+    {
+      "key_text": "Year Founded",
+      "value_text": "2012"
+    },
+    {
+      "key_text": "Annual Operating Budget $",
+      "value_text": "250,000"
+    },
+    {
+      "key_text": "Number of Staff (FTE)",
+      "value_text": "8"
+    },
+    {
+      "key_text": "Contact Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Title / Position",
+      "value_text": "Program Director"
+    },
+    {
+      "key_text": "Direct Phone",
+      "value_text": "604-555-0842"
+    },
+    {
+      "key_text": "Direct E-mail",
+      "value_text": "s.jenkins@greencanopyyouth.org"
+    },
+    {
+      "key_text": "Project / Programme Name",
+      "value_text": "Urban Forest Stewardship for Youth"
+    },
+    {
+      "key_text": "Amount Requested $",
+      "value_text": "45,000"
+    },
+    {
+      "key_text": "Project Duration (months)",
+      "value_text": "12"
+    },
+    {
+      "key_text": "Project Start Date",
+      "value_text": "2024-09-01"
+    },
+    {
+      "key_text": "Project End Date",
+      "value_text": "2025-08-31"
+    },
+    {
+      "key_text": "Education",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Health & Wellbeing",
+      "value_text": null
+    },
+    {
+      "key_text": "Environment",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Problem / Need Being Addressed  (community evidence)",
+      "value_text": "Local data indicates a 30% decline in neighborhood green spaces and a lack of environmental extracurricular opportunities for low-income youth."
+    },
+    {
+      "key_text": "Project Goals and Planned Activities",
+      "value_text": "Establish three community gardens and conduct weekly environmental literacy workshops for local high school students."
+    },
+    {
+      "key_text": "Target Beneficiaries — who will benefit and how many?",
+      "value_text": "150 high school students from underprivileged areas in East Vancouver will receive hands-on training."
+    },
+    {
+      "key_text": "Expected Outcomes and Measurable Impact",
+      "value_text": "Increased student knowledge of local ecology, restoration of 0.5 acres of urban land, and improved community health metrics."
+    },
+    {
+      "key_text": "How will you measure and report success?",
+      "value_text": "We will track attendance, pre- and post-workshop surveys, and quarterly environmental impact audits."
+    },
+    {
+      "key_text": "Previous Grant From Us?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Previous Grant Reference",
+      "value_text": "GCY-2022-004"
+    },
+    {
+      "key_text": "Executive Director Signature",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-06-15"
+    },
+    {
+      "key_text": "Board Chair Signature",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-06-16"
+    },
+    {
+      "key_text": "Grant Officer Review",
+      "value_text": "Pending Review"
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+The Green Canopy Youth Initiative, registered as 88-49201-BC, is based at 452 Maplewood Drive, Suite 200, Vancouver, British Columbia, V6B 1A1. Founded in 2012, the organization operates with an annual budget of $250,000 and 8 full-time staff. For inquiries, they can be reached at 604-555-0198, via email at contact@greencanopyyouth.org, or through their website at www.greencanopyyouth.org.
+
+The primary contact for this application is Sarah Jenkins, the Program Director, who is reachable at 604-555-0842 or s.jenkins@greencanopyyouth.org. They are applying for $45,000 to fund the "Urban Forest Stewardship for Youth" project, which will run for 12 months from September 1, 2024, to August 31, 2025. The project focuses on both Education and Environment.
+
+The initiative addresses the decline of local green spaces and the lack of environmental programs for youth. Planned activities include building three community gardens and hosting weekly workshops for 150 students. Expected outcomes include improved ecological knowledge and the restoration of 0.5 acres of land. Success will be measured through attendance records, surveys, and quarterly audits. The organization has received a previous grant, reference number GCY-2022-004. The application is signed by Executive Director Marcus Thorne on June 15, 2024, and Board Chair Elena Rodriguez on June 16, 2024, with the Grant Officer's review currently pending.

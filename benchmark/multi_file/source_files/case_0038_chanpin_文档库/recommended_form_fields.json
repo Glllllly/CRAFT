@@ -1,0 +1,194 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "1.工程层优化格式转义；2.兜底采用rpc调用处理参数",
+                                   "selected_value":  "设计中间结果缓存机制",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "接口错误",
+                                   "selected_value":  "出现404（资源不存在）、400（参数错误）等HTTP错误，需确认接口路径及参数正确性，补充日志便于排查。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "模型限制",
+                                   "selected_value":  "部分参数写死等问题暂归因于模型能力限制，需后续探索解决方案。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "示例补充",
+                                   "selected_value":  "在提示词示例中添加日志打印规范，确保生成代码符合日志要求。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "运行报错",
+                                   "selected_value":  "部分代码执行时出现解析错误、接口调用失败等问题，需检查代码逻辑及数据输入。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.参数调整",
+                                   "selected_value":  "修复参数相关问题后重新运行测试，验证结果正确性。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.记录整理",
+                                   "selected_value":  "将待优化内容整理到团队周记录中，由相关负责人跟进确认。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "代码不完整",
+                                   "selected_value":  "部分生成代码存在截断情况，可能与模型输入长度限制有关，需进一步分析。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "#从对话到协同",
+                                   "selected_value":  "某多智能体平台的前端交互探索",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.优化提示词",
+                                   "selected_value":  "增加对异常情况处理的要求，调整后重新验证效果。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "10.整体情况",
+                                   "selected_value":  "代码生成正确率较之前有显著提升，但仍存在细节问题需持续优化。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "8.空数据处理",
+                                   "selected_value":  "代码未处理数据为空的场景，导致空值输入时出现错误，需补充异常处理逻辑。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参数名不一致",
+                                   "selected_value":  "生成代码中存在参数名与接口要求不匹配的情况，影响数据获取，需统一规范。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参数格式优化",
+                                   "selected_value":  "GET请求参数的拼接方式需统一，建议采用标准查询字符串格式拼接到URL中。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "日志信息不全",
+                                   "selected_value":  "接口报错时日志缺少关键信息，无法准确定位问题，需增加日志打印维度。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "模型参数测试",
+                                   "selected_value":  "验证大语言模型工具调用参数上限",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.参数规范问题",
+                                   "selected_value":  "部分参数值未按API文档枚举或示例规范填写，使用非标准描述导致生成错误，需参考文档规范调整。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.参数暴露问题",
+                                   "selected_value":  "特定功能模块相关参数未正确暴露，写死在代码中导致生成异常，优化提示词或可解决。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.错误信息格式",
+                                   "selected_value":  "代码返回的错误信息格式不统一，建议采用结构化数据（如JSON）输出，便于快速排查。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "4.数组参数解析",
+                                   "selected_value":  "某资源标识参数解析异常，需使用标准JSON解析工具处理，同时检查提示词设置是否生效。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "5.文档示例优化",
+                                   "selected_value":  "接口文档中的示例值可能误导模型，建议调整示例值为更通用的类型，减少模型理解偏差。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "6.字段匹配问题",
+                                   "selected_value":  "代码生成过程中存在字段匹配错误，需优化提示词或文档描述以明确字段映射关系。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "7.接口描述优化",
+                                   "selected_value":  "接口文档中部分参数名称描述不够直观，可考虑调整为更具体的术语提升可读性。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "9.逻辑参数传递",
+                                   "selected_value":  "事件监听逻辑中参数传递缺失，需补充必要参数确保功能正常运行。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内部文档搜索工具",
+                                   "selected_value":  "根据查询词检索内部知识库文档",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "客户详情获取工具",
+                                   "selected_value":  "通过客户标识查询完整客户信息",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "探索表格查询能力",
+                                   "selected_value":  "单表查询上限、多表关联、数据分析",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文档格式转换工具",
+                                   "selected_value":  "将特定格式内容转换为内部协作文档格式",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "赢单客户筛选工具",
+                                   "selected_value":  "多条件过滤赢单客户信息",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "全客户信息搜索工具",
+                                   "selected_value":  "结合多条件筛选客户数据",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参数不全但结果正确",
+                                   "selected_value":  "部分场景下参数未完全传递仍得到正确结果，需确认参数使用方式及必要性。",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "客户基础信息查询工具",
+                                   "selected_value":  "检索客户基础资料",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "客户跟进记录查询工具",
+                                   "selected_value":  "根据关键词、客户标识等条件获取跟进数据",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "赢单客户信息查询工具",
+                                   "selected_value":  "根据查询词获取赢单客户相关数据",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "互联网公开信息搜索工具",
+                                   "selected_value":  "通过多关键词检索公开网络信息",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "#浅谈aicoding",
+                                   "selected_value":  "原理、实践与演进探索",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "#aicoding最佳实践",
+                                   "selected_value":  "某CMS项目的工程化经验",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "#从genai到certifiedai",
+                                   "selected_value":  "作为世界模型的形式化验证",
+                                   "conflict":  false
+                               }
+                           ]
+}

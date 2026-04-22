@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "02.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:H11",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "I11:P11",
+                      "value":  "Senior Content Strategist"
+                  },
+                  {
+                      "label":  "Hire Date",
+                      "value_cell":  "Q11:X11",
+                      "value":  "05/12/2018"
+                  },
+                  {
+                      "label":  "Direct Manager Name",
+                      "value_cell":  "A13:L13",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Manager E-mail / Phone",
+                      "value_cell":  "M13:X13",
+                      "value":  "s.jenkins@company.com / 555-0192"
+                  },
+                  {
+                      "label":  "Home Address",
+                      "value_cell":  "A15:L15",
+                      "value":  "742 Maplewood Avenue"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M15:X15",
+                      "value":  "Portland, OR 97201"
+                  },
+                  {
+                      "label":  "Date Summons Received",
+                      "value_cell":  "A20:L20",
+                      "value":  "09/15/2023"
+                  },
+                  {
+                      "label":  "Court Name",
+                      "value_cell":  "M20:X20",
+                      "value":  "Multnomah County Circuit Court"
+                  },
+                  {
+                      "label":  "Court Address",
+                      "value_cell":  "A22:L22",
+                      "value":  "1021 SW 4th Ave, Portland, OR 97204"
+                  },
+                  {
+                      "label":  "Case / Summons Reference Number",
+                      "value_cell":  "M22:X22",
+                      "value":  "JURY-2023-9982"
+                  },
+                  {
+                      "label":  "Jury Duty Start Date",
+                      "value_cell":  "A24:L24",
+                      "value":  "10/02/2023"
+                  },
+                  {
+                      "label":  "Anticipated End Date",
+                      "value_cell":  "M24:X24",
+                      "value":  "10/06/2023"
+                  },
+                  {
+                      "label":  "Daily Start \u0026 End Times Required at Court",
+                      "value_cell":  "A26:X26",
+                      "value":  "8:30 AM - 4:30 PM"
+                  },
+                  {
+                      "label":  "Grand Jury",
+                      "value_cell":  "H27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Trial Jury",
+                      "value_cell":  "M27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Coroner\u0027s Jury",
+                      "value_cell":  "R27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Jury Duty Pay Received from Court $",
+                      "value_cell":  "A32:L32",
+                      "value":  "50.00"
+                  },
+                  {
+                      "label":  "Per Day $",
+                      "value_cell":  "M32:X32",
+                      "value":  "10.00"
+                  },
+                  {
+                      "label":  "Full Pay Maintained",
+                      "value_cell":  "H33",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Differential Pay",
+                      "value_cell":  "M33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Unpaid Leave",
+                      "value_cell":  "R33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Juror Attendance Proof Attached? Y / N 鈥?describe",
+                      "value_cell":  "A35:X35",
+                      "value":  "Y - Official court summons copy attached"
+                  },
+                  {
+                      "label":  "Additional Notes / Comments",
+                      "value_cell":  "A37:X37",
+                      "value":  "Will check in with manager daily if dismissed early."
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A44:L44",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Date (Employee)",
+                      "value_cell":  "M44:X44",
+                      "value":  "09/18/2023"
+                  },
+                  {
+                      "label":  "HR Representative",
+                      "value_cell":  "A47:L47",
+                      "value":  "Robert Vance"
+                  },
+                  {
+                      "label":  "Date (HR)",
+                      "value_cell":  "M47:X47",
+                      "value":  "09/19/2023"
+                  },
+                  {
+                      "label":  "Payroll Processor",
+                      "value_cell":  "A50:L50",
+                      "value":  "Alice Thompson"
+                  },
+                  {
+                      "label":  "Date (Payroll)",
+                      "value_cell":  "M50:X50",
+                      "value":  "09/20/2023"
+                  }
+              ]
+}

@@ -1,0 +1,104 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "market",
+                                   "selected_value":  "Country ${i}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase1",
+                                   "selected_value":  "Research and Planning (Months 1-3)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase2",
+                                   "selected_value":  "Partner Selection (Months 2-4)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase3",
+                                   "selected_value":  "Launch (Months 5-6)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "breakeven",
+                                   "selected_value":  "Month 18",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "competition",
+                                   "selected_value":  "Differentiation strategy",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketsize",
+                                   "selected_value":  "$2-5B annually",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketshare",
+                                   "selected_value":  "5%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "revenuetarget",
+                                   "selected_value":  "$500K",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "year1revenue",
+                                   "selected_value":  "$300K",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "year2revenue",
+                                   "selected_value":  "$1M",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "growthpotential",
+                                   "selected_value":  "High",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "year1investment",
+                                   "selected_value":  "$500K",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "regulatorychanges",
+                                   "selected_value":  "Legal compliance team",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "partnerperformance",
+                                   "selected_value":  "SLA agreements",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "currencyfluctuation",
+                                   "selected_value":  "Hedging strategy",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "customeracquisition",
+                                   "selected_value":  "50+ customers",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "competitiveintensity",
+                                   "selected_value":  "Moderate",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "customersatisfaction",
+                                   "selected_value":  "4.5+/5",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "regulatoryenvironment",
+                                   "selected_value":  "Favorable",
+                                   "conflict":  false
+                               }
+                           ]
+}

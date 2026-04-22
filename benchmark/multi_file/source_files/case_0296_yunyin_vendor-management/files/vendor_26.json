@@ -1,0 +1,42 @@
+{
+  "vendor_id": "VEND_${i}",
+  "vendor_name": "Vendor Company ${i}",
+  "vendor_type": "Software / Service / Hardware",
+  "contact_info": {
+    "primary_contact": "John Smith",
+    "email": "contact@vendor${i}.com",
+    "phone": "+1-555-0100",
+    "address": "123 Tech Street, City, State"
+  },
+  "service_details": {
+    "service_type": "Marketing Automation",
+    "service_level": "Standard",
+    "uptime_guarantee": "99.9%",
+    "support_hours": "24/7"
+  },
+  "pricing": {
+    "monthly_cost": 5000,
+    "annual_cost": 50000,
+    "setup_fee": 1000,
+    "contract_term": "12 months"
+  },
+  "contract_details": {
+    "start_date": "2024-02-01",
+    "end_date": "2025-01-31",
+    "renewal_notice": "60 days",
+    "auto_renew": true,
+    "termination_clause": "30 days notice"
+  },
+  "performance": {
+    "overall_rating": 4.5,
+    "uptime_actual": "99.95%",
+    "response_time": "2 hours",
+    "issue_resolution": "85% same day"
+  },
+  "relationship": {
+    "account_manager": "Jane Doe",
+    "last_review": "2024-02-01",
+    "next_review": "2024-05-01",
+    "satisfaction": "High"
+  }
+}

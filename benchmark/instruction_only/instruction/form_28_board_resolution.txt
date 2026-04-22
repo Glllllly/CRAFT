@@ -1,0 +1,124 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Organisation / Company Name",
+      "value_text": "Nexus Innovate Solutions Ltd"
+    },
+    {
+      "key_text": "Registration Number",
+      "value_text": "8849201-B"
+    },
+    {
+      "key_text": "Registered Address",
+      "value_text": "42 Tech Park Avenue, Silicon Valley, CA 94025"
+    },
+    {
+      "key_text": "Resolution Number",
+      "value_text": "RES-2023-014"
+    },
+    {
+      "key_text": "Date of Resolution",
+      "value_text": "15 October 2023"
+    },
+    {
+      "key_text": "Type  (Board / Committee / Written)",
+      "value_text": "Board"
+    },
+    {
+      "key_text": "Called By  (Name & Title)",
+      "value_text": "Sarah Jenkins, CEO"
+    },
+    {
+      "key_text": "Meeting Location  (or \"Circular\")",
+      "value_text": "Boardroom A"
+    },
+    {
+      "key_text": "Director 1 — Full Name & Title",
+      "value_text": "Sarah Jenkins, CEO"
+    },
+    {
+      "key_text": "Director 1 — Signature",
+      "value_text": "Signed"
+    },
+    {
+      "key_text": "Director 2 — Full Name & Title",
+      "value_text": "Marcus Thorne, CFO"
+    },
+    {
+      "key_text": "Director 2 — Signature",
+      "value_text": "Signed"
+    },
+    {
+      "key_text": "Director 3 — Full Name & Title",
+      "value_text": "Elena Rodriguez, COO"
+    },
+    {
+      "key_text": "Director 3 — Signature",
+      "value_text": "Signed"
+    },
+    {
+      "key_text": "Director 4 — Full Name & Title",
+      "value_text": null
+    },
+    {
+      "key_text": "Director 4 — Signature",
+      "value_text": null
+    },
+    {
+      "key_text": "Director 5 — Full Name & Title",
+      "value_text": null
+    },
+    {
+      "key_text": "Director 5 — Signature",
+      "value_text": null
+    },
+    {
+      "key_text": "Director 6 — Full Name & Title",
+      "value_text": null
+    },
+    {
+      "key_text": "Director 6 — Signature",
+      "value_text": null
+    },
+    {
+      "key_text": "RESOLVED THAT  (state the resolution in full — continue on attachment if needed)",
+      "value_text": "The Board approves the acquisition of CloudStream Data Services for a total consideration of $2.5 million, effective 1 November 2023."
+    },
+    {
+      "key_text": "Proposed By",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Seconded By",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "List of Attachment Titles",
+      "value_text": "Acquisition Valuation Report, Due Diligence Summary"
+    },
+    {
+      "key_text": "I certify that this is a true and accurate record of the resolution duly passed.",
+      "value_text": "Certified true by Company Secretary"
+    },
+    {
+      "key_text": "Company Secretary Signature",
+      "value_text": "Signed"
+    },
+    {
+      "key_text": "Date Certified",
+      "value_text": "16 October 2023"
+    },
+    {
+      "key_text": "Common Seal Affixed?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Seal Number / Reference",
+      "value_text": "SL-9928"
+    }
+  ]
+}
+
+Narrative:
+This document records a formal board resolution for Nexus Innovate Solutions Ltd (Registration Number 8849201-B), located at 42 Tech Park Avenue, Silicon Valley. The resolution, numbered RES-2023-014, was passed on 15 October 2023 during a Board meeting called by CEO Sarah Jenkins at Boardroom A. The resolution authorizes the $2.5 million acquisition of CloudStream Data Services, effective 1 November 2023. The motion was proposed by CFO Marcus Thorne and seconded by COO Elena Rodriguez, both of whom signed alongside the CEO. The resolution is supported by an acquisition valuation report and a due diligence summary. The document was certified by the Company Secretary on 16 October 2023, and the company's common seal (reference SL-9928) has been affixed to the record.

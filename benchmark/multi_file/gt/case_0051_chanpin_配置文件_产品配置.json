@@ -1,0 +1,81 @@
+{
+  "excel": "case_0051_chanpin_配置文件_产品配置__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "status",
+      "value_cell": "A6:D7",
+      "value": "active"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F6:I7",
+      "value": "important"
+    },
+    {
+      "label": "tags.1",
+      "value_cell": "K6:N7",
+      "value": "production"
+    },
+    {
+      "label": "tags.2",
+      "value_cell": "P6:S7",
+      "value": "monitored"
+    },
+    {
+      "label": "enabledfeatures.0",
+      "value_cell": "A12:D13",
+      "value": "feature_core"
+    },
+    {
+      "label": "enabledfeatures.1",
+      "value_cell": "F12:I13",
+      "value": "feature_premium"
+    },
+    {
+      "label": "enabledfeatures.2",
+      "value_cell": "K12:N13",
+      "value": "feature_analytics"
+    },
+    {
+      "label": "enabledfeatures.3",
+      "value_cell": "P12:S13",
+      "value": "feature_integration"
+    },
+    {
+      "label": "regions.0",
+      "value_cell": "A18:D19",
+      "value": "china"
+    },
+    {
+      "label": "regions.1",
+      "value_cell": "F18:I19",
+      "value": "asia"
+    },
+    {
+      "label": "regions.2",
+      "value_cell": "K18:N19",
+      "value": "global"
+    },
+    {
+      "label": "supportlevel",
+      "value_cell": "P18:S19",
+      "value": "community"
+    },
+    {
+      "label": "supporthours",
+      "value_cell": "A22:D23",
+      "value": "24/7"
+    },
+    {
+      "label": "sla.supporthours",
+      "value_cell": "F22:I23",
+      "value": "24/7"
+    },
+    {
+      "label": "pricing.currency",
+      "value_cell": "A28:D29",
+      "value": "CNY"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0076_houqin_出差管理_行程安排",
+    "tenant":  "houqin",
+    "topic":  "出差管理",
+    "subtopic":  "行程安排",
+    "source_dir":  "houqin\\出差管理\\行程安排",
+    "total_files_in_source_dir":  35,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\出差管理\\行程安排\\总结报告_9016.json",
+                      "copied_name":  "总结报告_9016.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\行程安排\\月报_2199.csv",
+                      "copied_name":  "月报_2199.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\行程安排\\休假申请_5989.txt",
+                      "copied_name":  "休假申请_5989.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\行程安排\\费用统计_5888.eml",
+                      "copied_name":  "费用统计_5888.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\出差管理\\行程安排\\审核单_3961.csv",
+                      "copied_name":  "审核单_3961.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

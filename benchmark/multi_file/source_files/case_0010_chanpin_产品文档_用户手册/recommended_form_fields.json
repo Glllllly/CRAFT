@@ -1,0 +1,19 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "导出数据",
+                                   "selected_value":  "支持Excel、PDF等格式",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "自定义设置",
+                                   "selected_value":  "个性化配置",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "使用高级搜索",
+                                   "selected_value":  "支持多条件组合查询",
+                                   "conflict":  false
+                               }
+                           ]
+}

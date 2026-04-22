@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0078_houqin_办公用品_申请单",
+    "tenant":  "houqin",
+    "topic":  "办公用品",
+    "subtopic":  "申请单",
+    "source_dir":  "houqin\\办公用品\\申请单",
+    "total_files_in_source_dir":  77,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\办公用品\\申请单\\总结报告_1942.json",
+                      "copied_name":  "总结报告_1942.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\办公用品\\申请单\\项目计划_4100.csv",
+                      "copied_name":  "项目计划_4100.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\办公用品\\申请单\\申请单_014.txt",
+                      "copied_name":  "申请单_014.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  277
+                  },
+                  {
+                      "source_rel":  "houqin\\办公用品\\申请单\\备件申请_2080.eml",
+                      "copied_name":  "备件申请_2080.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\办公用品\\申请单\\绩效表_2760.csv",
+                      "copied_name":  "绩效表_2760.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

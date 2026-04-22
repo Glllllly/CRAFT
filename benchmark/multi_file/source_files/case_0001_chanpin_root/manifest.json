@@ -1,0 +1,39 @@
+﻿{
+    "case_id":  "case_0001_chanpin_root",
+    "tenant":  "chanpin",
+    "topic":  "",
+    "subtopic":  "",
+    "source_dir":  "chanpin",
+    "total_files_in_source_dir":  4,
+    "picked_count":  4,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\文件管理系统完成总结.txt",
+                      "copied_name":  "文件管理系统完成总结.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  9721
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品岗位文件管理系统总结.txt",
+                      "copied_name":  "产品岗位文件管理系统总结.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  7668
+                  },
+                  {
+                      "source_rel":  "chanpin\\新增文件清单.txt",
+                      "copied_name":  "新增文件清单.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  6911
+                  },
+                  {
+                      "source_rel":  "chanpin\\README.txt",
+                      "copied_name":  "README.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  2553
+                  }
+              ]
+}

@@ -1,0 +1,146 @@
+﻿{
+    "excel":  "form_20_internship_evaluation.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Intern Full Name:",
+                      "value_cell":  "L8:X8",
+                      "value":  "Alexander J. Thorne"
+                  },
+                  {
+                      "label":  "Organisation:",
+                      "value_cell":  "F9:J9",
+                      "value":  "Apex Analytics"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "O9:X9",
+                      "value":  "Data Science Division"
+                  },
+                  {
+                      "label":  "Supervisor Name:",
+                      "value_cell":  "G10:H10",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Supervisor Title:",
+                      "value_cell":  "Q10:X10",
+                      "value":  "Lead Data Architect"
+                  },
+                  {
+                      "label":  "Internship Period  (From):",
+                      "value_cell":  "I11:J11",
+                      "value":  "06/01/2023"
+                  },
+                  {
+                      "label":  "To:",
+                      "value_cell":  "M11:P11",
+                      "value":  "08/15/2023"
+                  },
+                  {
+                      "label":  "Total Hours:",
+                      "value_cell":  "V11:X11",
+                      "value":  "320"
+                  },
+                  {
+                      "label":  "Quality of Work:  __ / 5",
+                      "value_cell":  "I15:X15",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Productivity / Output:  __ / 5",
+                      "value_cell":  "J16:X16",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Communication Skills:  __ / 5",
+                      "value_cell":  "J17:X17",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Problem-Solving Ability:  __ / 5",
+                      "value_cell":  "K18:X18",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Teamwork \u0026 Collaboration:  __ / 5",
+                      "value_cell":  "K19:X19",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Initiative \u0026 Motivation:  __ / 5",
+                      "value_cell":  "K20:X20",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Professionalism \u0026 Reliability:  __ / 5",
+                      "value_cell":  "L21:QX21",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Technical / Subject Knowledge:  __ / 5",
+                      "value_cell":  "L22:X22",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Adaptability \u0026 Learning Speed:  __ / 5",
+                      "value_cell":  "L23:X23",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Meeting Deadlines:  __ / 5",
+                      "value_cell":  "I24:X24",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "OVERALL PERFORMANCE RATING:",
+                      "value_cell":  "T25:X25",
+                      "value":  "4.7 / 5"
+                  },
+                  {
+                      "label":  "Key Strengths Demonstrated:",
+                      "value_cell":  "N29:X10",
+                      "value":  "Exceptional coding skills and strong analytical mindset."
+                  },
+                  {
+                      "label":  "Areas for Development:",
+                      "value_cell":  "N31:X32",
+                      "value":  "Public speaking and presenting findings to non-technical stakeholders."
+                  },
+                  {
+                      "label":  "Most Valuable Contribution to the Organisation:",
+                      "value_cell":  "N33:X33",
+                      "value":  "Developed a new automated script for data cleaning that saved 10+ hours weekly."
+                  },
+                  {
+                      "label":  "Would you hire this intern full-time?  Y / N / Possibly",
+                      "value_cell":  "T34:X34",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Any suggestions for improving the internship programme:",
+                      "value_cell":  "N39:X39",
+                      "value":  "Consider adding more structured mentorship meetings during the first two weeks."
+                  },
+                  {
+                      "label":  "Supervisor Signature",
+                      "value_cell":  "A46:M46",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q46:X46",
+                      "value":  "08/18/2023"
+                  },
+                  {
+                      "label":  "HR Representative",
+                      "value_cell":  "A48:M48",
+                      "value":  "Marcus Vane"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q48:X48",
+                      "value":  "08/20/2023"
+                  }
+              ]
+}

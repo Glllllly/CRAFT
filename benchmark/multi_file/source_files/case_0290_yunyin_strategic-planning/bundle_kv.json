@@ -1,0 +1,3248 @@
+{
+  "bundle_dir": "case_0290_yunyin_strategic-planning",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "strategic_plan_32.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "strategic_plan_33.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "strategic_plan_34.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "strategic_plan_35.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "strategic_plan_36.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "###initiative1",
+      "candidates": [
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative1",
+          "value": "Product Roadmap",
+          "raw_key": "### Initiative 1",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 1: Product Roadmap",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###initiative2",
+      "candidates": [
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative2",
+          "value": "Market Expansion",
+          "raw_key": "### Initiative 2",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 2: Market Expansion",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###initiative3",
+      "candidates": [
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###initiative3",
+          "value": "Customer Success",
+          "raw_key": "### Initiative 3",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Initiative 3: Customer Success",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**approach**",
+      "candidates": [
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Customer feedback, market research, R&D",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Customer feedback, market research, R&D",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Dedicated support, training, community",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Dedicated support, training, community",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Hiring, training, culture building",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Hiring, training, culture building",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approach**",
+          "value": "Partner network, direct sales, content marketing",
+          "raw_key": "- **Approach**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Approach**: Partner network, direct sales, content marketing",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**approved**",
+      "candidates": [
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approved**",
+          "value": "Board of Directors",
+          "raw_key": "**Approved**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approved**: Board of Directors",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**lastupdated**",
+      "candidates": [
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**planperiod**",
+      "candidates": [
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**planperiod**",
+          "value": "2024-2026",
+          "raw_key": "**Plan Period**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Plan Period**: 2024-2026",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**profitability**",
+      "candidates": [
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**profitability**",
+          "value": "Break-even by Q4 2024",
+          "raw_key": "- **Profitability**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Profitability**: Break-even by Q4 2024",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**revenue2024**",
+      "candidates": [
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2024**",
+          "value": "$10M",
+          "raw_key": "- **Revenue 2024**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2024**: $10M",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**revenue2025**",
+      "candidates": [
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2025**",
+          "value": "$15M",
+          "raw_key": "- **Revenue 2025**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2025**: $15M",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**revenue2026**",
+      "candidates": [
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**revenue2026**",
+          "value": "$25M",
+          "raw_key": "- **Revenue 2026**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Revenue 2026**: $25M",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**target**",
+      "candidates": [
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "3 major feature releases per year",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 3 major feature releases per year",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "50 new customers annually",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 50 new customers annually",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "95% retention rate",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: 95% retention rate",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**target**",
+          "value": "Build high-performing teams",
+          "raw_key": "- **Target**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Target**: Build high-performing teams",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**timeline**",
+      "candidates": [
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "2024-2026",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: 2024-2026",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Continuous",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Continuous",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Ongoing",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Ongoing",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**timeline**",
+          "value": "Quarterly releases",
+          "raw_key": "- **Timeline**",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Timeline**: Quarterly releases",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q12024",
+      "candidates": [
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Feature A release",
+          "raw_key": "- Q1 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Feature A release",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q22024",
+      "candidates": [
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Feature B release",
+          "raw_key": "- Q2 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Feature B release",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q32024",
+      "candidates": [
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Platform upgrade",
+          "raw_key": "- Q3 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Platform upgrade",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q42024",
+      "candidates": [
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "AI integration",
+          "raw_key": "- Q4 2024",
+          "source_file": "strategic_plan_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: AI integration",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

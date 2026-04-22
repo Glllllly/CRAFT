@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0034_chanpin_数据安全",
+    "tenant":  "chanpin",
+    "topic":  "数据安全",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\数据安全",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\数据安全\\安全报告_8.txt",
+                      "copied_name":  "安全报告_8.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  653
+                  },
+                  {
+                      "source_rel":  "chanpin\\数据安全\\安全报告_23.txt",
+                      "copied_name":  "安全报告_23.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  653
+                  },
+                  {
+                      "source_rel":  "chanpin\\数据安全\\安全报告_6.txt",
+                      "copied_name":  "安全报告_6.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  653
+                  },
+                  {
+                      "source_rel":  "chanpin\\数据安全\\安全报告_18.txt",
+                      "copied_name":  "安全报告_18.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  653
+                  },
+                  {
+                      "source_rel":  "chanpin\\数据安全\\安全报告_42.txt",
+                      "copied_name":  "安全报告_42.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  653
+                  }
+              ]
+}

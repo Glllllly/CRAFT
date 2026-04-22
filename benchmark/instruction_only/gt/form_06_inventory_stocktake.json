@@ -1,0 +1,136 @@
+﻿{
+    "excel":  "form_06_inventory_stocktake.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Location / Warehouse Name",
+                      "value_cell":  "A8:L8",
+                      "value":  "North Distribution Center"
+                  },
+                  {
+                      "label":  "Section / Aisle / Bay",
+                      "value_cell":  "M8:X8",
+                      "value":  "Aisle 4, Bay B2"
+                  },
+                  {
+                      "label":  "Count Date",
+                      "value_cell":  "A10:H10",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Count Time",
+                      "value_cell":  "I10:P10",
+                      "value":  "09:30 AM"
+                  },
+                  {
+                      "label":  "Counted By (Name)",
+                      "value_cell":  "Q10:X10",
+                      "value":  "Mark Johnson"
+                  },
+                  {
+                      "label":  "Supervisor / Verifier Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Stocktake Reference Number",
+                      "value_cell":  "M12:X12",
+                      "value":  "ST-2023-8842"
+                  },
+                  {
+                      "label":  "Item Code",
+                      "value_cell":  "A18:D37",
+                      "value":  "SKU-9921; SKU-4430"
+                  },
+                  {
+                      "label":  "Description",
+                      "value_cell":  "E18:K37",
+                      "value":  "Industrial Bolts; Steel Brackets"
+                  },
+                  {
+                      "label":  "Unit",
+                      "value_cell":  "L18:M37",
+                      "value":  "Box; Each"
+                  },
+                  {
+                      "label":  "System Qty",
+                      "value_cell":  "N18:O37",
+                      "value":  "50; 120"
+                  },
+                  {
+                      "label":  "Counted Qty",
+                      "value_cell":  "P18:Q37",
+                      "value":  "48; 122"
+                  },
+                  {
+                      "label":  "Variance",
+                      "value_cell":  "R18:S37",
+                      "value":  "-2; +2"
+                  },
+                  {
+                      "label":  "Notes",
+                      "value_cell":  "Y18:X37",
+                      "value":  "Damaged in transit; Extra stock found"
+                  },
+                  {
+                      "label":  "Total Items Counted",
+                      "value_cell":  "A41:H41",
+                      "value":  "170"
+                  },
+                  {
+                      "label":  "Total Variances Found",
+                      "value_cell":  "I41:P41",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Total Variance Value  $",
+                      "value_cell":  "Q41:X41",
+                      "value":  "45.00"
+                  },
+                  {
+                      "label":  "Items with Positive Variance (over-count)",
+                      "value_cell":  "A43:L43",
+                      "value":  "SKU-4430"
+                  },
+                  {
+                      "label":  "Items with Negative Variance (under-count)",
+                      "value_cell":  "M43:X43",
+                      "value":  "SKU-9921"
+                  },
+                  {
+                      "label":  "Notes / Explanations for Variances",
+                      "value_cell":  "A45:X45",
+                      "value":  "Two boxes of bolts were damaged and removed from inventory; two extra brackets found in secondary bin."
+                  },
+                  {
+                      "label":  "Counter Signature",
+                      "value_cell":  "A53:M53",
+                      "value":  "Mark Johnson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q53:X53",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Supervisor / Verifier",
+                      "value_cell":  "A55:M55",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q55:X55",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Inventory Manager",
+                      "value_cell":  "A55:M55",
+                      "value":  "David Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q55:X55",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

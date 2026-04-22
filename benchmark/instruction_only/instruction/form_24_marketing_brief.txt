@@ -1,0 +1,154 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Campaign Name / Working Title",
+      "value_text": "Summer Refresh 2024"
+    },
+    {
+      "key_text": "Request Date",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "Requesting Department / Brand",
+      "value_text": "Consumer Electronics Division"
+    },
+    {
+      "key_text": "Campaign Owner / Primary Contact",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@company.com"
+    },
+    {
+      "key_text": "Budget  $",
+      "value_text": "50,000"
+    },
+    {
+      "key_text": "Campaign Start Date",
+      "value_text": "2024-06-01"
+    },
+    {
+      "key_text": "Campaign End Date / Go-Live Date",
+      "value_text": "2024-08-31"
+    },
+    {
+      "key_text": "Key Performance Indicator (KPI)",
+      "value_text": "Conversion Rate"
+    },
+    {
+      "key_text": "Target Metric / Success Definition",
+      "value_text": "3% increase in online store checkout completions"
+    },
+    {
+      "key_text": "Campaign Objective — what do you want to achieve? (be specific)",
+      "value_text": "Drive awareness and sales for the new portable speaker line by highlighting durability and battery life to outdoor enthusiasts."
+    },
+    {
+      "key_text": "Primary Target Audience  (demographic, persona)",
+      "value_text": "Outdoor enthusiasts aged 18-35"
+    },
+    {
+      "key_text": "Secondary Audience (if any)",
+      "value_text": "Tech-savvy urban commuters"
+    },
+    {
+      "key_text": "Geographic Focus",
+      "value_text": "North America"
+    },
+    {
+      "key_text": "Audience Size / Reach Estimate",
+      "value_text": "1.5 Million"
+    },
+    {
+      "key_text": "Key Audience Insights / Behaviours / Pain Points",
+      "value_text": "Users fear battery failure during long trips; value rugged, waterproof design."
+    },
+    {
+      "key_text": "Core Message / Single Minded Proposition (SMP)",
+      "value_text": "Adventure without limits: Sound that lasts as long as your journey."
+    },
+    {
+      "key_text": "Key Support Points / USPs  (max 5 bullets)",
+      "value_text": "24-hour battery life; IP67 waterproof rating; Lightweight construction; 360-degree sound."
+    },
+    {
+      "key_text": "Mandatory Inclusions  (logos, disclaimers, legal copy, URLs)",
+      "value_text": "Company logo, standard warranty disclaimer, link to www.company.com/audio"
+    },
+    {
+      "key_text": "Tone of Voice  (e.g., professional, playful, urgent, empathetic)",
+      "value_text": "Energetic, adventurous, and reliable."
+    },
+    {
+      "key_text": "Digital / Social",
+      "value_text": "X"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Print",
+      "value_text": null
+    },
+    {
+      "key_text": "Specific Deliverables Required  (e.g., 3× social posts, 1× landing page, 2× banner sizes)",
+      "value_text": "5x Instagram/TikTok video ads, 1x dedicated product landing page, 3x display banner sizes."
+    },
+    {
+      "key_text": "Creative Lead / Agency",
+      "value_text": "In-house Creative Studio"
+    },
+    {
+      "key_text": "Media Buying Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Brand",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Legal",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Compliance",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Requestor Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "Marketing Director",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-16"
+    },
+    {
+      "key_text": "Brand / Legal Review",
+      "value_text": "Elena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-17"
+    }
+  ]
+}
+
+Narrative:
+This campaign brief, titled "Summer Refresh 2024," was submitted by Sarah Jenkins from the Consumer Electronics Division on May 15, 2024. Sarah is the primary contact for this $50,000 initiative, which is scheduled to run from June 1, 2024, to August 31, 2024. The campaign aims to drive sales for a new line of portable speakers by targeting outdoor enthusiasts aged 18-35 and tech-savvy urban commuters across North America. We are estimating a reach of 1.5 million people. 
+
+The core message, "Adventure without limits: Sound that lasts as long as your journey," addresses the key pain point of battery anxiety during travel. The campaign will highlight the product's 24-hour battery life, IP67 waterproof rating, and 360-degree sound. We require digital/social and email assets, specifically five video ads for Instagram and TikTok, one landing page, and three display banner sizes. Media buying is required. The project has been approved by Sarah Jenkins, Marketing Director Marcus Thorne, and Brand/Legal reviewer Elena Vance.

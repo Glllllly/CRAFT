@@ -1,0 +1,184 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By — Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department / Cost Centre",
+      "value_text": "Marketing / CC-402"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@company.com"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Contractor / Company Name",
+      "value_text": "Apex Creative Solutions"
+    },
+    {
+      "key_text": "Contact Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "m.thorne@apexcreative.com"
+    },
+    {
+      "key_text": "Website",
+      "value_text": "www.apexcreative.com"
+    },
+    {
+      "key_text": "Business Address",
+      "value_text": "452 Innovation Way"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Austin, TX 78701"
+    },
+    {
+      "key_text": "Tax ID / SSN (last 4)",
+      "value_text": "8892"
+    },
+    {
+      "key_text": "W-9 Submitted? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Payment Currency",
+      "value_text": "USD"
+    },
+    {
+      "key_text": "Bank / Payment Details on File? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Description of Services to be Provided",
+      "value_text": "Development of social media campaign assets and video editing for Q4 product launch."
+    },
+    {
+      "key_text": "Project / Engagement Title",
+      "value_text": "Q4 Digital Campaign"
+    },
+    {
+      "key_text": "Project Code",
+      "value_text": "MKT-2023-09"
+    },
+    {
+      "key_text": "Start Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "End Date / Deadline",
+      "value_text": "2023-12-20"
+    },
+    {
+      "key_text": "Estimated Total Hours",
+      "value_text": "80"
+    },
+    {
+      "key_text": "Hourly / Day Rate $",
+      "value_text": "125"
+    },
+    {
+      "key_text": "Fixed Fee (if applicable) $",
+      "value_text": null
+    },
+    {
+      "key_text": "Total Not-to-Exceed Budget $",
+      "value_text": "10000"
+    },
+    {
+      "key_text": "One-Off Project",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Retainer",
+      "value_text": null
+    },
+    {
+      "key_text": "Milestone-Based",
+      "value_text": null
+    },
+    {
+      "key_text": "Yes — Passes Independent Contractor",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Yes — Worker is Employee",
+      "value_text": null
+    },
+    {
+      "key_text": "Not Yet Performed",
+      "value_text": null
+    },
+    {
+      "key_text": "HR / Legal Sign-off Name",
+      "value_text": "David Miller"
+    },
+    {
+      "key_text": "Sign-off Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Classification Notes / Rationale",
+      "value_text": "Contractor provides own equipment and maintains control over specific methodology."
+    },
+    {
+      "key_text": "Key Deliverables Expected",
+      "value_text": "10 social graphics, 3 short-form videos, and final brand guidelines document."
+    },
+    {
+      "key_text": "IP / Work-for-Hire Clause in Contract?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "NDA Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Requesting Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "HR / Legal",
+      "value_text": "David Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Finance / Procurement",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-19"
+    }
+  ]
+}
+
+Narrative:
+This freelance engagement request was submitted on October 15, 2023, by Sarah Jenkins from the Marketing department (Cost Centre CC-402). She can be reached at 555-012-3456 or s.jenkins@company.com. The contractor, Apex Creative Solutions, represented by Marcus Thorne (555-987-6543, m.thorne@apexcreative.com, www.apexcreative.com), is based at 452 Innovation Way, Austin, TX 78701. The contractor has provided their Tax ID (ending in 8892), submitted a W-9, and has payment details on file in USD.
+
+The engagement involves developing social media campaign assets and video editing for the "Q4 Digital Campaign" (Project Code: MKT-2023-09). The work is scheduled to run from November 1, 2023, to December 20, 2023, with an estimated 80 hours at an hourly rate of $125, capping the total budget at $10,000. This is classified as a "One-Off Project."
+
+Regarding worker classification, the role has been vetted and confirmed as an independent contractor by David Miller in HR on October 18, 2023, noting that the contractor uses their own equipment and methods. Key deliverables include 10 social graphics, 3 short-form videos, and a brand guidelines document. The contract includes an IP work-for-hire clause and requires an NDA. The form has been signed by Sarah Jenkins (Oct 15), David Miller (Oct 18), and Elena Rodriguez in Finance/Procurement (Oct 19).

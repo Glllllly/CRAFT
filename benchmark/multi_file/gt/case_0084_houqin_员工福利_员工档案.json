@@ -1,0 +1,161 @@
+{
+  "excel": "case_0084_houqin_员工福利_员工档案__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "11495"
+    },
+    {
+      "label": "姓名",
+      "value_cell": "F6:I7",
+      "value": "员工18"
+    },
+    {
+      "label": "员工编号",
+      "value_cell": "K6:N7",
+      "value": "EMP-1018"
+    },
+    {
+      "label": "性别",
+      "value_cell": "P6:S7",
+      "value": "男"
+    },
+    {
+      "label": "出生年月",
+      "value_cell": "A10:D11",
+      "value": "1983-09-06"
+    },
+    {
+      "label": "身份证号",
+      "value_cell": "F10:I11",
+      "value": "110100198808121557"
+    },
+    {
+      "label": "入职日期",
+      "value_cell": "K10:N11",
+      "value": "2013-04-10"
+    },
+    {
+      "label": "岗位",
+      "value_cell": "A16:D17",
+      "value": "采购员"
+    },
+    {
+      "label": "级别",
+      "value_cell": "F16:I17",
+      "value": "初级"
+    },
+    {
+      "label": "工资等级",
+      "value_cell": "K16:N17",
+      "value": "3级"
+    },
+    {
+      "label": "手机",
+      "value_cell": "A22:D23",
+      "value": "13900014416"
+    },
+    {
+      "label": "邮箱",
+      "value_cell": "F22:I23",
+      "value": "emp18@company.com"
+    },
+    {
+      "label": "紧急联系人",
+      "value_cell": "K22:N23",
+      "value": "员工28"
+    },
+    {
+      "label": "已休假",
+      "value_cell": "A28:D29",
+      "value": "11天"
+    },
+    {
+      "label": "待休假",
+      "value_cell": "F28:I29",
+      "value": "12天"
+    },
+    {
+      "label": "年假天数",
+      "value_cell": "K28:N29",
+      "value": "23天"
+    },
+    {
+      "label": "体检状态",
+      "value_cell": "P28:S29",
+      "value": "已体检"
+    },
+    {
+      "label": "保险投保",
+      "value_cell": "A32:D33",
+      "value": "是"
+    },
+    {
+      "label": "生日奖励",
+      "value_cell": "F32:I33",
+      "value": "¥200"
+    },
+    {
+      "label": "title",
+      "value_cell": "A38:D39",
+      "value": "数据统计_8839"
+    },
+    {
+      "label": "subject",
+      "value_cell": "F38:I39",
+      "value": "人数统计"
+    },
+    {
+      "label": "type",
+      "value_cell": "K38:N39",
+      "value": "数据统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "P38:S39",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A42:D43",
+      "value": "2026-02-10T05:30:32.410991"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F42:I43",
+      "value": "黄欢"
+    },
+    {
+      "label": "from",
+      "value_cell": "K42:N43",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "P42:S43",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "status",
+      "value_cell": "A46:D47",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F46:I47",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K46:N47",
+      "value": "紧急"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "P46:S47",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

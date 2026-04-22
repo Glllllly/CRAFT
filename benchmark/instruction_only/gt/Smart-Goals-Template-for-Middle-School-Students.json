@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "Smart-Goals-Template-for-Middle-School-Students.xlsx",
+    "sheet":  "Smart Goals Sheet",
+    "pairs":  [
+                  {
+                      "label":  "GOAL",
+                      "value_cell":  "E9",
+                      "value":  "Improve student reading comprehension scores"
+                  },
+                  {
+                      "label":  "TEACHER",
+                      "value_cell":  "E11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "E12",
+                      "value":  "October 14, 2023"
+                  },
+                  {
+                      "label":  "SPECIFIC",
+                      "value_cell":  "D15",
+                      "value":  "Increase the average score on district-wide reading comprehension assessments by 15%."
+                  },
+                  {
+                      "label":  "MEASURABLE",
+                      "value_cell":  "D19",
+                      "value":  "Track progress using bi-weekly formative assessments and compare baseline data to final quarterly test results."
+                  },
+                  {
+                      "label":  "ACHIEVABLE",
+                      "value_cell":  "D23",
+                      "value":  "Implement a new 30-minute daily guided reading session and utilize supplemental digital literacy tools."
+                  },
+                  {
+                      "label":  "RELEVANT",
+                      "value_cell":  "D27",
+                      "value":  "Strong reading skills are fundamental for success across all academic subjects and long-term learning outcomes."
+                  },
+                  {
+                      "label":  "TIME BOUND",
+                      "value_cell":  "D31",
+                      "value":  "The objective will be achieved by the end of the current semester, December 15, 2023."
+                  }
+              ]
+}

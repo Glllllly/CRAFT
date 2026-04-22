@@ -1,0 +1,141 @@
+﻿{
+    "excel":  "form_05_employee_complaint.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name (Optional)",
+                      "value_cell":  "E9:L9",
+                      "value":  "Jordan A. Smith"
+                  },
+                  {
+                      "label":  "Employee ID (Optional)",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department / Unit",
+                      "value_cell":  "E11:L11",
+                      "value":  "Marketing Operations"
+                  },
+                  {
+                      "label":  "Job Title / Position",
+                      "value_cell":  "M11:X11",
+                      "value":  "Senior Campaign Manager"
+                  },
+                  {
+                      "label":  "Preferred Contact Method",
+                      "value_cell":  "E13:L13",
+                      "value":  "Email: j.smith@company.com"
+                  },
+                  {
+                      "label":  "Date of Submission",
+                      "value_cell":  "M13:X13",
+                      "value":  "2023-10-24"
+                  },
+                  {
+                      "label":  "Harassment",
+                      "value_cell":  "H19:I19",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Discrimination",
+                      "value_cell":  "N19:O19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Pay / Benefits",
+                      "value_cell":  "T19:U19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date(s) of Incident(s)",
+                      "value_cell":  "E20:L20",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Location of Incident(s)",
+                      "value_cell":  "Q20:X20",
+                      "value":  "Main Conference Room B"
+                  },
+                  {
+                      "label":  "Person(s) Involved",
+                      "value_cell":  "G20:X20",
+                      "value":  "Marcus Thorne (Supervisor)"
+                  },
+                  {
+                      "label":  "Detailed Description 鈥?describe what happened, who was involved, and witnesses",
+                      "value_cell":  "A24:X27",
+                      "value":  "During the weekly strategy meeting on Oct 20, Marcus Thorne repeatedly interrupted my presentation and made derogatory comments regarding my professional capabilities in front of the entire team. Sarah Jenkins witnessed the interaction."
+                  },
+                  {
+                      "label":  "Evidence / Documentation Available (describe; do not attach originals yet)",
+                      "value_cell":  "A29:X29",
+                      "value":  "Meeting recording and email follow-up thread from the same day."
+                  },
+                  {
+                      "label":  "Previous Steps Taken to Resolve This Issue",
+                      "value_cell":  "A31:X31",
+                      "value":  "None, I felt uncomfortable addressing this directly with the supervisor."
+                  },
+                  {
+                      "label":  "Desired Outcome / Resolution Sought",
+                      "value_cell":  "A33:X33",
+                      "value":  "Formal mediation and a review of workplace conduct standards."
+                  },
+                  {
+                      "label":  "Received By",
+                      "value_cell":  "E38:L38",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date Received",
+                      "value_cell":  "Q38:X38",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Assigned Investigator",
+                      "value_cell":  "E40:L40",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Target Resolution Date",
+                      "value_cell":  "Q40:X40",
+                      "value":  "2023-11-08"
+                  },
+                  {
+                      "label":  "Investigator Notes / Disposition",
+                      "value_cell":  "A43:X43",
+                      "value":  "Initial intake completed; scheduling interviews with complainant and witness."
+                  },
+                  {
+                      "label":  "HR Business Partner",
+                      "value_cell":  "A51:M51",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q51:X51",
+                      "value":  "2023-10-26"
+                  },
+                  {
+                      "label":  "Employee Relations Manager",
+                      "value_cell":  "A53:M53",
+                      "value":  "Thomas Wright"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q53:X53",
+                      "value":  "2023-10-26"
+                  },
+                  {
+                      "label":  "HR Director",
+                      "value_cell":  "A55:M55",
+                      "value":  "Linda Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q55:X55",
+                      "value":  "2023-10-27"
+                  }
+              ]
+}

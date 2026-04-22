@@ -1,0 +1,91 @@
+﻿{
+    "excel":  "员工入职登记表(1).xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "閮ㄩ棬",
+                      "value_cell":  "L2",
+                      "value":  "鐮斿彂閮?"
+                  },
+                  {
+                      "label":  "宸ュ彿",
+                      "value_cell":  "L3",
+                      "value":  "RD-8802"
+                  },
+                  {
+                      "label":  "鑱屽姟",
+                      "value_cell":  "L4",
+                      "value":  "楂樼骇杞欢宸ョ▼甯?"
+                  },
+                  {
+                      "label":  "濉〃鏃ユ湡锛?",
+                      "value_cell":  "B5",
+                      "value":  "2023骞?0鏈?5鏃?"
+                  },
+                  {
+                      "label":  "濮撳悕",
+                      "value_cell":  "B7",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鎬у埆",
+                      "value_cell":  "E7",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "鍑虹敓骞存湀",
+                      "value_cell":  "I7",
+                      "value":  "1992骞?5鏈?"
+                  },
+                  {
+                      "label":  "濠氬Щ鐘跺喌",
+                      "value_cell":  "K7",
+                      "value":  "宸插"
+                  },
+                  {
+                      "label":  "绫嶈疮",
+                      "value_cell":  "B8",
+                      "value":  "灞变笢闈掑矝"
+                  },
+                  {
+                      "label":  "姘戞棌",
+                      "value_cell":  "E8",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "鎴峰彛鎵€鍦ㄥ湴",
+                      "value_cell":  "I8",
+                      "value":  "涓婃捣甯傛郸涓滄柊鍖?"
+                  },
+                  {
+                      "label":  "鐢熻偛鎯呭喌",
+                      "value_cell":  "K8",
+                      "value":  "宸茶偛"
+                  },
+                  {
+                      "label":  "韬唤璇佸彿鐮?",
+                      "value_cell":  "C9:I9",
+                      "value":  "37020219920512XXXX"
+                  },
+                  {
+                      "label":  "鏂囧寲绋嬪害",
+                      "value_cell":  "K9",
+                      "value":  "纭曞＋"
+                  },
+                  {
+                      "label":  "绱ф€ユ儏鍐佃仈缁滀汉",
+                      "value_cell":  "D10",
+                      "value":  "鏉庤姵"
+                  },
+                  {
+                      "label":  "绱ф€ユ儏鍐佃仈缁滀汉鍏崇郴",
+                      "value_cell":  "I10",
+                      "value":  "濡诲瓙"
+                  },
+                  {
+                      "label":  "绱ф€ユ儏鍐佃仈缁滀汉鐢佃瘽",
+                      "value_cell":  "K10",
+                      "value":  "13800138000"
+                  }
+              ]
+}

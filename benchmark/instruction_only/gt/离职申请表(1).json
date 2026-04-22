@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "离职申请表(1).xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "鐢宠浜猴細",
+                      "value_cell":  "B2",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "閮ㄩ棬锛?",
+                      "value_cell":  "E2",
+                      "value":  "甯傚満閮?"
+                  },
+                  {
+                      "label":  "宀椾綅锛?",
+                      "value_cell":  "B3",
+                      "value":  "楂樼骇钀ラ攢涓撳憳"
+                  },
+                  {
+                      "label":  "宸ュ彿锛?",
+                      "value_cell":  "E3",
+                      "value":  "MK-8829"
+                  },
+                  {
+                      "label":  "鍏ヨ亴鏃ユ湡锛?",
+                      "value_cell":  "B4",
+                      "value":  "2020骞?5鏈?5鏃?"
+                  },
+                  {
+                      "label":  "宸ラ緞锛?",
+                      "value_cell":  "E4",
+                      "value":  "3骞?涓湀"
+                  },
+                  {
+                      "label":  "韬唤璇佸彿鐮侊細",
+                      "value_cell":  "B5",
+                      "value":  "110105199208154432"
+                  },
+                  {
+                      "label":  "鐢宠绂昏亴鏃ユ湡锛?",
+                      "value_cell":  "B6",
+                      "value":  "2024骞?2鏈?9鏃?"
+                  },
+                  {
+                      "label":  "鐢宠绂昏亴鍘熷洜璇存槑",
+                      "value_cell":  "A8",
+                      "value":  "鍥犱釜浜鸿亴涓氳鍒掕皟鏁达紝鍐冲畾杈炲幓鐜版湁鑱屽姟锛屽姹傛柊鐨勮涓氬彂灞曟満浼氥€?"
+                  },
+                  {
+                      "label":  "涓婄骇鎰忚锛?",
+                      "value_cell":  "B13",
+                      "value":  "鍚屾剰绂昏亴锛屽凡瀹屾垚宸ヤ綔浜ゆ帴銆?"
+                  },
+                  {
+                      "label":  "涓婄骇绛惧悕锛?",
+                      "value_cell":  "E13",
+                      "value":  "鏉庢槑"
+                  },
+                  {
+                      "label":  "鎬荤粡鐞嗘剰瑙侊細",
+                      "value_cell":  "B14",
+                      "value":  "鍚屾剰銆?"
+                  },
+                  {
+                      "label":  "鎬荤粡鐞嗙鍚嶏細",
+                      "value_cell":  "E14",
+                      "value":  "鐜嬪己"
+                  }
+              ]
+}

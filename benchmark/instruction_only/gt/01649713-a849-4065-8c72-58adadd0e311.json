@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "01649713-a849-4065-8c72-58adadd0e311.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "CHECK #",
+                      "value_cell":  "I2:J2",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "I4:J4",
+                      "value":  "04/22/2013"
+                  },
+                  {
+                      "label":  "FROM:",
+                      "value_cell":  "B17:E17",
+                      "value":  "Sarah J. Miller, Biology Department"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "B19:C19",
+                      "value":  "04/15/2013"
+                  },
+                  {
+                      "label":  "Please make payment in the amount of        $",
+                      "value_cell":  "F21:J21",
+                      "value":  "450.00"
+                  },
+                  {
+                      "label":  "Undergraduate Research Grant Number:",
+                      "value_cell":  "F29:H29",
+                      "value":  "UGR 2012/13042"
+                  },
+                  {
+                      "label":  "Payable to:",
+                      "value_cell":  "C23:J23",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Mail to:",
+                      "value_cell":  "C25:J25,C27:J27",
+                      "value":  "1871 Old Main Drive, Shippensburg, PA 17257"
+                  },
+                  {
+                      "label":  "Explanation of funds being requested:",
+                      "value_cell":  "E31:J31,C32:J32",
+                      "value":  "Reimbursement for travel expenses to the Northeast Regional Biology Conference in Boston, MA."
+                  },
+                  {
+                      "label":  "Undergraduate Researcher Name (PRINTED)",
+                      "value_cell":  "A34:D34",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Undergraduate Researcher Signature (REQUIRED)",
+                      "value_cell":  "F43:J34",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Faculty Mentor Name (PRINTED)",
+                      "value_cell":  "A37:D37",
+                      "value":  "Dr. Robert Thompson"
+                  },
+                  {
+                      "label":  "Faculty Mentor Signature (REQUIRED)",
+                      "value_cell":  "F37:J37",
+                      "value":  "Robert Thompson"
+                  },
+                  {
+                      "label":  "Director - Institute for Public Service",
+                      "value_cell":  "F40:J40",
+                      "value":  "Dr. Linda Stevenson"
+                  },
+                  {
+                      "label":  "SU Foundation Accounting Dept.",
+                      "value_cell":  "F43:J43",
+                      "value":  "James P. Whitmore"
+                  },
+                  {
+                      "label":  "REMARKS OR SPECIAL NOTES:",
+                      "value_cell":  "E50:K50",
+                      "value":  "Original itemized receipts for airfare and hotel stay are attached for verification."
+                  }
+              ]
+}

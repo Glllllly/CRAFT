@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "054f0d8c-dae8-4e14-9286-d8772775d835.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "NEW:",
+                      "value_cell":  "C10",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "UPDATED:",
+                      "value_cell":  "H10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "COMPANY/ORGANIZATION  NAME:",
+                      "value_cell":  "F12:I12",
+                      "value":  "Southwest Tech Solutions LLC"
+                  },
+                  {
+                      "label":  "COMPANY/ORGANZIATION PHONE:",
+                      "value_cell":  "F14:I14",
+                      "value":  "(505) 555-0123"
+                  },
+                  {
+                      "label":  "COMPANY ADDRESS:",
+                      "value_cell":  "F16:I16",
+                      "value":  "4200 Central Ave SE, Suite 105"
+                  },
+                  {
+                      "label":  "CITY / STATE",
+                      "value_cell":  "F18:I18",
+                      "value":  "Albuquerque, NM"
+                  },
+                  {
+                      "label":  "ZIP CODE",
+                      "value_cell":  "F20:I20",
+                      "value":  "87108"
+                  },
+                  {
+                      "label":  "CARD HOLDER NAME (PRINT):",
+                      "value_cell":  "F22:I22",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "CARD HOLDER PHONE:",
+                      "value_cell":  "F24:I24",
+                      "value":  "(505) 555-0124"
+                  },
+                  {
+                      "label":  "CARD HOLDER EMAIL:",
+                      "value_cell":  "F26:I26",
+                      "value":  "e.rodriguez@swtechsol.com"
+                  },
+                  {
+                      "label":  "AUTHORIZED NAME (PRINT):",
+                      "value_cell":  "F28:I28",
+                      "value":  "Michael Chen"
+                  },
+                  {
+                      "label":  "AUTHORIZED SIGNATURE:",
+                      "value_cell":  "F30:I30",
+                      "value":  "Michael Chen"
+                  },
+                  {
+                      "label":  "PHONE NUMBER:",
+                      "value_cell":  "F32:I32",
+                      "value":  "(505) 555-0125"
+                  },
+                  {
+                      "label":  "TITLE:",
+                      "value_cell":  "F34:I34",
+                      "value":  "Finance Manager"
+                  },
+                  {
+                      "label":  "DATE: (MM/DD/YYYY):",
+                      "value_cell":  "F36:I36",
+                      "value":  "10/24/2023"
+                  },
+                  {
+                      "label":  "SOCIAL SECURITY OR FEINNUMBER:",
+                      "value_cell":  "F38:I38",
+                      "value":  "85-1234567"
+                  },
+                  {
+                      "label":  "E:MAIL ADDRESS",
+                      "value_cell":  "F40:I40",
+                      "value":  "accounts@swtechsol.com"
+                  },
+                  {
+                      "label":  "ADDITIONAL E:MAIL ADDRESS",
+                      "value_cell":  "F42:I42",
+                      "value":  "billing@swtechsol.com"
+                  }
+              ]
+}

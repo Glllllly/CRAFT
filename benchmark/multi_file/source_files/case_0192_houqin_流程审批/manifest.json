@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0192_houqin_流程审批",
+    "tenant":  "houqin",
+    "topic":  "流程审批",
+    "subtopic":  "",
+    "source_dir":  "houqin\\流程审批",
+    "total_files_in_source_dir":  63,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\流程审批\\维护计划_5285.json",
+                      "copied_name":  "维护计划_5285.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\流程审批\\批准单_1943.csv",
+                      "copied_name":  "批准单_1943.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1377
+                  },
+                  {
+                      "source_rel":  "houqin\\流程审批\\物资申请_9867.txt",
+                      "copied_name":  "物资申请_9867.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\流程审批\\购置申请_8052.eml",
+                      "copied_name":  "购置申请_8052.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\流程审批\\季报_4244.csv",
+                      "copied_name":  "季报_4244.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  }
+              ]
+}

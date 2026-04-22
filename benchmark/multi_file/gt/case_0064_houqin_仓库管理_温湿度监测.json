@@ -1,0 +1,96 @@
+{
+  "excel": "case_0064_houqin_仓库管理_温湿度监测__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "89560"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "销售统计_3297"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "销售统计"
+    },
+    {
+      "label": "status",
+      "value_cell": "M9:Q9",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D12:H12",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M12:Q12",
+      "value": "例行"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "D17:H17",
+      "value": "吴九"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "M17:Q17",
+      "value": "财务部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "D20:H20",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "M20:Q20",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "D23:H23",
+      "value": "待审批"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D28:H28",
+      "value": "刘涛"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M28:Q28",
+      "value": "2026-02-10T05:30:31.417150"
+    },
+    {
+      "label": "date",
+      "value_cell": "D31:H31",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "M31:Q31",
+      "value": "周八@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D34:H34",
+      "value": "王军@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M34:Q34",
+      "value": "培训计划"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D39:H39",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

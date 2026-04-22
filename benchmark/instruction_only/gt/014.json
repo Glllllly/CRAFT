@@ -1,0 +1,126 @@
+﻿{
+    "excel":  "014.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "A10:L10",
+                      "value":  "Jonathan B. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M10:X10",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A12:H12",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Pay Schedule (weekly / bi-weekly / monthly)",
+                      "value_cell":  "I12:P12",
+                      "value":  "bi-weekly"
+                  },
+                  {
+                      "label":  "Start Date of Deduction",
+                      "value_cell":  "Q12:X12",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Work E-mail",
+                      "value_cell":  "A14:L14",
+                      "value":  "j.miller@techcorp.com"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "M14:X14",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Charity / Nonprofit Name",
+                      "value_cell":  "A19:L19",
+                      "value":  "Green Earth Foundation"
+                  },
+                  {
+                      "label":  "Registered Charity Number",
+                      "value_cell":  "M19:X19",
+                      "value":  "88293-1029-RR0001"
+                  },
+                  {
+                      "label":  "Charity Address",
+                      "value_cell":  "A21:X21",
+                      "value":  "452 Oak Street, Portland, OR 97204"
+                  },
+                  {
+                      "label":  "Charity Phone / E-mail",
+                      "value_cell":  "A23:L23",
+                      "value":  "503-555-0192"
+                  },
+                  {
+                      "label":  "Designated Purpose (if specific fund)",
+                      "value_cell":  "M23:X23",
+                      "value":  "Reforestation Project"
+                  },
+                  {
+                      "label":  "Amount per Pay Period $",
+                      "value_cell":  "A29:L29",
+                      "value":  "50.00"
+                  },
+                  {
+                      "label":  "or Percentage %",
+                      "value_cell":  "M29:X29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "One-Time Amount $ (if applicable)",
+                      "value_cell":  "A31:L31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Deduction Date (one-time)",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Annual Total (estimated) $",
+                      "value_cell":  "A33:L33",
+                      "value":  "1300.00"
+                  },
+                  {
+                      "label":  "Employer Match Programme? Y / N",
+                      "value_cell":  "M33:X33",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Change / Cancel Effective Date (if amending)",
+                      "value_cell":  "A41:L41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason for Change",
+                      "value_cell":  "M41:X41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A48:L48",
+                      "value":  "Jonathan B. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N48:X48",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Payroll Authorisation",
+                      "value_cell":  "A51:L51",
+                      "value":  "Approved"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N51:X51",
+                      "value":  "2023-10-18"
+                  }
+              ]
+}

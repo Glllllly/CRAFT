@@ -1,0 +1,176 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Surname",
+      "value_text": "Smith"
+    },
+    {
+      "key_text": "Forename(s)",
+      "value_text": "James Andrew"
+    },
+    {
+      "key_text": "Title",
+      "value_text": "Mr."
+    },
+    {
+      "key_text": "Address 1",
+      "value_text": "12 High Street"
+    },
+    {
+      "key_text": "Address 2",
+      "value_text": null
+    },
+    {
+      "key_text": "Address 3",
+      "value_text": null
+    },
+    {
+      "key_text": "City",
+      "value_text": "London"
+    },
+    {
+      "key_text": "Post Code",
+      "value_text": "SW1A 1AA"
+    },
+    {
+      "key_text": "County",
+      "value_text": "Greater London"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "United Kingdom"
+    },
+    {
+      "key_text": "Gender",
+      "value_text": "Male"
+    },
+    {
+      "key_text": "Date of Birth",
+      "value_text": "15/05/1990"
+    },
+    {
+      "key_text": "NI Number",
+      "value_text": "AB 12 34 56 C"
+    },
+    {
+      "key_text": "Home telephone",
+      "value_text": "020 7946 0000"
+    },
+    {
+      "key_text": "Mobile telephone",
+      "value_text": "07700 900000"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "james.smith@email.com"
+    },
+    {
+      "key_text": "Right to work",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Country of Birth",
+      "value_text": "United Kingdom"
+    },
+    {
+      "key_text": "Place of Birth",
+      "value_text": "London"
+    },
+    {
+      "key_text": "Nationality",
+      "value_text": "British"
+    },
+    {
+      "key_text": "UK Work Permit No",
+      "value_text": null
+    },
+    {
+      "key_text": "Expiry Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Disability",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Medical Condition(s)",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Ethnic Origin",
+      "value_text": "White - British"
+    },
+    {
+      "key_text": "A",
+      "value_text": null
+    },
+    {
+      "key_text": "B",
+      "value_text": "X"
+    },
+    {
+      "key_text": "C",
+      "value_text": null
+    },
+    {
+      "key_text": "If you left the course of higher educationbefore last 6 April and have received your first students loan installment on or after 1 september 1998 and you have not repaid your student loan, please place an X in the box next to this statement (Does not apply to bank loans)",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Sort Code",
+      "value_text": "12-34-56"
+    },
+    {
+      "key_text": "Bank/Building Soc.",
+      "value_text": "Barclays"
+    },
+    {
+      "key_text": "Branch",
+      "value_text": "Piccadilly"
+    },
+    {
+      "key_text": "Account/Roll No",
+      "value_text": "87654321"
+    },
+    {
+      "key_text": "Account Name",
+      "value_text": "Mr J A Smith"
+    },
+    {
+      "key_text": "Surname",
+      "value_text": "Smith"
+    },
+    {
+      "key_text": "Forename",
+      "value_text": "Mary"
+    },
+    {
+      "key_text": "Relationship",
+      "value_text": "Mother"
+    },
+    {
+      "key_text": "Home Telephone",
+      "value_text": "020 7946 1111"
+    },
+    {
+      "key_text": "Mobile Telephone",
+      "value_text": "07700 900111"
+    },
+    {
+      "key_text": "Work Telephone",
+      "value_text": null
+    },
+    {
+      "key_text": "Interview",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "EDUCATION, QUALIFICATIONS AND TRAINING",
+      "value_text": "BA (Hons) Sports Management, University of Roehampton (2008-2011). Level 2 Rugby Coaching Certificate."
+    }
+  ]
+}
+
+Narrative:
+James Andrew Smith, a British national born in London on May 15, 1990, has completed a personal details form for the Rugby Football Union. He resides at 12 High Street, London, SW1A 1AA, within Greater London, and can be reached via his mobile at 07700 900000 or email at james.smith@email.com. James confirms he has the right to work in the UK and identifies his ethnic origin as White British, with no disabilities or medical conditions to declare. In terms of his employment status, he indicates that this is currently his only job, though he has held another since the start of the tax year. He also confirms having an outstanding student loan. His banking information is provided for Barclays Bank, Piccadilly branch, with sort code 12-34-56 and account number 87654321. For emergency contact, he has listed his mother, Mary Smith. Finally, James expresses his availability for an interview on March 16th and highlights his educational background, which includes a BA in Sports Management and a Level 2 Rugby Coaching Certificate.

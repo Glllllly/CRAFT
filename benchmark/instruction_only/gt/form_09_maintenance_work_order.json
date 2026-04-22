@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_09_maintenance_work_order.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requester Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Department / Cost Center",
+                      "value_cell":  "M9:X9",
+                      "value":  "Facilities Management / CC-402"
+                  },
+                  {
+                      "label":  "Phone Extension",
+                      "value_cell":  "A11:H11",
+                      "value":  "x4492"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "I11:P11",
+                      "value":  "j.miller@company.com"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "Q13:X13",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Building Name",
+                      "value_cell":  "A13:L13",
+                      "value":  "North Wing Annex"
+                  },
+                  {
+                      "label":  "Room / Floor / Area",
+                      "value_cell":  "M13:X13",
+                      "value":  "Room 304 / 3rd Floor"
+                  },
+                  {
+                      "label":  "Brief Description of Issue / Work Needed",
+                      "value_cell":  "A18:X18;  A19:X19",
+                      "value":  "HVAC unit in conference room is making a loud rattling noise and failing to cool the space properly."
+                  },
+                  {
+                      "label":  "Requested Completion Date",
+                      "value_cell":  "A23:J23",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Access Availability",
+                      "value_cell":  "K23:X23",
+                      "value":  "Mon-Fri, 9:00 AM - 4:00 PM"
+                  },
+                  {
+                      "label":  "Special Instructions / Access Restrictions",
+                      "value_cell":  "A25:X25",
+                      "value":  "Please notify the front desk before entering the room to ensure the meeting is not in progress."
+                  },
+                  {
+                      "label":  "Work Order Number",
+                      "value_cell":  "A30:H30",
+                      "value":  "WO-99821"
+                  },
+                  {
+                      "label":  "Assigned Technician",
+                      "value_cell":  "I30:R30",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Assigned Date",
+                      "value_cell":  "S30:X30",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "Estimated Hours",
+                      "value_cell":  "A32:H32",
+                      "value":  "3.5"
+                  },
+                  {
+                      "label":  "Estimated Parts Cost  $",
+                      "value_cell":  "I32:P32",
+                      "value":  "125.00"
+                  },
+                  {
+                      "label":  "Account Code",
+                      "value_cell":  "Q32:X32",
+                      "value":  "AC-99-B"
+                  },
+                  {
+                      "label":  "Actual Completion Date",
+                      "value_cell":  "A34:J34",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Technician Signature",
+                      "value_cell":  "K34:T34",
+                      "value":  "M. Thorne"
+                  },
+                  {
+                      "label":  "Supervisor Sign-off",
+                      "value_cell":  "U34:X34",
+                      "value":  "Approved"
+                  },
+                  {
+                      "label":  "Work Performed / Notes",
+                      "value_cell":  "A36:X36",
+                      "value":  "Replaced faulty fan motor and tightened mounting brackets. System tested and cooling at nominal levels."
+                  }
+              ]
+}

@@ -1,0 +1,61 @@
+﻿{
+    "excel":  "1_Winter_icap_auction_monthly_offer_form_09-27-01_20_00.xlsx",
+    "sheet":  "Offers-Strip",
+    "pairs":  [
+                  {
+                      "label":  "Auction Period:",
+                      "value_cell":  "E8",
+                      "value":  "2024-Q3"
+                  },
+                  {
+                      "label":  "Registrant Name:",
+                      "value_cell":  "E11",
+                      "value":  "Apex Energy Solutions LLC"
+                  },
+                  {
+                      "label":  "Submittal Number",
+                      "value_cell":  "G8",
+                      "value":  "SUB-2024-8892"
+                  },
+                  {
+                      "label":  "Date submitted:",
+                      "value_cell":  "M8:N8",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "Time submitted:",
+                      "value_cell":  "M9:N9",
+                      "value":  "14:30"
+                  },
+                  {
+                      "label":  "Your Name",
+                      "value_cell":  "C31:E31",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Company Name:",
+                      "value_cell":  "C33:E33",
+                      "value":  "Apex Energy Solutions LLC"
+                  },
+                  {
+                      "label":  "Company Address:",
+                      "value_cell":  "C34:E37",
+                      "value":  "450 Lexington Avenue, Suite 1200, New York, NY 10017"
+                  },
+                  {
+                      "label":  "Contact Phone#:",
+                      "value_cell":  "L31:N31",
+                      "value":  "212-555-0198"
+                  },
+                  {
+                      "label":  "Contact E-Mail:",
+                      "value_cell":  "C39:E39",
+                      "value":  "j.miller@apexenergy.com"
+                  },
+                  {
+                      "label":  "Comments:",
+                      "value_cell":  "F33:X40",
+                      "value":  "Please note that we have updated our contact information for the upcoming auction period. All documentation for submittal SUB-2024-8892 is attached."
+                  }
+              ]
+}

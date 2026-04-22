@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "INVOICE #",
+      "value_text": "INV-2023-001"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "October 24, 2023"
+    },
+    {
+      "key_text": "Your name",
+      "value_text": "TechGear Solutions"
+    },
+    {
+      "key_text": "Address",
+      "value_text": "123 Innovation Drive, Silicon Valley, CA 94025"
+    },
+    {
+      "key_text": "Email Address",
+      "value_text": "billing@techgearsolutions.com"
+    },
+    {
+      "key_text": "Phone number",
+      "value_text": "(555) 012-3456"
+    },
+    {
+      "key_text": "Receivers Name",
+      "value_text": "Global Manufacturing Corp"
+    },
+    {
+      "key_text": "Address",
+      "value_text": "88 Industrial Way, Austin, TX 78701"
+    },
+    {
+      "key_text": "Email Address",
+      "value_text": "procurement@globalmfg.com"
+    },
+    {
+      "key_text": "Phone number",
+      "value_text": "(512) 987-6543"
+    },
+    {
+      "key_text": "Payment Instructions",
+      "value_text": "Please remit payment via bank transfer to account 123456789 within 30 days of invoice date."
+    },
+    {
+      "key_text": "Signature",
+      "value_text": "Alex Rivers"
+    }
+  ]
+}
+
+Narrative:
+This invoice, numbered INV-2023-001 and dated October 24, 2023, is issued by TechGear Solutions, located at 123 Innovation Drive, Silicon Valley, CA 94025. For any billing inquiries, TechGear Solutions can be reached at billing@techgearsolutions.com or (555) 012-3456. The invoice is addressed to Global Manufacturing Corp, located at 88 Industrial Way, Austin, TX 78701. Their contact person can be reached via procurement@globalmfg.com or by calling (512) 987-6543. Payment should be made via bank transfer to account 123456789 within 30 days of the invoice date, and the document is authorized by the signature of Alex Rivers.

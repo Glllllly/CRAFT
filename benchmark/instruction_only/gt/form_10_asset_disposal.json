@@ -1,0 +1,176 @@
+﻿{
+    "excel":  "form_10_asset_disposal.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Asset Description / Name:",
+                      "value_cell":  "F9:X9",
+                      "value":  "Dell Latitude 5420 Laptop"
+                  },
+                  {
+                      "label":  "Asset Tag / ID Number:",
+                      "value_cell":  "F10:M10",
+                      "value":  "IT-2021-045"
+                  },
+                  {
+                      "label":  "Serial Number:",
+                      "value_cell":  "S10:X10",
+                      "value":  "DL5420-9982X"
+                  },
+                  {
+                      "label":  "Original Purchase Date:",
+                      "value_cell":  "F11:M11",
+                      "value":  "2021-05-12"
+                  },
+                  {
+                      "label":  "Original Cost  $:",
+                      "value_cell":  "S11:X11",
+                      "value":  "1,450.00"
+                  },
+                  {
+                      "label":  "Current Book Value  $:",
+                      "value_cell":  "F12:M12",
+                      "value":  "150.00"
+                  },
+                  {
+                      "label":  "Asset Location (Building / Room):",
+                      "value_cell":  "S12:X12",
+                      "value":  "Building A, Room 302"
+                  },
+                  {
+                      "label":  "Department / Cost Centre:",
+                      "value_cell":  "F13:M13",
+                      "value":  "Marketing / CC-402"
+                  },
+                  {
+                      "label":  "Custodian Name:",
+                      "value_cell":  "S13:X13",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Obsolete",
+                      "value_cell":  "I17",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Beyond Repair",
+                      "value_cell":  "M17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Donated",
+                      "value_cell":  "Q17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Sold",
+                      "value_cell":  "U17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Detailed Justification for Disposal:",
+                      "value_cell":  "F18:X8",
+                      "value":  "Device is obsolete and no longer meets minimum system requirements for current company software."
+                  },
+                  {
+                      "label":  "Proposed Disposal Date:",
+                      "value_cell":  "F19:M19",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "Disposal Method:",
+                      "value_cell":  "S19:X19",
+                      "value":  "E-Waste Recycling"
+                  },
+                  {
+                      "label":  "Recipient Name (if donation/sale):",
+                      "value_cell":  "F20:M20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Proceeds from Sale  $:",
+                      "value_cell":  "S20:X20",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "Receiving Organisation Address (if donated):",
+                      "value_cell":  "F21:M21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Is asset insured?  Y / N:",
+                      "value_cell":  "F25:M25",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Insurance Policy Reference:",
+                      "value_cell":  "S25:X25",
+                      "value":  "POL-9928374"
+                  },
+                  {
+                      "label":  "Audit Trail Updated?  Y / N:",
+                      "value_cell":  "F26:M26",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Asset Register Removed Date:",
+                      "value_cell":  "S26:X26",
+                      "value":  "2023-11-16"
+                  },
+                  {
+                      "label":  "Notes / Additional Information",
+                      "value_cell":  "A27:X27",
+                      "value":  "Hard drive has been securely wiped prior to disposal."
+                  },
+                  {
+                      "label":  "PO / Disposal Ref. Number:",
+                      "value_cell":  "F32:M32",
+                      "value":  "DISP-2023-089"
+                  },
+                  {
+                      "label":  "Account Credited  $:",
+                      "value_cell":  "S32:X32",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Entered into Asset Register by:",
+                      "value_cell":  "F33:M33",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Date of Entry:",
+                      "value_cell":  "S33:X33",
+                      "value":  "2023-11-16"
+                  },
+                  {
+                      "label":  "Department Head",
+                      "value_cell":  "A40:M40",
+                      "value":  "Linda Peterson"
+                  },
+                  {
+                      "label":  "Date (Dept Head)",
+                      "value_cell":  "Q40:X40",
+                      "value":  "2023-11-10"
+                  },
+                  {
+                      "label":  "Asset Manager",
+                      "value_cell":  "A42:M42",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "Date (Asset Mgr)",
+                      "value_cell":  "Q42:X42",
+                      "value":  "2023-11-12"
+                  },
+                  {
+                      "label":  "Finance Officer",
+                      "value_cell":  "A44:M44",
+                      "value":  "Emily Davis"
+                  },
+                  {
+                      "label":  "Date (Finance)",
+                      "value_cell":  "Q44:X44",
+                      "value":  "2023-11-14"
+                  }
+              ]
+}

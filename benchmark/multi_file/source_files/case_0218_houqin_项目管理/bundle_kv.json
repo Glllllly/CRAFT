@@ -1,0 +1,4836 @@
+{
+  "bundle_dir": "case_0218_houqin_项目管理",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "人员清单_7079.csv",
+      "source_type": "csv",
+      "candidate_count": 81,
+      "candidates": [
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "汇报",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张三",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李明",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王军",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "赵六",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息202",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息212",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息269",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息342",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息460",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息467",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息493",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 人力资源部 | 郑十 | 会议 | 待处理 | 备注信息493",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息501",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息502",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息504",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息510",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息595",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息624",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息659",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息664",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 总经理办公室 | 王军 | 审批 | 完成 | 备注信息664",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息873",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息901",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息929",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息949",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息952",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 人力资源部 | 郑十 | 会议 | 待处理 | 备注信息493",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 总经理办公室 | 王军 | 审批 | 完成 | 备注信息664",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-19",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-27",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-29",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-31",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-02",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-03",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-05",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-08",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "source_file": "培训计划_8346.csv",
+      "source_type": "csv",
+      "candidate_count": 79,
+      "candidates": [
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "吴九",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王五",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王军",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息109",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息125",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息154",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息262",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息272",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息292",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息333",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息366",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息405",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息435",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息573",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息577",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息643",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息693",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息705",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息767",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息919",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息927",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-10 | 财务部 | 王军 | 审批 | 完成 | 备注信息927",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息961",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-31 | 总经理办公室 | 张丽 | 维护 | 待处理 | 备注信息961",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-31 | 总经理办公室 | 张丽 | 维护 | 待处理 | 备注信息961",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-10 | 财务部 | 王军 | 审批 | 完成 | 备注信息927",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-16",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-22",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-25",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-26",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-27",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-31",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-06",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-07",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-10",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "source_file": "设备清单_9265.json",
+      "source_type": "json",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.775903",
+          "raw_key": "create_date",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.775903",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "creator",
+          "value": "郑十",
+          "raw_key": "creator",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 郑十",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "department",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 财务部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "id",
+          "value": "49282",
+          "raw_key": "id",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 49282",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "priority",
+          "value": "高",
+          "raw_key": "priority",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 高",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "进行中",
+          "raw_key": "status",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 进行中",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "紧急",
+          "raw_key": "0",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 紧急",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "title",
+          "value": "设备清单_5489",
+          "raw_key": "title",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 设备清单_5489",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "type",
+          "value": "设备清单",
+          "raw_key": "type",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 设备清单",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "紧急",
+          "raw_key": "0",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 紧急",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "资产清单_8311.eml",
+      "source_type": "eml",
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "from",
+          "value": "李四@company.com",
+          "raw_key": "from",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 李四@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "subject",
+          "value": "资产清单",
+          "raw_key": "subject",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 资产清单",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "to",
+          "value": "孙七@company.com",
+          "raw_key": "to",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 孙七@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "source_file": "项目计划_18.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "20240210",
+          "value": "启动会",
+          "raw_key": "- 2024-02-10",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-02-10: 启动会",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "20240315",
+          "value": "方案评审",
+          "raw_key": "- 2024-03-15",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-03-15: 方案评审",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "20240419",
+          "value": "上线部署",
+          "raw_key": "- 2024-04-19",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-04-19: 上线部署",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键路径",
+          "value": "73天",
+          "raw_key": "关键路径",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键路径：73天",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "按计划推进中",
+          "raw_key": "备注",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注：按计划推进中",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "57%",
+          "raw_key": "当前进度",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：57%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "第一阶段",
+          "value": "需求分析 (10天)",
+          "raw_key": "第一阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第一阶段：需求分析 (10天)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "第三阶段",
+          "value": "实施执行 (37天)",
+          "raw_key": "第三阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第三阶段：实施执行 (37天)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "第二阶段",
+          "value": "方案设计 (29天)",
+          "raw_key": "第二阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第二阶段：方案设计 (29天)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "第四阶段",
+          "value": "验收交付 (13天)",
+          "raw_key": "第四阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第四阶段：验收交付 (13天)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "后勤管理系统优化18期",
+          "raw_key": "项目名称",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：后勤管理系统优化18期",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目成员",
+          "value": "10人",
+          "raw_key": "项目成员",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目成员：10人",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目类型",
+          "value": "运营优化",
+          "raw_key": "项目类型",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目类型：运营优化",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-018",
+          "raw_key": "项目编号",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-018",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目负责人",
+          "value": "员工19",
+          "raw_key": "项目负责人",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目负责人：员工19",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目预算",
+          "value": "¥227752",
+          "raw_key": "项目预算",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目预算：¥227752",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评估",
+          "value": "低风险",
+          "raw_key": "风险评估",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评估：低风险",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "0",
+      "candidates": [
+        {
+          "key": "0",
+          "value": "紧急",
+          "raw_key": "0",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 紧急",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "20240210",
+      "candidates": [
+        {
+          "key": "20240210",
+          "value": "启动会",
+          "raw_key": "- 2024-02-10",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-02-10: 启动会",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "20240315",
+      "candidates": [
+        {
+          "key": "20240315",
+          "value": "方案评审",
+          "raw_key": "- 2024-03-15",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-03-15: 方案评审",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "20240419",
+      "candidates": [
+        {
+          "key": "20240419",
+          "value": "上线部署",
+          "raw_key": "- 2024-04-19",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 2024-04-19: 上线部署",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "createdate",
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.775903",
+          "raw_key": "create_date",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.775903",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "creator",
+      "candidates": [
+        {
+          "key": "creator",
+          "value": "郑十",
+          "raw_key": "creator",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 郑十",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "department",
+      "candidates": [
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "department",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 财务部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "财务部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "from",
+      "candidates": [
+        {
+          "key": "from",
+          "value": "李四@company.com",
+          "raw_key": "from",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 李四@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "candidates": [
+        {
+          "key": "id",
+          "value": "49282",
+          "raw_key": "id",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 49282",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "priority",
+      "candidates": [
+        {
+          "key": "priority",
+          "value": "高",
+          "raw_key": "priority",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 高",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "remarks",
+      "candidates": [
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "candidates": [
+        {
+          "key": "status",
+          "value": "进行中",
+          "raw_key": "status",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 进行中",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "subject",
+      "candidates": [
+        {
+          "key": "subject",
+          "value": "资产清单",
+          "raw_key": "subject",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 资产清单",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.0",
+      "candidates": [
+        {
+          "key": "tags.0",
+          "value": "紧急",
+          "raw_key": "0",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 紧急",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "title",
+      "candidates": [
+        {
+          "key": "title",
+          "value": "设备清单_5489",
+          "raw_key": "title",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 设备清单_5489",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "to",
+      "candidates": [
+        {
+          "key": "to",
+          "value": "孙七@company.com",
+          "raw_key": "to",
+          "source_file": "资产清单_8311.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 孙七@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "type",
+      "candidates": [
+        {
+          "key": "type",
+          "value": "设备清单",
+          "raw_key": "type",
+          "source_file": "设备清单_9265.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 设备清单",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "事项",
+      "candidates": [
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "汇报",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "人员",
+      "candidates": [
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张三",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李明",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王军",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "赵六",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "吴九",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王五",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "王军",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "关键路径",
+      "candidates": [
+        {
+          "key": "关键路径",
+          "value": "73天",
+          "raw_key": "关键路径",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键路径：73天",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "备注",
+      "candidates": [
+        {
+          "key": "备注",
+          "value": "备注信息202",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息212",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息269",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息342",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息460",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息467",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息493",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 人力资源部 | 郑十 | 会议 | 待处理 | 备注信息493",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息501",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息502",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息504",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息510",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息595",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息624",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息659",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息664",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 总经理办公室 | 王军 | 审批 | 完成 | 备注信息664",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息873",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息901",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息929",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息949",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息952",
+          "raw_key": "备注",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息109",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息125",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息154",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息262",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息272",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息292",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息333",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息366",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息405",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息435",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息573",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息577",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息643",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息693",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息705",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息767",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息919",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息927",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-10 | 财务部 | 王军 | 审批 | 完成 | 备注信息927",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息961",
+          "raw_key": "备注",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-31 | 总经理办公室 | 张丽 | 维护 | 待处理 | 备注信息961",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "按计划推进中",
+          "raw_key": "备注",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注：按计划推进中",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "序号",
+      "candidates": [
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-03 | 质控部 | 陈芳 | 检查 | 进行中 | 备注信息510",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 人力资源部 | 郑十 | 会议 | 待处理 | 备注信息493",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-02 | 总经理办公室 | 刘林 | 维护 | 完成 | 备注信息595",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-03 | 总经理办公室 | 张三 | 汇报 | 已批准 | 备注信息501",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 总经理办公室 | 王军 | 审批 | 完成 | 备注信息664",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 财务部 | 周八 | 维护 | 进行中 | 备注信息901",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-27 | 销售部 | 郑十 | 维护 | 待处理 | 备注信息659",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 销售部 | 赵六 | 汇报 | 完成 | 备注信息460",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-31 | 总经理办公室 | 张丽 | 维护 | 待处理 | 备注信息961",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-25 | 人力资源部 | 刘林 | 会议 | 进行中 | 备注信息767",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-01 | 生产部 | 周八 | 检查 | 已批准 | 备注信息705",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-02-10 | 财务部 | 王军 | 审批 | 完成 | 备注信息927",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-01-25 | 质控部 | 王五 | 审批 | 完成 | 备注信息767",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-16 | 采购部 | 李四 | 检查 | 待处理 | 备注信息333",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "当前进度",
+      "candidates": [
+        {
+          "key": "当前进度",
+          "value": "57%",
+          "raw_key": "当前进度",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：57%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "日期",
+      "candidates": [
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-11 | 采购部 | 赵六 | 审批 | 待处理 | 备注信息624",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-12 | 人力资源部 | 李明 | 审批 | 完成 | 备注信息502",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-19",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-19 | 人力资源部 | 刘涛 | 会议 | 完成 | 备注信息949",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-01-21 | 质控部 | 李四 | 检查 | 待处理 | 备注信息269",
+            "location": "row:17,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-27",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-29",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-29 | 人力资源部 | 周八 | 汇报 | 完成 | 备注信息202",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-31",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-31 | 总经理办公室 | 郑十 | 维护 | 已批准 | 备注信息929",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-02",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-02 | 财务部 | 张丽 | 检查 | 完成 | 备注信息342",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-03",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-05",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-02-05 | 人力资源部 | 王军 | 维护 | 待处理 | 备注信息212",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-08",
+          "raw_key": "日期",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-11 | 质控部 | 张丽 | 会议 | 进行中 | 备注信息693",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-01-12 | 物流部 | 张丽 | 维护 | 待处理 | 备注信息405",
+            "location": "row:16,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-16",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-01-21 | 人力资源部 | 周八 | 会议 | 进行中 | 备注信息577",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-22",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-01-22 | 财务部 | 王军 | 审批 | 待处理 | 备注信息919",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-25",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-26",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-01-26 | 总经理办公室 | 陈芳 | 会议 | 已批准 | 备注信息125",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-27",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-31",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-31 | 生产部 | 吴九 | 检查 | 已批准 | 备注信息272",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 总经理办公室 | 郑十 | 审批 | 进行中 | 备注信息262",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-06",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-02-06 | 销售部 | 王五 | 维护 | 待处理 | 备注信息154",
+            "location": "row:21,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-07",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-02-07 | 生产部 | 陈芳 | 检查 | 完成 | 备注信息366",
+            "location": "row:13,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-10",
+          "raw_key": "日期",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-02-10 | 财务部 | 王军 | 审批 | 待处理 | 备注信息435",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-27 | 生产部 | 郑十 | 维护 | 完成 | 备注信息952",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-02-03 | 生产部 | 孙七 | 维护 | 已批准 | 备注信息467",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-02-01 | 采购部 | 李四 | 检查 | 待处理 | 备注信息504",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "人员清单_7079.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-02-08 | 物流部 | 王军 | 会议 | 进行中 | 备注信息873",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-25 | 物流部 | 郑十 | 检查 | 完成 | 备注信息109",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-27 | 物流部 | 刘涛 | 检查 | 已批准 | 备注信息292",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-27 | 物流部 | 孙七 | 审批 | 待处理 | 备注信息573",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "培训计划_8346.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-16 | 销售部 | 郑十 | 维护 | 进行中 | 备注信息643",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "第一阶段",
+      "candidates": [
+        {
+          "key": "第一阶段",
+          "value": "需求分析 (10天)",
+          "raw_key": "第一阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第一阶段：需求分析 (10天)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "第三阶段",
+      "candidates": [
+        {
+          "key": "第三阶段",
+          "value": "实施执行 (37天)",
+          "raw_key": "第三阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第三阶段：实施执行 (37天)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "第二阶段",
+      "candidates": [
+        {
+          "key": "第二阶段",
+          "value": "方案设计 (29天)",
+          "raw_key": "第二阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第二阶段：方案设计 (29天)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "第四阶段",
+      "candidates": [
+        {
+          "key": "第四阶段",
+          "value": "验收交付 (13天)",
+          "raw_key": "第四阶段",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "第四阶段：验收交付 (13天)",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目名称",
+      "candidates": [
+        {
+          "key": "项目名称",
+          "value": "后勤管理系统优化18期",
+          "raw_key": "项目名称",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：后勤管理系统优化18期",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目成员",
+      "candidates": [
+        {
+          "key": "项目成员",
+          "value": "10人",
+          "raw_key": "项目成员",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目成员：10人",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目类型",
+      "candidates": [
+        {
+          "key": "项目类型",
+          "value": "运营优化",
+          "raw_key": "项目类型",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目类型：运营优化",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目编号",
+      "candidates": [
+        {
+          "key": "项目编号",
+          "value": "PROJ-018",
+          "raw_key": "项目编号",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-018",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目负责人",
+      "candidates": [
+        {
+          "key": "项目负责人",
+          "value": "员工19",
+          "raw_key": "项目负责人",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目负责人：员工19",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目预算",
+      "candidates": [
+        {
+          "key": "项目预算",
+          "value": "¥227752",
+          "raw_key": "项目预算",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目预算：¥227752",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险评估",
+      "candidates": [
+        {
+          "key": "风险评估",
+          "value": "低风险",
+          "raw_key": "风险评估",
+          "source_file": "项目计划_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评估：低风险",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

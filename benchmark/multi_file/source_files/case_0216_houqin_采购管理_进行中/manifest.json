@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0216_houqin_采购管理_进行中",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "进行中",
+    "source_dir":  "houqin\\采购管理\\进行中",
+    "total_files_in_source_dir":  47,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\进行中\\会议记录_7291.json",
+                      "copied_name":  "会议记录_7291.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\进行中\\登记表_8089.csv",
+                      "copied_name":  "登记表_8089.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\进行中\\质检报告_9.txt",
+                      "copied_name":  "质检报告_9.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  319
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\进行中\\库存统计_4398.eml",
+                      "copied_name":  "库存统计_4398.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\进行中\\库存清单_9399.csv",
+                      "copied_name":  "库存清单_9399.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

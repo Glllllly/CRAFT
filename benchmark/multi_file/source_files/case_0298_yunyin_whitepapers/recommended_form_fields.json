@@ -1,0 +1,54 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "phase1",
+                                   "selected_value":  "Assessment",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase2",
+                                   "selected_value":  "Planning",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase3",
+                                   "selected_value":  "Execution",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phase4",
+                                   "selected_value":  "Optimization",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "whitepaper",
+                                   "selected_value":  "Industry Trends and Best Practices",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketingroi",
+                                   "selected_value":  "3:1 or higher",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lifetimevalue",
+                                   "selected_value":  "\u003e$500",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "retentionrate",
+                                   "selected_value":  "\u003e90%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "brandawareness",
+                                   "selected_value":  "\u003e70%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "customeracquisitioncost",
+                                   "selected_value":  "\u003c$50",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_18_facility_use_permit.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Organization / Group Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Riverside Community Youth Foundation"
+                  },
+                  {
+                      "label":  "Organization Type  (Nonprofit / Business / Individual)",
+                      "value_cell":  "M9:U9",
+                      "value":  "Nonprofit"
+                  },
+                  {
+                      "label":  "Primary Contact Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Title / Role in Organization",
+                      "value_cell":  "M11:U11",
+                      "value":  "Program Director"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Cell",
+                      "value_cell":  "I13:P13",
+                      "value":  "555-098-7654"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q13:U13",
+                      "value":  "s.jenkins@rcyf.org"
+                  },
+                  {
+                      "label":  "Mailing Address",
+                      "value_cell":  "A15:U15",
+                      "value":  "123 Maple Street, Riverside, CA 92501"
+                  },
+                  {
+                      "label":  "Tax-Exempt Status  Y / N",
+                      "value_cell":  "A17:L17",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Tax Exempt ID Number (if applicable)",
+                      "value_cell":  "M17:U17",
+                      "value":  "12-3456789"
+                  },
+                  {
+                      "label":  "Facility / Park Name \u0026 Specific Area Requested",
+                      "value_cell":  "A22:U22",
+                      "value":  "Oakwood Park, Main Pavilion"
+                  },
+                  {
+                      "label":  "Event Date",
+                      "value_cell":  "A24:F24",
+                      "value":  "09/15/2024"
+                  },
+                  {
+                      "label":  "Start Time",
+                      "value_cell":  "G24:L24",
+                      "value":  "10:00 AM"
+                  },
+                  {
+                      "label":  "End Time",
+                      "value_cell":  "M24:R24",
+                      "value":  "04:00 PM"
+                  },
+                  {
+                      "label":  "Setup Time Needed (hrs)",
+                      "value_cell":  "S24:X24",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Estimated Attendance",
+                      "value_cell":  "A26:L26",
+                      "value":  "150"
+                  },
+                  {
+                      "label":  "Is Admission Being Charged?  Y / N",
+                      "value_cell":  "M26:X26",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Description of Event / Activity",
+                      "value_cell":  "A28:X28",
+                      "value":  "Annual Summer Community Picnic and Volunteer Appreciation Day"
+                  },
+                  {
+                      "label":  "Food / Alcohol Served?  Y / N",
+                      "value_cell":  "A31:L31",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Alcohol Permit Number (if applicable)",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Insurance Provider Name",
+                      "value_cell":  "A36:L36",
+                      "value":  "Community Shield Insurance"
+                  },
+                  {
+                      "label":  "Policy Number",
+                      "value_cell":  "M36:X36",
+                      "value":  "CS-99887766"
+                  },
+                  {
+                      "label":  "Coverage Amount  $",
+                      "value_cell":  "A38:H38",
+                      "value":  "1,000,000"
+                  },
+                  {
+                      "label":  "Policy Expiry Date",
+                      "value_cell":  "I38:R38",
+                      "value":  "12/31/2024"
+                  },
+                  {
+                      "label":  "Certificate Attached?  Y / N",
+                      "value_cell":  "S38:X38",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Additional Information or Special Requests",
+                      "value_cell":  "A40:X40",
+                      "value":  "Requesting access to park electricity for sound system."
+                  },
+                  {
+                      "label":  "Facility Rental Fee  $",
+                      "value_cell":  "A45:H45",
+                      "value":  "250.00"
+                  },
+                  {
+                      "label":  "Deposit Required  $",
+                      "value_cell":  "I45:P45",
+                      "value":  "100.00"
+                  },
+                  {
+                      "label":  "Total Due  $",
+                      "value_cell":  "Q45:U45",
+                      "value":  "350.00"
+                  },
+                  {
+                      "label":  "Applicant Signature",
+                      "value_cell":  "A51:L51",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Applicant)",
+                      "value_cell":  "M51:O51",
+                      "value":  "08/01/2024"
+                  },
+                  {
+                      "label":  "Permit Number (Office Use)",
+                      "value_cell":  "P51:U51",
+                      "value":  null
+                  }
+              ]
+}

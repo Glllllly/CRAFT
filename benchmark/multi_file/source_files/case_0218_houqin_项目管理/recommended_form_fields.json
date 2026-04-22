@@ -1,0 +1,134 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:31 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "设备清单_5489",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "进行中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "紧急",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:31.775903",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "49282",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "孙七@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "李四@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "设备清单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "郑十",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "资产清单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "关键路径",
+                                   "selected_value":  "73天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "当前进度",
+                                   "selected_value":  "57%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第一阶段",
+                                   "selected_value":  "需求分析 (10天)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第三阶段",
+                                   "selected_value":  "实施执行 (37天)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第二阶段",
+                                   "selected_value":  "方案设计 (29天)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第四阶段",
+                                   "selected_value":  "验收交付 (13天)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目名称",
+                                   "selected_value":  "后勤管理系统优化18期",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目成员",
+                                   "selected_value":  "10人",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目类型",
+                                   "selected_value":  "运营优化",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目编号",
+                                   "selected_value":  "PROJ-018",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目预算",
+                                   "selected_value":  "¥227752",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险评估",
+                                   "selected_value":  "低风险",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "项目负责人",
+                                   "selected_value":  "员工19",
+                                   "conflict":  false
+                               }
+                           ]
+}

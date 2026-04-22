@@ -1,0 +1,196 @@
+﻿{
+    "excel":  "029.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A8:L8",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M8:X8",
+                      "value":  "EMP-88291"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A10:L10",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "M10:X10",
+                      "value":  "Senior Content Strategist"
+                  },
+                  {
+                      "label":  "Date of Hire",
+                      "value_cell":  "A12:L12",
+                      "value":  "2021-03-15"
+                  },
+                  {
+                      "label":  "Last Day of Employment",
+                      "value_cell":  "M12:X12",
+                      "value":  "2023-10-31"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "A14:L14",
+                      "value":  "David Thorne"
+                  },
+                  {
+                      "label":  "Reason for Leaving (brief)",
+                      "value_cell":  "M14:X14",
+                      "value":  "Career advancement"
+                  },
+                  {
+                      "label":  "Resignation",
+                      "value_cell":  "H16",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Redundancy / Layoff",
+                      "value_cell":  "M16",
+                      "value":  null
+                  },
+                  {
+                      "label":  "End of Contract",
+                      "value_cell":  "R16",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Better Opportunity",
+                      "value_cell":  "H20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Compensation",
+                      "value_cell":  "M20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Career Development",
+                      "value_cell":  "R20",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Please describe your reason for leaving in more detail",
+                      "value_cell":  "A21:X22",
+                      "value":  "I have been offered a Lead role at a tech startup that aligns more closely with my long-term career goals in product marketing."
+                  },
+                  {
+                      "label":  "New employer / role",
+                      "value_cell":  "A24:L24",
+                      "value":  "Innovate Solutions / Head of Marketing"
+                  },
+                  {
+                      "label":  "Industry of new role",
+                      "value_cell":  "M24:X24",
+                      "value":  "Software Development"
+                  },
+                  {
+                      "label":  "Overall job satisfaction",
+                      "value_cell":  "H29,M29,R29",
+                      "value":  "Satisfied"
+                  },
+                  {
+                      "label":  "Relationship with manager",
+                      "value_cell":  "H30,M30,R30",
+                      "value":  "Excellent"
+                  },
+                  {
+                      "label":  "Relationship with colleagues",
+                      "value_cell":  "H31,M31,R31",
+                      "value":  "Excellent"
+                  },
+                  {
+                      "label":  "Work-life balance",
+                      "value_cell":  "H32,M32,R32",
+                      "value":  "Good"
+                  },
+                  {
+                      "label":  "Career development opportunities",
+                      "value_cell":  "H33,M33,R33",
+                      "value":  "Good"
+                  },
+                  {
+                      "label":  "Company culture",
+                      "value_cell":  "H34,M34,R34",
+                      "value":  "Excellent"
+                  },
+                  {
+                      "label":  "Compensation \u0026 benefits",
+                      "value_cell":  "H35,M35,R35",
+                      "value":  "Good"
+                  },
+                  {
+                      "label":  "What did you enjoy most about working here?",
+                      "value_cell":  "A39:X40",
+                      "value":  "The collaborative team environment and the creative freedom I was given on the Q3 campaign projects."
+                  },
+                  {
+                      "label":  "What could the company improve?",
+                      "value_cell":  "A42:X43",
+                      "value":  "The internal communication between the design and marketing departments could be more streamlined to avoid project bottlenecks."
+                  },
+                  {
+                      "label":  "Any specific incidents or concerns you wish to raise?",
+                      "value_cell":  "A45:X46",
+                      "value":  "None."
+                  },
+                  {
+                      "label":  "Definitely",
+                      "value_cell":  "H48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Probably",
+                      "value_cell":  "M48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Unlikely",
+                      "value_cell":  "R48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "H49",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Maybe",
+                      "value_cell":  "M49",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "R49",
+                      "value":  null
+                  },
+                  {
+                      "label":  "May we share your anonymised feedback with leadership?  Y / N",
+                      "value_cell":  "A53:X53",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A61:L61",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N61:X61",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "HR Representative",
+                      "value_cell":  "A64:L64",
+                      "value":  "Marcus Vane"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N64:X64",
+                      "value":  "2023-10-26"
+                  }
+              ]
+}

@@ -1,0 +1,156 @@
+{
+  "excel": "case_0057_houqin_临时事务__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "64359"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "销售统计_1632"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D9:H9",
+      "value": "库存统计"
+    },
+    {
+      "label": "type",
+      "value_cell": "M9:Q9",
+      "value": "销售统计"
+    },
+    {
+      "label": "status",
+      "value_cell": "D12:H12",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M12:Q12",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D15:H15",
+      "value": "临时"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D20:H20",
+      "value": "马腾"
+    },
+    {
+      "label": "from",
+      "value_cell": "M20:Q20",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D23:H23",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "指定负责人",
+      "value_cell": "M23:Q23",
+      "value": "员工22"
+    },
+    {
+      "label": "成员1",
+      "value_cell": "D26:H26",
+      "value": "员工29"
+    },
+    {
+      "label": "成员2",
+      "value_cell": "M26:Q26",
+      "value": "员工22"
+    },
+    {
+      "label": "成员3",
+      "value_cell": "D29:H29",
+      "value": "员工24"
+    },
+    {
+      "label": "人员需求",
+      "value_cell": "M29:Q29",
+      "value": "2人"
+    },
+    {
+      "label": "启动时间",
+      "value_cell": "D34:H34",
+      "value": "2024-02-20"
+    },
+    {
+      "label": "完成期限",
+      "value_cell": "M34:Q34",
+      "value": "2024-02-05"
+    },
+    {
+      "label": "检查验收",
+      "value_cell": "D37:H37",
+      "value": "2024-02-27"
+    },
+    {
+      "label": "完成状态",
+      "value_cell": "M37:Q37",
+      "value": "未开始)"
+    },
+    {
+      "label": "工作量",
+      "value_cell": "D40:H40",
+      "value": "38小时"
+    },
+    {
+      "label": "任务编号",
+      "value_cell": "D45:H45",
+      "value": "TEMP-TASK-021"
+    },
+    {
+      "label": "任务目标",
+      "value_cell": "M45:Q45",
+      "value": "按时完成相关工作"
+    },
+    {
+      "label": "任务类型",
+      "value_cell": "D48:H48",
+      "value": "采购申请"
+    },
+    {
+      "label": "任务范围",
+      "value_cell": "M48:Q48",
+      "value": "涉及部门2个"
+    },
+    {
+      "label": "budget",
+      "value_cell": "D51:H51",
+      "value": "¥39498"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M51:Q51",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "date",
+      "value_cell": "D56:H56",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M56:Q56",
+      "value": "2026-02-10T05:30:32.362411"
+    },
+    {
+      "label": "publish_date",
+      "value_cell": "D59:H59",
+      "value": "2024-02-20"
+    },
+    {
+      "label": "发布人",
+      "value_cell": "M59:Q59",
+      "value": "管理员2"
+    }
+  ]
+}

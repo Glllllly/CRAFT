@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0210_houqin_采购管理",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "",
+    "source_dir":  "houqin\\采购管理",
+    "total_files_in_source_dir":  15,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\采购单_7.txt",
+                      "copied_name":  "采购单_7.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\采购单_14.txt",
+                      "copied_name":  "采购单_14.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\采购单_5.txt",
+                      "copied_name":  "采购单_5.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\采购单_3.txt",
+                      "copied_name":  "采购单_3.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\采购单_8.txt",
+                      "copied_name":  "采购单_8.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  167
+                  }
+              ]
+}

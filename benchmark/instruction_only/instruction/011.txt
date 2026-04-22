@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Logistics"
+    },
+    {
+      "key_text": "Job Title / Position",
+      "value_text": "Supply Chain Coordinator"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Manager E-mail / Phone",
+      "value_text": "s.jenkins@company.com / 555-0192"
+    },
+    {
+      "key_text": "Name of Deceased",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date of Passing",
+      "value_text": "2023-10-10"
+    },
+    {
+      "key_text": "Spouse / Partner",
+      "value_text": null
+    },
+    {
+      "key_text": "Child",
+      "value_text": null
+    },
+    {
+      "key_text": "Parent",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Other Relationship (if \"Other\" selected above)",
+      "value_text": null
+    },
+    {
+      "key_text": "Leave Start Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Leave End Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Total Days Requested",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Location of Services (City, Country)",
+      "value_text": "Chicago, USA"
+    },
+    {
+      "key_text": "Yes — Domestic",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Yes — International",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": null
+    },
+    {
+      "key_text": "Death Certificate",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Obituary",
+      "value_text": null
+    },
+    {
+      "key_text": "Funeral Programme",
+      "value_text": null
+    },
+    {
+      "key_text": "Additional Context (if documentation unavailable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Paid Bereavement Leave",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Remaining from PTO",
+      "value_text": null
+    },
+    {
+      "key_text": "Unpaid",
+      "value_text": null
+    },
+    {
+      "key_text": "Bereavement Days Available per Policy",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Days Previously Used This Year",
+      "value_text": "0"
+    },
+    {
+      "key_text": "Additional notes or requests",
+      "value_text": "Will provide contact info for HR if needed regarding the funeral arrangements."
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Manager Acknowledgement",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "HR Representative",
+      "value_text": "Michael Ross"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    }
+  ]
+}
+
+Narrative:
+Jonathan D. Miller, a Supply Chain Coordinator (EMP-88429) in the Logistics department, submitted a bereavement leave request on October 12, 2023. He is requesting 3 days of leave from October 16 to October 18, 2023, following the passing of his parent, Robert Miller, on October 10. The funeral services will be held in Chicago, USA, and travel is required domestically. Jonathan has selected Paid Bereavement Leave, noting that he has 3 days available per policy and has used 0 days this year. He has attached a death certificate for documentation. The form is signed by Jonathan, his manager Sarah Jenkins, and HR representative Michael Ross.

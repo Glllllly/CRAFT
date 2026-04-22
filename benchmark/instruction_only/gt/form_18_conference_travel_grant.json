@@ -1,0 +1,201 @@
+﻿{
+    "excel":  "form_18_conference_travel_grant.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Student / Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "88293012"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:L11",
+                      "value":  "Department of Astrophysics"
+                  },
+                  {
+                      "label":  "Programme / Degree",
+                      "value_cell":  "I11:P11",
+                      "value":  "PhD"
+                  },
+                  {
+                      "label":  "Year of Study",
+                      "value_cell":  "Q11:X11",
+                      "value":  "3rd Year"
+                  },
+                  {
+                      "label":  "Supervisor / PI Name",
+                      "value_cell":  "A13:L13",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Supervisor E-mail",
+                      "value_cell":  "M13:U13",
+                      "value":  "m.thorne@university.edu"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "A15:H15",
+                      "value":  "555-012-9983"
+                  },
+                  {
+                      "label":  "University E-mail",
+                      "value_cell":  "I15:P15",
+                      "value":  "evance@university.edu"
+                  },
+                  {
+                      "label":  "Application Date",
+                      "value_cell":  "Q15:X15",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Conference Name",
+                      "value_cell":  "A20:X20",
+                      "value":  "International Symposium on Galactic Dynamics"
+                  },
+                  {
+                      "label":  "Organising Body / Society",
+                      "value_cell":  "A22:L22",
+                      "value":  "Astronomical Society of America"
+                  },
+                  {
+                      "label":  "Conference Website URL",
+                      "value_cell":  "M22:X22",
+                      "value":  "www.isgd2024.org"
+                  },
+                  {
+                      "label":  "Conference Start Date",
+                      "value_cell":  "A24:H24",
+                      "value":  "2024-02-12"
+                  },
+                  {
+                      "label":  "Conference End Date",
+                      "value_cell":  "I24:P24",
+                      "value":  "2024-02-16"
+                  },
+                  {
+                      "label":  "Location  (City, Country)",
+                      "value_cell":  "Q24:X24",
+                      "value":  "Chicago, USA"
+                  },
+                  {
+                      "label":  "Title of Paper / Poster to be Presented",
+                      "value_cell":  "A27:X27",
+                      "value":  "Dark Matter Distribution in Elliptical Galaxies"
+                  },
+                  {
+                      "label":  "Abstract Accepted?  Y / N",
+                      "value_cell":  "A29:L29",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Acceptance Letter Attached?  Y / N",
+                      "value_cell":  "M29:X29",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Registration Fee  $",
+                      "value_cell":  "A34:L34",
+                      "value":  "450"
+                  },
+                  {
+                      "label":  "Early-Bird Rate?  Y / N",
+                      "value_cell":  "M34:X34",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Airfare  $",
+                      "value_cell":  "A36:L36",
+                      "value":  "380"
+                  },
+                  {
+                      "label":  "Class  (Economy / Other)",
+                      "value_cell":  "M36:X36",
+                      "value":  "Economy"
+                  },
+                  {
+                      "label":  "Accommodation  (per night  $)",
+                      "value_cell":  "A38:L38",
+                      "value":  "180"
+                  },
+                  {
+                      "label":  "No. of Nights",
+                      "value_cell":  "M38:X38",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Per Diem / Meals  $",
+                      "value_cell":  "A40:L40",
+                      "value":  "200"
+                  },
+                  {
+                      "label":  "Per Day Amount  $",
+                      "value_cell":  "M40:X40",
+                      "value":  "50"
+                  },
+                  {
+                      "label":  "Other Expenses  $",
+                      "value_cell":  "A42:L42",
+                      "value":  "60"
+                  },
+                  {
+                      "label":  "Description",
+                      "value_cell":  "M42:X42",
+                      "value":  "Local transit and airport shuttles"
+                  },
+                  {
+                      "label":  "TOTAL REQUESTED  $",
+                      "value_cell":  "A44:L44",
+                      "value":  "1810"
+                  },
+                  {
+                      "label":  "Other Funding Sources  $",
+                      "value_cell":  "M44:X44",
+                      "value":  "500"
+                  },
+                  {
+                      "label":  "How does attending this conference benefit your research / development?",
+                      "value_cell":  "A49:X50",
+                      "value":  "This conference provides an essential platform to present my findings on dark matter to global experts, fostering potential collaborations for my dissertation."
+                  },
+                  {
+                      "label":  "Will you share knowledge on return (e.g., lab talk, report)?  Describe plan.",
+                      "value_cell":  "A52:X52",
+                      "value":  "I will deliver a presentation at the department\u0027s weekly research seminar to share insights gained and feedback received."
+                  },
+                  {
+                      "label":  "Applicant Signature",
+                      "value_cell":  "A60:M60",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q60:X60",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Supervisor Endorsement",
+                      "value_cell":  "A62:M62",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q62:X62",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Grad School Approver",
+                      "value_cell":  "A64:M64",
+                      "value":  "null"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q64:X64",
+                      "value":  "null"
+                  }
+              ]
+}

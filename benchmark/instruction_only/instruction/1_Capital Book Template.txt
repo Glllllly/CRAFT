@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "What is the total amount?",
+      "value_text": "$4,500,000.00"
+    },
+    {
+      "key_text": "What is the name of this transaction?",
+      "value_text": "Project Northwind Infrastructure Hedge"
+    },
+    {
+      "key_text": "Is this an allocation \"to\" or \"from\" the capital book reserve?",
+      "value_text": "To"
+    },
+    {
+      "key_text": "What are the profit/cost centers we are to use for the SAP entry?",
+      "value_text": "PC-9921 / CC-405"
+    },
+    {
+      "key_text": "Who are the parties/counterparties?",
+      "value_text": "Global Energy Partners and Northwind Renewables LLC"
+    },
+    {
+      "key_text": "Who is the book administrator?  Who booked this transaction?",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Which book is this coming out of?",
+      "value_text": "Strategic Asset Reserve Book (SAR-04)"
+    },
+    {
+      "key_text": "Who is the trading team/group?",
+      "value_text": "Renewable Energy Derivatives Desk"
+    },
+    {
+      "key_text": "What is the deal number?",
+      "value_text": "TR-882910-X"
+    },
+    {
+      "key_text": "What is the date of this transaction?",
+      "value_text": "October 14, 2023"
+    },
+    {
+      "key_text": "Has this been run through originations?",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Who is the contact for this transaction (for our inquiries)?",
+      "value_text": "David Chen (Ext. 4492)"
+    }
+  ]
+}
+
+Narrative:
+This capital book template details a transaction for the "Project Northwind Infrastructure Hedge," which has a total amount of $4,500,000.00. This is an allocation "to" the capital book reserve, using profit/cost centers PC-9921 and CC-405. The primary parties involved are Global Energy Partners and Northwind Renewables LLC. The transaction was booked by Sarah Jenkins and originates from the Strategic Asset Reserve Book (SAR-04) under the Renewable Energy Derivatives trading group. The deal number is TR-882910-X, and the transaction date is October 14, 2023. It has been confirmed that this has gone through originations, and for any further inquiries, David Chen can be reached at extension 4492.

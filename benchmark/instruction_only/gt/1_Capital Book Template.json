@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "1_Capital Book Template.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "What is the total amount?",
+                      "value_cell":  "I5:P6",
+                      "value":  "$4,500,000.00"
+                  },
+                  {
+                      "label":  "What is the name of this transaction?",
+                      "value_cell":  "I7:P8",
+                      "value":  "Project Northwind Infrastructure Hedge"
+                  },
+                  {
+                      "label":  "Is this an allocation \"to\" or \"from\" the capital book reserve?",
+                      "value_cell":  "I9:P10",
+                      "value":  "To"
+                  },
+                  {
+                      "label":  "What are the profit/cost centers we are to use for the SAP entry?",
+                      "value_cell":  "I11:P12",
+                      "value":  "PC-9921 / CC-405"
+                  },
+                  {
+                      "label":  "Who are the parties/counterparties?",
+                      "value_cell":  "I13:P14",
+                      "value":  "Global Energy Partners and Northwind Renewables LLC"
+                  },
+                  {
+                      "label":  "Who is the book administrator?  Who booked this transaction?",
+                      "value_cell":  "I15:P16",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Which book is this coming out of?",
+                      "value_cell":  "I17:P18",
+                      "value":  "Strategic Asset Reserve Book (SAR-04)"
+                  },
+                  {
+                      "label":  "Who is the trading team/group?",
+                      "value_cell":  "I19:P20",
+                      "value":  "Renewable Energy Derivatives Desk"
+                  },
+                  {
+                      "label":  "What is the deal number?",
+                      "value_cell":  "I21:P22",
+                      "value":  "TR-882910-X"
+                  },
+                  {
+                      "label":  "What is the date of this transaction?",
+                      "value_cell":  "I23:P24",
+                      "value":  "October 14, 2023"
+                  },
+                  {
+                      "label":  "Has this been run through originations?",
+                      "value_cell":  "I25:P26",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Who is the contact for this transaction (for our inquiries)?",
+                      "value_cell":  "I27:P27",
+                      "value":  "David Chen (Ext. 4492)"
+                  }
+              ]
+}

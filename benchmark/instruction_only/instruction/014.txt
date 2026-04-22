@@ -1,0 +1,104 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Jonathan B. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Pay Schedule (weekly / bi-weekly / monthly)",
+      "value_text": "bi-weekly"
+    },
+    {
+      "key_text": "Start Date of Deduction",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Work E-mail",
+      "value_text": "j.miller@techcorp.com"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Charity / Nonprofit Name",
+      "value_text": "Green Earth Foundation"
+    },
+    {
+      "key_text": "Registered Charity Number",
+      "value_text": "88293-1029-RR0001"
+    },
+    {
+      "key_text": "Charity Address",
+      "value_text": "452 Oak Street, Portland, OR 97204"
+    },
+    {
+      "key_text": "Charity Phone / E-mail",
+      "value_text": "503-555-0192"
+    },
+    {
+      "key_text": "Designated Purpose (if specific fund)",
+      "value_text": "Reforestation Project"
+    },
+    {
+      "key_text": "Amount per Pay Period $",
+      "value_text": "50.00"
+    },
+    {
+      "key_text": "or Percentage %",
+      "value_text": null
+    },
+    {
+      "key_text": "One-Time Amount $ (if applicable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Deduction Date (one-time)",
+      "value_text": null
+    },
+    {
+      "key_text": "Annual Total (estimated) $",
+      "value_text": "1300.00"
+    },
+    {
+      "key_text": "Employer Match Programme? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Change / Cancel Effective Date (if amending)",
+      "value_text": null
+    },
+    {
+      "key_text": "Reason for Change",
+      "value_text": null
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan B. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Payroll Authorisation",
+      "value_text": "Approved"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    }
+  ]
+}
+
+Narrative:
+Jonathan B. Miller, an employee in the Software Engineering department with ID EMP-88429, has initiated a charitable payroll deduction form. He is paid on a bi-weekly schedule and has requested that his deductions start on November 1st, 2023. His work email is j.miller@techcorp.com, and his manager is Sarah Jenkins. The donation is directed toward the Green Earth Foundation (registered charity number 88293-1029-RR0001), located at 452 Oak Street, Portland, OR 97204, with contact number 503-555-0192. The funds are designated for their Reforestation Project. Jonathan has opted for a $50.00 deduction per pay period, which totals an estimated $1,300.00 annually. He has confirmed that his employer participates in a match program. The form was signed by Jonathan on October 15th, 2023, and received payroll authorization on October 18th, 2023.

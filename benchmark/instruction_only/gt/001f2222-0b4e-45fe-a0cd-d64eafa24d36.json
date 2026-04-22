@@ -1,0 +1,106 @@
+﻿{
+    "excel":  "001f2222-0b4e-45fe-a0cd-d64eafa24d36.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Traveler\u0027s Name:",
+                      "value_cell":  "H5:AG5",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "Destination:",
+                      "value_cell":  "H6:AG6",
+                      "value":  "Chicago, IL"
+                  },
+                  {
+                      "label":  "Leave Date:",
+                      "value_cell":  "H7:P7",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Return Date:",
+                      "value_cell":  "W7:AG7",
+                      "value":  "10/15/2023"
+                  },
+                  {
+                      "label":  "Leave Time:",
+                      "value_cell":  "H8:P8",
+                      "value":  "08:30 AM"
+                  },
+                  {
+                      "label":  "Return Time:",
+                      "value_cell":  "W8:AG8",
+                      "value":  "09:45 PM"
+                  },
+                  {
+                      "label":  "Airfare ltinerary",
+                      "value_cell":  "H12:N12",
+                      "value":  "$450.00"
+                  },
+                  {
+                      "label":  "Lodging Receipts",
+                      "value_cell":  "AA12:AG12",
+                      "value":  "$875.50"
+                  },
+                  {
+                      "label":  "Airport Parking",
+                      "value_cell":  "H13:N13",
+                      "value":  "$60.00"
+                  },
+                  {
+                      "label":  "Registration Fee Receipt",
+                      "value_cell":  "AA13:AG13",
+                      "value":  "$350.00"
+                  },
+                  {
+                      "label":  "Rental Car Receipts",
+                      "value_cell":  "H14:N14",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Taxi Shuttle Receipts",
+                      "value_cell":  "AA14:AG14",
+                      "value":  "$45.00"
+                  },
+                  {
+                      "label":  "Toll Receipts",
+                      "value_cell":  "H15:N15",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other Mileage",
+                      "value_cell":  "AA15:AG15",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Were any meals provided with the registration fee?",
+                      "value_cell":  "X19:Y19",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Were any meals provided with the registration fee?",
+                      "value_cell":  "AC19:AD19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Breakfasts?",
+                      "value_cell":  "O20:P20",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Lunch?",
+                      "value_cell":  "U20:V20",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Dinner?",
+                      "value_cell":  "AA20:AB20",
+                      "value":  "1"
+                  },
+                  {
+                      "label":  "Did you incur any other expenses? Please specify:",
+                      "value_cell":  "S24:AG24, A25:AG29",
+                      "value":  "In-flight Wi-Fi for business emails ($20.00)."
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0270_yunyin_compliance",
+    "tenant":  "yunyin",
+    "topic":  "compliance",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\compliance",
+    "total_files_in_source_dir":  30,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\compliance\\compliance_checklist_27.md",
+                      "copied_name":  "compliance_checklist_27.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1394
+                  },
+                  {
+                      "source_rel":  "yunyin\\compliance\\compliance_checklist_28.md",
+                      "copied_name":  "compliance_checklist_28.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1394
+                  },
+                  {
+                      "source_rel":  "yunyin\\compliance\\compliance_checklist_29.md",
+                      "copied_name":  "compliance_checklist_29.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1394
+                  },
+                  {
+                      "source_rel":  "yunyin\\compliance\\compliance_checklist_26.md",
+                      "copied_name":  "compliance_checklist_26.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1394
+                  },
+                  {
+                      "source_rel":  "yunyin\\compliance\\compliance_checklist_23.md",
+                      "copied_name":  "compliance_checklist_23.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1394
+                  }
+              ]
+}

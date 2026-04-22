@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "form_13_visitor_access_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Visitor Full Name",
+                      "value_cell":  "E6:H6",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Organization / Company",
+                      "value_cell":  "M6:P6",
+                      "value":  "Apex Systems Integrators"
+                  },
+                  {
+                      "label":  "Purpose of Visit",
+                      "value_cell":  "E7:P7",
+                      "value":  "Annual server room maintenance and infrastructure audit."
+                  },
+                  {
+                      "label":  "Visitor Email",
+                      "value_cell":  "E8:H8",
+                      "value":  "m.thorne@apexsystems.com"
+                  },
+                  {
+                      "label":  "Visitor Phone",
+                      "value_cell":  "M8:P8",
+                      "value":  "555-012-8849"
+                  },
+                  {
+                      "label":  "ID Type \u0026 Number",
+                      "value_cell":  "E9:P9",
+                      "value":  "Driver License #DL-9948273"
+                  },
+                  {
+                      "label":  "Host Employee Name",
+                      "value_cell":  "E12:H12",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Host Department",
+                      "value_cell":  "M12:P12",
+                      "value":  "Information Technology"
+                  },
+                  {
+                      "label":  "Visit Date(s)",
+                      "value_cell":  "E13:H13",
+                      "value":  "October 24, 2023"
+                  },
+                  {
+                      "label":  "Visit Time  (From 鈥?To)",
+                      "value_cell":  "M13:P13",
+                      "value":  "09:00 AM 鈥?04:00 PM"
+                  },
+                  {
+                      "label":  "Area(s) to be Accessed",
+                      "value_cell":  "E14:P14",
+                      "value":  "Data Center, Server Room B, and Main Distribution Frame."
+                  },
+                  {
+                      "label":  "Equipment Brought On-Site",
+                      "value_cell":  "E15:P15",
+                      "value":  "Laptop, diagnostic toolkit, and cable testing hardware."
+                  },
+                  {
+                      "label":  "NDA Required  Y / N",
+                      "value_cell":  "E16:H16",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Escort Required  Y / N",
+                      "value_cell":  "M16:P16",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Host Employee (Signature)",
+                      "value_cell":  "A22:J22",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Host)",
+                      "value_cell":  "M22:P22",
+                      "value":  "October 20, 2023"
+                  },
+                  {
+                      "label":  "Security / Facilities Manager",
+                      "value_cell":  "A24:J24",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date (Security)",
+                      "value_cell":  "M24:P24",
+                      "value":  "October 21, 2023"
+                  }
+              ]
+}

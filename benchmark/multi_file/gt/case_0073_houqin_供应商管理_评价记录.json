@@ -1,0 +1,121 @@
+{
+  "excel": "case_0073_houqin_供应商管理_评价记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "评价编号",
+      "value_cell": "A7:D8",
+      "value": "EVAL-012"
+    },
+    {
+      "label": "评价日期",
+      "value_cell": "F7:I8",
+      "value": "2024-02-17"
+    },
+    {
+      "label": "供应商",
+      "value_cell": "K7:N8",
+      "value": "供应商13"
+    },
+    {
+      "label": "id",
+      "value_cell": "A11:D12",
+      "value": "18654"
+    },
+    {
+      "label": "产品质量",
+      "value_cell": "A17:D18",
+      "value": "8/10分"
+    },
+    {
+      "label": "售后服务",
+      "value_cell": "F17:I18",
+      "value": "7/10分"
+    },
+    {
+      "label": "服务态度",
+      "value_cell": "K17:N18",
+      "value": "7/10分"
+    },
+    {
+      "label": "交货及时性",
+      "value_cell": "A21:D22",
+      "value": "7/10分"
+    },
+    {
+      "label": "价格合理性",
+      "value_cell": "F21:I22",
+      "value": "8/10分"
+    },
+    {
+      "label": "总体评分",
+      "value_cell": "K21:N22",
+      "value": "39/50分"
+    },
+    {
+      "label": "等级",
+      "value_cell": "A25:D26",
+      "value": "C"
+    },
+    {
+      "label": "title",
+      "value_cell": "A31:D32",
+      "value": "费用统计_8381"
+    },
+    {
+      "label": "subject",
+      "value_cell": "F31:I32",
+      "value": "工作日志"
+    },
+    {
+      "label": "type",
+      "value_cell": "K31:N32",
+      "value": "费用统计"
+    },
+    {
+      "label": "status",
+      "value_cell": "A35:D36",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F35:I36",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K35:N36",
+      "value": "重要"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A41:D42",
+      "value": "张三"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F41:I42",
+      "value": "2026-02-10T05:30:32.792673"
+    },
+    {
+      "label": "date",
+      "value_cell": "K41:N42",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "A45:D46",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F45:I46",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "K45:N46",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

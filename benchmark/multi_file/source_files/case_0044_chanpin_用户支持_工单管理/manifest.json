@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0044_chanpin_用户支持_工单管理",
+    "tenant":  "chanpin",
+    "topic":  "用户支持",
+    "subtopic":  "工单管理",
+    "source_dir":  "chanpin\\用户支持\\工单管理",
+    "total_files_in_source_dir":  120,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\用户支持\\工单管理\\工单_0009.txt",
+                      "copied_name":  "工单_0009.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  536
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户支持\\工单管理\\工单_0049.txt",
+                      "copied_name":  "工单_0049.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  536
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户支持\\工单管理\\工单_0029.txt",
+                      "copied_name":  "工单_0029.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  536
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户支持\\工单管理\\工单_0069.txt",
+                      "copied_name":  "工单_0069.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  536
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户支持\\工单管理\\工单_0041.txt",
+                      "copied_name":  "工单_0041.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  535
+                  }
+              ]
+}

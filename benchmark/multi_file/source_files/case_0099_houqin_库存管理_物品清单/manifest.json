@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0099_houqin_库存管理_物品清单",
+    "tenant":  "houqin",
+    "topic":  "库存管理",
+    "subtopic":  "物品清单",
+    "source_dir":  "houqin\\库存管理\\物品清单",
+    "total_files_in_source_dir":  41,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\库存管理\\物品清单\\访问记录_1758.json",
+                      "copied_name":  "访问记录_1758.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\物品清单\\人数统计_8755.csv",
+                      "copied_name":  "人数统计_8755.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\物品清单\\当前库存.txt",
+                      "copied_name":  "当前库存.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  507
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\物品清单\\工作计划_4993.eml",
+                      "copied_name":  "工作计划_4993.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\物品清单\\报销申请_6578.csv",
+                      "copied_name":  "报销申请_6578.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

@@ -1,0 +1,3793 @@
+{
+  "bundle_dir": "case_0284_yunyin_presentations",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "marketing_deck_32.md",
+      "source_type": "md",
+      "candidate_count": 30,
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "marketing_deck_33.md",
+      "source_type": "md",
+      "candidate_count": 30,
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "marketing_deck_34.md",
+      "source_type": "md",
+      "candidate_count": 30,
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "marketing_deck_35.md",
+      "source_type": "md",
+      "candidate_count": 30,
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "marketing_deck_36.md",
+      "source_type": "md",
+      "candidate_count": 30,
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "##slide1",
+      "candidates": [
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide1",
+          "value": "Title Slide",
+          "raw_key": "## Slide 1",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 1: Title Slide",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide10",
+      "candidates": [
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide10",
+          "value": "Timeline and Roadmap",
+          "raw_key": "## Slide 10",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 10: Timeline and Roadmap",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide11",
+      "candidates": [
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide11",
+          "value": "Risk Mitigation",
+          "raw_key": "## Slide 11",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 11: Risk Mitigation",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide12",
+      "candidates": [
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide12",
+          "value": "Q&A",
+          "raw_key": "## Slide 12",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 12: Q&A",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide2",
+      "candidates": [
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide2",
+          "value": "Executive Summary",
+          "raw_key": "## Slide 2",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 2: Executive Summary",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide3",
+      "candidates": [
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide3",
+          "value": "Market Overview",
+          "raw_key": "## Slide 3",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 3: Market Overview",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide4",
+      "candidates": [
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide4",
+          "value": "Campaign Strategy",
+          "raw_key": "## Slide 4",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 4: Campaign Strategy",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide5",
+      "candidates": [
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide5",
+          "value": "Social Media Plan",
+          "raw_key": "## Slide 5",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 5: Social Media Plan",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide6",
+      "candidates": [
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide6",
+          "value": "Email Marketing",
+          "raw_key": "## Slide 6",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 6: Email Marketing",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide7",
+      "candidates": [
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide7",
+          "value": "Content Strategy",
+          "raw_key": "## Slide 7",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 7: Content Strategy",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide8",
+      "candidates": [
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide8",
+          "value": "Budget Breakdown",
+          "raw_key": "## Slide 8",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 8: Budget Breakdown",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##slide9",
+      "candidates": [
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##slide9",
+          "value": "KPIs and Metrics",
+          "raw_key": "## Slide 9",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Slide 9: KPIs and Metrics",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaign1",
+      "candidates": [
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign1",
+          "value": "Brand Awareness",
+          "raw_key": "- Campaign 1",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 1: Brand Awareness",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaign2",
+      "candidates": [
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign2",
+          "value": "Lead Generation",
+          "raw_key": "- Campaign 2",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 2: Lead Generation",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaign3",
+      "candidates": [
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaign3",
+          "value": "Customer Retention",
+          "raw_key": "- Campaign 3",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign 3: Customer Retention",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "contentcalendar",
+      "candidates": [
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentcalendar",
+          "value": "30+ posts/month",
+          "raw_key": "- Content Calendar",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Calendar: 30+ posts/month",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "creative",
+      "candidates": [
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "creative",
+          "value": "25%",
+          "raw_key": "- Creative",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Creative: 25%",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "February 10, 2024",
+          "raw_key": "- Date",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Date: February 10, 2024",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "growthrate",
+      "candidates": [
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthrate",
+          "value": "25% CAGR",
+          "raw_key": "- Growth Rate",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Rate: 25% CAGR",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketsize",
+      "candidates": [
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$50B",
+          "raw_key": "- Market Size",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $50B",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "mediaspend",
+      "candidates": [
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "mediaspend",
+          "value": "40%",
+          "raw_key": "- Media Spend",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Media Spend: 40%",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "personnel",
+      "candidates": [
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": "25%",
+          "raw_key": "- Personnel",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: 25%",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "platformfocus",
+      "candidates": [
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "platformfocus",
+          "value": "Facebook, Instagram, LinkedIn",
+          "raw_key": "- Platform Focus",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Platform Focus: Facebook, Instagram, LinkedIn",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "presentationtitle",
+      "candidates": [
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presentationtitle",
+          "value": "\"Marketing Strategy Q1 2024\"",
+          "raw_key": "- Presentation Title",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presentation Title: \"Marketing Strategy Q1 2024\"",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "presenter",
+      "candidates": [
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "presenter",
+          "value": "Marketing Director",
+          "raw_key": "- Presenter",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Presenter: Marketing Director",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q12024",
+      "candidates": [
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q12024",
+          "value": "Launch phase",
+          "raw_key": "- Q1 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q1 2024: Launch phase",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q22024",
+      "candidates": [
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q22024",
+          "value": "Growth phase",
+          "raw_key": "- Q2 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q2 2024: Growth phase",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q32024",
+      "candidates": [
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q32024",
+          "value": "Optimization phase",
+          "raw_key": "- Q3 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q3 2024: Optimization phase",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q42024",
+      "candidates": [
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q42024",
+          "value": "Planning for next year",
+          "raw_key": "- Q4 2024",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q4 2024: Planning for next year",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "toolstechnology",
+      "candidates": [
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "toolstechnology",
+          "value": "10%",
+          "raw_key": "- Tools/Technology",
+          "source_file": "marketing_deck_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Tools/Technology: 10%",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

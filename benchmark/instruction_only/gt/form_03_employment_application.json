@@ -1,0 +1,351 @@
+﻿{
+    "excel":  "form_03_employment_application.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "M9:X9",
+                      "value":  "Julian"
+                  },
+                  {
+                      "label":  "Middle Name",
+                      "value_cell":  "A11:H11",
+                      "value":  "Mark"
+                  },
+                  {
+                      "label":  "Preferred Name / Nickname",
+                      "value_cell":  "I11:P11",
+                      "value":  "Jules"
+                  },
+                  {
+                      "label":  "Date of Birth  mm/dd/yyyy",
+                      "value_cell":  "Q11:X11",
+                      "value":  "05/12/1992"
+                  },
+                  {
+                      "label":  "Current Street Address",
+                      "value_cell":  "A13:L13",
+                      "value":  "452 Oakwood Avenue"
+                  },
+                  {
+                      "label":  "Apt / Unit #",
+                      "value_cell":  "M13:X13",
+                      "value":  "3B"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A15:J15",
+                      "value":  "Portland"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "K15:N15",
+                      "value":  "OR"
+                  },
+                  {
+                      "label":  "ZIP",
+                      "value_cell":  "O15:Q15",
+                      "value":  "97201"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "R15:X15",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "A17:I17",
+                      "value":  "503-555-0192"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "J17:P17",
+                      "value":  "503-555-0844"
+                  },
+                  {
+                      "label":  "Work Phone",
+                      "value_cell":  "Q17:X17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "E-mail Address (Primary)",
+                      "value_cell":  "A19:L19",
+                      "value":  "j.henderson@email.com"
+                  },
+                  {
+                      "label":  "E-mail Address (Secondary)",
+                      "value_cell":  "M19:X19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Job Title / Position",
+                      "value_cell":  "A24:L24",
+                      "value":  "Senior Project Manager"
+                  },
+                  {
+                      "label":  "Job Reference Number",
+                      "value_cell":  "M24:X24",
+                      "value":  "PM-9928"
+                  },
+                  {
+                      "label":  "Department / Division",
+                      "value_cell":  "A26:L26",
+                      "value":  "Operations"
+                  },
+                  {
+                      "label":  "Employment Type",
+                      "value_cell":  "M26:R26",
+                      "value":  "Full-Time"
+                  },
+                  {
+                      "label":  "Available Start Date",
+                      "value_cell":  "S26:X26",
+                      "value":  "11/01/2023"
+                  },
+                  {
+                      "label":  "Full-Time",
+                      "value_cell":  "F28:G28",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Part-Time",
+                      "value_cell":  "L28:M28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Temporary",
+                      "value_cell":  "R28:S28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Internship",
+                      "value_cell":  "X28:Y28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "How did you hear about this position?",
+                      "value_cell":  "A29:X29",
+                      "value":  "Company Website"
+                  },
+                  {
+                      "label":  "Highest Level of Education Completed",
+                      "value_cell":  "A34:L34",
+                      "value":  "Master\u0027s Degree"
+                  },
+                  {
+                      "label":  "Field of Study / Major",
+                      "value_cell":  "M34:X34",
+                      "value":  "Business Administration"
+                  },
+                  {
+                      "label":  "Institution Name",
+                      "value_cell":  "A36:L36",
+                      "value":  "University of Oregon"
+                  },
+                  {
+                      "label":  "City, State",
+                      "value_cell":  "M36:X36",
+                      "value":  "Eugene, OR"
+                  },
+                  {
+                      "label":  "Degree / Diploma",
+                      "value_cell":  "A38:H38",
+                      "value":  "MBA"
+                  },
+                  {
+                      "label":  "Year Awarded",
+                      "value_cell":  "I38:P38",
+                      "value":  "2016"
+                  },
+                  {
+                      "label":  "GPA (if recent graduate)",
+                      "value_cell":  "Q38:X38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employer / Company Name",
+                      "value_cell":  "A46:L46",
+                      "value":  "TechSolutions Inc."
+                  },
+                  {
+                      "label":  "Job Title / Position Held",
+                      "value_cell":  "M46:X46",
+                      "value":  "Project Coordinator"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A48:F48",
+                      "value":  "06/2016"
+                  },
+                  {
+                      "label":  "End Date",
+                      "value_cell":  "G48:L48",
+                      "value":  "08/2020"
+                  },
+                  {
+                      "label":  "City, State",
+                      "value_cell":  "M48:R48",
+                      "value":  "Portland, OR"
+                  },
+                  {
+                      "label":  "Reason for Leaving",
+                      "value_cell":  "S48:X48",
+                      "value":  "Career Growth"
+                  },
+                  {
+                      "label":  "Key Responsibilities / Accomplishments",
+                      "value_cell":  "A50:X50",
+                      "value":  "Managed cross-functional teams and budget tracking."
+                  },
+                  {
+                      "label":  "Employer / Company Name",
+                      "value_cell":  "A55:L55",
+                      "value":  "BuildRight Construction"
+                  },
+                  {
+                      "label":  "Job Title / Position Held",
+                      "value_cell":  "M55:X55",
+                      "value":  "Junior Analyst"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A57:F57",
+                      "value":  "05/2014"
+                  },
+                  {
+                      "label":  "End Date",
+                      "value_cell":  "G57:L57",
+                      "value":  "05/2016"
+                  },
+                  {
+                      "label":  "City, State",
+                      "value_cell":  "M57:R57",
+                      "value":  "Salem, OR"
+                  },
+                  {
+                      "label":  "Reason for Leaving",
+                      "value_cell":  "S57:X57",
+                      "value":  "Relocation"
+                  },
+                  {
+                      "label":  "Key Responsibilities / Accomplishments",
+                      "value_cell":  "A59:X59",
+                      "value":  "Data analysis and reporting for site managers."
+                  },
+                  {
+                      "label":  "Employer / Company Name",
+                      "value_cell":  "A64:L64",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Job Title / Position Held",
+                      "value_cell":  "M64:X64",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A66:F66",
+                      "value":  null
+                  },
+                  {
+                      "label":  "End Date",
+                      "value_cell":  "G66:L66",
+                      "value":  null
+                  },
+                  {
+                      "label":  "City, State",
+                      "value_cell":  "M66:R66",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason for Leaving",
+                      "value_cell":  "S66:X66",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Key Responsibilities / Accomplishments",
+                      "value_cell":  "A68:X68",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reference 1 鈥?Full Name",
+                      "value_cell":  "A73:J73",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "K73:P73",
+                      "value":  "Former Manager"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "Q73:T73",
+                      "value":  "503-555-9988"
+                  },
+                  {
+                      "label":  "Email",
+                      "value_cell":  "U73:X73",
+                      "value":  "s.jenkins@techsol.com"
+                  },
+                  {
+                      "label":  "Reference 2 鈥?Full Name",
+                      "value_cell":  "A75:J75",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "K75:P75",
+                      "value":  "Colleague"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "Q75:T75",
+                      "value":  "503-555-7766"
+                  },
+                  {
+                      "label":  "Email",
+                      "value_cell":  "U75:X75",
+                      "value":  "dmiller@work.com"
+                  },
+                  {
+                      "label":  "Reference 3 鈥?Full Name",
+                      "value_cell":  "A77:J77",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "K77:P77",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "Q77:T77",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Email",
+                      "value_cell":  "U77:X77",
+                      "value":  null
+                  },
+                  {
+                      "label":  "List any relevant licenses, certifications, or professional memberships",
+                      "value_cell":  "A82:X82",
+                      "value":  "PMP Certified"
+                  },
+                  {
+                      "label":  "Applicant Signature",
+                      "value_cell":  "A85:N85",
+                      "value":  "Julian M. Henderson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "O85:X85",
+                      "value":  "10/15/2023"
+                  }
+              ]
+}

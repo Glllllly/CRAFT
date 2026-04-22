@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "应聘登记表-简历.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "鐢宠鑱屼綅",
+                      "value_cell":  "C3:R3",
+                      "value":  "楂樼骇杞欢宸ョ▼甯?"
+                  },
+                  {
+                      "label":  "涓枃濮撳悕",
+                      "value_cell":  "B5:E5",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鑻辨枃濮撳悕",
+                      "value_cell":  "I5:J5",
+                      "value":  "Zhang Wei"
+                  },
+                  {
+                      "label":  "鎬у埆",
+                      "value_cell":  "O5",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "鍑虹敓鏃ユ湡",
+                      "value_cell":  "B7:E7",
+                      "value":  "1992-05-15"
+                  },
+                  {
+                      "label":  "鍑虹敓鍦?",
+                      "value_cell":  "I7:J7",
+                      "value":  "鍖椾含甯?"
+                  },
+                  {
+                      "label":  "姘戞棌",
+                      "value_cell":  "O7:Q7",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "鏀挎不闈㈣矊",
+                      "value_cell":  "B9:E9",
+                      "value":  "涓叡鍏氬憳"
+                  },
+                  {
+                      "label":  "韬珮",
+                      "value_cell":  "I9:J9",
+                      "value":  "178cm"
+                  },
+                  {
+                      "label":  "琛€鍨?",
+                      "value_cell":  "O9:Q9",
+                      "value":  "A鍨?"
+                  },
+                  {
+                      "label":  "鏈€楂樺鍘?",
+                      "value_cell":  "B11:E11",
+                      "value":  "纭曞＋鐮旂┒鐢?"
+                  },
+                  {
+                      "label":  "韬唤璇佸彿鐮?",
+                      "value_cell":  "I11:Q11",
+                      "value":  "110105199205151234"
+                  },
+                  {
+                      "label":  "鎴峰彛鎵€鍦ㄥ湴鍧€",
+                      "value_cell":  "D13:Q13",
+                      "value":  "鍖椾含甯傛湞闃冲尯寤哄浗璺?8鍙?"
+                  },
+                  {
+                      "label":  "鐩墠璇︾粏灞呬綇鍦板潃",
+                      "value_cell":  "D15:M15",
+                      "value":  "鍖椾含甯傛捣娣€鍖轰腑鍏虫潙杞欢鍥瑼搴?"
+                  },
+                  {
+                      "label":  "閭紪",
+                      "value_cell":  "R15",
+                      "value":  "100085"
+                  },
+                  {
+                      "label":  "浣忔埧绉嶇被",
+                      "value_cell":  "D17",
+                      "value":  "绉熸埧"
+                  },
+                  {
+                      "label":  "鑱旂郴鐢佃瘽",
+                      "value_cell":  "D19:I19",
+                      "value":  "010-87654321"
+                  },
+                  {
+                      "label":  "鎵嬫満",
+                      "value_cell":  "M19:Q19",
+                      "value":  "13800138000"
+                  },
+                  {
+                      "label":  "鐢靛瓙閭欢",
+                      "value_cell":  "D21:Q21",
+                      "value":  "zhangwei@email.com"
+                  },
+                  {
+                      "label":  "濠氬Щ鐘跺喌",
+                      "value_cell":  "C23:K23",
+                      "value":  "宸插"
+                  },
+                  {
+                      "label":  "鏄惁鏈夊瀛?",
+                      "value_cell":  "Q23",
+                      "value":  "鏄?"
+                  }
+              ]
+}

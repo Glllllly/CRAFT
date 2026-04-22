@@ -1,0 +1,21 @@
+{
+  "excel": "case_0285_yunyin_public-relations__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "name",
+      "value_cell": "A7:D8",
+      "value": "PR Manager"
+    },
+    {
+      "label": "email",
+      "value_cell": "A13:D14",
+      "value": "pr@productcompany.com"
+    },
+    {
+      "label": "phone",
+      "value_cell": "F13:I14",
+      "value": "+1-555-0100"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "excel": "case_0066_houqin_会议纪要__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "30118"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "费用统计_2764"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "费用统计"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A11:D12",
+      "value": "访问记录"
+    },
+    {
+      "label": "status",
+      "value_cell": "A17:D18",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F17:I18",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K17:N18",
+      "value": "例行"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A21:D22",
+      "value": "2026-02-10T05:30:32.327463"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A27:D28",
+      "value": "孙七"
+    },
+    {
+      "label": "from",
+      "value_cell": "F27:I28",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K27:N28",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "date",
+      "value_cell": "A33:D34",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F33:I34",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

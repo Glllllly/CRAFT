@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "TASA NOMINAL =",
+      "value_text": "12.00%"
+    },
+    {
+      "key_text": "PERÍODOS POR AÑO =",
+      "value_text": "12"
+    },
+    {
+      "key_text": "TASA NOMINAL =",
+      "value_text": "4.00%"
+    },
+    {
+      "key_text": "PERÍODOS POR AÑO =",
+      "value_text": "4"
+    },
+    {
+      "key_text": "TASA NOMINAL =",
+      "value_text": "3.98%"
+    },
+    {
+      "key_text": "PERÍODOS POR AÑO =",
+      "value_text": "12"
+    },
+    {
+      "key_text": "TASA MIXTA NOMINAL =",
+      "value_text": "15.98%"
+    },
+    {
+      "key_text": "PERÍODOS POR AÑO =",
+      "value_text": "12"
+    },
+    {
+      "key_text": "TASA EFECTIVA 1 CALCULADA =",
+      "value_text": "12.68%"
+    },
+    {
+      "key_text": "TASA EFECTIVA 2 CALCULADA =",
+      "value_text": "4.06%"
+    },
+    {
+      "key_text": "TASA COMPUESTA EFECTIVA =",
+      "value_text": "17.25%"
+    },
+    {
+      "key_text": "TASA MIXTA EFECTIVA =",
+      "value_text": "17.25%"
+    }
+  ]
+}
+
+Narrative:
+This financial form, titled "Composition of Interest Rates by Base Change," details the calculation of various effective rates from two primary nominal rates. The first dominant nominal rate is set at 12.00% with 12 periods per year, yielding an effective calculated rate of 12.68%. The second nominal rate is 4.00% with 4 periods per year, resulting in an effective rate of 4.06%. To align the rates, the second rate is adjusted to 12 periods per year, giving an adjusted nominal rate of 3.98%. By combining these, the mixed nominal rate is determined to be 15.98% over 12 periods. The final results indicate both a composite effective rate and a mixed effective rate of 17.25%.

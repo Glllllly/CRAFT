@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0281_yunyin_marketing_content",
+    "tenant":  "yunyin",
+    "topic":  "marketing",
+    "subtopic":  "content",
+    "source_dir":  "yunyin\\marketing\\content",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\marketing\\content\\content_plan_53.md",
+                      "copied_name":  "content_plan_53.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1220
+                  },
+                  {
+                      "source_rel":  "yunyin\\marketing\\content\\content_plan_54.md",
+                      "copied_name":  "content_plan_54.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1220
+                  },
+                  {
+                      "source_rel":  "yunyin\\marketing\\content\\content_plan_51.md",
+                      "copied_name":  "content_plan_51.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1220
+                  },
+                  {
+                      "source_rel":  "yunyin\\marketing\\content\\content_plan_52.md",
+                      "copied_name":  "content_plan_52.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1220
+                  },
+                  {
+                      "source_rel":  "yunyin\\marketing\\content\\content_plan_55.md",
+                      "copied_name":  "content_plan_55.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1220
+                  }
+              ]
+}

@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "017c279f-62b1-4863-9020-b0b47c34d96b.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "NAME",
+                      "value_cell":  "B10:F10, A11:F15",
+                      "value":  "Grand View Suites"
+                  },
+                  {
+                      "label":  "Location:",
+                      "value_cell":  "B17:G17",
+                      "value":  "123 Main St, Grand Prairie, TX 75050"
+                  },
+                  {
+                      "label":  "Number of Rooms",
+                      "value_cell":  "D19",
+                      "value":  "50"
+                  },
+                  {
+                      "label":  "Reporting Period:",
+                      "value_cell":  "B21:G21",
+                      "value":  "September 2023"
+                  },
+                  {
+                      "label":  "Due Date:",
+                      "value_cell":  "B23:G23",
+                      "value":  "October 20, 2023"
+                  },
+                  {
+                      "label":  "TOTAL GROSS RECEIPTS (Excluding Room Taxes):",
+                      "value_cell":  "G25",
+                      "value":  "45,000.00"
+                  },
+                  {
+                      "label":  "Federal Officer/Employees",
+                      "value_cell":  "G29",
+                      "value":  "1,200.00"
+                  },
+                  {
+                      "label":  "Permanent Residents",
+                      "value_cell":  "G30",
+                      "value":  "3,000.00"
+                  },
+                  {
+                      "label":  "NET TAXABLE RECEIPTS:",
+                      "value_cell":  "G32",
+                      "value":  "40,800.00"
+                  },
+                  {
+                      "label":  "AMOUNT OF TAX AT 7%:",
+                      "value_cell":  "G34",
+                      "value":  "2,856.00"
+                  },
+                  {
+                      "label":  "5% Penalty on tax received not more than 30 days after due date",
+                      "value_cell":  "G38",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "5% Penalty on tax received more than 30 days after due date",
+                      "value_cell":  "G39",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "6% Interest per annum beginning 60 days after the due date",
+                      "value_cell":  "G40",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "AMOUNT OF PENALTY AND INTEREST DUE:",
+                      "value_cell":  "G42",
+                      "value":  "0.00"
+                  },
+                  {
+                      "label":  "TOTAL AMOUNT REMITTED:",
+                      "value_cell":  "G44",
+                      "value":  "2,856.00"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "B47",
+                      "value":  "Alex Johnson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "D47",
+                      "value":  "October 15, 2023"
+                  },
+                  {
+                      "label":  "Daytime Phone",
+                      "value_cell":  "G47",
+                      "value":  "(972) 555-0123"
+                  }
+              ]
+}

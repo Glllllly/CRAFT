@@ -1,0 +1,14 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "培训主题",
+                                   "selected_value":  "产品介绍)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "更新内容",
+                                   "selected_value":  "新功能演示、案例补充、FAQ更新",
+                                   "conflict":  false
+                               }
+                           ]
+}

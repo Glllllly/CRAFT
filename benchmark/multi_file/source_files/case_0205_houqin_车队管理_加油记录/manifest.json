@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0205_houqin_车队管理_加油记录",
+    "tenant":  "houqin",
+    "topic":  "车队管理",
+    "subtopic":  "加油记录",
+    "source_dir":  "houqin\\车队管理\\加油记录",
+    "total_files_in_source_dir":  35,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\车队管理\\加油记录\\维修记录_9828.json",
+                      "copied_name":  "维修记录_9828.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\加油记录\\批准单_8003.csv",
+                      "copied_name":  "批准单_8003.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\加油记录\\2024年加油日志.txt",
+                      "copied_name":  "2024年加油日志.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  6576
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\加油记录\\购置申请_5308.eml",
+                      "copied_name":  "购置申请_5308.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\加油记录\\报销申请_3743.csv",
+                      "copied_name":  "报销申请_3743.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1341
+                  }
+              ]
+}

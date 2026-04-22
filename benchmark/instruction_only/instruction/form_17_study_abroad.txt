@@ -1,0 +1,172 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name (as on passport):",
+      "value_text": "Alexander James Thorne"
+    },
+    {
+      "key_text": "Student ID:",
+      "value_text": "88492011"
+    },
+    {
+      "key_text": "Date of Birth  mm/dd/yyyy:",
+      "value_text": "05/12/2002"
+    },
+    {
+      "key_text": "Citizenship / Nationality:",
+      "value_text": "Canadian"
+    },
+    {
+      "key_text": "Passport Number:",
+      "value_text": "HB9928374"
+    },
+    {
+      "key_text": "Passport Expiry Date:",
+      "value_text": "11/20/2030"
+    },
+    {
+      "key_text": "Passport Country of Issue:",
+      "value_text": "Canada"
+    },
+    {
+      "key_text": "Programme / Major:",
+      "value_text": "International Relations"
+    },
+    {
+      "key_text": "Current GPA:",
+      "value_text": "3.85"
+    },
+    {
+      "key_text": "Academic Year / Level:",
+      "value_text": "Junior (Year 3)"
+    },
+    {
+      "key_text": "Expected Graduation Date:",
+      "value_text": "05/15/2025"
+    },
+    {
+      "key_text": "Emergency Contact Name:",
+      "value_text": "Sarah Thorne"
+    },
+    {
+      "key_text": "Emergency Contact Phone:",
+      "value_text": "416-555-0192"
+    },
+    {
+      "key_text": "Name of Study Abroad Programme / Institution:",
+      "value_text": "Sciences Po Exchange Programme"
+    },
+    {
+      "key_text": "Host Country:",
+      "value_text": "France"
+    },
+    {
+      "key_text": "Host City:",
+      "value_text": "Paris"
+    },
+    {
+      "key_text": "Programme Provider / Partner Institution:",
+      "value_text": "Sciences Po"
+    },
+    {
+      "key_text": "Language of Instruction:",
+      "value_text": "French / English"
+    },
+    {
+      "key_text": "Proposed Start Date:",
+      "value_text": "09/01/2024"
+    },
+    {
+      "key_text": "Proposed End Date:",
+      "value_text": "12/15/2024"
+    },
+    {
+      "key_text": "Academic Credits to Transfer:",
+      "value_text": "15 Credits"
+    },
+    {
+      "key_text": "Home Tuition / Abroad Fees?:",
+      "value_text": "Home Tuition"
+    },
+    {
+      "key_text": "Courses planned to take abroad and how they satisfy home degree requirements",
+      "value_text": "1. European Politics (POL301); 2. French History (HIST202); 3. Macroeconomics (ECON305). These satisfy major electives."
+    },
+    {
+      "key_text": "Faculty Advisor Approval Obtained?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Advisor Name & Signature Date:",
+      "value_text": "Dr. Elena Vance, 03/15/2024"
+    },
+    {
+      "key_text": "Total Estimated Programme Cost  $:",
+      "value_text": "8,500"
+    },
+    {
+      "key_text": "Funding Sources:",
+      "value_text": "Personal Savings, Student Loan"
+    },
+    {
+      "key_text": "Scholarship / Grant Applied For?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Amount  $:",
+      "value_text": "2,000"
+    },
+    {
+      "key_text": "Financial Aid / Sponsorship Details",
+      "value_text": "University Mobility Grant applied for in February 2024."
+    },
+    {
+      "key_text": "Personal Statement — why this programme and how it advances your goals (300 words)",
+      "value_text": "Studying at Sciences Po will provide unparalleled insight into European diplomatic relations. This experience is essential for my career goal of becoming a foreign policy analyst, allowing me to engage directly with international peers."
+    },
+    {
+      "key_text": "How will you address the language / cultural challenges?",
+      "value_text": "I have completed three years of French and will enroll in the intensive language orientation week provided by the host institution."
+    },
+    {
+      "key_text": "Student Signature",
+      "value_text": "Alexander Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/20/2024"
+    },
+    {
+      "key_text": "Faculty Advisor",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/21/2024"
+    },
+    {
+      "key_text": "International Programs Advisor",
+      "value_text": "Mark Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/25/2024"
+    },
+    {
+      "key_text": "Financial Aid",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/28/2024"
+    }
+  ]
+}
+
+Narrative:
+Alexander James Thorne, a Canadian student with ID 88492011, is applying for a study abroad program at Sciences Po in Paris, France. Born on May 12, 2002, he holds a Canadian passport (HB9928374) valid until November 20, 2030. As a Junior majoring in International Relations with a 3.85 GPA, he expects to graduate on May 15, 2025. In case of emergency, the university should contact Sarah Thorne at 416-555-0192.
+
+The program runs from September 1, 2024, to December 15, 2024, with instruction in both French and English. Alexander intends to transfer 15 credits under the Home Tuition fee structure. His planned courses, including European Politics and Macroeconomics, have received approval from his faculty advisor, Dr. Elena Vance, as of March 15, 2024.
+
+The total estimated cost is $8,500, which he plans to cover through savings, loans, and a $2,000 University Mobility Grant. In his personal statement, Alexander notes that this program is vital for his career as a foreign policy analyst. He plans to manage cultural and language barriers through his existing French proficiency and an intensive orientation program. The application was signed by Alexander on March 20, 2024, followed by approvals from Dr. Elena Vance, Mark Sterling from International Programs, and Sarah Jenkins from Financial Aid throughout late March 2024.

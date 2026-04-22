@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "DATE: ",
+      "value_text": "October 24, 2023"
+    },
+    {
+      "key_text": "ATTORNEY:",
+      "value_text": "Sarah Jenkins, Esq."
+    },
+    {
+      "key_text": "DEAL MAKER:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "COUNTERPARTY:",
+      "value_text": "Apex Global Logistics, Inc."
+    },
+    {
+      "key_text": "   ADDRESS:",
+      "value_text": "4500 Industrial Way, Suite 200, Chicago, IL 60607"
+    },
+    {
+      "key_text": "CONTACT:",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "TITLE:",
+      "value_text": "Director of Operations"
+    },
+    {
+      "key_text": "PHONE:",
+      "value_text": "(312) 555-0198"
+    },
+    {
+      "key_text": "FAX:",
+      "value_text": "(312) 555-0199"
+    },
+    {
+      "key_text": "E mail:",
+      "value_text": "e.rodriguez@apexlogistics.com"
+    },
+    {
+      "key_text": "S&P Rating",
+      "value_text": "BBB+"
+    },
+    {
+      "key_text": "Incorporation State",
+      "value_text": "Delaware"
+    }
+  ]
+}
+
+Narrative:
+This document, dated October 24, 2023, outlines the details for a transaction involving Attorney Sarah Jenkins and Deal Maker Marcus Thorne. The counterparty for this agreement is Apex Global Logistics, Inc., which is incorporated in Delaware and maintains an S&P rating of BBB+. Their office is located at 4500 Industrial Way, Suite 200, Chicago, IL 60607. The primary contact at the company is Elena Rodriguez, the Director of Operations, who can be reached at (312) 555-0198, by fax at (312) 555-0199, or via email at e.rodriguez@apexlogistics.com.

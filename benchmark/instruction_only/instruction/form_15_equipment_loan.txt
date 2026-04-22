@@ -1,0 +1,80 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID:",
+      "value_text": "EMP-8829"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Manager Name:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Contact Phone:",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "Date of Request:",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Equipment Name / Description:",
+      "value_text": "MacBook Pro 16-inch"
+    },
+    {
+      "key_text": "Asset Tag / Serial No.:",
+      "value_text": "ASSET-99021"
+    },
+    {
+      "key_text": "Loan Start Date:",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Expected Return Date:",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Condition at Time of Loan:",
+      "value_text": "Excellent"
+    },
+    {
+      "key_text": "Replacement Value  $:",
+      "value_text": "2,499.00"
+    },
+    {
+      "key_text": "Purpose of Loan:",
+      "value_text": "Client presentation off-site"
+    },
+    {
+      "key_text": "Off-Site Use Required  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Asset / Facilities Manager",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "Line Manager",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-13"
+    }
+  ]
+}
+
+Narrative:
+This equipment loan form is filled out for Sarah Jenkins (Employee ID: EMP-8829) from the Marketing department, whose manager is Marcus Thorne. Sarah requested the loan on October 12, 2023, and can be reached at 555-012-3456. She is borrowing a MacBook Pro 16-inch (Asset Tag: ASSET-99021) from October 15 to October 20, 2023. The laptop is in excellent condition, with a replacement value of $2,499.00. The purpose of the loan is for an off-site client presentation, and she has confirmed that off-site use is required. The form has been approved by the Asset/Facilities Manager, Robert Miller, and her Line Manager, Marcus Thorne, both of whom signed off on October 13, 2023.

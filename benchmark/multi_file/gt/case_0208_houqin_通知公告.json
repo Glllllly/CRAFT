@@ -1,0 +1,141 @@
+{
+  "excel": "case_0208_houqin_通知公告__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "70168"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "工作计划_5332"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K7:N8",
+      "value": "审批表"
+    },
+    {
+      "label": "通知编号",
+      "value_cell": "A11:D12",
+      "value": "NOTICE-012"
+    },
+    {
+      "label": "通知类型",
+      "value_cell": "F11:I12",
+      "value": "工作通知"
+    },
+    {
+      "label": "发布部门",
+      "value_cell": "K11:N12",
+      "value": "后勤部"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A15:D16",
+      "value": "孙七"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F15:I16",
+      "value": "2026-02-10T05:30:31.739837"
+    },
+    {
+      "label": "status",
+      "value_cell": "A21:D22",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F21:I22",
+      "value": "中"
+    },
+    {
+      "label": "date",
+      "value_cell": "K21:N22",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "publish_date",
+      "value_cell": "A25:D26",
+      "value": "2024-02-18"
+    },
+    {
+      "label": "执行期限",
+      "value_cell": "F25:I26",
+      "value": "2024-02-10日前"
+    },
+    {
+      "label": "完成截止",
+      "value_cell": "K25:N26",
+      "value": "2024-02-10日"
+    },
+    {
+      "label": "反馈时间",
+      "value_cell": "A29:D30",
+      "value": "2024-02-20日"
+    },
+    {
+      "label": "库管部",
+      "value_cell": "A35:D36",
+      "value": "负责库存管理"
+    },
+    {
+      "label": "财务部",
+      "value_cell": "F35:I36",
+      "value": "负责费用审核"
+    },
+    {
+      "label": "采购部",
+      "value_cell": "K35:N36",
+      "value": "负责采购执行"
+    },
+    {
+      "label": "人力资源部",
+      "value_cell": "A39:D40",
+      "value": "负责考核"
+    },
+    {
+      "label": "联系人",
+      "value_cell": "A45:D46",
+      "value": "部门主管"
+    },
+    {
+      "label": "电话",
+      "value_cell": "F45:I46",
+      "value": "010-XXXX-XXXX"
+    },
+    {
+      "label": "邮箱",
+      "value_cell": "K45:N46",
+      "value": "houqin@company.com"
+    },
+    {
+      "label": "from",
+      "value_cell": "A49:D50",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F49:I50",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "type",
+      "value_cell": "A55:D56",
+      "value": "工作计划"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F55:I56",
+      "value": "临时"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "K55:N56",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

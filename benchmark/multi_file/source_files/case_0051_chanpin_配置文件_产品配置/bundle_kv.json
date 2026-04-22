@@ -1,0 +1,6138 @@
+{
+  "bundle_dir": "case_0051_chanpin_配置文件_产品配置",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "config_19.json",
+      "source_type": "json",
+      "candidate_count": 49,
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-12-13T20:50:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-12-13T20:50:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品19的配置文件",
+          "raw_key": "description",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品19的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "130831",
+          "raw_key": "max_api_calls",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 130831",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "1945",
+          "raw_key": "max_users",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 1945",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "198",
+          "raw_key": "storage_gb",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 198",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "365",
+          "raw_key": "basic_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 365",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "14868",
+          "raw_key": "enterprise_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 14868",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "4255",
+          "raw_key": "premium_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 4255",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_19",
+          "raw_key": "product_id",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_19",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "318",
+          "raw_key": "response_time_ms",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 318",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-09-22T07:42:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-09-22T07:42:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "1.15",
+          "raw_key": "version",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 1.15",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "365",
+          "raw_key": "basic_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 365",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "14868",
+          "raw_key": "enterprise_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 14868",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "130831",
+          "raw_key": "max_api_calls",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 130831",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "1945",
+          "raw_key": "max_users",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 1945",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "4255",
+          "raw_key": "premium_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 4255",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "318",
+          "raw_key": "response_time_ms",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 318",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "198",
+          "raw_key": "storage_gb",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 198",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "config_39.json",
+      "source_type": "json",
+      "candidate_count": 49,
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-04-23T11:07:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-04-23T11:07:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品39的配置文件",
+          "raw_key": "description",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品39的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "118189",
+          "raw_key": "max_api_calls",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 118189",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "6985",
+          "raw_key": "max_users",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6985",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "133",
+          "raw_key": "storage_gb",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 133",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "565",
+          "raw_key": "basic_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 565",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "25140",
+          "raw_key": "enterprise_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 25140",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "3485",
+          "raw_key": "premium_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3485",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_39",
+          "raw_key": "product_id",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_39",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "304",
+          "raw_key": "response_time_ms",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 304",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "94%",
+          "raw_key": "uptime",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 94%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-03-18T06:53:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-03-18T06:53:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "4.20",
+          "raw_key": "version",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 4.20",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "565",
+          "raw_key": "basic_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 565",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "25140",
+          "raw_key": "enterprise_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 25140",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "118189",
+          "raw_key": "max_api_calls",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 118189",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "6985",
+          "raw_key": "max_users",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6985",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "3485",
+          "raw_key": "premium_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3485",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "304",
+          "raw_key": "response_time_ms",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 304",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "133",
+          "raw_key": "storage_gb",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 133",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "94%",
+          "raw_key": "uptime",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 94%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "config_40.json",
+      "source_type": "json",
+      "candidate_count": 49,
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-05-28T00:24:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-05-28T00:24:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品40的配置文件",
+          "raw_key": "description",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品40的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "129892",
+          "raw_key": "max_api_calls",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 129892",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "6632",
+          "raw_key": "max_users",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6632",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "1018",
+          "raw_key": "storage_gb",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1018",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品1",
+          "raw_key": "name",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品1",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_1",
+          "raw_key": "owner",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_1",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "956",
+          "raw_key": "basic_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 956",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "41691",
+          "raw_key": "enterprise_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 41691",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "5678",
+          "raw_key": "premium_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 5678",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_40",
+          "raw_key": "product_id",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_40",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "336",
+          "raw_key": "response_time_ms",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 336",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-10-20T08:32:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-10-20T08:32:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "2.20",
+          "raw_key": "version",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 2.20",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "956",
+          "raw_key": "basic_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 956",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "41691",
+          "raw_key": "enterprise_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 41691",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "129892",
+          "raw_key": "max_api_calls",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 129892",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "6632",
+          "raw_key": "max_users",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6632",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "5678",
+          "raw_key": "premium_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 5678",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "336",
+          "raw_key": "response_time_ms",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 336",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "1018",
+          "raw_key": "storage_gb",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1018",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "config_41.json",
+      "source_type": "json",
+      "candidate_count": 49,
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-02-03T01:41:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-02-03T01:41:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品41的配置文件",
+          "raw_key": "description",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品41的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "117308",
+          "raw_key": "max_api_calls",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 117308",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "8502",
+          "raw_key": "max_users",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 8502",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "1076",
+          "raw_key": "storage_gb",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1076",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品2",
+          "raw_key": "name",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品2",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_2",
+          "raw_key": "owner",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_2",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "375",
+          "raw_key": "basic_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 375",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "13502",
+          "raw_key": "enterprise_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 13502",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "2104",
+          "raw_key": "premium_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 2104",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_41",
+          "raw_key": "product_id",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_41",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "418",
+          "raw_key": "response_time_ms",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 418",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-11-03T06:53:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-11-03T06:53:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "5.14",
+          "raw_key": "version",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 5.14",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "375",
+          "raw_key": "basic_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 375",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "13502",
+          "raw_key": "enterprise_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 13502",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "117308",
+          "raw_key": "max_api_calls",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 117308",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "8502",
+          "raw_key": "max_users",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 8502",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "2104",
+          "raw_key": "premium_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 2104",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "418",
+          "raw_key": "response_time_ms",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 418",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "1076",
+          "raw_key": "storage_gb",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1076",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "config_49.json",
+      "source_type": "json",
+      "candidate_count": 49,
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-05-02T09:49:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-05-02T09:49:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品49的配置文件",
+          "raw_key": "description",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品49的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "132395",
+          "raw_key": "max_api_calls",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 132395",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "3025",
+          "raw_key": "max_users",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 3025",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "332",
+          "raw_key": "storage_gb",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 332",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "247",
+          "raw_key": "basic_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 247",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "16930",
+          "raw_key": "enterprise_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 16930",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "3631",
+          "raw_key": "premium_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3631",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_49",
+          "raw_key": "product_id",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_49",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "562",
+          "raw_key": "response_time_ms",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 562",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-08-12T18:03:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-08-12T18:03:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "1.14",
+          "raw_key": "version",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 1.14",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "247",
+          "raw_key": "basic_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 247",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "16930",
+          "raw_key": "enterprise_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 16930",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "132395",
+          "raw_key": "max_api_calls",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 132395",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "3025",
+          "raw_key": "max_users",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 3025",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "3631",
+          "raw_key": "premium_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3631",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "562",
+          "raw_key": "response_time_ms",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 562",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "332",
+          "raw_key": "storage_gb",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 332",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "0",
+      "candidates": [
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "1",
+      "candidates": [
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "candidates": [
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "candidates": [
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "basicprice",
+      "candidates": [
+        {
+          "key": "basicprice",
+          "value": "365",
+          "raw_key": "basic_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 365",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "565",
+          "raw_key": "basic_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 565",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "956",
+          "raw_key": "basic_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 956",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "375",
+          "raw_key": "basic_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 375",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "basicprice",
+          "value": "247",
+          "raw_key": "basic_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 247",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "createdat",
+      "candidates": [
+        {
+          "key": "createdat",
+          "value": "2024-12-13T20:50:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-12-13T20:50:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "createdat",
+          "value": "2024-04-23T11:07:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-04-23T11:07:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "createdat",
+          "value": "2024-05-28T00:24:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-05-28T00:24:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "createdat",
+          "value": "2024-02-03T01:41:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-02-03T01:41:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "createdat",
+          "value": "2024-05-02T09:49:00Z",
+          "raw_key": "created_at",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "created_at = 2024-05-02T09:49:00Z",
+            "location": "path:created_at"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "currency",
+      "candidates": [
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "description",
+      "candidates": [
+        {
+          "key": "description",
+          "value": "这是产品19的配置文件",
+          "raw_key": "description",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品19的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品39的配置文件",
+          "raw_key": "description",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品39的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品40的配置文件",
+          "raw_key": "description",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品40的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品41的配置文件",
+          "raw_key": "description",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品41的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "description",
+          "value": "这是产品49的配置文件",
+          "raw_key": "description",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "description = 这是产品49的配置文件",
+            "location": "path:description"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "enabledfeatures.0",
+      "candidates": [
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.0",
+          "value": "feature_core",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.0 = feature_core",
+            "location": "path:enabled_features.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "enabledfeatures.1",
+      "candidates": [
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.1",
+          "value": "feature_premium",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.1 = feature_premium",
+            "location": "path:enabled_features.1"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "enabledfeatures.2",
+      "candidates": [
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.2",
+          "value": "feature_analytics",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.2 = feature_analytics",
+            "location": "path:enabled_features.2"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "enabledfeatures.3",
+      "candidates": [
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "enabledfeatures.3",
+          "value": "feature_integration",
+          "raw_key": "3",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "enabled_features.3 = feature_integration",
+            "location": "path:enabled_features.3"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "enterpriseprice",
+      "candidates": [
+        {
+          "key": "enterpriseprice",
+          "value": "14868",
+          "raw_key": "enterprise_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 14868",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "25140",
+          "raw_key": "enterprise_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 25140",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "41691",
+          "raw_key": "enterprise_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 41691",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "13502",
+          "raw_key": "enterprise_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 13502",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "enterpriseprice",
+          "value": "16930",
+          "raw_key": "enterprise_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 16930",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "limits.maxapicalls",
+      "candidates": [
+        {
+          "key": "limits.maxapicalls",
+          "value": "130831",
+          "raw_key": "max_api_calls",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 130831",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "118189",
+          "raw_key": "max_api_calls",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 118189",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "129892",
+          "raw_key": "max_api_calls",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 129892",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "117308",
+          "raw_key": "max_api_calls",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 117308",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxapicalls",
+          "value": "132395",
+          "raw_key": "max_api_calls",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 132395",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "limits.maxusers",
+      "candidates": [
+        {
+          "key": "limits.maxusers",
+          "value": "1945",
+          "raw_key": "max_users",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 1945",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "6985",
+          "raw_key": "max_users",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6985",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "6632",
+          "raw_key": "max_users",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6632",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "8502",
+          "raw_key": "max_users",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 8502",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.maxusers",
+          "value": "3025",
+          "raw_key": "max_users",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 3025",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "limits.storagegb",
+      "candidates": [
+        {
+          "key": "limits.storagegb",
+          "value": "198",
+          "raw_key": "storage_gb",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 198",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "133",
+          "raw_key": "storage_gb",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 133",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "1018",
+          "raw_key": "storage_gb",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1018",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "1076",
+          "raw_key": "storage_gb",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1076",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "limits.storagegb",
+          "value": "332",
+          "raw_key": "storage_gb",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 332",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "maxapicalls",
+      "candidates": [
+        {
+          "key": "maxapicalls",
+          "value": "130831",
+          "raw_key": "max_api_calls",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 130831",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "118189",
+          "raw_key": "max_api_calls",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 118189",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "129892",
+          "raw_key": "max_api_calls",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 129892",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "117308",
+          "raw_key": "max_api_calls",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 117308",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxapicalls",
+          "value": "132395",
+          "raw_key": "max_api_calls",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_api_calls = 132395",
+            "location": "path:limits.max_api_calls"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "maxusers",
+      "candidates": [
+        {
+          "key": "maxusers",
+          "value": "1945",
+          "raw_key": "max_users",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 1945",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "6985",
+          "raw_key": "max_users",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6985",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "6632",
+          "raw_key": "max_users",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 6632",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "8502",
+          "raw_key": "max_users",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 8502",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "maxusers",
+          "value": "3025",
+          "raw_key": "max_users",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.max_users = 3025",
+            "location": "path:limits.max_users"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "name",
+      "candidates": [
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品1",
+          "raw_key": "name",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品1",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品2",
+          "raw_key": "name",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品2",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "name",
+          "value": "产品10",
+          "raw_key": "name",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "name = 产品10",
+            "location": "path:name"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "owner",
+      "candidates": [
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_1",
+          "raw_key": "owner",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_1",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_2",
+          "raw_key": "owner",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_2",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "owner",
+          "value": "product_team_5",
+          "raw_key": "owner",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "owner = product_team_5",
+            "location": "path:owner"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "premiumprice",
+      "candidates": [
+        {
+          "key": "premiumprice",
+          "value": "4255",
+          "raw_key": "premium_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 4255",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "3485",
+          "raw_key": "premium_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3485",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "5678",
+          "raw_key": "premium_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 5678",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "2104",
+          "raw_key": "premium_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 2104",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "premiumprice",
+          "value": "3631",
+          "raw_key": "premium_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3631",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "pricing.basicprice",
+      "candidates": [
+        {
+          "key": "pricing.basicprice",
+          "value": "365",
+          "raw_key": "basic_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 365",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "565",
+          "raw_key": "basic_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 565",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "956",
+          "raw_key": "basic_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 956",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "375",
+          "raw_key": "basic_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 375",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.basicprice",
+          "value": "247",
+          "raw_key": "basic_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.basic_price = 247",
+            "location": "path:pricing.basic_price"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "pricing.currency",
+      "candidates": [
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.currency",
+          "value": "CNY",
+          "raw_key": "currency",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.currency = CNY",
+            "location": "path:pricing.currency"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "pricing.enterpriseprice",
+      "candidates": [
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "14868",
+          "raw_key": "enterprise_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 14868",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "25140",
+          "raw_key": "enterprise_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 25140",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "41691",
+          "raw_key": "enterprise_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 41691",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "13502",
+          "raw_key": "enterprise_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 13502",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.enterpriseprice",
+          "value": "16930",
+          "raw_key": "enterprise_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.enterprise_price = 16930",
+            "location": "path:pricing.enterprise_price"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "pricing.premiumprice",
+      "candidates": [
+        {
+          "key": "pricing.premiumprice",
+          "value": "4255",
+          "raw_key": "premium_price",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 4255",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "3485",
+          "raw_key": "premium_price",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3485",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "5678",
+          "raw_key": "premium_price",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 5678",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "2104",
+          "raw_key": "premium_price",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 2104",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "pricing.premiumprice",
+          "value": "3631",
+          "raw_key": "premium_price",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "pricing.premium_price = 3631",
+            "location": "path:pricing.premium_price"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "productid",
+      "candidates": [
+        {
+          "key": "productid",
+          "value": "product_19",
+          "raw_key": "product_id",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_19",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_39",
+          "raw_key": "product_id",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_39",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_40",
+          "raw_key": "product_id",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_40",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_41",
+          "raw_key": "product_id",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_41",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "productid",
+          "value": "product_49",
+          "raw_key": "product_id",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "product_id = product_49",
+            "location": "path:product_id"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "regions.0",
+      "candidates": [
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.0",
+          "value": "china",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.0 = china",
+            "location": "path:regions.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "regions.1",
+      "candidates": [
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.1",
+          "value": "asia",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.1 = asia",
+            "location": "path:regions.1"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "regions.2",
+      "candidates": [
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "regions.2",
+          "value": "global",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "regions.2 = global",
+            "location": "path:regions.2"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "responsetimems",
+      "candidates": [
+        {
+          "key": "responsetimems",
+          "value": "318",
+          "raw_key": "response_time_ms",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 318",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "304",
+          "raw_key": "response_time_ms",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 304",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "336",
+          "raw_key": "response_time_ms",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 336",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "418",
+          "raw_key": "response_time_ms",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 418",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "responsetimems",
+          "value": "562",
+          "raw_key": "response_time_ms",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 562",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "sla.responsetimems",
+      "candidates": [
+        {
+          "key": "sla.responsetimems",
+          "value": "318",
+          "raw_key": "response_time_ms",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 318",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "304",
+          "raw_key": "response_time_ms",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 304",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "336",
+          "raw_key": "response_time_ms",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 336",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "418",
+          "raw_key": "response_time_ms",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 418",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.responsetimems",
+          "value": "562",
+          "raw_key": "response_time_ms",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.response_time_ms = 562",
+            "location": "path:sla.response_time_ms"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "sla.supporthours",
+      "candidates": [
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "sla.uptime",
+      "candidates": [
+        {
+          "key": "sla.uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "94%",
+          "raw_key": "uptime",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 94%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "sla.uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "candidates": [
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "active",
+          "raw_key": "status",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = active",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "storagegb",
+      "candidates": [
+        {
+          "key": "storagegb",
+          "value": "198",
+          "raw_key": "storage_gb",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 198",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "133",
+          "raw_key": "storage_gb",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 133",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "1018",
+          "raw_key": "storage_gb",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1018",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "1076",
+          "raw_key": "storage_gb",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 1076",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "storagegb",
+          "value": "332",
+          "raw_key": "storage_gb",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "limits.storage_gb = 332",
+            "location": "path:limits.storage_gb"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "supporthours",
+      "candidates": [
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "supporthours",
+          "value": "24/7",
+          "raw_key": "support_hours",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.support_hours = 24/7",
+            "location": "path:sla.support_hours"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "supportlevel",
+      "candidates": [
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "supportlevel",
+          "value": "community",
+          "raw_key": "support_level",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "support_level = community",
+            "location": "path:support_level"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.0",
+      "candidates": [
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "important",
+          "raw_key": "0",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = important",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.1",
+      "candidates": [
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.1",
+          "value": "production",
+          "raw_key": "1",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.1 = production",
+            "location": "path:tags.1"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.2",
+      "candidates": [
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.2",
+          "value": "monitored",
+          "raw_key": "2",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.2 = monitored",
+            "location": "path:tags.2"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "updatedat",
+      "candidates": [
+        {
+          "key": "updatedat",
+          "value": "2024-09-22T07:42:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-09-22T07:42:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-03-18T06:53:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-03-18T06:53:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-10-20T08:32:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-10-20T08:32:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-11-03T06:53:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-11-03T06:53:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "updatedat",
+          "value": "2024-08-12T18:03:00Z",
+          "raw_key": "updated_at",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "updated_at = 2024-08-12T18:03:00Z",
+            "location": "path:updated_at"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "uptime",
+      "candidates": [
+        {
+          "key": "uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "94%",
+          "raw_key": "uptime",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 94%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "97%",
+          "raw_key": "uptime",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 97%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        },
+        {
+          "key": "uptime",
+          "value": "99%",
+          "raw_key": "uptime",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "sla.uptime = 99%",
+            "location": "path:sla.uptime"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "version",
+      "candidates": [
+        {
+          "key": "version",
+          "value": "1.15",
+          "raw_key": "version",
+          "source_file": "config_19.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 1.15",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "4.20",
+          "raw_key": "version",
+          "source_file": "config_39.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 4.20",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "2.20",
+          "raw_key": "version",
+          "source_file": "config_40.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 2.20",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "5.14",
+          "raw_key": "version",
+          "source_file": "config_41.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 5.14",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "version",
+          "value": "1.14",
+          "raw_key": "version",
+          "source_file": "config_49.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "version = 1.14",
+            "location": "path:version"
+          },
+          "confidence": 0.95
+        }
+      ]
+    }
+  ]
+}

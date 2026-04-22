@@ -1,0 +1,72 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requester Name",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Date of Meeting",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "Start Time",
+      "value_text": "10:00 AM"
+    },
+    {
+      "key_text": "End Time",
+      "value_text": "11:30 AM"
+    },
+    {
+      "key_text": "Number of Attendees",
+      "value_text": "8"
+    },
+    {
+      "key_text": "Preferred Room / Location",
+      "value_text": "Conference Room A"
+    },
+    {
+      "key_text": "Alternative Room",
+      "value_text": "Conference Room B"
+    },
+    {
+      "key_text": "Projector / Display Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Video Conferencing Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Whiteboard Required  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Catering / Refreshments  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Meeting Title / Purpose",
+      "value_text": "Q4 Marketing Strategy Review"
+    },
+    {
+      "key_text": "External Visitors Expected  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Facilities / Admin Coordinator",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Coordinator)",
+      "value_text": "2023-11-10"
+    }
+  ]
+}
+
+Narrative:
+Jonathan Miller from the Marketing department has submitted a request to book a meeting room for the Q4 Marketing Strategy Review. The meeting is scheduled for November 15, 2023, from 10:00 AM to 11:30 AM, with 8 attendees expected. He has requested Conference Room A, with Conference Room B as his backup. For equipment and services, he requires a projector and video conferencing, but does not need a whiteboard; however, he has requested catering and refreshments. There will be no external visitors attending. The form has been processed and signed off by the Facilities and Admin Coordinator, Sarah Jenkins, on November 10, 2023.

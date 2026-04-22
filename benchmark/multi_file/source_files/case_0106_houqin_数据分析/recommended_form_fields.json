@@ -1,0 +1,189 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:30 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "出差申请_9841",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:30.579847",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "34161",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "王军@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "张三@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "出差申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "马腾",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "操作记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "低",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.问题",
+                                   "selected_value":  "库存周转率较低，建议优化库位",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.问题",
+                                   "selected_value":  "采购周期过长，需加强供应商协调",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.建议",
+                                   "selected_value":  "推进信息系统升级，提高效率",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "4.建议",
+                                   "selected_value":  "完善质量管理体系，降低成本",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报告期",
+                                   "selected_value":  "2024年10月",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "编制人",
+                                   "selected_value":  "数据分析员",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "缺货率",
+                                   "selected_value":  "5%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "返修率",
+                                   "selected_value":  "0%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "人均成本",
+                                   "selected_value":  "¥25339",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "同比增长",
+                                   "selected_value":  "-25%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库存总值",
+                                   "selected_value":  "¥2021301",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "成本占比",
+                                   "selected_value":  "24%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "成本同比",
+                                   "selected_value":  "-15%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "月度成本",
+                                   "selected_value":  "¥504605",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "编制日期",
+                                   "selected_value":  "2024-11-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购周期",
+                                   "selected_value":  "平均24天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购总额",
+                                   "selected_value":  "¥1017789",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "产品合格率",
+                                   "selected_value":  "98%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "供应商数量",
+                                   "selected_value":  "22家",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库位利用率",
+                                   "selected_value":  "90%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库存准确率",
+                                   "selected_value":  "92%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库存周转率",
+                                   "selected_value":  "5次/月",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "投诉处理率",
+                                   "selected_value":  "92%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购订单数",
+                                   "selected_value":  "63个",
+                                   "conflict":  false
+                               }
+                           ]
+}

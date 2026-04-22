@@ -1,0 +1,151 @@
+{
+  "excel": "case_0098_houqin_库存管理_出入记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "73327"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "工作报告_1616"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "工作报告"
+    },
+    {
+      "label": "subject",
+      "value_cell": "P6:S7",
+      "value": "操作记录"
+    },
+    {
+      "label": "date",
+      "value_cell": "A10:D11",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F10:I11",
+      "value": "2026-02-10T05:30:32.887909"
+    },
+    {
+      "label": "creator",
+      "value_cell": "K10:N11",
+      "value": "张丽"
+    },
+    {
+      "label": "status",
+      "value_cell": "A16:D17",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F16:I17",
+      "value": "高"
+    },
+    {
+      "label": "from",
+      "value_cell": "K16:N17",
+      "value": "王军@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "P16:S17",
+      "value": "刘涛@company.com"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "A20:D21",
+      "value": "例行"
+    },
+    {
+      "label": "[20240104]入库",
+      "value_cell": "A26:D27",
+      "value": "办公椅(5把) | 经手人: 王芳 | 备注: 采购入库"
+    },
+    {
+      "label": "[20240105]入库",
+      "value_cell": "F26:I27",
+      "value": "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库"
+    },
+    {
+      "label": "[20240106]入库",
+      "value_cell": "K26:N27",
+      "value": "办公椅(5把) | 经手人: 张华 | 备注: 现场发货后补充"
+    },
+    {
+      "label": "[20240108]入库",
+      "value_cell": "P26:S27",
+      "value": "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库"
+    },
+    {
+      "label": "[20240109]入库",
+      "value_cell": "A30:D31",
+      "value": "办公椅(5把) | 经手人: 张华 | 备注: 现场发货后补充"
+    },
+    {
+      "label": "[20240111]入库",
+      "value_cell": "F30:I31",
+      "value": "显示器(2台) | 经手人: 赵敏 | 备注: 样品入库"
+    },
+    {
+      "label": "[20240116]入库",
+      "value_cell": "K30:N31",
+      "value": "显示器(2台) | 经手人: 王芳 | 备注: 采购入库"
+    },
+    {
+      "label": "[20240117]入库",
+      "value_cell": "P30:S31",
+      "value": "打印机墨盒(30个) | 经手人: 张华 | 备注: 样品入库"
+    },
+    {
+      "label": "[20240119]入库",
+      "value_cell": "A34:D35",
+      "value": "打印机墨盒(30个) | 经手人: 张华 | 备注: 退货处理"
+    },
+    {
+      "label": "[20240205]入库",
+      "value_cell": "F34:I35",
+      "value": "A4纸(10箱) | 经手人: 张华 | 备注: 退货处理"
+    },
+    {
+      "label": "[20240206]入库",
+      "value_cell": "K34:N35",
+      "value": "A4纸(10箱) | 经手人: 李军 | 备注: 退货处理"
+    },
+    {
+      "label": "[20240211]入库",
+      "value_cell": "P34:S35",
+      "value": "显示器(2台) | 经手人: 张华 | 备注: 采购入库"
+    },
+    {
+      "label": "[20240212]入库",
+      "value_cell": "A38:D39",
+      "value": "A4纸(10箱) | 经手人: 李军 | 备注: 采购入库"
+    },
+    {
+      "label": "[20240216]入库",
+      "value_cell": "F38:I39",
+      "value": "办公椅(5把) | 经手人: 李军 | 备注: 退货处理"
+    },
+    {
+      "label": "[20240218]入库",
+      "value_cell": "K38:N39",
+      "value": "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库"
+    },
+    {
+      "label": "[20240227]入库",
+      "value_cell": "P38:S39",
+      "value": "打印机墨盒(30个) | 经手人: 赵敏 | 备注: 退货处理"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A44:D45",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "excel": "case_0045_chanpin_用户研究_用户画像__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "地域",
+      "value_cell": "A6:D7",
+      "value": "一线城市"
+    },
+    {
+      "label": "学历",
+      "value_cell": "F6:I7",
+      "value": "本科"
+    },
+    {
+      "label": "性别",
+      "value_cell": "K6:N7",
+      "value": "男"
+    },
+    {
+      "label": "使用频率",
+      "value_cell": "A12:D13",
+      "value": "高频"
+    },
+    {
+      "label": "主要痛点",
+      "value_cell": "F12:I13",
+      "value": "易用性不足"
+    },
+    {
+      "label": "建议新增功能",
+      "value_cell": "K12:N13",
+      "value": "功能X，功能Y"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0064_houqin_仓库管理_温湿度监测",
+    "tenant":  "houqin",
+    "topic":  "仓库管理",
+    "subtopic":  "温湿度监测",
+    "source_dir":  "houqin\\仓库管理\\温湿度监测",
+    "total_files_in_source_dir":  65,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\仓库管理\\温湿度监测\\销售统计_1162.json",
+                      "copied_name":  "销售统计_1162.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\温湿度监测\\检查单_7372.csv",
+                      "copied_name":  "检查单_7372.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\温湿度监测\\购置申请_8296.txt",
+                      "copied_name":  "购置申请_8296.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\温湿度监测\\培训计划_1903.eml",
+                      "copied_name":  "培训计划_1903.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\仓库管理\\温湿度监测\\人数统计_3118.csv",
+                      "copied_name":  "人数统计_3118.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

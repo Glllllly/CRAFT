@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "0182554f-5362-4d90-a07f-82a4e8de6219.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Date required:",
+                      "value_cell":  "J5:L5",
+                      "value":  "10/15/23"
+                  },
+                  {
+                      "label":  "Payee Name",
+                      "value_cell":  "C6:E6",
+                      "value":  "Dr. Alice Smith"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "C7:E7",
+                      "value":  "Biological Sciences"
+                  },
+                  {
+                      "label":  "Address",
+                      "value_cell":  "C8:E9,A10:E11,A12:B13",
+                      "value":  "1812 Sir Isaac Brock Way, St. Catharines, ON"
+                  },
+                  {
+                      "label":  "Postal Code",
+                      "value_cell":  "D12:E13",
+                      "value":  "L2S 3A1"
+                  },
+                  {
+                      "label":  "Mail to depart",
+                      "value_cell":  "G7",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Mail to Payee in department",
+                      "value_cell":  "G9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Mail to address shown",
+                      "value_cell":  "G11",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Will pick up from finance",
+                      "value_cell":  "G13",
+                      "value":  "Checked"
+                  },
+                  {
+                      "label":  "call",
+                      "value_cell":  "H15:I15",
+                      "value":  "905-688-5550"
+                  },
+                  {
+                      "label":  "ext",
+                      "value_cell":  "K14:L15",
+                      "value":  "1234"
+                  },
+                  {
+                      "label":  "Advance amount required   (111-006-018)",
+                      "value_cell":  "E18:F18",
+                      "value":  "1,200.00"
+                  },
+                  {
+                      "label":  "Cdn $",
+                      "value_cell":  "I18",
+                      "value":  "Checked"
+                  },
+                  {
+                      "label":  "US $",
+                      "value_cell":  "L18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date of conference/trip",
+                      "value_cell":  "D21:F21",
+                      "value":  "10/25/23"
+                  },
+                  {
+                      "label":  "Purpose of Advance (attach supporting documentation to form, e.g. conference advertising/itinerary)",
+                      "value_cell":  "A28:M29",
+                      "value":  "Attendance and presentation at the International Biology Symposium in Toronto."
+                  },
+                  {
+                      "label":  "Account xxx-xxx-xxx",
+                      "value_cell":  "C32:D33",
+                      "value":  "101-202-303"
+                  },
+                  {
+                      "label":  "Department (if different than above)",
+                      "value_cell":  "E32:M33",
+                      "value":  "Biological Sciences"
+                  },
+                  {
+                      "label":  "Print Name:",
+                      "value_cell":  "C45:E45",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "C46:E46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Title:",
+                      "value_cell":  "H45:L45",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H46:L46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Print Name:",
+                      "value_cell":  "C49:E49",
+                      "value":  "Dr. Alice Smith"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "C50:E50",
+                      "value":  "Alice Smith"
+                  },
+                  {
+                      "label":  "Title:",
+                      "value_cell":  "H49:L49",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H50:L50",
+                      "value":  "10/05/23"
+                  },
+                  {
+                      "label":  "Print Name:",
+                      "value_cell":  "C53:E53",
+                      "value":  "Dr. Bob Johnson"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "C54:E54",
+                      "value":  "Bob Johnson"
+                  },
+                  {
+                      "label":  "Title:",
+                      "value_cell":  "H53:L53",
+                      "value":  "Department Chair"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H54:L54",
+                      "value":  "10/06/23"
+                  },
+                  {
+                      "label":  "Verified by:",
+                      "value_cell":  "D56:E56",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H56:L56",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,68 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date:",
+      "value_text": "October 15, 2023"
+    },
+    {
+      "key_text": "FROM:",
+      "value_text": "Sarah Miller, Marine Transportation Dept."
+    },
+    {
+      "key_text": "Authorized signature",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "BILL TO NAME",
+      "value_text": "Pacific Logistics Corp"
+    },
+    {
+      "key_text": "CONTACT NAME",
+      "value_text": "Robert Chen"
+    },
+    {
+      "key_text": "ADDRESS",
+      "value_text": "4500 Maritime Way"
+    },
+    {
+      "key_text": "CITY, STATE, ZIP",
+      "value_text": "Vallejo, CA 94590"
+    },
+    {
+      "key_text": "PHONE",
+      "value_text": "(707) 555-0123"
+    },
+    {
+      "key_text": "E-MAIL",
+      "value_text": "rchen@paclogisticscorp.com"
+    },
+    {
+      "key_text": "PAYMENT TERMS",
+      "value_text": "Net 30"
+    },
+    {
+      "key_text": "INVOICE PURPOSE",
+      "value_text": "Reimbursement for specialized bridge simulator training sessions provided to staff on October 10-12, 2023."
+    },
+    {
+      "key_text": "AMOUNT TO BE INVOICED (specify line item amounts & description)",
+      "value_text": "3 days Simulator Training @ $1,500/day: $4,500.00; Training Materials & Certifications: $350.00; Total: $4,850.00"
+    },
+    {
+      "key_text": "ACCOUNT CODING",
+      "value_text": "660003 - 485 - 20010 - 100"
+    },
+    {
+      "key_text": "Invoice #",
+      "value_text": null
+    },
+    {
+      "key_text": "Invoice Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+On October 15, 2023, Sarah Miller from the Marine Transportation Department at the California Maritime Academy submitted an invoice request. The request is to bill Pacific Logistics Corp, located at 4500 Maritime Way in Vallejo, CA, for bridge simulator training provided between October 10th and 12th. The primary contact for the bill is Robert Chen, reachable at (707) 555-0123 or rchen@paclogisticscorp.com. The total amount to be invoiced is $4,850.00, covering three days of training at $1,500 per day plus $350 for materials. The payment terms are Net 30, and the internal account coding for the transaction is 660003 - 485 - 20010 - 100. The accounting department fields for the final invoice number and date are currently empty.

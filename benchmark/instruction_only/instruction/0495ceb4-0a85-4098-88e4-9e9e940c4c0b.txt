@@ -1,0 +1,154 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date:",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "RFQ or Gov't Solicitation #:",
+      "value_text": "GS-35F-0119Y-SSA"
+    },
+    {
+      "key_text": "RFQ Close Date:",
+      "value_text": "11/01/2023"
+    },
+    {
+      "key_text": "Agency Name:",
+      "value_text": "Social Security Administration - Southeast Region"
+    },
+    {
+      "key_text": "Address:",
+      "value_text": "61 Forsyth St SW"
+    },
+    {
+      "key_text": "City:",
+      "value_text": "Atlanta"
+    },
+    {
+      "key_text": "State:",
+      "value_text": "GA"
+    },
+    {
+      "key_text": "Zip:",
+      "value_text": "30303"
+    },
+    {
+      "key_text": "Contact Name:",
+      "value_text": "Robert Jenkins"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "(404) 555-0122"
+    },
+    {
+      "key_text": "Title:",
+      "value_text": "Procurement Officer"
+    },
+    {
+      "key_text": "Email:",
+      "value_text": "r.jenkins@ssa.gov"
+    },
+    {
+      "key_text": "1.",
+      "value_text": "Medina Series Executive Desk"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "15"
+    },
+    {
+      "key_text": "2.",
+      "value_text": "Aberdeen Series Lateral File"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "20"
+    },
+    {
+      "key_text": "3.",
+      "value_text": "Valore Series Training Tables"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "10"
+    },
+    {
+      "key_text": "4.",
+      "value_text": null
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": null
+    },
+    {
+      "key_text": "5.",
+      "value_text": null
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": null
+    },
+    {
+      "key_text": "Mayline Quote #:",
+      "value_text": "MQ-2023-98742"
+    },
+    {
+      "key_text": "Competition:",
+      "value_text": "Herman Miller, Steelcase"
+    },
+    {
+      "key_text": "Project List Price",
+      "value_text": "$45,250.00"
+    },
+    {
+      "key_text": "Dealer Name:",
+      "value_text": "Elite Office Solutions Inc."
+    },
+    {
+      "key_text": "Mayline Cust. #:",
+      "value_text": "EOS-4492"
+    },
+    {
+      "key_text": "Dealer Address:",
+      "value_text": "1200 Peachtree St NE"
+    },
+    {
+      "key_text": "City:",
+      "value_text": "Atlanta"
+    },
+    {
+      "key_text": "State:",
+      "value_text": "GA"
+    },
+    {
+      "key_text": "Zip:",
+      "value_text": "30309"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "(404) 555-8800"
+    },
+    {
+      "key_text": "Dealer Sales Rep:",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Email:",
+      "value_text": "smiller@eliteofficesolutions.com"
+    },
+    {
+      "key_text": "Approved By:",
+      "value_text": null
+    },
+    {
+      "key_text": "Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This is a GSA Project Registration Request submitted on October 15, 2023, by Elite Office Solutions Inc. for a project with the Social Security Administration's Southeast Region office in Atlanta, Georgia. The project, identified by solicitation number GS-35F-0119Y-SSA, has a closing date of November 1, 2023. The agency contact is Robert Jenkins, a Procurement Officer located at 61 Forsyth St SW.
+
+The request includes 15 Medina Series Executive Desks, 20 Aberdeen Series Lateral Files, and 10 Valore Series Training Tables, corresponding to Mayline Quote #MQ-2023-98742. The total project list price is $45,250.00, and competition for this bid includes Herman Miller and Steelcase. The registering dealer, Elite Office Solutions (Customer #EOS-4492), is represented by sales rep Sarah Miller. As this is a new registration request, the approval section remains empty.

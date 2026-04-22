@@ -1,0 +1,106 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "**Commodity Name:",
+      "value_text": "Frozen Whole Kernel Corn"
+    },
+    {
+      "key_text": "Commodity Code:",
+      "value_text": "110601"
+    },
+    {
+      "key_text": "Complainant Name:",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Complainant Title",
+      "value_text": "Kitchen Manager"
+    },
+    {
+      "key_text": "Telephone:",
+      "value_text": "435-123-4567"
+    },
+    {
+      "key_text": "Fax:",
+      "value_text": "435-123-4568"
+    },
+    {
+      "key_text": "Complainant e-mail:",
+      "value_text": "smiller@centralutahschools.org"
+    },
+    {
+      "key_text": "Recipient Agency:",
+      "value_text": "Central Utah School District"
+    },
+    {
+      "key_text": "Address:",
+      "value_text": "456 Granite Street"
+    },
+    {
+      "key_text": "City, State, Zip:",
+      "value_text": "Richfield, UT 84701"
+    },
+    {
+      "key_text": "Incident Date:",
+      "value_text": "11/12/2023"
+    },
+    {
+      "key_text": "Date of Receipt:",
+      "value_text": "11/05/2023"
+    },
+    {
+      "key_text": "Amount Received:",
+      "value_text": "100 cases"
+    },
+    {
+      "key_text": "Amount affected:",
+      "value_text": "12 cases"
+    },
+    {
+      "key_text": "Amount Remaining:",
+      "value_text": "88 cases"
+    },
+    {
+      "key_text": "Street address of remaining product:",
+      "value_text": "456 Granite Street, Richfield, UT 84701"
+    },
+    {
+      "key_text": "Vendor:",
+      "value_text": "Lakeside Foods Inc."
+    },
+    {
+      "key_text": "Contract #:",
+      "value_text": "12-3J14-23-C-0892"
+    },
+    {
+      "key_text": "DO #:",
+      "value_text": "4000021432"
+    },
+    {
+      "key_text": "N/D #:",
+      "value_text": "5000011223"
+    },
+    {
+      "key_text": "Pack Date:",
+      "value_text": "09/15/2023"
+    },
+    {
+      "key_text": "Box #:",
+      "value_text": null
+    },
+    {
+      "key_text": "Lot #:",
+      "value_text": "2583CL"
+    },
+    {
+      "key_text": "Can Codes:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This Commodity Complaint Report was filed by Sarah Miller, the Kitchen Manager for the Central Utah School District. The complaint concerns Frozen Whole Kernel Corn (Commodity Code 110601). Sarah can be reached at 435-123-4567 or via email at smiller@centralutahschools.org; her fax number is 435-123-4568. The agency is located at 456 Granite Street in Richfield, UT 84701.
+
+The incident occurred on November 12, 2023, related to a shipment received on November 5, 2023. Of the 100 cases received, 12 cases were affected, and the remaining 88 cases are still located at the school's granite street address. The product was supplied by Lakeside Foods Inc. under contract number 12-3J14-23-C-0892, with a DO number of 4000021432 and an N/D number of 5000011223. The corn was packed on September 15, 2023, and carries the lot number 2583CL. No specific box numbers or can codes were recorded for this report.

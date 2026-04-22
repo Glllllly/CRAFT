@@ -1,0 +1,96 @@
+{
+  "excel": "case_0211_houqin_采购管理_2022__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "77620"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "培训计划_5982"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "培训计划"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "P6:S7",
+      "value": "2026-02-10T05:30:31.959906"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A10:D11",
+      "value": "陈芳"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A16:D17",
+      "value": "马腾"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F16:I17",
+      "value": "生产部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K16:N17",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "P16:S17",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "from",
+      "value_cell": "A22:D23",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F22:I23",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "date",
+      "value_cell": "K22:N23",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "subject",
+      "value_cell": "P22:S23",
+      "value": "工作报告"
+    },
+    {
+      "label": "status",
+      "value_cell": "A28:D29",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F28:I29",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K28:N29",
+      "value": "紧急"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "P28:S29",
+      "value": "待审批"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A34:D35",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

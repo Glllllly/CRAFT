@@ -1,0 +1,111 @@
+{
+  "excel": "case_0195_houqin_物资申请_待审批__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "申请编号",
+      "value_cell": "A6:D7",
+      "value": "MAT-2024-006"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "F6:I7",
+      "value": "2024-02-01"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "K6:N7",
+      "value": "赵红"
+    },
+    {
+      "label": "申请部门",
+      "value_cell": "P6:S7",
+      "value": "人力资源部"
+    },
+    {
+      "label": "申请状态",
+      "value_cell": "A10:D11",
+      "value": "待审批"
+    },
+    {
+      "label": "预算科目",
+      "value_cell": "A16:D17",
+      "value": "固定资产/办公用品"
+    },
+    {
+      "label": "预计金额",
+      "value_cell": "F16:I17",
+      "value": "¥12629"
+    },
+    {
+      "label": "用途说明",
+      "value_cell": "K16:N17",
+      "value": "部门配置补充"
+    },
+    {
+      "label": "id",
+      "value_cell": "A22:D23",
+      "value": "83685"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F22:I23",
+      "value": "王五"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "K22:N23",
+      "value": "2026-02-10T05:30:30.632511"
+    },
+    {
+      "label": "date",
+      "value_cell": "P22:S23",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "title",
+      "value_cell": "A28:D29",
+      "value": "工作日志_5492"
+    },
+    {
+      "label": "type",
+      "value_cell": "F28:I29",
+      "value": "工作日志"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K28:N29",
+      "value": "分析报告"
+    },
+    {
+      "label": "priority",
+      "value_cell": "P28:S29",
+      "value": "低"
+    },
+    {
+      "label": "status",
+      "value_cell": "A32:D33",
+      "value": "已完成"
+    },
+    {
+      "label": "from",
+      "value_cell": "F32:I33",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K32:N33",
+      "value": "周八@company.com"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "P32:S33",
+      "value": "临时"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A36:D37",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

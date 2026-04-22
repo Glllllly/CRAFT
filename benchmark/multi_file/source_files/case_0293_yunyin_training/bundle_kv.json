@@ -1,0 +1,1418 @@
+{
+  "bundle_dir": "case_0293_yunyin_training",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "training_module_32.md",
+      "source_type": "md",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "training_module_33.md",
+      "source_type": "md",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "training_module_34.md",
+      "source_type": "md",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "training_module_35.md",
+      "source_type": "md",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "training_module_36.md",
+      "source_type": "md",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "##lesson1",
+      "candidates": [
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson1",
+          "value": "Fundamentals (60 min)",
+          "raw_key": "## Lesson 1",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 1: Fundamentals (60 min)",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##lesson2",
+      "candidates": [
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson2",
+          "value": "Process Design (60 min)",
+          "raw_key": "## Lesson 2",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 2: Process Design (60 min)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##lesson3",
+      "candidates": [
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson3",
+          "value": "Tools and Technology (60 min)",
+          "raw_key": "## Lesson 3",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 3: Tools and Technology (60 min)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##lesson4",
+      "candidates": [
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lesson4",
+          "value": "Practical Application (60 min)",
+          "raw_key": "## Lesson 4",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Lesson 4: Practical Application (60 min)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "#trainingmodule",
+      "candidates": [
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#trainingmodule",
+          "value": "Marketing Operations Best Practices",
+          "raw_key": "# Training Module",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Training Module: Marketing Operations Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**casestudy**",
+      "candidates": [
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**casestudy**",
+          "value": "Apply learning to business scenario",
+          "raw_key": "- **Case Study**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Case Study**: Apply learning to business scenario",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**quiz**",
+      "candidates": [
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**quiz**",
+          "value": "20 questions covering key concepts",
+          "raw_key": "- **Quiz**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Quiz**: 20 questions covering key concepts",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**reflection**",
+      "candidates": [
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reflection**",
+          "value": "Personal action plan",
+          "raw_key": "- **Reflection**",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reflection**: Personal action plan",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "assessment",
+      "candidates": [
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assessment",
+          "value": "Quiz and case study",
+          "raw_key": "- Assessment",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Assessment: Quiz and case study",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "duration",
+      "candidates": [
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "4 hours",
+          "raw_key": "- Duration",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 4 hours",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "format",
+      "candidates": [
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "format",
+          "value": "Online interactive course",
+          "raw_key": "- Format",
+          "source_file": "training_module_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Format: Online interactive course",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+﻿{
+    "excel":  "form_17_study_abroad.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name (as on passport):",
+                      "value_cell":  "F8:X8",
+                      "value":  "Alexander James Thorne"
+                  },
+                  {
+                      "label":  "Student ID:",
+                      "value_cell":  "F9:M9",
+                      "value":  "88492011"
+                  },
+                  {
+                      "label":  "Date of Birth  mm/dd/yyyy:",
+                      "value_cell":  "S9:X9",
+                      "value":  "05/12/2002"
+                  },
+                  {
+                      "label":  "Citizenship / Nationality:",
+                      "value_cell":  "F10:M10",
+                      "value":  "Canadian"
+                  },
+                  {
+                      "label":  "Passport Number:",
+                      "value_cell":  "S10:X10",
+                      "value":  "HB9928374"
+                  },
+                  {
+                      "label":  "Passport Expiry Date:",
+                      "value_cell":  "F11:M11",
+                      "value":  "11/20/2030"
+                  },
+                  {
+                      "label":  "Passport Country of Issue:",
+                      "value_cell":  "S11:X11",
+                      "value":  "Canada"
+                  },
+                  {
+                      "label":  "Programme / Major:",
+                      "value_cell":  "F12:M12",
+                      "value":  "International Relations"
+                  },
+                  {
+                      "label":  "Current GPA:",
+                      "value_cell":  "S12:X12",
+                      "value":  "3.85"
+                  },
+                  {
+                      "label":  "Academic Year / Level:",
+                      "value_cell":  "F13:M13",
+                      "value":  "Junior (Year 3)"
+                  },
+                  {
+                      "label":  "Expected Graduation Date:",
+                      "value_cell":  "S13:X13",
+                      "value":  "05/15/2025"
+                  },
+                  {
+                      "label":  "Emergency Contact Name:",
+                      "value_cell":  "F14:M14",
+                      "value":  "Sarah Thorne"
+                  },
+                  {
+                      "label":  "Emergency Contact Phone:",
+                      "value_cell":  "S14:X14",
+                      "value":  "416-555-0192"
+                  },
+                  {
+                      "label":  "Name of Study Abroad Programme / Institution:",
+                      "value_cell":  "F18:X18",
+                      "value":  "Sciences Po Exchange Programme"
+                  },
+                  {
+                      "label":  "Host Country:",
+                      "value_cell":  "F19:M19",
+                      "value":  "France"
+                  },
+                  {
+                      "label":  "Host City:",
+                      "value_cell":  "S19:X19",
+                      "value":  "Paris"
+                  },
+                  {
+                      "label":  "Programme Provider / Partner Institution:",
+                      "value_cell":  "F20:M20",
+                      "value":  "Sciences Po"
+                  },
+                  {
+                      "label":  "Language of Instruction:",
+                      "value_cell":  "S20:X20",
+                      "value":  "French / English"
+                  },
+                  {
+                      "label":  "Proposed Start Date:",
+                      "value_cell":  "F21:M21",
+                      "value":  "09/01/2024"
+                  },
+                  {
+                      "label":  "Proposed End Date:",
+                      "value_cell":  "S21:X21",
+                      "value":  "12/15/2024"
+                  },
+                  {
+                      "label":  "Academic Credits to Transfer:",
+                      "value_cell":  "F22:M22",
+                      "value":  "15 Credits"
+                  },
+                  {
+                      "label":  "Home Tuition / Abroad Fees?:",
+                      "value_cell":  "S22:X22",
+                      "value":  "Home Tuition"
+                  },
+                  {
+                      "label":  "Courses planned to take abroad and how they satisfy home degree requirements",
+                      "value_cell":  "A27:X27; A28:X28; A29:X29",
+                      "value":  "1. European Politics (POL301); 2. French History (HIST202); 3. Macroeconomics (ECON305). These satisfy major electives."
+                  },
+                  {
+                      "label":  "Faculty Advisor Approval Obtained?  Y / N:",
+                      "value_cell":  "F31:M31",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Advisor Name \u0026 Signature Date:",
+                      "value_cell":  "S31:X31",
+                      "value":  "Dr. Elena Vance, 03/15/2024"
+                  },
+                  {
+                      "label":  "Total Estimated Programme Cost  $:",
+                      "value_cell":  "F35:M35",
+                      "value":  "8,500"
+                  },
+                  {
+                      "label":  "Funding Sources:",
+                      "value_cell":  "S35:X35",
+                      "value":  "Personal Savings, Student Loan"
+                  },
+                  {
+                      "label":  "Scholarship / Grant Applied For?  Y / N:",
+                      "value_cell":  "F36:M36",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Amount  $:",
+                      "value_cell":  "S36:X36",
+                      "value":  "2,000"
+                  },
+                  {
+                      "label":  "Financial Aid / Sponsorship Details",
+                      "value_cell":  "A37:X37",
+                      "value":  "University Mobility Grant applied for in February 2024."
+                  },
+                  {
+                      "label":  "Personal Statement 鈥?why this programme and how it advances your goals (300 words)",
+                      "value_cell":  "A42:X42; A43:X43; A44:X44; A45:X45",
+                      "value":  "Studying at Sciences Po will provide unparalleled insight into European diplomatic relations. This experience is essential for my career goal of becoming a foreign policy analyst, allowing me to engage directly with international peers."
+                  },
+                  {
+                      "label":  "How will you address the language / cultural challenges?",
+                      "value_cell":  "A47:X47; A48:X48",
+                      "value":  "I have completed three years of French and will enroll in the intensive language orientation week provided by the host institution."
+                  },
+                  {
+                      "label":  "Student Signature",
+                      "value_cell":  "A56:M56",
+                      "value":  "Alexander Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q56:X56",
+                      "value":  "03/20/2024"
+                  },
+                  {
+                      "label":  "Faculty Advisor",
+                      "value_cell":  "A58:M58",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:X58",
+                      "value":  "03/21/2024"
+                  },
+                  {
+                      "label":  "International Programs Advisor",
+                      "value_cell":  "A60:M60",
+                      "value":  "Mark Sterling"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q60:X60",
+                      "value":  "03/25/2024"
+                  },
+                  {
+                      "label":  "Financial Aid",
+                      "value_cell":  "A62:M62",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q62:X62",
+                      "value":  "03/28/2024"
+                  }
+              ]
+}

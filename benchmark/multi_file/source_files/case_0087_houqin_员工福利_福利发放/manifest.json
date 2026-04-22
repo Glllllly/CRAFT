@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0087_houqin_员工福利_福利发放",
+    "tenant":  "houqin",
+    "topic":  "员工福利",
+    "subtopic":  "福利发放",
+    "source_dir":  "houqin\\员工福利\\福利发放",
+    "total_files_in_source_dir":  66,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\员工福利\\福利发放\\销售统计_5334.json",
+                      "copied_name":  "销售统计_5334.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\福利发放\\批准单_1321.csv",
+                      "copied_name":  "批准单_1321.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\福利发放\\福利发放单_18.txt",
+                      "copied_name":  "福利发放单_18.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  291
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\福利发放\\报销申请_9781.eml",
+                      "copied_name":  "报销申请_9781.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\福利发放\\验收单_4697.csv",
+                      "copied_name":  "验收单_4697.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0190_houqin_日常登记",
+    "tenant":  "houqin",
+    "topic":  "日常登记",
+    "subtopic":  "",
+    "source_dir":  "houqin\\日常登记",
+    "total_files_in_source_dir":  66,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\日常登记\\操作记录_2594.json",
+                      "copied_name":  "操作记录_2594.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\日常登记\\批复单_3789.csv",
+                      "copied_name":  "批复单_3789.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\日常登记\\季报_5987.txt",
+                      "copied_name":  "季报_5987.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  206
+                  },
+                  {
+                      "source_rel":  "houqin\\日常登记\\工作计划_9381.eml",
+                      "copied_name":  "工作计划_9381.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\日常登记\\登记表_4421.csv",
+                      "copied_name":  "登记表_4421.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

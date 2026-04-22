@@ -1,0 +1,64 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "What is the total amount?",
+      "value_text": "$450,000.00"
+    },
+    {
+      "key_text": "What is the name of this transaction?",
+      "value_cell": "Q3-2023 Energy Hedging Hedge"
+    },
+    {
+      "key_text": "Is this an allocation \"to\" or \"from\" the capital book reserve?",
+      "value_text": "To the capital book reserve"
+    },
+    {
+      "key_text": "What are the profit/cost centers we are to use for the SAP entry?",
+      "value_text": "PC-9982-A; CC-4421"
+    },
+    {
+      "key_text": "Who are the parties/counterparties?",
+      "value_text": "Global Energy Corp and Alpha Financial Partners"
+    },
+    {
+      "key_text": "Who is the book administrator?  Who booked this transaction?",
+      "value_text": "Sarah Jenkins (Admin); David Miller (Booker)"
+    },
+    {
+      "key_text": "Which book is this coming out of?",
+      "value_text": "Strategic Asset Book 04"
+    },
+    {
+      "key_text": "Who is the trading team/group?",
+      "value_text": "North American Power Trading"
+    },
+    {
+      "key_text": "What is the deal number?",
+      "value_text": "DEAL-889201-X"
+    },
+    {
+      "key_text": "What is the date of this transaction?",
+      "value_text": "October 12, 2023"
+    },
+    {
+      "key_text": "Has this been run through originations?",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Who is the contact for this transaction (for our inquiries)?",
+      "value_text": "David Miller"
+    },
+    {
+      "key_text": "(signoff from Deffners group)",
+      "value_text": "Marcus Edmonds"
+    },
+    {
+      "key_text": "(signoff from ENA Reporting group)",
+      "value_text": "Bob Haines"
+    }
+  ]
+}
+
+Narrative:
+This transaction, identified as the Q3-2023 Energy Hedging Hedge (Deal #DEAL-889201-X), involves a total amount of $450,000.00. The funds are being allocated to the capital book reserve, pulling from the Strategic Asset Book 04. The relevant profit and cost centers for the SAP entry are PC-9982-A and CC-4421. The agreement is between Global Energy Corp and Alpha Financial Partners, and it has already been cleared through originations. The transaction was managed by the North American Power Trading team, with administrative oversight by Sarah Jenkins and booking performed by David Miller, who also serves as the primary contact for inquiries. The transaction is dated October 12, 2023, and features formal sign-offs from Marcus Edmonds representing Deffner's group and Bob Haines representing the ENA Reporting group.

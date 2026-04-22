@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0010_chanpin_产品文档_用户手册",
+    "tenant":  "chanpin",
+    "topic":  "产品文档",
+    "subtopic":  "用户手册",
+    "source_dir":  "chanpin\\产品文档\\用户手册",
+    "total_files_in_source_dir":  150,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品文档\\用户手册\\手册_078.txt",
+                      "copied_name":  "手册_078.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  846
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品文档\\用户手册\\手册_079.txt",
+                      "copied_name":  "手册_079.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  846
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品文档\\用户手册\\手册_089.txt",
+                      "copied_name":  "手册_089.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  846
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品文档\\用户手册\\手册_150.txt",
+                      "copied_name":  "手册_150.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  846
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品文档\\用户手册\\手册_076.txt",
+                      "copied_name":  "手册_076.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  846
+                  }
+              ]
+}

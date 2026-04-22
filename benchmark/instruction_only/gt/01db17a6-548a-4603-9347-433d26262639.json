@@ -1,0 +1,76 @@
+﻿{
+    "excel":  "01db17a6-548a-4603-9347-433d26262639.xlsx",
+    "sheet":  "2012 NOFA Project Info",
+    "pairs":  [
+                  {
+                      "label":  "Tentative project name",
+                      "value_cell":  "F4:G4",
+                      "value":  "North Star Commons"
+                  },
+                  {
+                      "label":  "Project sponsor",
+                      "value_cell":  "F6:G6",
+                      "value":  "Portland Housing Development Corp."
+                  },
+                  {
+                      "label":  "Project address or location",
+                      "value_cell":  "F8:G8",
+                      "value":  "1234 NE Glisan St, Portland, OR 97232"
+                  },
+                  {
+                      "label":  "River District TIF (Y/N)",
+                      "value_cell":  "D10",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "River District TIF ($)",
+                      "value_cell":  "G10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Oregon Convention Center TIF (Y/N)",
+                      "value_cell":  "D11",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Oregon Convention Center TIF ($)",
+                      "value_cell":  "G11",
+                      "value":  "$1,500,000"
+                  },
+                  {
+                      "label":  "HOME (Y/N)",
+                      "value_cell":  "D12",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "HOME ($)",
+                      "value_cell":  "G12",
+                      "value":  "$500,000"
+                  },
+                  {
+                      "label":  "\"King Crusher\" site (Y/N)",
+                      "value_cell":  "D13",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Will there be a request for 9% Low Income Housing Tax Credits for the project (Y/N)",
+                      "value_cell":  "D16",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Approximate total project cost",
+                      "value_cell":  "F18",
+                      "value":  "$12,500,000"
+                  },
+                  {
+                      "label":  "Forecast total # of units",
+                      "value_cell":  "F20",
+                      "value":  "65"
+                  },
+                  {
+                      "label":  "One/two sentence/phrase project description",
+                      "value_cell":  "F22:G22",
+                      "value":  "A mixed-income residential development providing 65 units of affordable housing for families and seniors in the Lloyd District."
+                  }
+              ]
+}

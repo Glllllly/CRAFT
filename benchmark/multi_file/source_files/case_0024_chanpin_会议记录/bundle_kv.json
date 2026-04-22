@@ -1,0 +1,4735 @@
+{
+  "bundle_dir": "case_0024_chanpin_会议记录",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "Note.md",
+      "source_type": "md",
+      "candidate_count": 28,
+      "candidates": [
+        {
+          "key": "中等复杂度管理表",
+          "value": "1H20min",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "中等复杂度管理表",
+          "value": "2H+",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "中等复杂度管理表",
+          "value": "45min-1H",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂业务表",
+          "value": "1H10min",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂业务表",
+          "value": "30min",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂业务表",
+          "value": "30min-40min（相对熟悉）",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "某职能场景管理表",
+          "value": "1H～1.5H",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 1H～1.5H | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "某职能场景管理表",
+          "value": "2～3小时：理解业务系统花费时间较多",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2～3小时：理解业务系统花费时间较多 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "某职能场景管理表",
+          "value": "5个表格、2个仪表盘、30个自动化/工作流 共计266行记录",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Base数据量 | 5个表格、2个仪表盘、30个自动化/工作流 共计266行记录 | |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "简单关系表",
+          "value": "20Min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "简单关系表",
+          "value": "20min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "简单关系表",
+          "value": "45min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "#step1",
+          "value": "行业场景选择",
+          "raw_key": "# Step1",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Step1:行业场景选择",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#step2",
+          "value": "Base表格评判",
+          "raw_key": "# Step2",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Step2:Base表格评判",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "ex",
+          "value": "当某信息表有新条目且无对应群组时，点击创建群组按钮新增群组",
+          "raw_key": "ex",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "ex：当某信息表有新条目且无对应群组时，点击创建群组按钮新增群组",
+            "location": "line:81"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "|人员a|2～3小时",
+          "value": "理解业务系统花费时间较多 | |",
+          "raw_key": "| 人员A | 2～3小时",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2～3小时：理解业务系统花费时间较多 | |",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一个弊端",
+          "value": "在看完一个表格想到需要补充的字段还挺难的——不确定是不是这个表格数量太多+比较全的原因",
+          "raw_key": "一个弊端",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "一个弊端：在看完一个表格想到需要补充的字段还挺难的——不确定是不是这个表格数量太多+比较全的原因",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发散想法",
+          "value": "职能部门是不是可以找内部的职能同事来帮忙看？会不会实际更专业一些？",
+          "raw_key": "发散想法",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "发散想法：职能部门是不是可以找内部的职能同事来帮忙看？会不会实际更专业一些？",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "命名问题",
+          "value": "不清晰、不匹配",
+          "raw_key": "命名问题",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "命名问题：不清晰、不匹配",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如",
+          "value": "某轻型管理系统，里面有较多的同步、http接口工作流，这可能涉及外部的日程、审批等，但是没有相应说明，较难理解各个字段的作用",
+          "raw_key": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如：某轻型管理系统，里面有较多的同步、http接口工作流，这可能涉及外部的日程、审批等，但是没有相应说明，较难理解各个字段的作用",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "如果首列要改，则可以在字段名称上标记",
+          "value": "ex——某字段（首列）",
+          "raw_key": "如果首列要改，则可以在字段名称上标记",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "如果首列要改，则可以在字段名称上标记：ex——某字段（首列）",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当有一张表的时候，表选择了p1，那么表的字段内容应该根据p1来看，还是根据p0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选",
+          "value": "比如审批如果有，维护和设置就需要有审批相关的，所以它俩存在必要关联关系",
+          "raw_key": "当有一张表的时候，表选择了P1，那么表的字段内容应该根据P1来看，还是根据P0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "当有一张表的时候，表选择了P1，那么表的字段内容应该根据P1来看，还是根据P0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选：比如审批如果有，维护和设置就需要有审批相关的，所以它俩存在必要关联关系",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "智能化",
+          "value": "如果有关联关系，需要尽量按照关联关系填写",
+          "raw_key": "智能化",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "智能化：如果有关联关系，需要尽量按照关联关系填写",
+            "location": "line:89"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "某业务表格问题",
+          "value": "仪表盘的名称不好，两个同类图表都叫通用名称，但下钻后其实是分类型的",
+          "raw_key": "某业务表格问题",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "某业务表格问题：仪表盘的名称不好，两个同类图表都叫通用名称，但下钻后其实是分类型的",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "标注效率提升思路",
+          "value": "大面判断留删与命名，不检查具体公式准确性，后续处理细节",
+          "raw_key": "标注效率提升思路",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "标注效率提升思路：大面判断留删与命名，不检查具体公式准确性，后续处理细节",
+            "location": "line:108"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流程简化",
+          "value": "工作流仅描述主题与query，标记首列字段",
+          "raw_key": "流程简化",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "流程简化：工作流仅描述主题与query，标记首列字段",
+            "location": "line:109"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态相关公式可能有问题，但是不太能确定，比如",
+          "value": "如果任务状态为已完成、已取消，是否算已完成还是进行中？",
+          "raw_key": "状态相关公式可能有问题，但是不太能确定，比如",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "状态相关公式可能有问题，但是不太能确定，比如：如果任务状态为已完成、已取消，是否算已完成还是进行中？",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评判方式",
+          "value": "待补充",
+          "raw_key": "评判方式",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "评判方式：待补充",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "Review.md",
+      "source_type": "md",
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "key": "问题",
+          "value": "修正仪表盘对应的数据表引用",
+          "raw_key": "仪表盘数据来源错误",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 仪表盘数据来源错误 | 修正仪表盘对应的数据表引用 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "根据自动化名称，推测内部消息的缺失内容，进行补充",
+          "raw_key": "自动化中某字段删除，造成配置内部消息内容缺失",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 自动化中某字段删除，造成配置内部消息内容缺失 | 根据自动化名称，推测内部消息的缺失内容，进行补充 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "根据自动化名称，推测需要补充的配置项",
+          "raw_key": "自动化中缺失相关配置项",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 自动化中缺失相关配置项 | 根据自动化名称，推测需要补充的配置项 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "补充对应的权限规则配置说明",
+          "raw_key": "部分功能模块未配置权限规则",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 部分功能模块未配置权限规则 | 补充对应的权限规则配置说明 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "补充该关键节点的工作流配置",
+          "raw_key": "工作流中缺失关键节点",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工作流中缺失关键节点 | 补充该关键节点的工作流配置 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "针对不同功能模块命名清楚，一目了然，也方便区分",
+          "raw_key": "仪表盘中两个功能模块都叫通用名称，但实际内容有区分",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 仪表盘中两个功能模块都叫通用名称，但实际内容有区分 | 针对不同功能模块命名清楚，一目了然，也方便区分 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "案例模板示例",
+          "value": "（原具体案例及链接已移除）",
+          "raw_key": "案例模板示例",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "案例模板示例：（原具体案例及链接已移除）",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附",
+          "value": "示例的案例模板与问题修正",
+          "raw_key": "附",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "附：示例的案例模板与问题修正",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "存储资源治理OnePage.md",
+      "source_type": "md",
+      "candidate_count": 60,
+      "candidates": [
+        {
+          "key": "周期",
+          "value": "----------------------",
+          "raw_key": "----------",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|----------|----------------------|",
+            "location": "markdown_table_row:22"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "旧版本管道下线完成，Redis拆分待启动，Abase优化调研完成，消息拆包优化进行中。",
+          "raw_key": "某周",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 某周 | 旧版本管道下线完成，Redis拆分待启动，Abase优化调研完成，消息拆包优化进行中。 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "核心存储每周增量分析",
+          "raw_key": "现状梳理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 现状梳理 | 核心存储每周增量分析 |",
+            "location": "markdown_table_row:23"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "监控看板部分完成，存储治理中旧版本管道灰度中，Redis拆分待启动，Abase优化调研完成。",
+          "raw_key": "某周",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 某周 | 监控看板部分完成，存储治理中旧版本管道灰度中，Redis拆分待启动，Abase优化调研完成。 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "简介",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 简介 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "资源优化收益预调研",
+          "raw_key": "调研文档",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研文档 | 资源优化收益预调研 |",
+            "location": "markdown_table_row:24"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "----------------------",
+          "raw_key": "----------",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|----------|----------------------|",
+            "location": "markdown_table_row:27"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "优化过程及结果复盘",
+          "raw_key": "项目复盘",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 项目复盘 | 优化过程及结果复盘 |",
+            "location": "markdown_table_row:26"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "存储优化相关方案",
+          "raw_key": "技术方案",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术方案 | 存储优化相关方案 |",
+            "location": "markdown_table_row:25"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "核心存储每周增量分析",
+          "raw_key": "现状梳理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 现状梳理 | 核心存储每周增量分析 |",
+            "location": "markdown_table_row:23"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "资源优化收益预调研",
+          "raw_key": "调研文档",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研文档 | 资源优化收益预调研 |",
+            "location": "markdown_table_row:24"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "任务",
+          "value": "Command=6场景细分梳理",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "上游调用量看板",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "冷用户过滤收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 冷用户过滤收益调研 | p0 | 评估过滤价值 | 进行中 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "存储资源利用率看板",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "数据包压缩收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "非活跃实体过滤收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 非活跃实体过滤收益调研 | p0 | 评估过滤价值 | 已完成 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "优先级",
+          "value": "p0",
+          "raw_key": "优先级",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "优先级",
+          "value": "p1",
+          "raw_key": "优先级",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "------------",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "XX",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "已完成",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "待启动",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "进度",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "--------------",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "Abase实例A",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "Redis实例B",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Redis实例B | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "类型",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "资源监控",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "------------------------------",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "XX%",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "定期检测资源使用率及增速",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "排查流量异常",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "预期收益",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "--------",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "XX TB",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "p0",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "优先级",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "--------------------------",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "XX TB",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "上游调用量看板",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "任务",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "存储资源利用率看板",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "类型",
+          "value": "资源监控",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "类型",
+          "value": "预调研",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "进度",
+          "value": "已完成",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "进度",
+          "value": "待启动",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "进度",
+          "value": "进行中",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 冷用户过滤收益调研 | p0 | 评估过滤价值 | 进行中 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "定期检测资源使用率及增速",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "排查流量异常",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "明确细分场景资源占用",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "评估压缩可行性",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "评估过滤价值",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 非活跃实体过滤收益调研 | p0 | 评估过滤价值 | 已完成 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "||command",
+          "value": "6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+          "raw_key": "|              | Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要增长来自数据包（command",
+          "value": "6），需重点优化。",
+          "raw_key": "- 主要增长来自数据包（Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主要增长来自数据包（Command=6），需重点优化。",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存储治理",
+          "value": "旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。",
+          "raw_key": "- 存储治理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 存储治理：旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "容灾优化",
+          "value": "待启动。",
+          "raw_key": "- 容灾优化",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 容灾优化：待启动。",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心问题",
+          "value": "Pipeline资源增速超预期",
+          "raw_key": "核心问题",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "核心问题：Pipeline资源增速超预期",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "监控看板",
+          "value": "部分已完成，部分开发中。",
+          "raw_key": "- 监控看板",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 监控看板：部分已完成，部分开发中。",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "联合上游优化冗余流量，重点针对command",
+          "value": "6场景。",
+          "raw_key": "- 联合上游优化冗余流量，重点针对Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 联合上游优化冗余流量，重点针对Command=6场景。",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "月报创新场景生成记录.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "1.开场（15秒）",
+          "value": "背景介绍。",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：背景介绍。",
+            "location": "line:104"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.开场（15秒）",
+          "value": "问题引入 + 背景介绍",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：问题引入 + 背景介绍",
+            "location": "line:54"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.开场（15秒）",
+          "value": "问题引入 + 话题预告",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：问题引入 + 话题预告",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.主体讨论（3分钟）",
+          "value": "分段对重点内容深入，注意内容的时效性和准确性。",
+          "raw_key": "2. 主体讨论（3分钟）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 主体讨论（3分钟）：分段对重点内容深入，注意内容的时效性和准确性。",
+            "location": "line:105"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.主体讨论（3分钟）",
+          "value": "分段深入 + 重点内容",
+          "raw_key": "2. 主体讨论（3分钟）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 主体讨论（3分钟）：分段深入 + 重点内容",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.总结收尾（30秒）",
+          "value": "要点回顾 + 行动建议",
+          "raw_key": "3. 总结收尾（30秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 总结收尾（30秒）：要点回顾 + 行动建议",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.总结收尾（30秒）",
+          "value": "要点回顾以及行动建议。",
+          "raw_key": "3. 总结收尾（30秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 总结收尾（30秒）：要点回顾以及行动建议。",
+            "location": "line:106"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "再说说技术项目A整体方向，近期重点在模型优化，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：再说说技术项目A整体方向，近期重点在模型优化，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。",
+            "location": "line:207"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "功能改动也不少，新增月报模块，调整现有模块内容，升级模型以支持更长上下文。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：功能改动也不少，新增月报模块，调整现有模块内容，升级模型以支持更长上下文。",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "嘿，咱今儿来聊聊最近会议里的重点内容。主要围绕技术项目A进展、聚合推送项目推进这些事儿。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：嘿，咱今儿来聊聊最近会议里的重点内容。主要围绕技术项目A进展、聚合推送项目推进这些事儿。",
+            "location": "line:203"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "图文内容评测也确定了方案，计划近期开展用户评测。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：图文内容评测也确定了方案，计划近期开展用户评测。",
+            "location": "line:209"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "对，大家得抓紧落实，保证项目顺利开展。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：对，大家得抓紧落实，保证项目顺利开展。",
+            "location": "line:211"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "assistant开场",
+          "value": "各位听众朋友们好！今天咱们来聊聊技术项目A、海外算法优化项目以及图文内容评测的相关会议要点。",
+          "raw_key": "ASSISTANT - 开场",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "ASSISTANT - 开场：各位听众朋友们好！今天咱们来聊聊技术项目A、海外算法优化项目以及图文内容评测的相关会议要点。",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "总结一下，接下来要重点关注聚合推送项目的待办事项，确保按时完成。模型优化和自动化评测的工作也得持续跟进。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：总结一下，接下来要重点关注聚合推送项目的待办事项，确保按时完成。模型优化和自动化评测的工作也得持续跟进。",
+            "location": "line:210"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "技术方案也有调整，采用新方案提前完成相关任务，调整存储方式，增加测试机制。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：技术方案也有调整，采用新方案提前完成相关任务，调整存储方式，增加测试机制。",
+            "location": "line:206"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "没错，先说聚合推送项目。计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式。待办事项需按计划完成相关准备工作。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：没错，先说聚合推送项目。计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式。待办事项需按计划完成相关准备工作。",
+            "location": "line:204"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "海外算法优化项目中，近期评测的模型结果与线上版接近，可替换线上模型。自动化评测计划本周内完成上线。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：海外算法优化项目中，近期评测的模型结果与线上版接近，可替换线上模型。自动化评测计划本周内完成上线。",
+            "location": "line:208"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主体讨论",
+          "value": "先说说技术项目A。在聚合推送优化方面，确定了月报推送方案，计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式，增加测试机制。当前业务指标目标存在缺口，需优化推送策略。模型优化方面，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。海外算法优化项目已启动，与海外团队合作优化相关功能，推进模型上线。图文内容评测项目确定了评测方案，计划近期开展用户评测。",
+          "raw_key": "主体讨论",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "主体讨论：先说说技术项目A。在聚合推送优化方面，确定了月报推送方案，计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式，增加测试机制。当前业务指标目标存在缺口，需优化推送策略。模型优化方面，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。海外算法优化项目已启动，与海外团队合作优化相关功能，推进模型上线。图文内容评测项目确定了评测方案，计划近期开展用户评测。",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主持人a",
+          "value": "思路清晰、逻辑强，擅长从宏观角度看待项目。",
+          "raw_key": "- 主持人 A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主持人 A：思路清晰、逻辑强，擅长从宏观角度看待项目。",
+            "location": "line:172"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主持人b",
+          "value": "细节控，擅长技术拆解与举例说明，语气更轻松。",
+          "raw_key": "- 主持人 B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主持人 B：细节控，擅长技术拆解与举例说明，语气更轻松。",
+            "location": "line:173"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。举一些案例：所有结论中，如果有些是最近会议提出的，有些是更早会议提出的，应该主要介绍最近提出的结论；比如较早会议提到的待办事项，若已完成则不用再提及。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。举一些案例：所有结论中，如果有些是最近会议提出的，有些是更早会议提出的，应该主要介绍最近提出的结论；比如较早会议提到的待办事项，若已完成则不用再提及。",
+            "location": "line:114"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是近期，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是近期，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+            "location": "line:193"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息的选择，你的一个重要选取原则是",
+          "value": "今天时间是{{time}}，同一模块一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出更新的结论。",
+          "raw_key": "- 关于重点信息的选择，你的一个重要选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息的选择，你的一个重要选取原则是：今天时间是{{time}}，同一模块一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出更新的结论。",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "对于接近4分钟的文本，各段结构和时长参考",
+          "value": "（但实际输出不需要按这个结构列出）",
+          "raw_key": "对于接近4分钟的文本，各段结构和时长参考",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "对于接近4分钟的文本，各段结构和时长参考：（但实际输出不需要按这个结构列出）",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意",
+          "value": "今天时间是{{time}}，一些较早会议时间得出来的结论，可能过时了，应该尽量避免提到过时的结论。",
+          "raw_key": "- 对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意：今天时间是{{time}}，一些较早会议时间得出来的结论，可能过时了，应该尽量避免提到过时的结论。",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总结收尾",
+          "value": "今天我们回顾了几个项目的重点内容。接下来大家要按照计划推进工作，关注模型效果和评测结果，确保项目顺利进行。",
+          "raw_key": "总结收尾",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "总结收尾：今天我们回顾了几个项目的重点内容。接下来大家要按照计划推进工作，关注模型效果和评测结果，确保项目顺利进行。",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "进展.md",
+      "source_type": "md",
+      "candidate_count": 55,
+      "candidates": [
+        {
+          "key": "-",
+          "value": "-",
+          "raw_key": "-",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "1.工程层优化格式转义；2.兜底采用rpc调用处理参数",
+          "value": "设计中间结果缓存机制",
+          "raw_key": "1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "在系统prompt中引入业务任务处理策略",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "在系统prompt中要求任务开始前先进行上下文召回",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "采用分步生成+文档实时编辑模式优化",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "采用多Agent架构拆分任务独立执行",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "在系统prompt中引入业务任务处理策略",
+          "value": "设计中间结果缓存机制",
+          "raw_key": "在系统prompt中引入业务任务处理策略",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "在系统prompt中引入业务任务处理策略",
+          "value": "采用多Agent架构拆分任务独立执行",
+          "raw_key": "在系统prompt中引入业务任务处理策略",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "基础查询与深度调研结果需整合为统一文档",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 基础查询与深度调研结果需整合为统一文档 | 调用文档生成工具实现 | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "客户调研",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "批量查询多维数据并二次提取字段",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 批量查询多维数据并二次提取字段 | 支持单表查询与循环任务后调用对应能力 | |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "按榜单生成客户列表并调研",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 按榜单生成客户列表并调研 | 结合公开信息查询、客户调研等能力理论可行 | |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "缺少对特定主体信息的深入挖掘",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少对特定主体信息的深入挖掘 | 通过prompt补充任务初始规划以强化该类信息查询 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "调研后匹配相关市场活动",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研后匹配相关市场活动 | 基于现有原子能力补充任务规划 | |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂格式数据处理需额外工程适配",
+          "value": "多步任务中间结果需缓存",
+          "raw_key": "复杂格式数据处理需额外工程适配",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "-",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "调整prompt补充知识未干扰主链路，但效果有限",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "通过限制输出长度走通基础场景",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "指令遵循度不足，部分步骤未按要求执行",
+          "value": "多步任务中间结果需缓存",
+          "raw_key": "指令遵循度不足，部分步骤未按要求执行",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "指令遵循度不足，部分步骤未按要求执行",
+          "value": "高级任务编排（如循环）支持困难",
+          "raw_key": "指令遵循度不足，部分步骤未按要求执行",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "基于现有原子能力补充任务规划",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研后匹配相关市场活动 | 基于现有原子能力补充任务规划 | |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "常规提问内容深度不足，总结缺少关键方向",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "支持单表查询与循环任务后调用对应能力",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 批量查询多维数据并二次提取字段 | 支持单表查询与循环任务后调用对应能力 | |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "结合公开信息查询、客户调研等能力理论可行",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 按榜单生成客户列表并调研 | 结合公开信息查询、客户调研等能力理论可行 | |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "调用文档生成工具实现",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 基础查询与深度调研结果需整合为统一文档 | 调用文档生成工具实现 | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "通过prompt补充任务初始规划以强化该类信息查询",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少对特定主体信息的深入挖掘 | 通过prompt补充任务初始规划以强化该类信息查询 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "计划支持方式",
+          "value": "在prompt中增加上下文信息以丰富报告分析维度",
+          "raw_key": "计划支持方式",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "调整prompt补充知识未干扰主链路，但效果有限",
+          "value": "-",
+          "raw_key": "调整prompt补充知识未干扰主链路，但效果有限",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "上下文窗口长度限制，影响复杂场景效果",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "复杂格式数据处理需额外工程适配",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "工具调用混淆，相似功能工具易误用",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "指令遵循度不足，部分步骤未按要求执行",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "高级任务编排（如循环）支持困难",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "主链路",
+          "value": "基于Agentic RAG架构和某大语言模型搭建",
+          "raw_key": "主链路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "主链路：基于Agentic RAG架构和某大语言模型搭建",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "互联网公开信息搜索工具",
+          "value": "通过多关键词检索公开网络信息",
+          "raw_key": "- 互联网公开信息搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 互联网公开信息搜索工具：通过多关键词检索公开网络信息",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "全客户信息搜索工具",
+          "value": "结合多条件筛选客户数据",
+          "raw_key": "- 全客户信息搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 全客户信息搜索工具：结合多条件筛选客户数据",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部文档搜索工具",
+          "value": "根据查询词检索内部知识库文档",
+          "raw_key": "- 内部文档搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 内部文档搜索工具：根据查询词检索内部知识库文档",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户基础信息查询工具",
+          "value": "检索客户基础资料",
+          "raw_key": "- 客户基础信息查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户基础信息查询工具：检索客户基础资料",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户详情获取工具",
+          "value": "通过客户标识查询完整客户信息",
+          "raw_key": "- 客户详情获取工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户详情获取工具：通过客户标识查询完整客户信息",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户跟进记录查询工具",
+          "value": "根据关键词、客户标识等条件获取跟进数据",
+          "raw_key": "- 客户跟进记录查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户跟进记录查询工具：根据关键词、客户标识等条件获取跟进数据",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "工具",
+          "value": "9个通用工具接口",
+          "raw_key": "工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "工具：9个通用工具接口",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "探索表格查询能力",
+          "value": "单表查询上限、多表关联、数据分析",
+          "raw_key": "- 探索表格查询能力",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 探索表格查询能力：单表查询上限、多表关联、数据分析",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档格式转换工具",
+          "value": "将特定格式内容转换为内部协作文档格式",
+          "raw_key": "- 文档格式转换工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 文档格式转换工具：将特定格式内容转换为内部协作文档格式",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案生成、周期业务复盘等场景",
+          "value": "可更全面地检索资料、支持定制化输出，部分场景表现优于传统工作流",
+          "raw_key": "方案生成、周期业务复盘等场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "方案生成、周期业务复盘等场景：可更全面地检索资料、支持定制化输出，部分场景表现优于传统工作流",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "模型参数测试",
+          "value": "验证大语言模型工具调用参数上限",
+          "raw_key": "- 模型参数测试",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 模型参数测试：验证大语言模型工具调用参数上限",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "简单问答场景",
+          "value": "已达到或超越现有业务助手水平，核心优势为问题拆解与反思能力",
+          "raw_key": "简单问答场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "简单问答场景：已达到或超越现有业务助手水平，核心优势为问题拆解与反思能力",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "补充说明",
+          "value": "基准为现有业务助手线上效果，对比模型为基准模型",
+          "raw_key": "补充说明",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "补充说明：基准为现有业务助手线上效果，对比模型为基准模型",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评测详情",
+          "value": "内部Agent助手效果评测",
+          "raw_key": "评测详情",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "评测详情：内部Agent助手效果评测",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "赢单客户信息查询工具",
+          "value": "根据查询词获取赢单客户相关数据",
+          "raw_key": "- 赢单客户信息查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 赢单客户信息查询工具：根据查询词获取赢单客户相关数据",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "赢单客户筛选工具",
+          "value": "多条件过滤赢单客户信息",
+          "raw_key": "- 赢单客户筛选工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 赢单客户筛选工具：多条件过滤赢单客户信息",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "#step1",
+      "candidates": [
+        {
+          "key": "#step1",
+          "value": "行业场景选择",
+          "raw_key": "# Step1",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Step1:行业场景选择",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "#step2",
+      "candidates": [
+        {
+          "key": "#step2",
+          "value": "Base表格评判",
+          "raw_key": "# Step2",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Step2:Base表格评判",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "-",
+      "candidates": [
+        {
+          "key": "-",
+          "value": "-",
+          "raw_key": "-",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "1.工程层优化格式转义；2.兜底采用rpc调用处理参数",
+      "candidates": [
+        {
+          "key": "1.工程层优化格式转义；2.兜底采用rpc调用处理参数",
+          "value": "设计中间结果缓存机制",
+          "raw_key": "1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "1.开场（15秒）",
+      "candidates": [
+        {
+          "key": "1.开场（15秒）",
+          "value": "背景介绍。",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：背景介绍。",
+            "location": "line:104"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.开场（15秒）",
+          "value": "问题引入 + 背景介绍",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：问题引入 + 背景介绍",
+            "location": "line:54"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.开场（15秒）",
+          "value": "问题引入 + 话题预告",
+          "raw_key": "1. 开场（15秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 开场（15秒）：问题引入 + 话题预告",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.主体讨论（3分钟）",
+      "candidates": [
+        {
+          "key": "2.主体讨论（3分钟）",
+          "value": "分段对重点内容深入，注意内容的时效性和准确性。",
+          "raw_key": "2. 主体讨论（3分钟）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 主体讨论（3分钟）：分段对重点内容深入，注意内容的时效性和准确性。",
+            "location": "line:105"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.主体讨论（3分钟）",
+          "value": "分段深入 + 重点内容",
+          "raw_key": "2. 主体讨论（3分钟）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 主体讨论（3分钟）：分段深入 + 重点内容",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.总结收尾（30秒）",
+      "candidates": [
+        {
+          "key": "3.总结收尾（30秒）",
+          "value": "要点回顾 + 行动建议",
+          "raw_key": "3. 总结收尾（30秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 总结收尾（30秒）：要点回顾 + 行动建议",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.总结收尾（30秒）",
+          "value": "要点回顾以及行动建议。",
+          "raw_key": "3. 总结收尾（30秒）",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 总结收尾（30秒）：要点回顾以及行动建议。",
+            "location": "line:106"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "a",
+      "candidates": [
+        {
+          "key": "a",
+          "value": "再说说技术项目A整体方向，近期重点在模型优化，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：再说说技术项目A整体方向，近期重点在模型优化，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。",
+            "location": "line:207"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "功能改动也不少，新增月报模块，调整现有模块内容，升级模型以支持更长上下文。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：功能改动也不少，新增月报模块，调整现有模块内容，升级模型以支持更长上下文。",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "嘿，咱今儿来聊聊最近会议里的重点内容。主要围绕技术项目A进展、聚合推送项目推进这些事儿。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：嘿，咱今儿来聊聊最近会议里的重点内容。主要围绕技术项目A进展、聚合推送项目推进这些事儿。",
+            "location": "line:203"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "图文内容评测也确定了方案，计划近期开展用户评测。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：图文内容评测也确定了方案，计划近期开展用户评测。",
+            "location": "line:209"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "对，大家得抓紧落实，保证项目顺利开展。",
+          "raw_key": "A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "A：对，大家得抓紧落实，保证项目顺利开展。",
+            "location": "line:211"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "assistant开场",
+      "candidates": [
+        {
+          "key": "assistant开场",
+          "value": "各位听众朋友们好！今天咱们来聊聊技术项目A、海外算法优化项目以及图文内容评测的相关会议要点。",
+          "raw_key": "ASSISTANT - 开场",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "ASSISTANT - 开场：各位听众朋友们好！今天咱们来聊聊技术项目A、海外算法优化项目以及图文内容评测的相关会议要点。",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "b",
+      "candidates": [
+        {
+          "key": "b",
+          "value": "总结一下，接下来要重点关注聚合推送项目的待办事项，确保按时完成。模型优化和自动化评测的工作也得持续跟进。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：总结一下，接下来要重点关注聚合推送项目的待办事项，确保按时完成。模型优化和自动化评测的工作也得持续跟进。",
+            "location": "line:210"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "技术方案也有调整，采用新方案提前完成相关任务，调整存储方式，增加测试机制。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：技术方案也有调整，采用新方案提前完成相关任务，调整存储方式，增加测试机制。",
+            "location": "line:206"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "没错，先说聚合推送项目。计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式。待办事项需按计划完成相关准备工作。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：没错，先说聚合推送项目。计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式。待办事项需按计划完成相关准备工作。",
+            "location": "line:204"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "b",
+          "value": "海外算法优化项目中，近期评测的模型结果与线上版接近，可替换线上模型。自动化评测计划本周内完成上线。",
+          "raw_key": "B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "B：海外算法优化项目中，近期评测的模型结果与线上版接近，可替换线上模型。自动化评测计划本周内完成上线。",
+            "location": "line:208"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "ex",
+      "candidates": [
+        {
+          "key": "ex",
+          "value": "当某信息表有新条目且无对应群组时，点击创建群组按钮新增群组",
+          "raw_key": "ex",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "ex：当某信息表有新条目且无对应群组时，点击创建群组按钮新增群组",
+            "location": "line:81"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "||command",
+      "candidates": [
+        {
+          "key": "||command",
+          "value": "6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+          "raw_key": "|              | Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "|人员a|2～3小时",
+      "candidates": [
+        {
+          "key": "|人员a|2～3小时",
+          "value": "理解业务系统花费时间较多 | |",
+          "raw_key": "| 人员A | 2～3小时",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2～3小时：理解业务系统花费时间较多 | |",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "一个弊端",
+      "candidates": [
+        {
+          "key": "一个弊端",
+          "value": "在看完一个表格想到需要补充的字段还挺难的——不确定是不是这个表格数量太多+比较全的原因",
+          "raw_key": "一个弊端",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "一个弊端：在看完一个表格想到需要补充的字段还挺难的——不确定是不是这个表格数量太多+比较全的原因",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "中等复杂度管理表",
+      "candidates": [
+        {
+          "key": "中等复杂度管理表",
+          "value": "1H20min",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "中等复杂度管理表",
+          "value": "2H+",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "中等复杂度管理表",
+          "value": "45min-1H",
+          "raw_key": "中等复杂度管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "主体讨论",
+      "candidates": [
+        {
+          "key": "主体讨论",
+          "value": "先说说技术项目A。在聚合推送优化方面，确定了月报推送方案，计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式，增加测试机制。当前业务指标目标存在缺口，需优化推送策略。模型优化方面，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。海外算法优化项目已启动，与海外团队合作优化相关功能，推进模型上线。图文内容评测项目确定了评测方案，计划近期开展用户评测。",
+          "raw_key": "主体讨论",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "主体讨论：先说说技术项目A。在聚合推送优化方面，确定了月报推送方案，计划近期完成推送，功能上进行模块调整和模型升级，数据处理考虑调整存储方式，增加测试机制。当前业务指标目标存在缺口，需优化推送策略。模型优化方面，计划推出新版模型解决现有问题，本周内预计完成初版自动化评测流程。海外算法优化项目已启动，与海外团队合作优化相关功能，推进模型上线。图文内容评测项目确定了评测方案，计划近期开展用户评测。",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主持人a",
+      "candidates": [
+        {
+          "key": "主持人a",
+          "value": "思路清晰、逻辑强，擅长从宏观角度看待项目。",
+          "raw_key": "- 主持人 A",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主持人 A：思路清晰、逻辑强，擅长从宏观角度看待项目。",
+            "location": "line:172"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主持人b",
+      "candidates": [
+        {
+          "key": "主持人b",
+          "value": "细节控，擅长技术拆解与举例说明，语气更轻松。",
+          "raw_key": "- 主持人 B",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主持人 B：细节控，擅长技术拆解与举例说明，语气更轻松。",
+            "location": "line:173"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主要增长来自数据包（command",
+      "candidates": [
+        {
+          "key": "主要增长来自数据包（command",
+          "value": "6），需重点优化。",
+          "raw_key": "- 主要增长来自数据包（Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 主要增长来自数据包（Command=6），需重点优化。",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主链路",
+      "candidates": [
+        {
+          "key": "主链路",
+          "value": "基于Agentic RAG架构和某大语言模型搭建",
+          "raw_key": "主链路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "主链路：基于Agentic RAG架构和某大语言模型搭建",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "互联网公开信息搜索工具",
+      "candidates": [
+        {
+          "key": "互联网公开信息搜索工具",
+          "value": "通过多关键词检索公开网络信息",
+          "raw_key": "- 互联网公开信息搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 互联网公开信息搜索工具：通过多关键词检索公开网络信息",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "任务",
+      "candidates": [
+        {
+          "key": "任务",
+          "value": "Command=6场景细分梳理",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "上游调用量看板",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "冷用户过滤收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 冷用户过滤收益调研 | p0 | 评估过滤价值 | 进行中 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "存储资源利用率看板",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "数据包压缩收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "任务",
+          "value": "非活跃实体过滤收益调研",
+          "raw_key": "任务",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 非活跃实体过滤收益调研 | p0 | 评估过滤价值 | 已完成 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "优先级",
+      "candidates": [
+        {
+          "key": "优先级",
+          "value": "p0",
+          "raw_key": "优先级",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "优先级",
+          "value": "p1",
+          "raw_key": "优先级",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "全客户信息搜索工具",
+      "candidates": [
+        {
+          "key": "全客户信息搜索工具",
+          "value": "结合多条件筛选客户数据",
+          "raw_key": "- 全客户信息搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 全客户信息搜索工具：结合多条件筛选客户数据",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "关于重点信息最重要的选取原则是",
+      "candidates": [
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。举一些案例：所有结论中，如果有些是最近会议提出的，有些是更早会议提出的，应该主要介绍最近提出的结论；比如较早会议提到的待办事项，若已完成则不用再提及。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是{{time}}，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。举一些案例：所有结论中，如果有些是最近会议提出的，有些是更早会议提出的，应该主要介绍最近提出的结论；比如较早会议提到的待办事项，若已完成则不用再提及。",
+            "location": "line:114"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关于重点信息最重要的选取原则是",
+          "value": "关注信息的时效性。你需要记住：今天时间是近期，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+          "raw_key": "- 关于重点信息最重要的选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息最重要的选取原则是：关注信息的时效性。你需要记住：今天时间是近期，一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出相对更新的结论。",
+            "location": "line:193"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "关于重点信息的选择，你的一个重要选取原则是",
+      "candidates": [
+        {
+          "key": "关于重点信息的选择，你的一个重要选取原则是",
+          "value": "今天时间是{{time}}，同一模块一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出更新的结论。",
+          "raw_key": "- 关于重点信息的选择，你的一个重要选取原则是",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 关于重点信息的选择，你的一个重要选取原则是：今天时间是{{time}}，同一模块一些较早会议时间得出来的结论，大概率过时了，应该避免提到过时的结论，而选择输出更新的结论。",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内部文档搜索工具",
+      "candidates": [
+        {
+          "key": "内部文档搜索工具",
+          "value": "根据查询词检索内部知识库文档",
+          "raw_key": "- 内部文档搜索工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 内部文档搜索工具：根据查询词检索内部知识库文档",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分片数",
+      "candidates": [
+        {
+          "key": "分片数",
+          "value": "------------",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "XX",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "已完成",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "待启动",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "分片数",
+          "value": "进度",
+          "raw_key": "分片数",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "发散想法",
+      "candidates": [
+        {
+          "key": "发散想法",
+          "value": "职能部门是不是可以找内部的职能同事来帮忙看？会不会实际更专业一些？",
+          "raw_key": "发散想法",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "发散想法：职能部门是不是可以找内部的职能同事来帮忙看？会不会实际更专业一些？",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "后续解决问题的思路",
+      "candidates": [
+        {
+          "key": "后续解决问题的思路",
+          "value": "1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "在系统prompt中引入业务任务处理策略",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "在系统prompt中要求任务开始前先进行上下文召回",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "采用分步生成+文档实时编辑模式优化",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "后续解决问题的思路",
+          "value": "采用多Agent架构拆分任务独立执行",
+          "raw_key": "后续解决问题的思路",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "周期",
+      "candidates": [
+        {
+          "key": "周期",
+          "value": "----------------------",
+          "raw_key": "----------",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|----------|----------------------|",
+            "location": "markdown_table_row:22"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "旧版本管道下线完成，Redis拆分待启动，Abase优化调研完成，消息拆包优化进行中。",
+          "raw_key": "某周",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 某周 | 旧版本管道下线完成，Redis拆分待启动，Abase优化调研完成，消息拆包优化进行中。 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "核心存储每周增量分析",
+          "raw_key": "现状梳理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 现状梳理 | 核心存储每周增量分析 |",
+            "location": "markdown_table_row:23"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "监控看板部分完成，存储治理中旧版本管道灰度中，Redis拆分待启动，Abase优化调研完成。",
+          "raw_key": "某周",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 某周 | 监控看板部分完成，存储治理中旧版本管道灰度中，Redis拆分待启动，Abase优化调研完成。 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "简介",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 简介 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "周期",
+          "value": "资源优化收益预调研",
+          "raw_key": "调研文档",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研文档 | 资源优化收益预调研 |",
+            "location": "markdown_table_row:24"
+          },
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "key": "命名问题",
+      "candidates": [
+        {
+          "key": "命名问题",
+          "value": "不清晰、不匹配",
+          "raw_key": "命名问题",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "命名问题：不清晰、不匹配",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "在系统prompt中引入业务任务处理策略",
+      "candidates": [
+        {
+          "key": "在系统prompt中引入业务任务处理策略",
+          "value": "设计中间结果缓存机制",
+          "raw_key": "在系统prompt中引入业务任务处理策略",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "在系统prompt中引入业务任务处理策略",
+          "value": "采用多Agent架构拆分任务独立执行",
+          "raw_key": "在系统prompt中引入业务任务处理策略",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "场景",
+      "candidates": [
+        {
+          "key": "场景",
+          "value": "基础查询与深度调研结果需整合为统一文档",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 基础查询与深度调研结果需整合为统一文档 | 调用文档生成工具实现 | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "客户调研",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "批量查询多维数据并二次提取字段",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 批量查询多维数据并二次提取字段 | 支持单表查询与循环任务后调用对应能力 | |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "按榜单生成客户列表并调研",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 按榜单生成客户列表并调研 | 结合公开信息查询、客户调研等能力理论可行 | |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "缺少对特定主体信息的深入挖掘",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少对特定主体信息的深入挖掘 | 通过prompt补充任务初始规划以强化该类信息查询 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "场景",
+          "value": "调研后匹配相关市场活动",
+          "raw_key": "场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研后匹配相关市场活动 | 基于现有原子能力补充任务规划 | |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "复杂业务表",
+      "candidates": [
+        {
+          "key": "复杂业务表",
+          "value": "1H10min",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂业务表",
+          "value": "30min",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "复杂业务表",
+          "value": "30min-40min（相对熟悉）",
+          "raw_key": "复杂业务表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "复杂格式数据处理需额外工程适配",
+      "candidates": [
+        {
+          "key": "复杂格式数据处理需额外工程适配",
+          "value": "多步任务中间结果需缓存",
+          "raw_key": "复杂格式数据处理需额外工程适配",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如",
+      "candidates": [
+        {
+          "key": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如",
+          "value": "某轻型管理系统，里面有较多的同步、http接口工作流，这可能涉及外部的日程、审批等，但是没有相应说明，较难理解各个字段的作用",
+          "raw_key": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "如果没有一个业务系统的说明书，理解业务系统要花费很多时间，还不一定能理解全面。比如：某轻型管理系统，里面有较多的同步、http接口工作流，这可能涉及外部的日程、审批等，但是没有相应说明，较难理解各个字段的作用",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "如果首列要改，则可以在字段名称上标记",
+      "candidates": [
+        {
+          "key": "如果首列要改，则可以在字段名称上标记",
+          "value": "ex——某字段（首列）",
+          "raw_key": "如果首列要改，则可以在字段名称上标记",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "如果首列要改，则可以在字段名称上标记：ex——某字段（首列）",
+            "location": "line:82"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "存储实例",
+      "candidates": [
+        {
+          "key": "存储实例",
+          "value": "--------------",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "Abase实例A",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "Redis实例B",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Redis实例B | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "类型",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "存储实例",
+          "value": "资源监控",
+          "raw_key": "存储实例",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "存储治理",
+      "candidates": [
+        {
+          "key": "存储治理",
+          "value": "旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。",
+          "raw_key": "- 存储治理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 存储治理：旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "客户基础信息查询工具",
+      "candidates": [
+        {
+          "key": "客户基础信息查询工具",
+          "value": "检索客户基础资料",
+          "raw_key": "- 客户基础信息查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户基础信息查询工具：检索客户基础资料",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "客户详情获取工具",
+      "candidates": [
+        {
+          "key": "客户详情获取工具",
+          "value": "通过客户标识查询完整客户信息",
+          "raw_key": "- 客户详情获取工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户详情获取工具：通过客户标识查询完整客户信息",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "客户跟进记录查询工具",
+      "candidates": [
+        {
+          "key": "客户跟进记录查询工具",
+          "value": "根据关键词、客户标识等条件获取跟进数据",
+          "raw_key": "- 客户跟进记录查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 客户跟进记录查询工具：根据关键词、客户标识等条件获取跟进数据",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "容灾优化",
+      "candidates": [
+        {
+          "key": "容灾优化",
+          "value": "待启动。",
+          "raw_key": "- 容灾优化",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 容灾优化：待启动。",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "对于接近4分钟的文本，各段结构和时长参考",
+      "candidates": [
+        {
+          "key": "对于接近4分钟的文本，各段结构和时长参考",
+          "value": "（但实际输出不需要按这个结构列出）",
+          "raw_key": "对于接近4分钟的文本，各段结构和时长参考",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "对于接近4分钟的文本，各段结构和时长参考：（但实际输出不需要按这个结构列出）",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意",
+      "candidates": [
+        {
+          "key": "对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意",
+          "value": "今天时间是{{time}}，一些较早会议时间得出来的结论，可能过时了，应该尽量避免提到过时的结论。",
+          "raw_key": "- 对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 对于整体输入内容较多的场景，合理提炼其中的关键重点信息，并进行有创意的呈现。注意：今天时间是{{time}}，一些较早会议时间得出来的结论，可能过时了，应该尽量避免提到过时的结论。",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "尝试过的解法和效果",
+      "candidates": [
+        {
+          "key": "尝试过的解法和效果",
+          "value": "-",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "调整prompt补充知识未干扰主链路，但效果有限",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "尝试过的解法和效果",
+          "value": "通过限制输出长度走通基础场景",
+          "raw_key": "尝试过的解法和效果",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "峰值使用率",
+      "candidates": [
+        {
+          "key": "峰值使用率",
+          "value": "------------------------------",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "XX%",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "定期检测资源使用率及增速",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "排查流量异常",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用率",
+          "value": "预期收益",
+          "raw_key": "峰值使用率",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "峰值使用量",
+      "candidates": [
+        {
+          "key": "峰值使用量",
+          "value": "--------",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "XX TB",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "p0",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "峰值使用量",
+          "value": "优先级",
+          "raw_key": "峰值使用量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "工具",
+      "candidates": [
+        {
+          "key": "工具",
+          "value": "9个通用工具接口",
+          "raw_key": "工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "工具：9个通用工具接口",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "当有一张表的时候，表选择了p1，那么表的字段内容应该根据p1来看，还是根据p0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选",
+      "candidates": [
+        {
+          "key": "当有一张表的时候，表选择了p1，那么表的字段内容应该根据p1来看，还是根据p0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选",
+          "value": "比如审批如果有，维护和设置就需要有审批相关的，所以它俩存在必要关联关系",
+          "raw_key": "当有一张表的时候，表选择了P1，那么表的字段内容应该根据P1来看，还是根据P0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "当有一张表的时候，表选择了P1，那么表的字段内容应该根据P1来看，还是根据P0来看呢，感觉应该根据它真的存在来看；但嵌套关系确实有点难说的清咋选：比如审批如果有，维护和设置就需要有审批相关的，所以它俩存在必要关联关系",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总容量",
+      "candidates": [
+        {
+          "key": "总容量",
+          "value": "--------------------------",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|--------------|--------------------------|--------|------------------------------|------------|",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "XX TB",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Abase实例A | XX TB | XX TB | XX% | XX |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "上游调用量看板",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "任务",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 类型 | 任务 | 优先级 | 预期收益 | 进度 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "总容量",
+          "value": "存储资源利用率看板",
+          "raw_key": "总容量",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "总结收尾",
+      "candidates": [
+        {
+          "key": "总结收尾",
+          "value": "今天我们回顾了几个项目的重点内容。接下来大家要按照计划推进工作，关注模型效果和评测结果，确保项目顺利进行。",
+          "raw_key": "总结收尾",
+          "source_file": "月报创新场景生成记录.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "总结收尾：今天我们回顾了几个项目的重点内容。接下来大家要按照计划推进工作，关注模型效果和评测结果，确保项目顺利进行。",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "指令遵循度不足，部分步骤未按要求执行",
+      "candidates": [
+        {
+          "key": "指令遵循度不足，部分步骤未按要求执行",
+          "value": "多步任务中间结果需缓存",
+          "raw_key": "指令遵循度不足，部分步骤未按要求执行",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 多步任务中间结果需缓存 | - | 设计中间结果缓存机制 |",
+            "location": "markdown_table_row:21"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "指令遵循度不足，部分步骤未按要求执行",
+          "value": "高级任务编排（如循环）支持困难",
+          "raw_key": "指令遵循度不足，部分步骤未按要求执行",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "探索表格查询能力",
+      "candidates": [
+        {
+          "key": "探索表格查询能力",
+          "value": "单表查询上限、多表关联、数据分析",
+          "raw_key": "- 探索表格查询能力",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 探索表格查询能力：单表查询上限、多表关联、数据分析",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档格式转换工具",
+      "candidates": [
+        {
+          "key": "文档格式转换工具",
+          "value": "将特定格式内容转换为内部协作文档格式",
+          "raw_key": "- 文档格式转换工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 文档格式转换工具：将特定格式内容转换为内部协作文档格式",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "方案生成、周期业务复盘等场景",
+      "candidates": [
+        {
+          "key": "方案生成、周期业务复盘等场景",
+          "value": "可更全面地检索资料、支持定制化输出，部分场景表现优于传统工作流",
+          "raw_key": "方案生成、周期业务复盘等场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "方案生成、周期业务复盘等场景：可更全面地检索资料、支持定制化输出，部分场景表现优于传统工作流",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "智能化",
+      "candidates": [
+        {
+          "key": "智能化",
+          "value": "如果有关联关系，需要尽量按照关联关系填写",
+          "raw_key": "智能化",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "智能化：如果有关联关系，需要尽量按照关联关系填写",
+            "location": "line:89"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "某业务表格问题",
+      "candidates": [
+        {
+          "key": "某业务表格问题",
+          "value": "仪表盘的名称不好，两个同类图表都叫通用名称，但下钻后其实是分类型的",
+          "raw_key": "某业务表格问题",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "某业务表格问题：仪表盘的名称不好，两个同类图表都叫通用名称，但下钻后其实是分类型的",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "某职能场景管理表",
+      "candidates": [
+        {
+          "key": "某职能场景管理表",
+          "value": "1H～1.5H",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 1H～1.5H | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "某职能场景管理表",
+          "value": "2～3小时：理解业务系统花费时间较多",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2～3小时：理解业务系统花费时间较多 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "某职能场景管理表",
+          "value": "5个表格、2个仪表盘、30个自动化/工作流 共计266行记录",
+          "raw_key": "某职能场景管理表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Base数据量 | 5个表格、2个仪表盘、30个自动化/工作流 共计266行记录 | |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "标注效率提升思路",
+      "candidates": [
+        {
+          "key": "标注效率提升思路",
+          "value": "大面判断留删与命名，不检查具体公式准确性，后续处理细节",
+          "raw_key": "标注效率提升思路",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "标注效率提升思路：大面判断留删与命名，不检查具体公式准确性，后续处理细节",
+            "location": "line:108"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "核心问题",
+      "candidates": [
+        {
+          "key": "核心问题",
+          "value": "Pipeline资源增速超预期",
+          "raw_key": "核心问题",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "核心问题：Pipeline资源增速超预期",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "案例模板示例",
+      "candidates": [
+        {
+          "key": "案例模板示例",
+          "value": "（原具体案例及链接已移除）",
+          "raw_key": "案例模板示例",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "案例模板示例：（原具体案例及链接已移除）",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "模型参数测试",
+      "candidates": [
+        {
+          "key": "模型参数测试",
+          "value": "验证大语言模型工具调用参数上限",
+          "raw_key": "- 模型参数测试",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 模型参数测试：验证大语言模型工具调用参数上限",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "流程简化",
+      "candidates": [
+        {
+          "key": "流程简化",
+          "value": "工作流仅描述主题与query，标记首列字段",
+          "raw_key": "流程简化",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "流程简化：工作流仅描述主题与query，标记首列字段",
+            "location": "line:109"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态相关公式可能有问题，但是不太能确定，比如",
+      "candidates": [
+        {
+          "key": "状态相关公式可能有问题，但是不太能确定，比如",
+          "value": "如果任务状态为已完成、已取消，是否算已完成还是进行中？",
+          "raw_key": "状态相关公式可能有问题，但是不太能确定，比如",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "状态相关公式可能有问题，但是不太能确定，比如：如果任务状态为已完成、已取消，是否算已完成还是进行中？",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户反馈",
+      "candidates": [
+        {
+          "key": "用户反馈",
+          "value": "基于现有原子能力补充任务规划",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研后匹配相关市场活动 | 基于现有原子能力补充任务规划 | |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "常规提问内容深度不足，总结缺少关键方向",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "支持单表查询与循环任务后调用对应能力",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 批量查询多维数据并二次提取字段 | 支持单表查询与循环任务后调用对应能力 | |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "结合公开信息查询、客户调研等能力理论可行",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 按榜单生成客户列表并调研 | 结合公开信息查询、客户调研等能力理论可行 | |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "调用文档生成工具实现",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 基础查询与深度调研结果需整合为统一文档 | 调用文档生成工具实现 | |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "用户反馈",
+          "value": "通过prompt补充任务初始规划以强化该类信息查询",
+          "raw_key": "用户反馈",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少对特定主体信息的深入挖掘 | 通过prompt补充任务初始规划以强化该类信息查询 | |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "监控看板",
+      "candidates": [
+        {
+          "key": "监控看板",
+          "value": "部分已完成，部分开发中。",
+          "raw_key": "- 监控看板",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 监控看板：部分已完成，部分开发中。",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "简单关系表",
+      "candidates": [
+        {
+          "key": "简单关系表",
+          "value": "20Min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员B | 45min-1H | 30min-40min（相对熟悉） | 20Min |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "简单关系表",
+          "value": "20min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员A | 2H+ | 30min | 20min |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "简单关系表",
+          "value": "45min",
+          "raw_key": "简单关系表",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 人员C | 1H20min | 1H10min | 45min |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "简单问答场景",
+      "candidates": [
+        {
+          "key": "简单问答场景",
+          "value": "已达到或超越现有业务助手水平，核心优势为问题拆解与反思能力",
+          "raw_key": "简单问答场景",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "简单问答场景：已达到或超越现有业务助手水平，核心优势为问题拆解与反思能力",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "类型",
+      "candidates": [
+        {
+          "key": "类型",
+          "value": "----------------------",
+          "raw_key": "----------",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "|----------|----------------------|",
+            "location": "markdown_table_row:27"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "优化过程及结果复盘",
+          "raw_key": "项目复盘",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 项目复盘 | 优化过程及结果复盘 |",
+            "location": "markdown_table_row:26"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "存储优化相关方案",
+          "raw_key": "技术方案",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术方案 | 存储优化相关方案 |",
+            "location": "markdown_table_row:25"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "核心存储每周增量分析",
+          "raw_key": "现状梳理",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 现状梳理 | 核心存储每周增量分析 |",
+            "location": "markdown_table_row:23"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "资源优化收益预调研",
+          "raw_key": "调研文档",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 调研文档 | 资源优化收益预调研 |",
+            "location": "markdown_table_row:24"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "类型",
+          "value": "资源监控",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "类型",
+          "value": "预调研",
+          "raw_key": "类型",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "联合上游优化冗余流量，重点针对command",
+      "candidates": [
+        {
+          "key": "联合上游优化冗余流量，重点针对command",
+          "value": "6场景。",
+          "raw_key": "- 联合上游优化冗余流量，重点针对Command",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 联合上游优化冗余流量，重点针对Command=6场景。",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "补充说明",
+      "candidates": [
+        {
+          "key": "补充说明",
+          "value": "基准为现有业务助手线上效果，对比模型为基准模型",
+          "raw_key": "补充说明",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "补充说明：基准为现有业务助手线上效果，对比模型为基准模型",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "计划支持方式",
+      "candidates": [
+        {
+          "key": "计划支持方式",
+          "value": "在prompt中增加上下文信息以丰富报告分析维度",
+          "raw_key": "计划支持方式",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 客户调研 | 常规提问内容深度不足，总结缺少关键方向 | 在prompt中增加上下文信息以丰富报告分析维度 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "评判方式",
+      "candidates": [
+        {
+          "key": "评判方式",
+          "value": "待补充",
+          "raw_key": "评判方式",
+          "source_file": "Note.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "评判方式：待补充",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评测详情",
+      "candidates": [
+        {
+          "key": "评测详情",
+          "value": "内部Agent助手效果评测",
+          "raw_key": "评测详情",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "评测详情：内部Agent助手效果评测",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "调整prompt补充知识未干扰主链路，但效果有限",
+      "candidates": [
+        {
+          "key": "调整prompt补充知识未干扰主链路，但效果有限",
+          "value": "-",
+          "raw_key": "调整prompt补充知识未干扰主链路，但效果有限",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "赢单客户信息查询工具",
+      "candidates": [
+        {
+          "key": "赢单客户信息查询工具",
+          "value": "根据查询词获取赢单客户相关数据",
+          "raw_key": "- 赢单客户信息查询工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 赢单客户信息查询工具：根据查询词获取赢单客户相关数据",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "赢单客户筛选工具",
+      "candidates": [
+        {
+          "key": "赢单客户筛选工具",
+          "value": "多条件过滤赢单客户信息",
+          "raw_key": "- 赢单客户筛选工具",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 赢单客户筛选工具：多条件过滤赢单客户信息",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "进度",
+      "candidates": [
+        {
+          "key": "进度",
+          "value": "已完成",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "进度",
+          "value": "待启动",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "进度",
+          "value": "进行中",
+          "raw_key": "进度",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 冷用户过滤收益调研 | p0 | 评估过滤价值 | 进行中 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "遇到的问题",
+      "candidates": [
+        {
+          "key": "遇到的问题",
+          "value": "上下文窗口长度限制，影响复杂场景效果",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 上下文窗口长度限制，影响复杂场景效果 | 通过限制输出长度走通基础场景 | 采用分步生成+文档实时编辑模式优化 |",
+            "location": "markdown_table_row:17"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "复杂格式数据处理需额外工程适配",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 复杂格式数据处理需额外工程适配 | - | 1. 工程层优化格式转义；2. 兜底采用RPC调用处理参数 |",
+            "location": "markdown_table_row:19"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "工具调用混淆，相似功能工具易误用",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工具调用混淆，相似功能工具易误用 | 修改工具描述后，文档与客户查询可区分，但赢单客户与普通客户查询仍易混淆 | 1. 在prompt中明确术语定义；2. 合并相似工具为统一接口，通过参数区分功能 |",
+            "location": "markdown_table_row:16"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "指令遵循度不足，部分步骤未按要求执行",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 指令遵循度不足，部分步骤未按要求执行 | 调整prompt补充知识未干扰主链路，但效果有限 | 在系统prompt中引入业务任务处理策略 |",
+            "location": "markdown_table_row:18"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 缺少上下文理解，如不熟悉用户场景、专有词汇，对复杂任务处理简单 | 1. 在系统prompt中补充角色描述与业务背景知识，简单问题效果显著；2. 增加复杂任务初始规划指令，但执行不完全 | 在系统prompt中要求任务开始前先进行上下文召回 |",
+            "location": "markdown_table_row:15"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "遇到的问题",
+          "value": "高级任务编排（如循环）支持困难",
+          "raw_key": "遇到的问题",
+          "source_file": "进展.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 高级任务编排（如循环）支持困难 | - | 采用多Agent架构拆分任务独立执行 |",
+            "location": "markdown_table_row:20"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "问题",
+      "candidates": [
+        {
+          "key": "问题",
+          "value": "修正仪表盘对应的数据表引用",
+          "raw_key": "仪表盘数据来源错误",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 仪表盘数据来源错误 | 修正仪表盘对应的数据表引用 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "根据自动化名称，推测内部消息的缺失内容，进行补充",
+          "raw_key": "自动化中某字段删除，造成配置内部消息内容缺失",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 自动化中某字段删除，造成配置内部消息内容缺失 | 根据自动化名称，推测内部消息的缺失内容，进行补充 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "根据自动化名称，推测需要补充的配置项",
+          "raw_key": "自动化中缺失相关配置项",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 自动化中缺失相关配置项 | 根据自动化名称，推测需要补充的配置项 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "补充对应的权限规则配置说明",
+          "raw_key": "部分功能模块未配置权限规则",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 部分功能模块未配置权限规则 | 补充对应的权限规则配置说明 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "补充该关键节点的工作流配置",
+          "raw_key": "工作流中缺失关键节点",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 工作流中缺失关键节点 | 补充该关键节点的工作流配置 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "问题",
+          "value": "针对不同功能模块命名清楚，一目了然，也方便区分",
+          "raw_key": "仪表盘中两个功能模块都叫通用名称，但实际内容有区分",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 仪表盘中两个功能模块都叫通用名称，但实际内容有区分 | 针对不同功能模块命名清楚，一目了然，也方便区分 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "key": "附",
+      "candidates": [
+        {
+          "key": "附",
+          "value": "示例的案例模板与问题修正",
+          "raw_key": "附",
+          "source_file": "Review.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "附：示例的案例模板与问题修正",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期收益",
+      "candidates": [
+        {
+          "key": "预期收益",
+          "value": "定期检测资源使用率及增速",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 资源监控 | 存储资源利用率看板 | p0 | 定期检测资源使用率及增速 | 已完成 |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "排查流量异常",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 上游调用量看板 | p0 | 排查流量异常 | 待启动 |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "明确细分场景资源占用",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | Command=6场景细分梳理 | p1 | 明确细分场景资源占用 | 待启动 |",
+            "location": "markdown_table_row:9"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "评估压缩可行性",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 预调研 | 数据包压缩收益调研 | p0 | 评估压缩可行性 | 已完成 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预期收益",
+          "value": "评估过滤价值",
+          "raw_key": "预期收益",
+          "source_file": "存储资源治理OnePage.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| | 非活跃实体过滤收益调研 | p0 | 评估过滤价值 | 已完成 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        }
+      ]
+    }
+  ]
+}

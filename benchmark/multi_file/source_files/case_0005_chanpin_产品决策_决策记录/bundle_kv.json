@@ -1,0 +1,2793 @@
+{
+  "bundle_dir": "case_0005_chanpin_产品决策_决策记录",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "记录_35.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-04-08",
+          "raw_key": "决策日期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-04-08",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0035",
+          "raw_key": "决策编号",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "32%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：32%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "124天",
+          "raw_key": "执行周期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：124天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分32/100",
+          "raw_key": "方案A",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分32/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分64/100",
+          "raw_key": "方案B",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分64/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分31/100",
+          "raw_key": "方案C",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分31/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "111天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：111天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥204万",
+          "raw_key": "资源投入",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥204万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 2 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 2 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 35%",
+          "raw_key": "预期效果",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 35%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "记录_51.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 10 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 10 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监1",
+          "raw_key": "决策人",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-08-01",
+          "raw_key": "决策日期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-08-01",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0051",
+          "raw_key": "决策编号",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0051",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "42%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：42%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "195天",
+          "raw_key": "执行周期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：195天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分28/100",
+          "raw_key": "方案A",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分28/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分69/100",
+          "raw_key": "方案B",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分69/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分18/100",
+          "raw_key": "方案C",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分18/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "119天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：119天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品1、技术1、市场1",
+          "raw_key": "负责部门",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品1、技术1、市场1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥390万",
+          "raw_key": "资源投入",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥390万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 72%",
+          "raw_key": "预期效果",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 72%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "记录_65.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 10 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 10 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-03-06",
+          "raw_key": "决策日期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-03-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0065",
+          "raw_key": "决策编号",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0065",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "42%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：42%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "152天",
+          "raw_key": "执行周期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：152天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分56/100",
+          "raw_key": "方案A",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分56/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分46/100",
+          "raw_key": "方案B",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分46/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分75/100",
+          "raw_key": "方案C",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分75/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "91天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：91天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥305万",
+          "raw_key": "资源投入",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥305万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 36%",
+          "raw_key": "预期效果",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 36%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "记录_66.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监1",
+          "raw_key": "决策人",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-01-12",
+          "raw_key": "决策日期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-01-12",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0066",
+          "raw_key": "决策编号",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0066",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "40%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：40%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "128天",
+          "raw_key": "执行周期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：128天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分81/100",
+          "raw_key": "方案A",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分81/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分50/100",
+          "raw_key": "方案B",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分50/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分93/100",
+          "raw_key": "方案C",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分93/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "58天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：58天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品1、技术1、市场1",
+          "raw_key": "负责部门",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品1、技术1、市场1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥272万",
+          "raw_key": "资源投入",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥272万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 3 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 3 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 41%",
+          "raw_key": "预期效果",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 41%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "记录_74.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-07-27",
+          "raw_key": "决策日期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-07-27",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0074",
+          "raw_key": "决策编号",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0074",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "32%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：32%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "135天",
+          "raw_key": "执行周期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：135天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分10/100",
+          "raw_key": "方案A",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分10/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分63/100",
+          "raw_key": "方案B",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分63/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分56/100",
+          "raw_key": "方案C",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分56/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "109天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：109天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥441万",
+          "raw_key": "资源投入",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥441万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 54%",
+          "raw_key": "预期效果",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 54%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "主要风险",
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "执行风险)",
+          "raw_key": "主要风险",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：执行风险)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "关键步骤",
+      "candidates": [
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 10 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 10 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 10 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 10 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键步骤",
+          "value": "共 11 步",
+          "raw_key": "关键步骤",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键步骤：共 11 步",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内部制约",
+      "candidates": [
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内部制约",
+          "value": "资源有限)",
+          "raw_key": "内部制约",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内部制约：资源有限)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "决策主题",
+      "candidates": [
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策主题",
+          "value": "功能取舍)",
+          "raw_key": "决策主题",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策主题：功能取舍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "决策人",
+      "candidates": [
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监1",
+          "raw_key": "决策人",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监1",
+          "raw_key": "决策人",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策人",
+          "value": "产品总监3",
+          "raw_key": "决策人",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策人：产品总监3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "决策反思",
+      "candidates": [
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策反思",
+          "value": "待后续总结",
+          "raw_key": "决策反思",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策反思：待后续总结",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "决策日期",
+      "candidates": [
+        {
+          "key": "决策日期",
+          "value": "2024-04-08",
+          "raw_key": "决策日期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-04-08",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-08-01",
+          "raw_key": "决策日期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-08-01",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-03-06",
+          "raw_key": "决策日期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-03-06",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-01-12",
+          "raw_key": "决策日期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-01-12",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策日期",
+          "value": "2024-07-27",
+          "raw_key": "决策日期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策日期：2024-07-27",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "决策编号",
+      "candidates": [
+        {
+          "key": "决策编号",
+          "value": "DEC-0035",
+          "raw_key": "决策编号",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0051",
+          "raw_key": "决策编号",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0051",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0065",
+          "raw_key": "决策编号",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0065",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0066",
+          "raw_key": "决策编号",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0066",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "决策编号",
+          "value": "DEC-0074",
+          "raw_key": "决策编号",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "决策编号：DEC-0074",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "市场机遇",
+      "candidates": [
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场机遇",
+          "value": "用户需求)",
+          "raw_key": "市场机遇",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场机遇：用户需求)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "应对措施",
+      "candidates": [
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "已准备备选方案",
+          "raw_key": "应对措施",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：已准备备选方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "影响范围",
+      "candidates": [
+        {
+          "key": "影响范围",
+          "value": "32%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：32%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "42%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：42%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "42%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：42%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "40%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：40%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响范围",
+          "value": "32%的用户",
+          "raw_key": "影响范围",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响范围：32%的用户",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "成功指标",
+      "candidates": [
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成功指标",
+          "value": "用户增长)",
+          "raw_key": "成功指标",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成功指标：用户增长)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "执行周期",
+      "candidates": [
+        {
+          "key": "执行周期",
+          "value": "124天",
+          "raw_key": "执行周期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：124天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "195天",
+          "raw_key": "执行周期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：195天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "152天",
+          "raw_key": "执行周期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：152天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "128天",
+          "raw_key": "执行周期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：128天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行周期",
+          "value": "135天",
+          "raw_key": "执行周期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行周期：135天",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "方案a",
+      "candidates": [
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分32/100",
+          "raw_key": "方案A",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分32/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分28/100",
+          "raw_key": "方案A",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分28/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分56/100",
+          "raw_key": "方案A",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分56/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分81/100",
+          "raw_key": "方案A",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分81/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案a",
+          "value": "快速迭代) - 评分10/100",
+          "raw_key": "方案A",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案A：快速迭代) - 评分10/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "方案b",
+      "candidates": [
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分64/100",
+          "raw_key": "方案B",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分64/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分69/100",
+          "raw_key": "方案B",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分69/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分46/100",
+          "raw_key": "方案B",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分46/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分50/100",
+          "raw_key": "方案B",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分50/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案b",
+          "value": "功能优化) - 评分63/100",
+          "raw_key": "方案B",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案B：功能优化) - 评分63/100",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "方案c",
+      "candidates": [
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分31/100",
+          "raw_key": "方案C",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分31/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分18/100",
+          "raw_key": "方案C",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分18/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分75/100",
+          "raw_key": "方案C",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分75/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分93/100",
+          "raw_key": "方案C",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分93/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "方案c",
+          "value": "战略转型) - 评分56/100",
+          "raw_key": "方案C",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "方案C：战略转型) - 评分56/100",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评估周期",
+      "candidates": [
+        {
+          "key": "评估周期",
+          "value": "111天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：111天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "119天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：119天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "91天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：91天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "58天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：58天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估周期",
+          "value": "109天后评估",
+          "raw_key": "评估周期",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估周期：109天后评估",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "负责部门",
+      "candidates": [
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品1、技术1、市场1",
+          "raw_key": "负责部门",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品1、技术1、市场1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品1、技术1、市场1",
+          "raw_key": "负责部门",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品1、技术1、市场1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责部门",
+          "value": "产品3、技术3、市场3",
+          "raw_key": "负责部门",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "负责部门：产品3、技术3、市场3",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "资源投入",
+      "candidates": [
+        {
+          "key": "资源投入",
+          "value": "¥204万",
+          "raw_key": "资源投入",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥204万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥390万",
+          "raw_key": "资源投入",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥390万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥305万",
+          "raw_key": "资源投入",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥305万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥272万",
+          "raw_key": "资源投入",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥272万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源投入",
+          "value": "¥441万",
+          "raw_key": "资源投入",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源投入：¥441万",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "采纳方案",
+      "candidates": [
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采纳方案",
+          "value": "方案A)",
+          "raw_key": "采纳方案",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "采纳方案：方案A)",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "里程碑",
+      "candidates": [
+        {
+          "key": "里程碑",
+          "value": "已制定 2 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 2 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 3 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 3 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "里程碑",
+          "value": "已制定 5 个",
+          "raw_key": "里程碑",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "里程碑：已制定 5 个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期效果",
+      "candidates": [
+        {
+          "key": "预期效果",
+          "value": "提升 35%",
+          "raw_key": "预期效果",
+          "source_file": "记录_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 35%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 72%",
+          "raw_key": "预期效果",
+          "source_file": "记录_51.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 72%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 36%",
+          "raw_key": "预期效果",
+          "source_file": "记录_65.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 36%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 41%",
+          "raw_key": "预期效果",
+          "source_file": "记录_66.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 41%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期效果",
+          "value": "提升 54%",
+          "raw_key": "预期效果",
+          "source_file": "记录_74.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期效果：提升 54%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

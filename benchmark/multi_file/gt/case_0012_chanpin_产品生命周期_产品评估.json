@@ -1,0 +1,36 @@
+{
+  "excel": "case_0012_chanpin_产品生命周期_产品评估__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "当前阶段",
+      "value_cell": "A6:D7",
+      "value": "导入期"
+    },
+    {
+      "label": "当前阶段建议",
+      "value_cell": "F6:I7",
+      "value": "加大投入"
+    },
+    {
+      "label": "主要风险",
+      "value_cell": "A12:D13",
+      "value": "市场饱和"
+    },
+    {
+      "label": "风险等级",
+      "value_cell": "F12:I13",
+      "value": "低)"
+    },
+    {
+      "label": "缓解措施",
+      "value_cell": "K12:N13",
+      "value": "已制定应对方案"
+    },
+    {
+      "label": "后续发展方向",
+      "value_cell": "A18:D19",
+      "value": "扩大市场"
+    }
+  ]
+}

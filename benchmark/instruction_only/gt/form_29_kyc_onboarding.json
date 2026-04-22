@@ -1,0 +1,286 @@
+﻿{
+    "excel":  "form_29_kyc_onboarding.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name (as on ID)",
+                      "value_cell":  "A11:L11",
+                      "value":  "Jonathan Edward Sterling"
+                  },
+                  {
+                      "label":  "Date of Birth mm/dd/yyyy",
+                      "value_cell":  "M11:X11",
+                      "value":  "05/14/1982"
+                  },
+                  {
+                      "label":  "Nationality",
+                      "value_cell":  "A13:L13",
+                      "value":  "Canadian"
+                  },
+                  {
+                      "label":  "Country of Birth",
+                      "value_cell":  "M13:X13",
+                      "value":  "Canada"
+                  },
+                  {
+                      "label":  "National ID / Passport Number",
+                      "value_cell":  "A15:L15",
+                      "value":  "AB1234567"
+                  },
+                  {
+                      "label":  "Passport Expiry Date",
+                      "value_cell":  "M15:X15",
+                      "value":  "11/20/2030"
+                  },
+                  {
+                      "label":  "Tax Identification Number (TIN)",
+                      "value_cell":  "A17:L17",
+                      "value":  "987-654-321"
+                  },
+                  {
+                      "label":  "Country of Tax Residence",
+                      "value_cell":  "M17:X17",
+                      "value":  "Canada"
+                  },
+                  {
+                      "label":  "Residential Address (must match ID)",
+                      "value_cell":  "A19:X19",
+                      "value":  "452 Maplewood Drive, Suite 4B"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A21:H21",
+                      "value":  "Toronto"
+                  },
+                  {
+                      "label":  "State / Province",
+                      "value_cell":  "I21:P21",
+                      "value":  "Ontario"
+                  },
+                  {
+                      "label":  "ZIP / Postal Code",
+                      "value_cell":  "Q21:X21",
+                      "value":  "M5V 2T6"
+                  },
+                  {
+                      "label":  "Country of Residence",
+                      "value_cell":  "A23:L23",
+                      "value":  "Canada"
+                  },
+                  {
+                      "label":  "Time at Current Address (years/months)",
+                      "value_cell":  "M23:X23",
+                      "value":  "5 years 2 months"
+                  },
+                  {
+                      "label":  "Phone Number",
+                      "value_cell":  "A25:L25",
+                      "value":  "+1-416-555-0198"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "M25:X25",
+                      "value":  "j.sterling@email.com"
+                  },
+                  {
+                      "label":  "Citizen",
+                      "value_cell":  "I27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Permanent Resident",
+                      "value_cell":  "M27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Work Visa",
+                      "value_cell":  "Q27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Student Visa",
+                      "value_cell":  "U27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employed",
+                      "value_cell":  "I31",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Self-Employed",
+                      "value_cell":  "M31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Business Owner",
+                      "value_cell":  "Q31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Retired",
+                      "value_cell":  "U31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employer / Business Name",
+                      "value_cell":  "A32:L32",
+                      "value":  "Northern Tech Solutions"
+                  },
+                  {
+                      "label":  "Industry / Sector",
+                      "value_cell":  "M32:X32",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Job Title / Role",
+                      "value_cell":  "A34:L34",
+                      "value":  "Senior Project Manager"
+                  },
+                  {
+                      "label":  "Annual Income $",
+                      "value_cell":  "M34:X34",
+                      "value":  "145,000"
+                  },
+                  {
+                      "label":  "Source of Funds / Wealth (describe primary sources)",
+                      "value_cell":  "A36:X36",
+                      "value":  "Salary and performance bonuses"
+                  },
+                  {
+                      "label":  "Expected Monthly Transaction Volume $",
+                      "value_cell":  "A38:L38",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "Expected Transaction Frequency",
+                      "value_cell":  "M38:X38",
+                      "value":  "Monthly"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "I43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "M43",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Related to PEP",
+                      "value_cell":  "Q43",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "If PEP 鈥?describe position and country  (enhanced due diligence required)",
+                      "value_cell":  "A44:X44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No Match",
+                      "value_cell":  "I46",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Possible Match 鈥?under review",
+                      "value_cell":  "M46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Clear Match 鈥?escalate",
+                      "value_cell":  "Q46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Passport",
+                      "value_cell":  "H50:I50",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "National ID",
+                      "value_cell":  "N50:O50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Driver\u0027s Licence",
+                      "value_cell":  "T50:U50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Document Type",
+                      "value_cell":  "A51:H51",
+                      "value":  "Passport"
+                  },
+                  {
+                      "label":  "Document Number",
+                      "value_cell":  "I51:P51",
+                      "value":  "AB1234567"
+                  },
+                  {
+                      "label":  "Expiry Date",
+                      "value_cell":  "Q51:X51",
+                      "value":  "11/20/2030"
+                  },
+                  {
+                      "label":  "Verified By  (Officer Name)",
+                      "value_cell":  "A53:L53",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Verification Date",
+                      "value_cell":  "M53:X53",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Low",
+                      "value_cell":  "I55",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Medium",
+                      "value_cell":  "M55",
+                      "value":  null
+                  },
+                  {
+                      "label":  "High",
+                      "value_cell":  "Q55",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Unacceptable 鈥?decline",
+                      "value_cell":  "U55",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Compliance Officer",
+                      "value_cell":  "A62:M62",
+                      "value":  "Michael Rossi"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q62:X62",
+                      "value":  "10/13/2023"
+                  },
+                  {
+                      "label":  "Relationship Manager",
+                      "value_cell":  "A64:M64",
+                      "value":  "Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q64:X64",
+                      "value":  "10/13/2023"
+                  },
+                  {
+                      "label":  "Chief Compliance Officer (if High Risk)",
+                      "value_cell":  "A66:M66",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q66:X66",
+                      "value":  null
+                  }
+              ]
+}

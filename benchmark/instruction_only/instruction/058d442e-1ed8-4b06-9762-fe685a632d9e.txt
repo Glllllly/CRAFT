@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Commune :",
+      "value_text": "Lyon"
+    },
+    {
+      "key_text": "Département :",
+      "value_text": "Rhône"
+    },
+    {
+      "key_text": "Population :",
+      "value_text": "516092"
+    },
+    {
+      "key_text": "Structure intercommunale (oui / non ) :",
+      "value_text": "oui"
+    },
+    {
+      "key_text": "Si \"oui\", nom de la structure :",
+      "value_text": "Métropole de Lyon"
+    },
+    {
+      "key_text": "Chef de service (NOM, Prénom) :",
+      "value_text": "DUPONT, Jean-Marc"
+    },
+    {
+      "key_text": "Catégorie (A /B ou C):",
+      "value_text": "A"
+    },
+    {
+      "key_text": "Courriel :",
+      "value_text": "jm.dupont@lyon.fr"
+    }
+  ]
+}
+
+Narrative:
+This document is a 2008 activity report for the communal archive services of Lyon, in the Rhône department. The commune has a population of 516,092 and is part of an intercommunal structure known as the Métropole de Lyon. The head of the service is Jean-Marc Dupont, a Category A official, who can be reached at jm.dupont@lyon.fr. This form was required to be returned to the Archives de France by February 27, 2009.

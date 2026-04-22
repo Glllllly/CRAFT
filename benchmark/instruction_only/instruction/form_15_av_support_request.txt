@@ -1,0 +1,146 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Event Name / Meeting Title:",
+      "value_text": "Annual Strategic Planning Summit"
+    },
+    {
+      "key_text": "Event Date:",
+      "value_text": "October 24, 2023"
+    },
+    {
+      "key_text": "Start Time:",
+      "value_text": "09:00 AM"
+    },
+    {
+      "key_text": "End Time:",
+      "value_text": "04:00 PM"
+    },
+    {
+      "key_text": "Setup Time Needed:",
+      "value_text": "08:00 AM"
+    },
+    {
+      "key_text": "Location / Room / Building:",
+      "value_text": "Grand Hall, Science Center"
+    },
+    {
+      "key_text": "Organiser Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Dept:",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "555-0128"
+    },
+    {
+      "key_text": "Organiser E-mail:",
+      "value_text": "s.jenkins@campus.edu"
+    },
+    {
+      "key_text": "Expected Attendance:",
+      "value_text": "75"
+    },
+    {
+      "key_text": "VIP / Exec in Attendance?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Projector",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Large LED Screen",
+      "value_text": null
+    },
+    {
+      "key_text": "Dual Screen",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Lapel Mic",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Handheld Mic",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Podium Mic",
+      "value_text": null
+    },
+    {
+      "key_text": "Zoom",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Teams",
+      "value_text": null
+    },
+    {
+      "key_text": "WebEx",
+      "value_text": null
+    },
+    {
+      "key_text": "Recording",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Live Streaming",
+      "value_text": null
+    },
+    {
+      "key_text": "Laptop Loan",
+      "value_text": null
+    },
+    {
+      "key_text": "Special AV Requirements (describe):",
+      "value_text": "Need external audio input for video playback."
+    },
+    {
+      "key_text": "Presenter will bring own laptop?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "File format of presentation  (PPT / PDF / Keynote / Other):",
+      "value_text": "PPT"
+    },
+    {
+      "key_text": "Slide count (approx.):",
+      "value_text": "45"
+    },
+    {
+      "key_text": "AV Tech Assigned:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Confirmed Date:",
+      "value_text": "October 20, 2023"
+    },
+    {
+      "key_text": "Organiser Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 15, 2023"
+    },
+    {
+      "key_text": "AV Services Coordinator",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 16, 2023"
+    }
+  ]
+}
+
+Narrative:
+This technology support request is for the "Annual Strategic Planning Summit," scheduled to take place on October 24, 2023, in the Grand Hall of the Science Center. The event is organized by Sarah Jenkins from the Marketing department (555-0128, s.jenkins@campus.edu). The session will run from 9:00 AM to 4:00 PM, with a setup time requested for 8:00 AM. We are expecting 75 attendees, including VIPs. 
+
+For equipment, we require a projector, dual screens, a lapel mic, and a handheld mic. We also need Zoom capabilities and professional recording services. I have noted a special requirement for external audio input for video playback. The presenter will be using their own laptop with a PPT presentation containing approximately 45 slides. The request has been assigned to technician Marcus Thorne, with a confirmation date of October 20, 2023. The form was signed by Sarah Jenkins on October 15 and approved by AV Coordinator Robert Miller on October 16, 2023.

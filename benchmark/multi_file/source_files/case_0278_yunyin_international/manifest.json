@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0278_yunyin_international",
+    "tenant":  "yunyin",
+    "topic":  "international",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\international",
+    "total_files_in_source_dir":  35,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\international\\market_30.md",
+                      "copied_name":  "market_30.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1931
+                  },
+                  {
+                      "source_rel":  "yunyin\\international\\market_3.md",
+                      "copied_name":  "market_3.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1931
+                  },
+                  {
+                      "source_rel":  "yunyin\\international\\market_32.md",
+                      "copied_name":  "market_32.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1931
+                  },
+                  {
+                      "source_rel":  "yunyin\\international\\market_31.md",
+                      "copied_name":  "market_31.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1931
+                  },
+                  {
+                      "source_rel":  "yunyin\\international\\market_27.md",
+                      "copied_name":  "market_27.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1931
+                  }
+              ]
+}

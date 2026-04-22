@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0191_houqin_检查清单",
+    "tenant":  "houqin",
+    "topic":  "检查清单",
+    "subtopic":  "",
+    "source_dir":  "houqin\\检查清单",
+    "total_files_in_source_dir":  58,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\检查清单\\费用统计_5824.json",
+                      "copied_name":  "费用统计_5824.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\检查清单\\登记表_7299.csv",
+                      "copied_name":  "登记表_7299.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1368
+                  },
+                  {
+                      "source_rel":  "houqin\\检查清单\\检查清单_19.txt",
+                      "copied_name":  "检查清单_19.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  938
+                  },
+                  {
+                      "source_rel":  "houqin\\检查清单\\维护计划_2653.eml",
+                      "copied_name":  "维护计划_2653.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\检查清单\\工作计划_2482.csv",
+                      "copied_name":  "工作计划_2482.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

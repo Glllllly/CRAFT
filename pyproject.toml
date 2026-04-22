@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "craft-pipeline"
+version = "0.1.0"
+description = "Self-contained spreadsheet filling pipeline extracted into a standalone repository."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "CRAFT Maintainers" }
+]
+
+[project.scripts]
+craft-pipeline = "craft.pipeline_agent_runner:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

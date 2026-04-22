@@ -1,0 +1,3403 @@
+{
+  "bundle_dir": "case_0264_yunyin_activities_planning",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "event_plan_16.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-17",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-17",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 16",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 16",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "12448500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 12448500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 16",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 16",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 16",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 16",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 16",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 16",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 16",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 16",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "event_plan_20.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-21",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 20",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 20",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "10777500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 10777500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 20",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 20",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 20",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 20",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 20",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 20",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 20",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 20",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "event_plan_46.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-19",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-19",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 46",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 46",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "11753500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 11753500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 46",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 46",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 46",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 46",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 46",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 46",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 46",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 46",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "event_plan_54.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-27",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 54",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 54",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "13734000",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 13734000",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 54",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 54",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 54",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 54",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 54",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 54",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 54",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 54",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "event_plan_55.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-28",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 55",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 55",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "12027500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 12027500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 55",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 55",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 55",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 55",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 55",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 55",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 55",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 55",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "**created**",
+      "candidates": [
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**created**",
+          "value": "2024-02-10",
+          "raw_key": "**Created**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Created**: 2024-02-10",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**date**",
+      "candidates": [
+        {
+          "key": "**date**",
+          "value": "2024-02-17",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-17",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-21",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-19",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-19",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-27",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-28",
+          "raw_key": "- **Date**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Date**: 2024-02-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**eventname**",
+      "candidates": [
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 16",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 16",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 20",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 20",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 46",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 46",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 54",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 54",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**eventname**",
+          "value": "Product Launch Event 55",
+          "raw_key": "- **Event Name**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Event Name**: Product Launch Event 55",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**expectedattendees**",
+      "candidates": [
+        {
+          "key": "**expectedattendees**",
+          "value": "12448500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 12448500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "10777500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 10777500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "11753500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 11753500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "13734000",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 13734000",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**expectedattendees**",
+          "value": "12027500",
+          "raw_key": "- **Expected Attendees**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Expected Attendees**: 12027500",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**lastupdated**",
+      "candidates": [
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**lastupdated**",
+          "value": "2024-02-10",
+          "raw_key": "**Last Updated**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Last Updated**: 2024-02-10",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**location**",
+      "candidates": [
+        {
+          "key": "**location**",
+          "value": "Virtual / City 16",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 16",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 20",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 20",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 46",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 46",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 54",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 54",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Virtual / City 55",
+          "raw_key": "- **Location**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Location**: Virtual / City 55",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**status**",
+      "candidates": [
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active Planning",
+          "raw_key": "**Status**",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active Planning",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "09",
+      "candidates": [
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "00 - Welcome and introduction",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:00 - Welcome and introduction",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "15 - Product demo",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:15 - Product demo",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "09",
+          "value": "45 - Customer success stories",
+          "raw_key": "- 09",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 09:45 - Customer success stories",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "10",
+      "candidates": [
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "15 - Q&A session",
+          "raw_key": "- 10",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:15 - Q&A session",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "10",
+          "value": "45 - Networking and socializing",
+          "raw_key": "- 10",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 10:45 - Networking and socializing",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "attendancerate",
+      "candidates": [
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "attendancerate",
+          "value": "80%+",
+          "raw_key": "- Attendance rate",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Attendance rate: 80%+",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "catering",
+      "candidates": [
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "catering",
+          "value": ",000",
+          "raw_key": "- Catering",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Catering: ,000",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "contingency",
+      "candidates": [
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contingency",
+          "value": ",000",
+          "raw_key": "- Contingency",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Contingency: ,000",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "emailopenrate",
+      "candidates": [
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "40%+",
+          "raw_key": "- Email open rate",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email open rate: 40%+",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "eventmanager",
+      "candidates": [
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 16",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 16",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 20",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 20",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 46",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 46",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 54",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 54",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "eventmanager",
+          "value": "Team Lead 55",
+          "raw_key": "- Event Manager",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Event Manager: Team Lead 55",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "leadcapture",
+      "candidates": [
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "leadcapture",
+          "value": "500+",
+          "raw_key": "- Lead capture",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lead capture: 500+",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "logistics",
+      "candidates": [
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "logistics",
+          "value": "Operations Team",
+          "raw_key": "- Logistics",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Logistics: Operations Team",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketing",
+      "candidates": [
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketing",
+          "value": ",000",
+          "raw_key": "- Marketing",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing: ,000",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketinglead",
+      "candidates": [
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 16",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 16",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 20",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 20",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 46",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 46",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 54",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 54",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketinglead",
+          "value": "Marketing Manager 55",
+          "raw_key": "- Marketing Lead",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Lead: Marketing Manager 55",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "netpromoterscore",
+      "candidates": [
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "netpromoterscore",
+          "value": "8+/10",
+          "raw_key": "- Net Promoter Score",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Net Promoter Score: 8+/10",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "personnel",
+      "candidates": [
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "personnel",
+          "value": ",000",
+          "raw_key": "- Personnel",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Personnel: ,000",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "socialmediamentions",
+      "candidates": [
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediamentions",
+          "value": "1,000+",
+          "raw_key": "- Social media mentions",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social media mentions: 1,000+",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "technicallead",
+      "candidates": [
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 16",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 16",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 20",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 20",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 46",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 46",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 54",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 54",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Tech Lead 55",
+          "raw_key": "- Technical Lead",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Tech Lead 55",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "candidates": [
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technology",
+          "value": ",000",
+          "raw_key": "- Technology",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technology: ,000",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "venue",
+      "candidates": [
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_16.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_46.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "venue",
+          "value": ",000",
+          "raw_key": "- Venue",
+          "source_file": "event_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Venue: ,000",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

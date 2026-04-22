@@ -1,0 +1,64 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name:",
+      "value_text": "Miller, Sarah Jane"
+    },
+    {
+      "key_text": "Datatel ID Number:",
+      "value_text": "0123456"
+    },
+    {
+      "key_text": "Department Name:",
+      "value_text": "Information Technology"
+    },
+    {
+      "key_text": "VACATION LEAVE",
+      "value_text": "16 Hours: 05/15/2023, 05/16/2023"
+    },
+    {
+      "key_text": "SICK LEAVE",
+      "value_text": "8 Hours: 05/22/2023"
+    },
+    {
+      "key_text": "COMMUNITY SERVICE LEAVE",
+      "value_text": null
+    },
+    {
+      "key_text": "BEREAVEMENT LEAVE",
+      "value_text": null
+    },
+    {
+      "key_text": "In-State",
+      "value_text": null
+    },
+    {
+      "key_text": "Out-of-State",
+      "value_text": null
+    },
+    {
+      "key_text": "JURY DUTY",
+      "value_text": null
+    },
+    {
+      "key_text": "Other Comments:",
+      "value_text": "Taking a short vacation and one sick day."
+    },
+    {
+      "key_text": "Employee's Signature",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "06/01/2023"
+    },
+    {
+      "key_text": "Supervisor's Signature *",
+      "value_text": "Robert Smith"
+    }
+  ]
+}
+
+Narrative:
+This is a Leave Report for Exempt Staff submitted by Sarah Jane Miller, an employee in the Information Technology department with Datatel ID number 0123456. The report covers leave taken in the previous month. Sarah reported 16 hours of vacation leave for May 15th and 16th, and 8 hours of sick leave for May 22nd. No other leave types, such as community service, bereavement, or jury duty, were used. In the comments section, she noted she was taking a short vacation and one sick day. The form was signed by Sarah on June 1st, 2023, and approved with a signature from her supervisor, Robert Smith.

@@ -1,0 +1,116 @@
+{
+  "excel": "case_0094_houqin_备件库存__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "53416"
+    },
+    {
+      "label": "编号",
+      "value_cell": "F7:I8",
+      "value": "SPARE-007"
+    },
+    {
+      "label": "title",
+      "value_cell": "K7:N8",
+      "value": "维护计划_2888"
+    },
+    {
+      "label": "type",
+      "value_cell": "A11:D12",
+      "value": "维护计划"
+    },
+    {
+      "label": "设备类型",
+      "value_cell": "F11:I12",
+      "value": "打印机"
+    },
+    {
+      "label": "status",
+      "value_cell": "K11:N12",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A15:D16",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F15:I16",
+      "value": "紧急"
+    },
+    {
+      "label": "建档时间",
+      "value_cell": "K15:N16",
+      "value": "2024-01-08"
+    },
+    {
+      "label": "date",
+      "value_cell": "A21:D22",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F21:I22",
+      "value": "2026-02-10T05:30:31.246207"
+    },
+    {
+      "label": "creator",
+      "value_cell": "K21:N22",
+      "value": "刘林"
+    },
+    {
+      "label": "from",
+      "value_cell": "A25:D26",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F25:I26",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "管理员",
+      "value_cell": "K25:N26",
+      "value": "备件员3"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A31:D32",
+      "value": "费用统计"
+    },
+    {
+      "label": "2.硒鼓标准型号库存",
+      "value_cell": "F31:I32",
+      "value": "33个 - 价格：¥193/个"
+    },
+    {
+      "label": "3.转印带标准规格库存",
+      "value_cell": "K31:N32",
+      "value": "16个 - 价格：¥320/个"
+    },
+    {
+      "label": "4.定影膜耗材类库存",
+      "value_cell": "A35:D36",
+      "value": "13个 - 价格：¥149/个"
+    },
+    {
+      "label": "总价值",
+      "value_cell": "F35:I36",
+      "value": "¥40409"
+    },
+    {
+      "label": "库位编号",
+      "value_cell": "K35:N36",
+      "value": "SPA-07"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A41:D42",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

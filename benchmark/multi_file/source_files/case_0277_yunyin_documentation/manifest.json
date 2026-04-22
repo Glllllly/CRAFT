@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0277_yunyin_documentation",
+    "tenant":  "yunyin",
+    "topic":  "documentation",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\documentation",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\documentation\\operations_guide_4.md",
+                      "copied_name":  "operations_guide_4.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1244
+                  },
+                  {
+                      "source_rel":  "yunyin\\documentation\\operations_guide_39.md",
+                      "copied_name":  "operations_guide_39.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1244
+                  },
+                  {
+                      "source_rel":  "yunyin\\documentation\\operations_guide_38.md",
+                      "copied_name":  "operations_guide_38.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1244
+                  },
+                  {
+                      "source_rel":  "yunyin\\documentation\\operations_guide_42.md",
+                      "copied_name":  "operations_guide_42.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1244
+                  },
+                  {
+                      "source_rel":  "yunyin\\documentation\\operations_guide_41.md",
+                      "copied_name":  "operations_guide_41.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1244
+                  }
+              ]
+}

@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "GOAL",
+      "value_text": "Improve student reading comprehension scores"
+    },
+    {
+      "key_text": "TEACHER",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "October 14, 2023"
+    },
+    {
+      "key_text": "SPECIFIC",
+      "value_text": "Increase the average score on district-wide reading comprehension assessments by 15%."
+    },
+    {
+      "key_text": "MEASURABLE",
+      "value_text": "Track progress using bi-weekly formative assessments and compare baseline data to final quarterly test results."
+    },
+    {
+      "key_text": "ACHIEVABLE",
+      "value_text": "Implement a new 30-minute daily guided reading session and utilize supplemental digital literacy tools."
+    },
+    {
+      "key_text": "RELEVANT",
+      "value_text": "Strong reading skills are fundamental for success across all academic subjects and long-term learning outcomes."
+    },
+    {
+      "key_text": "TIME BOUND",
+      "value_text": "The objective will be achieved by the end of the current semester, December 15, 2023."
+    }
+  ]
+}
+
+Narrative:
+For this academic goal-setting form at Westlake Academy, teacher Sarah Jenkins has outlined a plan to improve student reading comprehension. Dated October 14, 2023, the primary goal is to boost reading scores. Specifically, Sarah aims to increase average scores on district-wide assessments by 15%. To ensure it is measurable, she will track progress through bi-weekly formative assessments compared against baseline data. She believes this is achievable by introducing 30-minute daily guided reading sessions alongside new digital literacy tools. This goal is considered relevant because reading proficiency is essential for success in all subjects. Finally, the target is time-bound, with a completion deadline set for the end of the semester on December 15, 2023.

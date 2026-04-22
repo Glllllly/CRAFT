@@ -1,0 +1,181 @@
+﻿{
+    "excel":  "0596d96d-5267-40ab-a288-25804ea48cf1.xlsx",
+    "sheet":  "RSVN Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A12:D12",
+                      "value":  "Miller"
+                  },
+                  {
+                      "label":  "Given Name",
+                      "value_cell":  "E12:H12",
+                      "value":  "Jonathan"
+                  },
+                  {
+                      "label":  "Title",
+                      "value_cell":  "I12:J12",
+                      "value":  "Dr."
+                  },
+                  {
+                      "label":  "Hilton HHonors#",
+                      "value_cell":  "C13:D13",
+                      "value":  "123456789"
+                  },
+                  {
+                      "label":  "Frequent Flyer Program:",
+                      "value_cell":  "H13:J13",
+                      "value":  "United MileagePlus"
+                  },
+                  {
+                      "label":  "Frequent Flyer Number:",
+                      "value_cell":  "H14:J14",
+                      "value":  "UA987654321"
+                  },
+                  {
+                      "label":  "Passport #",
+                      "value_cell":  "C15:D15",
+                      "value":  "A12345678"
+                  },
+                  {
+                      "label":  "Nationality:",
+                      "value_cell":  "H15:J15",
+                      "value":  "American"
+                  },
+                  {
+                      "label":  "Date of Birth: (DD/MM/YYYY)",
+                      "value_cell":  "H16:J16",
+                      "value":  "15/05/1975"
+                  },
+                  {
+                      "label":  "Job Title/Dept.",
+                      "value_cell":  "C17:J17",
+                      "value":  "Director of Admissions"
+                  },
+                  {
+                      "label":  "Company",
+                      "value_cell":  "C18:J18",
+                      "value":  "Stanford University"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "C19:J19",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Tel No.",
+                      "value_cell":  "D20:F20",
+                      "value":  "+1 650 723 2300"
+                  },
+                  {
+                      "label":  "Fax No.",
+                      "value_cell":  "H20:J20",
+                      "value":  "+1 650 725 1234"
+                  },
+                  {
+                      "label":  "Email address:",
+                      "value_cell":  "C21:J21",
+                      "value":  "j.miller@stanford.edu"
+                  },
+                  {
+                      "label":  "Arrival Date",
+                      "value_cell":  "A23:B23",
+                      "value":  "26/09/2013"
+                  },
+                  {
+                      "label":  "Flight No.",
+                      "value_cell":  "C23:D23",
+                      "value":  "UA869"
+                  },
+                  {
+                      "label":  "Time",
+                      "value_cell":  "E23",
+                      "value":  "18:45"
+                  },
+                  {
+                      "label":  "Departure Date",
+                      "value_cell":  "F23:G23",
+                      "value":  "29/09/2013"
+                  },
+                  {
+                      "label":  "Flight No.",
+                      "value_cell":  "H23:I23",
+                      "value":  "UA862"
+                  },
+                  {
+                      "label":  "Time",
+                      "value_cell":  "J23",
+                      "value":  "12:20"
+                  },
+                  {
+                      "label":  "Arrival (Y/N)",
+                      "value_cell":  "C26",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Departure (Y/N)",
+                      "value_cell":  "G26",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "One (1) Superior Room at HK$2,800*",
+                      "value_cell":  "A30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Smoking / Non-Smoking",
+                      "value_cell":  "D35:E35",
+                      "value":  "Non-Smoking"
+                  },
+                  {
+                      "label":  "King-bed / Twin-bed",
+                      "value_cell":  "I35:J35",
+                      "value":  "King-bed"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "C37:D38",
+                      "value":  "Jonathan Miller"
+                  },
+                  {
+                      "label":  "King-bed / Twin-bed",
+                      "value_cell":  "I35:J35",
+                      "value":  "King-bed"
+                  },
+                  {
+                      "label":  "Type of Credit Card:",
+                      "value_cell":  "H36:J36",
+                      "value":  "Visa"
+                  },
+                  {
+                      "label":  "Credit Card #",
+                      "value_cell":  "H37:J37",
+                      "value":  "4111 2222 3333 4444"
+                  },
+                  {
+                      "label":  "Expiry Date (MM/YY):",
+                      "value_cell":  "I38:J38",
+                      "value":  "12/15"
+                  },
+                  {
+                      "label":  "Confirmation Number:",
+                      "value_cell":  "C43:E43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Confirmed by:",
+                      "value_cell":  "I43:J43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Comments:",
+                      "value_cell":  "C45:F45",
+                      "value":  "Requesting a room on a high floor if available."
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "I45:J45",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,139 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:31 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "工作计划_5332",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "publish_date",
+                                   "selected_value":  "2024-02-18",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:31.739837",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "70168",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "赵六@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "赵六@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "工作计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "孙七",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "审批表",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库管部",
+                                   "selected_value":  "负责库存管理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "财务部",
+                                   "selected_value":  "负责费用审核",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购部",
+                                   "selected_value":  "负责采购执行",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "反馈时间",
+                                   "selected_value":  "2024-02-20日",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "完成截止",
+                                   "selected_value":  "2024-02-10日",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "执行期限",
+                                   "selected_value":  "2024-02-10日前",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "人力资源部",
+                                   "selected_value":  "负责考核",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "电话",
+                                   "selected_value":  "010-XXXX-XXXX",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "邮箱",
+                                   "selected_value":  "houqin@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "联系人",
+                                   "selected_value":  "部门主管",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "发布部门",
+                                   "selected_value":  "后勤部",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "通知类型",
+                                   "selected_value":  "工作通知",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "通知编号",
+                                   "selected_value":  "NOTICE-012",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,76 @@
+﻿{
+    "excel":  "05ad183e-425c-44d2-a4e0-73859a211262.xlsx",
+    "sheet":  "STEP #1",
+    "pairs":  [
+                  {
+                      "label":  "STATE:",
+                      "value_cell":  "G39",
+                      "value":  "California"
+                  },
+                  {
+                      "label":  "CITY/COUNTY:",
+                      "value_cell":  "G40:L40",
+                      "value":  "Los Angeles"
+                  },
+                  {
+                      "label":  "AGE RANGE:",
+                      "value_cell":  "G41:L41",
+                      "value":  "17-18"
+                  },
+                  {
+                      "label":  "GENDER:",
+                      "value_cell":  "G42",
+                      "value":  "Female"
+                  },
+                  {
+                      "label":  "OTHER INFO:",
+                      "value_cell":  "G43:K43",
+                      "value":  "First-generation college student"
+                  },
+                  {
+                      "label":  "TALENTS:",
+                      "value_cell":  "G45:L47",
+                      "value":  "Classical piano, competitive swimming"
+                  },
+                  {
+                      "label":  "CERTIFICATIONS:",
+                      "value_cell":  "G49:L50",
+                      "value":  "CPR/First Aid, Seal of Biliteracy (Spanish)"
+                  },
+                  {
+                      "label":  "UNIQUE ABILITIES:",
+                      "value_cell":  "G52:L53",
+                      "value":  "Fluent in three languages, advanced coding skills in Python"
+                  },
+                  {
+                      "label":  "AWARDS:",
+                      "value_cell":  "G55:L56",
+                      "value":  "National Merit Scholar, AP Scholar with Distinction"
+                  },
+                  {
+                      "label":  "HONOR ROLL:",
+                      "value_cell":  "G57:L58",
+                      "value":  "All four years of high school"
+                  },
+                  {
+                      "label":  "CLASS RANKING:",
+                      "value_cell":  "G59",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "OUT OF",
+                      "value_cell":  "I59",
+                      "value":  "450"
+                  },
+                  {
+                      "label":  "STUDENT:",
+                      "value_cell":  "G61:L63",
+                      "value":  "Jane Doe"
+                  },
+                  {
+                      "label":  "PARENT(S):",
+                      "value_cell":  "G64:L66",
+                      "value":  "John and Mary Doe"
+                  }
+              ]
+}

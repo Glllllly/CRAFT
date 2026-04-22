@@ -1,0 +1,88 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Department Name:",
+      "value_text": "Information Technology"
+    },
+    {
+      "key_text": "Department Code:",
+      "value_text": "IT-900"
+    },
+    {
+      "key_text": "Requested By:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Position:",
+      "value_text": "IT Director"
+    },
+    {
+      "key_text": "Date of Request:",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Fiscal Year:",
+      "value_text": "2024"
+    },
+    {
+      "key_text": "Transfer FROM – Account Code:",
+      "value_text": "OPS-502"
+    },
+    {
+      "key_text": "Transfer FROM – Account Name:",
+      "value_text": "Hardware Refresh"
+    },
+    {
+      "key_text": "Transfer TO – Account Code:",
+      "value_text": "SFT-301"
+    },
+    {
+      "key_text": "Transfer TO – Account Name:",
+      "value_text": "Software Licensing"
+    },
+    {
+      "key_text": "Transfer Amount  $:",
+      "value_text": "15,000.00"
+    },
+    {
+      "key_text": "Effective Date:",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Reason for Transfer:",
+      "value_text": "Additional funding required for enterprise cybersecurity software subscription renewal."
+    },
+    {
+      "key_text": "Impact on Remaining Budget:",
+      "value_text": "Hardware refresh timeline will be adjusted to Q3 to accommodate this priority software expense."
+    },
+    {
+      "key_text": "Department Manager",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date (Manager)",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Budget Analyst / Controller",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (Analyst)",
+      "value_text": "2023-10-17"
+    },
+    {
+      "key_text": "CFO",
+      "value_text": "David Wu"
+    },
+    {
+      "key_text": "Date (CFO)",
+      "value_text": "2023-10-18"
+    }
+  ]
+}
+
+Narrative:
+This budget transfer request was submitted on October 15, 2023, by Sarah Jenkins, the IT Director for the Information Technology department (code IT-900) for the 2024 fiscal year. The request seeks to move $15,000.00 from the Hardware Refresh account (OPS-502) to the Software Licensing account (SFT-301), effective November 1, 2023. The reason for this transfer is to cover the costs of an enterprise cybersecurity software subscription renewal. Consequently, the hardware refresh schedule will be delayed until the third quarter. The request has been approved by the department manager, Marcus Thorne, on October 16, followed by the budget analyst Elena Rodriguez on October 17, and finally signed off by the CFO, David Wu, on October 18, 2023.

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0276_yunyin_data-analytics_reports",
+    "tenant":  "yunyin",
+    "topic":  "data-analytics",
+    "subtopic":  "reports",
+    "source_dir":  "yunyin\\data-analytics\\reports",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\data-analytics\\reports\\analytics_report_59.md",
+                      "copied_name":  "analytics_report_59.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1437
+                  },
+                  {
+                      "source_rel":  "yunyin\\data-analytics\\reports\\analytics_report_34.md",
+                      "copied_name":  "analytics_report_34.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1437
+                  },
+                  {
+                      "source_rel":  "yunyin\\data-analytics\\reports\\analytics_report_24.md",
+                      "copied_name":  "analytics_report_24.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1436
+                  },
+                  {
+                      "source_rel":  "yunyin\\data-analytics\\reports\\analytics_report_28.md",
+                      "copied_name":  "analytics_report_28.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1436
+                  },
+                  {
+                      "source_rel":  "yunyin\\data-analytics\\reports\\analytics_report_41.md",
+                      "copied_name":  "analytics_report_41.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1436
+                  }
+              ]
+}

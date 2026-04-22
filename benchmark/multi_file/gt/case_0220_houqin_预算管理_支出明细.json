@@ -1,0 +1,96 @@
+{
+  "excel": "case_0220_houqin_预算管理_支出明细__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "34097"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "费用统计_4284"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "费用统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "M9:Q9",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:32.676827"
+    },
+    {
+      "label": "creator",
+      "value_cell": "M12:Q12",
+      "value": "郑十"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "D17:H17",
+      "value": "陈芳"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "M17:Q17",
+      "value": "生产部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "D20:H20",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "M20:Q20",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D23:H23",
+      "value": "物品清单"
+    },
+    {
+      "label": "status",
+      "value_cell": "D28:H28",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M28:Q28",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D31:H31",
+      "value": "紧急"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "M31:Q31",
+      "value": "待审批"
+    },
+    {
+      "label": "from",
+      "value_cell": "D36:H36",
+      "value": "周八@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M36:Q36",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D41:H41",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

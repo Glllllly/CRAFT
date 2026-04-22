@@ -1,0 +1,24 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "目标",
+                                   "selected_value":  "新产品开发",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "主要风险",
+                                   "selected_value":  "人力不足",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "应对措施",
+                                   "selected_value":  "建立应急方案",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险等级",
+                                   "selected_value":  "低",
+                                   "conflict":  false
+                               }
+                           ]
+}

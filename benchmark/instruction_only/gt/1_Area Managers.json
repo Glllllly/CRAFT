@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "1_Area Managers.xlsx",
+    "sheet":  "South Fish",
+    "pairs":  [
+                  {
+                      "label":  "Counterparty Name:",
+                      "value_cell":  "B3:D3",
+                      "value":  "Pacific Gas \u0026 Electric"
+                  },
+                  {
+                      "label":  "Originator:",
+                      "value_cell":  "B4:D4",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Deal Start Date:",
+                      "value_cell":  "B6",
+                      "value":  "01/01/2024"
+                  },
+                  {
+                      "label":  "Deal End Date:",
+                      "value_cell":  "B7",
+                      "value":  "12/31/2024"
+                  },
+                  {
+                      "label":  "Term Duration (months):",
+                      "value_cell":  "B8",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "Fuel Rate %:",
+                      "value_cell":  "B10",
+                      "value":  "0%"
+                  },
+                  {
+                      "label":  "Deal Date:",
+                      "value_cell":  "G3",
+                      "value":  "12/15/2023"
+                  },
+                  {
+                      "label":  "Deal ID #:",
+                      "value_cell":  "G4",
+                      "value":  "EN-99482-X"
+                  },
+                  {
+                      "label":  "Unit of Measure:",
+                      "value_cell":  "G6",
+                      "value":  "MWH"
+                  },
+                  {
+                      "label":  "Volume (Monthly/Daily):",
+                      "value_cell":  "G7",
+                      "value":  "Monthly"
+                  },
+                  {
+                      "label":  "Price:",
+                      "value_cell":  "G9",
+                      "value":  "$42.50"
+                  },
+                  {
+                      "label":  "Buy/Sell:",
+                      "value_cell":  "G10",
+                      "value":  "Buy"
+                  }
+              ]
+}

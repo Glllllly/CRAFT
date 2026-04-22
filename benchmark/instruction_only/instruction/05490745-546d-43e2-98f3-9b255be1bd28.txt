@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Charter:",
+      "value_text": "Lighthouse Charter School"
+    },
+    {
+      "key_text": "Employee Name:",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Employee Title:",
+      "value_text": "Reading Interventionist"
+    },
+    {
+      "key_text": "Fiscal Year:",
+      "value_text": "2023-2024"
+    },
+    {
+      "key_text": "(Employee Name)",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "(Beginning Date ex. Month/Date/Year)",
+      "value_text": "10/01/2023"
+    },
+    {
+      "key_text": "(Ending Date ex. Month/Date/Year)",
+      "value_text": "10/31/2023"
+    },
+    {
+      "key_text": "(Federal Funding Source/Grant)",
+      "value_text": "Title I, Part A"
+    },
+    {
+      "key_text": "Employee Signature:",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "11/02/2023"
+    },
+    {
+      "key_text": "Supervisor’s Signature:",
+      "value_text": "Marcus V. Chen"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "11/03/2023"
+    }
+  ]
+}
+
+Narrative:
+This Federal Funding Compliance: Payroll Certification form is for Elena Rodriguez, a Reading Interventionist at Lighthouse Charter School, for the 2023-2024 fiscal year. In the certification section, Elena Rodriguez declares that 100% of her work time from October 1, 2023, to October 31, 2023, was spent on Title I, Part A duties and responsibilities. Elena signed the form on November 2, 2023, and her supervisor, Marcus V. Chen, provided his signature and dated it November 3, 2023.

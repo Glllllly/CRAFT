@@ -1,0 +1,176 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Student Full Name",
+      "value_text": "Alexander J. Sterling"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "88492015"
+    },
+    {
+      "key_text": "Date of Birth mm/dd/yyyy",
+      "value_text": "05/12/2002"
+    },
+    {
+      "key_text": "Programme / Degree",
+      "value_text": "B.Sc. Computer Science"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "aj.sterling@university.edu"
+    },
+    {
+      "key_text": "Phone Number",
+      "value_text": "555-019-8823"
+    },
+    {
+      "key_text": "Academic Advisor Name",
+      "value_text": "Dr. Helena Vance"
+    },
+    {
+      "key_text": "Advisor E-mail",
+      "value_text": "h.vance@university.edu"
+    },
+    {
+      "key_text": "Term / Semester",
+      "value_text": "Fall 2023"
+    },
+    {
+      "key_text": "Academic Year",
+      "value_text": "2023-2024"
+    },
+    {
+      "key_text": "Course Title (1) to Withdraw From",
+      "value_text": "Advanced Data Structures"
+    },
+    {
+      "key_text": "Course Code",
+      "value_text": "CS301"
+    },
+    {
+      "key_text": "Section / CRN",
+      "value_text": "A1 / 44920"
+    },
+    {
+      "key_text": "Credit Hours",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Instructor Name",
+      "value_text": "Prof. Marcus Thorne"
+    },
+    {
+      "key_text": "Course Title (2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Course Code (2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Section / CRN (2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Partial (some courses only)",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Total (all courses this term)",
+      "value_text": null
+    },
+    {
+      "key_text": "Medical Withdrawal",
+      "value_text": null
+    },
+    {
+      "key_text": "Medical / Health",
+      "value_text": null
+    },
+    {
+      "key_text": "Financial",
+      "value_text": null
+    },
+    {
+      "key_text": "Family Emergency",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Explanation / Additional Context",
+      "value_text": "Unexpected family crisis requiring my immediate presence at home out of state."
+    },
+    {
+      "key_text": "Supporting Documentation Attached? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Document Type",
+      "value_text": "Family Medical Certification"
+    },
+    {
+      "key_text": "Withdrawal Date  (determines refund)",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "Refund Percentage  (Registrar Use)",
+      "value_text": null
+    },
+    {
+      "key_text": "Scholarship / Aid Affected?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Financial Aid Counsellor Consulted?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Academic Standing Before Withdrawal",
+      "value_text": "Good Standing"
+    },
+    {
+      "key_text": "Expected Standing After Withdrawal",
+      "value_text": "Good Standing"
+    },
+    {
+      "key_text": "Next Term",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Following Academic Year",
+      "value_text": null
+    },
+    {
+      "key_text": "Undecided",
+      "value_text": null
+    },
+    {
+      "key_text": "Student Signature",
+      "value_text": "Alexander J. Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/16/2023"
+    },
+    {
+      "key_text": "Academic Advisor",
+      "value_text": "Helena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/17/2023"
+    },
+    {
+      "key_text": "Registrar Officer",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Alexander J. Sterling, a Computer Science student (ID 88492015) born on May 12, 2002, is requesting a partial course withdrawal for the Fall 2023 semester. He needs to withdraw from the "Advanced Data Structures" course (CS301, Section A1/44920, 4 credit hours) taught by Prof. Marcus Thorne. His primary reason for this request is a family emergency, for which he has attached supporting documentation regarding the family medical situation. He has already consulted with his academic advisor, Dr. Helena Vance, and a financial aid counsellor regarding the impact on his scholarship. Alexander plans to return for the next term and maintains good academic standing. He signed and dated the request on October 16, 2023, and his advisor signed it on October 17, 2023. The registrar's office section remains blank for official processing.

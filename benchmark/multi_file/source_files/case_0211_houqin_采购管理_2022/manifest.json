@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0211_houqin_采购管理_2022",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "2022",
+    "source_dir":  "houqin\\采购管理\\2022",
+    "total_files_in_source_dir":  34,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\2022\\培训计划_9042.json",
+                      "copied_name":  "培训计划_9042.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2022\\会议记录_5914.csv",
+                      "copied_name":  "会议记录_5914.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2022\\采购申请_7608.txt",
+                      "copied_name":  "采购申请_7608.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2022\\工作报告_8350.eml",
+                      "copied_name":  "工作报告_8350.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2022\\反馈表_6363.csv",
+                      "copied_name":  "反馈表_6363.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

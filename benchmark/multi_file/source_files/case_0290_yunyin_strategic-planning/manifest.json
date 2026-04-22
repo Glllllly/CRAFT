@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0290_yunyin_strategic-planning",
+    "tenant":  "yunyin",
+    "topic":  "strategic-planning",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\strategic-planning",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\strategic-planning\\strategic_plan_33.md",
+                      "copied_name":  "strategic_plan_33.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1982
+                  },
+                  {
+                      "source_rel":  "yunyin\\strategic-planning\\strategic_plan_32.md",
+                      "copied_name":  "strategic_plan_32.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1982
+                  },
+                  {
+                      "source_rel":  "yunyin\\strategic-planning\\strategic_plan_34.md",
+                      "copied_name":  "strategic_plan_34.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1982
+                  },
+                  {
+                      "source_rel":  "yunyin\\strategic-planning\\strategic_plan_36.md",
+                      "copied_name":  "strategic_plan_36.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1982
+                  },
+                  {
+                      "source_rel":  "yunyin\\strategic-planning\\strategic_plan_35.md",
+                      "copied_name":  "strategic_plan_35.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1982
+                  }
+              ]
+}

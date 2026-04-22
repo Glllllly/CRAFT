@@ -1,0 +1,106 @@
+{
+  "excel": "case_0091_houqin_固定资产_资产登记__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "27157"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "物资申请_1165"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "物资申请"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A11:D12",
+      "value": "备件申请"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F11:I12",
+      "value": "高"
+    },
+    {
+      "label": "status",
+      "value_cell": "K11:N12",
+      "value": "待审批"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "A15:D16",
+      "value": "临时"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A21:D22",
+      "value": "2026-02-10T05:30:30.412401"
+    },
+    {
+      "label": "date",
+      "value_cell": "F21:I22",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "K21:N22",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "A25:D26",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F25:I26",
+      "value": "李明"
+    },
+    {
+      "label": "报告人",
+      "value_cell": "A31:D32",
+      "value": "张三"
+    },
+    {
+      "label": "汇报部门",
+      "value_cell": "F31:I32",
+      "value": "采购部"
+    },
+    {
+      "label": "报告时间",
+      "value_cell": "K31:N32",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "主要成果",
+      "value_cell": "A35:D36",
+      "value": "圆满完成各项任务"
+    },
+    {
+      "label": "关键指标",
+      "value_cell": "F35:I36",
+      "value": "完成率94%"
+    },
+    {
+      "label": "存在问题",
+      "value_cell": "K35:N36",
+      "value": "持续改进中"
+    },
+    {
+      "label": "下一步计划",
+      "value_cell": "A39:D40",
+      "value": "继续深化执行"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A45:D46",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

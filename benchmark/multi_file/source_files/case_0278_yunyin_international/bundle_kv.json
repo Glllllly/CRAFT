@@ -1,0 +1,4918 @@
+{
+  "bundle_dir": "case_0278_yunyin_international",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "market_27.md",
+      "source_type": "md",
+      "candidate_count": 39,
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "market_3.md",
+      "source_type": "md",
+      "candidate_count": 39,
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "market_30.md",
+      "source_type": "md",
+      "candidate_count": 39,
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "market_31.md",
+      "source_type": "md",
+      "candidate_count": 39,
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "market_32.md",
+      "source_type": "md",
+      "candidate_count": 39,
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "####phase1",
+      "candidates": [
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase1",
+          "value": "Research and Planning (Months 1-3)",
+          "raw_key": "#### Phase 1",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 1: Research and Planning (Months 1-3)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "####phase2",
+      "candidates": [
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase2",
+          "value": "Partner Selection (Months 2-4)",
+          "raw_key": "#### Phase 2",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 2: Partner Selection (Months 2-4)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "####phase3",
+      "candidates": [
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "####phase3",
+          "value": "Launch (Months 5-6)",
+          "raw_key": "#### Phase 3",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "#### Phase 3: Launch (Months 5-6)",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##market",
+      "candidates": [
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##market",
+          "value": "Country ${i}",
+          "raw_key": "## Market",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Market: Country ${i}",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**budget**",
+      "candidates": [
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**budget**",
+          "value": "$50K-500K annually",
+          "raw_key": "- **Budget**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Budget**: $50K-500K annually",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**companysize**",
+      "candidates": [
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**companysize**",
+          "value": "100-5000 employees",
+          "raw_key": "- **Company Size**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Company Size**: 100-5000 employees",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**compliance**",
+      "candidates": [
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**compliance**",
+          "value": "Local regulations compliance",
+          "raw_key": "- **Compliance**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Compliance**: Local regulations compliance",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**culture**",
+      "candidates": [
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**culture**",
+          "value": "Cultural adaptation",
+          "raw_key": "- **Culture**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Culture**: Cultural adaptation",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**currency**",
+      "candidates": [
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**currency**",
+          "value": "Local currency transactions",
+          "raw_key": "- **Currency**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Currency**: Local currency transactions",
+            "location": "line:45"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**decisionmaker**",
+      "candidates": [
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**decisionmaker**",
+          "value": "Marketing Director / CMO",
+          "raw_key": "- **Decision Maker**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Decision Maker**: Marketing Director / CMO",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**digitalpenetration**",
+      "candidates": [
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**digitalpenetration**",
+          "value": "70%+",
+          "raw_key": "- **Digital Penetration**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Digital Penetration**: 70%+",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**distributor**",
+      "candidates": [
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributor**",
+          "value": "Distributor Company ${i}",
+          "raw_key": "- **Distributor**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Distributor**: Distributor Company ${i}",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**documentdate**",
+      "candidates": [
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentdate**",
+          "value": "2024-02-10",
+          "raw_key": "**Document Date**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Date**: 2024-02-10",
+            "location": "line:74"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**ecommercegrowth**",
+      "candidates": [
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**ecommercegrowth**",
+          "value": "20%+ annually",
+          "raw_key": "- **E-commerce Growth**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **E-commerce Growth**: 20%+ annually",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**gdpgrowth**",
+      "candidates": [
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**gdpgrowth**",
+          "value": "5-7% annually",
+          "raw_key": "- **GDP Growth**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **GDP Growth**: 5-7% annually",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**industry**",
+      "candidates": [
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**industry**",
+          "value": "Technology, Finance, Retail",
+          "raw_key": "- **Industry**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Industry**: Technology, Finance, Retail",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**language**",
+      "candidates": [
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**language**",
+          "value": "Local language support",
+          "raw_key": "- **Language**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Language**: Local language support",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**localpartner**",
+      "candidates": [
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**localpartner**",
+          "value": "Partner Company ${i}",
+          "raw_key": "- **Local Partner**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Local Partner**: Partner Company ${i}",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**nextreview**",
+      "candidates": [
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**nextreview**",
+          "value": "2024-05-10",
+          "raw_key": "**Next Review**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Next Review**: 2024-05-10",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**payment**",
+      "candidates": [
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**payment**",
+          "value": "Local payment methods",
+          "raw_key": "- **Payment**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Payment**: Local payment methods",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**population**",
+      "candidates": [
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**population**",
+          "value": "50+ million",
+          "raw_key": "- **Population**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Population**: 50+ million",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**reseller**",
+      "candidates": [
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reseller**",
+          "value": "Reseller Partners",
+          "raw_key": "- **Reseller**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Reseller**: Reseller Partners",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**status**",
+      "candidates": [
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Active",
+          "raw_key": "**Status**",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Active",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "breakeven",
+      "candidates": [
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "breakeven",
+          "value": "Month 18",
+          "raw_key": "- Break-even",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Break-even: Month 18",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "competition",
+      "candidates": [
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competition",
+          "value": "Differentiation strategy",
+          "raw_key": "- Competition",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competition: Differentiation strategy",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "competitiveintensity",
+      "candidates": [
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "competitiveintensity",
+          "value": "Moderate",
+          "raw_key": "- Competitive Intensity",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Competitive Intensity: Moderate",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "currencyfluctuation",
+      "candidates": [
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "currencyfluctuation",
+          "value": "Hedging strategy",
+          "raw_key": "- Currency fluctuation",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Currency fluctuation: Hedging strategy",
+            "location": "line:70"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customeracquisition",
+      "candidates": [
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisition",
+          "value": "50+ customers",
+          "raw_key": "- Customer acquisition",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer acquisition: 50+ customers",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customersatisfaction",
+      "candidates": [
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "4.5+/5",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 4.5+/5",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "growthpotential",
+      "candidates": [
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "growthpotential",
+          "value": "High",
+          "raw_key": "- Growth Potential",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Growth Potential: High",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketshare",
+      "candidates": [
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketshare",
+          "value": "5%",
+          "raw_key": "- Market share",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market share: 5%",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketsize",
+      "candidates": [
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketsize",
+          "value": "$2-5B annually",
+          "raw_key": "- Market Size",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Market Size: $2-5B annually",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "partnerperformance",
+      "candidates": [
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "partnerperformance",
+          "value": "SLA agreements",
+          "raw_key": "- Partner performance",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Partner performance: SLA agreements",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "regulatorychanges",
+      "candidates": [
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatorychanges",
+          "value": "Legal compliance team",
+          "raw_key": "- Regulatory changes",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory changes: Legal compliance team",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "regulatoryenvironment",
+      "candidates": [
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "regulatoryenvironment",
+          "value": "Favorable",
+          "raw_key": "- Regulatory Environment",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Regulatory Environment: Favorable",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "revenuetarget",
+      "candidates": [
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuetarget",
+          "value": "$500K",
+          "raw_key": "- Revenue target",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue target: $500K",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "year1investment",
+      "candidates": [
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1investment",
+          "value": "$500K",
+          "raw_key": "- Year 1 Investment",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Investment: $500K",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "year1revenue",
+      "candidates": [
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year1revenue",
+          "value": "$300K",
+          "raw_key": "- Year 1 Revenue",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 1 Revenue: $300K",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "year2revenue",
+      "candidates": [
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_27.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_3.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_30.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_31.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "year2revenue",
+          "value": "$1M",
+          "raw_key": "- Year 2 Revenue",
+          "source_file": "market_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year 2 Revenue: $1M",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

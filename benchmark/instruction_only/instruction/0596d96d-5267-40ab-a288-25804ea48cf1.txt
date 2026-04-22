@@ -1,0 +1,146 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Last Name",
+      "value_text": "Miller"
+    },
+    {
+      "key_text": "Given Name",
+      "value_text": "Jonathan"
+    },
+    {
+      "key_text": "Title",
+      "value_text": "Dr."
+    },
+    {
+      "key_text": "Hilton HHonors#",
+      "value_text": "123456789"
+    },
+    {
+      "key_text": "Frequent Flyer Program:",
+      "value_text": "United MileagePlus"
+    },
+    {
+      "key_text": "Frequent Flyer Number:",
+      "value_text": "UA987654321"
+    },
+    {
+      "key_text": "Passport #",
+      "value_text": "A12345678"
+    },
+    {
+      "key_text": "Nationality:",
+      "value_text": "American"
+    },
+    {
+      "key_text": "Date of Birth: (DD/MM/YYYY)",
+      "value_text": "15/05/1975"
+    },
+    {
+      "key_text": "Job Title/Dept.",
+      "value_text": "Director of Admissions"
+    },
+    {
+      "key_text": "Company",
+      "value_text": "Stanford University"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Tel No.",
+      "value_text": "+1 650 723 2300"
+    },
+    {
+      "key_text": "Fax No.",
+      "value_text": "+1 650 725 1234"
+    },
+    {
+      "key_text": "Email address:",
+      "value_text": "j.miller@stanford.edu"
+    },
+    {
+      "key_text": "Arrival Date",
+      "value_text": "26/09/2013"
+    },
+    {
+      "key_text": "Flight No.",
+      "value_text": "UA869"
+    },
+    {
+      "key_text": "Time",
+      "value_text": "18:45"
+    },
+    {
+      "key_text": "Departure Date",
+      "value_text": "29/09/2013"
+    },
+    {
+      "key_text": "Flight No.",
+      "value_text": "UA862"
+    },
+    {
+      "key_text": "Time",
+      "value_text": "12:20"
+    },
+    {
+      "key_text": "Arrival (Y/N)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Departure (Y/N)",
+      "value_text": "N"
+    },
+    {
+      "key_text": "One (1) Superior Room at HK$2,800*",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Smoking / Non-Smoking",
+      "value_text": "Non-Smoking"
+    },
+    {
+      "key_text": "King-bed / Twin-bed",
+      "value_text": "King-bed"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Type of Credit Card:",
+      "value_text": "Visa"
+    },
+    {
+      "key_text": "Credit Card #",
+      "value_text": "4111 2222 3333 4444"
+    },
+    {
+      "key_text": "Expiry Date (MM/YY):",
+      "value_text": "12/15"
+    },
+    {
+      "key_text": "Confirmation Number:",
+      "value_text": null
+    },
+    {
+      "key_text": "Confirmed by:",
+      "value_text": null
+    },
+    {
+      "key_text": "Comments:",
+      "value_text": "Requesting a room on a high floor if available."
+    },
+    {
+      "key_text": "Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Dr. Jonathan Miller, the Director of Admissions at Stanford University, has submitted a reservation form for the Conrad Hong Kong to attend the US Higher Education Fair. Dr. Miller, an American national born on May 15, 1975, provided his passport number A12345678 and contact details, including his email j.miller@stanford.edu. He is arriving from the USA on September 26, 2013, on flight UA869 at 6:45 PM and has requested the hotel's limousine airport transfer. His departure is scheduled for September 29, 2013, on flight UA862 at 12:20 PM, without a return transfer. 
+
+For his stay, he selected a non-smoking Superior Room with a king-sized bed at the fair's special rate of HK$2,800 per night. He included his Hilton HHonors number 123456789 and United MileagePlus frequent flyer information. The reservation is guaranteed with a Visa card ending in 4444, expiring in December 2015. In the comments section, he noted a preference for a room on a high floor. The hotel-use fields for confirmation number and date remain blank pending processing.

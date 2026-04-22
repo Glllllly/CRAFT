@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "form_15_equipment_loan.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name:",
+                      "value_cell":  "F6:I6",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Employee ID:",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8829"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "F7:I7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Manager Name:",
+                      "value_cell":  "M7:P7",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Contact Phone:",
+                      "value_cell":  "F8:I8",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Date of Request:",
+                      "value_cell":  "M8:P8",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Equipment Name / Description:",
+                      "value_cell":  "F11:I11",
+                      "value":  "MacBook Pro 16-inch"
+                  },
+                  {
+                      "label":  "Asset Tag / Serial No.:",
+                      "value_cell":  "M11:P11",
+                      "value":  "ASSET-99021"
+                  },
+                  {
+                      "label":  "Loan Start Date:",
+                      "value_cell":  "F12:I12",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Expected Return Date:",
+                      "value_cell":  "M12:P12",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Condition at Time of Loan:",
+                      "value_cell":  "F13:I13",
+                      "value":  "Excellent"
+                  },
+                  {
+                      "label":  "Replacement Value  $:",
+                      "value_cell":  "M13:P13",
+                      "value":  "2,499.00"
+                  },
+                  {
+                      "label":  "Purpose of Loan:",
+                      "value_cell":  "F14:P14",
+                      "value":  "Client presentation off-site"
+                  },
+                  {
+                      "label":  "Off-Site Use Required  Y / N:",
+                      "value_cell":  "F15:P15",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Asset / Facilities Manager",
+                      "value_cell":  "A21:J21",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M21:P21",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A23:J23",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M23:P23",
+                      "value":  "2023-10-13"
+                  }
+              ]
+}

@@ -1,0 +1,24 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "状态",
+                                   "selected_value":  "通过)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "严重级别",
+                                   "selected_value":  "严重)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "修复状态",
+                                   "selected_value":  "待修复)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "测试类型",
+                                   "selected_value":  "功能测试)",
+                                   "conflict":  false
+                               }
+                           ]
+}

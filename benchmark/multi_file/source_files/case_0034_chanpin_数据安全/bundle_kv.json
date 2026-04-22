@@ -1,0 +1,2793 @@
+{
+  "bundle_dir": "case_0034_chanpin_数据安全",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "安全报告_18.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "2起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：2起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "4起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：4起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 302分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 302分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 164分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 164分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "74/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：74/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥113万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥113万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年10月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年10月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0018",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0018",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "0起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：0起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 64分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 64分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "9020人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：9020人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "87%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：87%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "0起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：0起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "安全报告_23.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "3起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：3起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "1起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：1起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "6起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：6起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 359分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 359分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 115分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 115分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全4",
+          "raw_key": "安全官",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "93/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：93/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥506万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥506万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年10月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年10月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0023",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0023",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "0起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：0起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 85分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 85分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "1824人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：1824人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "1起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：1起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "93%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：93%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "1起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：1起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "安全报告_42.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "1起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：1起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "1起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：1起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "2起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：2起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 220分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 220分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 162分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 162分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "75/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：75/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "7起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：7起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥262万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥262万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年05月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年05月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0042",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0042",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 36分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 36分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "10549人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：10549人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "99%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：99%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "1起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：1起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "安全报告_6.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "1起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：1起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "4起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：4起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 295分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 295分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "0起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：0起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 85分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 85分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "61/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：61/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥103万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥103万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年08月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年08月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0006",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0006",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 31分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 31分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "10506人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：10506人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "3起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：3起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "93%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：93%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "2起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：2起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "安全报告_8.txt",
+      "source_type": "txt",
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "2起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：2起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "2起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：2起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 180分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 180分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "2起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：2起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 100分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 100分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全1",
+          "raw_key": "安全官",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "77/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：77/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥541万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥541万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年06月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年06月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0008",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0008",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 61分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 61分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "3261人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：3261人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "98%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：98%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "0起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：0起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "gdpr合规",
+      "candidates": [
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "gdpr合规",
+          "value": "完全合规)",
+          "raw_key": "GDPR合规",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "GDPR合规：完全合规)",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "一般事件",
+      "candidates": [
+        {
+          "key": "一般事件",
+          "value": "2起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：2起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "3起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：3起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "1起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：1起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "1起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：1起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "一般事件",
+          "value": "2起",
+          "raw_key": "一般事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般事件：2起",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "下月重点",
+      "candidates": [
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下月重点",
+          "value": "加强 员工培训)",
+          "raw_key": "下月重点",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下月重点：加强 员工培训)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "严重事件",
+      "candidates": [
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "1起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：1起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "1起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：1起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重事件",
+          "value": "0起",
+          "raw_key": "严重事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重事件：0起",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "信息事件",
+      "candidates": [
+        {
+          "key": "信息事件",
+          "value": "4起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：4起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "6起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：6起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "2起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：2起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "4起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：4起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息事件",
+          "value": "2起",
+          "raw_key": "信息事件",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息事件：2起",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "信息安全等级",
+      "candidates": [
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "信息安全等级",
+          "value": "A级)",
+          "raw_key": "信息安全等级",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "信息安全等级：A级)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "修复时间",
+      "candidates": [
+        {
+          "key": "修复时间",
+          "value": "平均 302分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 302分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 359分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 359分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 220分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 220分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 295分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 295分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复时间",
+          "value": "平均 180分钟",
+          "raw_key": "修复时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复时间：平均 180分钟",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "其他问题",
+      "candidates": [
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "1起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：1起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "0起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：0起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他问题",
+          "value": "2起",
+          "raw_key": "其他问题",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "其他问题：2起",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "响应时间",
+      "candidates": [
+        {
+          "key": "响应时间",
+          "value": "平均 164分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 164分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 115分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 115分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 162分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 162分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 85分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 85分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "响应时间",
+          "value": "平均 100分钟",
+          "raw_key": "响应时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "响应时间：平均 100分钟",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "安全官",
+      "candidates": [
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全4",
+          "raw_key": "安全官",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全3",
+          "raw_key": "安全官",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全官",
+          "value": "安全1",
+          "raw_key": "安全官",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全官：安全1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "安全评分",
+      "candidates": [
+        {
+          "key": "安全评分",
+          "value": "74/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：74/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "93/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：93/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "75/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：75/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "61/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：61/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全评分",
+          "value": "77/100",
+          "raw_key": "安全评分",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全评分：77/100",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "已部署",
+      "candidates": [
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已部署",
+          "value": "防火墙)",
+          "raw_key": "已部署",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已部署：防火墙)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总事件数",
+      "candidates": [
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "7起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：7起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总事件数",
+          "value": "10起",
+          "raw_key": "总事件数",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总事件数：10起",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "投入预算",
+      "candidates": [
+        {
+          "key": "投入预算",
+          "value": "¥113万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥113万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥506万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥506万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥262万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥262万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥103万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥103万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "投入预算",
+          "value": "¥541万",
+          "raw_key": "投入预算",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "投入预算：¥541万",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告期间",
+      "candidates": [
+        {
+          "key": "报告期间",
+          "value": "2024年10月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年10月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年10月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年10月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年05月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年05月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年08月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年08月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期间",
+          "value": "2024年06月",
+          "raw_key": "报告期间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期间：2024年06月",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告编号",
+      "candidates": [
+        {
+          "key": "报告编号",
+          "value": "SEC-0018",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0018",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0023",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0023",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0042",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0042",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0006",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0006",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "SEC-0008",
+          "raw_key": "报告编号",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：SEC-0008",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "数据泄露",
+      "candidates": [
+        {
+          "key": "数据泄露",
+          "value": "0起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：0起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "0起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：0起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据泄露",
+          "value": "4起",
+          "raw_key": "数据泄露",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据泄露：4起",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "检测时间",
+      "candidates": [
+        {
+          "key": "检测时间",
+          "value": "平均 64分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 64分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 85分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 85分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 36分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 36分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 31分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 31分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检测时间",
+          "value": "平均 61分钟",
+          "raw_key": "检测时间",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检测时间：平均 61分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户影响",
+      "candidates": [
+        {
+          "key": "用户影响",
+          "value": "9020人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：9020人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "1824人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：1824人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "10549人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：10549人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "10506人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：10506人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户影响",
+          "value": "3261人",
+          "raw_key": "用户影响",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户影响：3261人",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "系统故障",
+      "candidates": [
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "1起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：1起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "3起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：3起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统故障",
+          "value": "0起",
+          "raw_key": "系统故障",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统故障：0起",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "覆盖率",
+      "candidates": [
+        {
+          "key": "覆盖率",
+          "value": "87%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：87%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "93%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：93%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "99%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：99%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "93%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：93%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "98%",
+          "raw_key": "覆盖率",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：98%",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "黑客攻击",
+      "candidates": [
+        {
+          "key": "黑客攻击",
+          "value": "0起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_18.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：0起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "1起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_23.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：1起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "1起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：1起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "2起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_6.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：2起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "黑客攻击",
+          "value": "0起",
+          "raw_key": "黑客攻击",
+          "source_file": "安全报告_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "黑客攻击：0起",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

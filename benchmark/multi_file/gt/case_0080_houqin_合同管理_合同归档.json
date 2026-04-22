@@ -1,0 +1,96 @@
+{
+  "excel": "case_0080_houqin_合同管理_合同归档__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "15418"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "工作日志_4256"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "工作日志"
+    },
+    {
+      "label": "date",
+      "value_cell": "M9:Q9",
+      "value": "Tue, 10 Feb 2026 05:30:33 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:33.054856"
+    },
+    {
+      "label": "creator",
+      "value_cell": "M12:Q12",
+      "value": "赵六"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D15:H15",
+      "value": "临时"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "D20:H20",
+      "value": "孙七"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "M20:Q20",
+      "value": "质控部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "D23:H23",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "M23:Q23",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "from",
+      "value_cell": "D28:H28",
+      "value": "王军@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M28:Q28",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D31:H31",
+      "value": "数据统计"
+    },
+    {
+      "label": "status",
+      "value_cell": "D36:H36",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M36:Q36",
+      "value": "高"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "D39:H39",
+      "value": "待审批"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M39:Q39",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

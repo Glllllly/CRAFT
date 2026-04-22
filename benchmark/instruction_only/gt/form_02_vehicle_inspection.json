@@ -1,0 +1,121 @@
+﻿{
+    "excel":  "form_02_vehicle_inspection.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Driver Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:U9",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Vehicle Plate Number",
+                      "value_cell":  "A11:L11",
+                      "value":  "FLEET-209"
+                  },
+                  {
+                      "label":  "Vehicle Make / Model / Year",
+                      "value_cell":  "M11:U11",
+                      "value":  "Ford Transit 2022"
+                  },
+                  {
+                      "label":  "Odometer Reading (Start)",
+                      "value_cell":  "A13:I13",
+                      "value":  "45,210"
+                  },
+                  {
+                      "label":  "Odometer Reading (End)",
+                      "value_cell":  "J13:Q13",
+                      "value":  "45,355"
+                  },
+                  {
+                      "label":  "Total Miles Driven",
+                      "value_cell":  "R13:U13",
+                      "value":  "145"
+                  },
+                  {
+                      "label":  "Trip Date",
+                      "value_cell":  "A15:L15",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Trip Purpose / Destination",
+                      "value_cell":  "M15:U15",
+                      "value":  "Regional supply delivery to North Warehouse"
+                  },
+                  {
+                      "label":  "Location of Damage",
+                      "value_cell":  "A30:L30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Description of Damage",
+                      "value_cell":  "M30:U30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Pre-existing Damage Reported to Fleet?  Y / N",
+                      "value_cell":  "A32:L32",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Report Reference #",
+                      "value_cell":  "M32:U32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "New Damage?  Y / N",
+                      "value_cell":  "A37:L37",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "If yes, describe",
+                      "value_cell":  "M37:U37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Fuel Added?  Y / N 鈥?Litres",
+                      "value_cell":  "A39:L39",
+                      "value":  "Y - 15 Litres"
+                  },
+                  {
+                      "label":  "Fuel Receipt Attached?  Y / N",
+                      "value_cell":  "M39:U39",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Vehicle Cleaned / Returned to Bay?  Y / N",
+                      "value_cell":  "A41:L41",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Keys Returned To",
+                      "value_cell":  "M41:U41",
+                      "value":  "Security Desk"
+                  },
+                  {
+                      "label":  "Driver Signature",
+                      "value_cell":  "A48:M48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q48:X48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Fleet Supervisor",
+                      "value_cell":  "A50:M50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q50:X50",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Donor Full Name / Organisation:",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Donor ID (if existing):",
+      "value_text": "D-88291"
+    },
+    {
+      "key_text": "Donor Type:",
+      "value_text": "Individual"
+    },
+    {
+      "key_text": "Date of Gift:",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Mailing Address:",
+      "value_text": "452 Maplewood Drive"
+    },
+    {
+      "key_text": "City:",
+      "value_text": "Seattle"
+    },
+    {
+      "key_text": "State:",
+      "value_text": "WA"
+    },
+    {
+      "key_text": "ZIP:",
+      "value_text": "98101"
+    },
+    {
+      "key_text": "Country:",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "206-555-0198"
+    },
+    {
+      "key_text": "E-mail:",
+      "value_text": "e.rodriguez@email.com"
+    },
+    {
+      "key_text": "Donor Relationship:",
+      "value_text": "Alumni"
+    },
+    {
+      "key_text": "Gift Amount  $:",
+      "value_text": "5000.00"
+    },
+    {
+      "key_text": "Currency:",
+      "value_text": "USD"
+    },
+    {
+      "key_text": "Date Received:",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Designation / Fund Name:",
+      "value_text": "University Scholarship Fund"
+    },
+    {
+      "key_text": "Fund Code:",
+      "value_text": "SCH-2023"
+    },
+    {
+      "key_text": "Campaign Code:",
+      "value_text": "FALL-23"
+    },
+    {
+      "key_text": "Appeal Code:",
+      "value_text": "ALUM-DIR"
+    },
+    {
+      "key_text": "Restrictions / Special Instructions:",
+      "value_text": "For merit-based scholarships only."
+    },
+    {
+      "key_text": "Pledge Total  $:",
+      "value_text": null
+    },
+    {
+      "key_text": "Payment Schedule:",
+      "value_text": null
+    },
+    {
+      "key_text": "Pledge End Date:",
+      "value_text": null
+    },
+    {
+      "key_text": "Pledge Reminder Method (mail / email / phone):",
+      "value_text": null
+    },
+    {
+      "key_text": "Acknowledgement Letter Sent:  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Date Sent:",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Tax Receipt Number:",
+      "value_text": "TX-992011"
+    },
+    {
+      "key_text": "Notes:",
+      "value_text": "Donor requested annual impact report."
+    },
+    {
+      "key_text": "Processed By",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Gift Processing Supervisor",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date: (Supervisor)",
+      "value_text": "2023-10-19"
+    }
+  ]
+}
+
+Narrative:
+This donation form records a gift of $5,000.00 USD from Elena Rodriguez, an alumna donor with ID D-88291. Elena, residing at 452 Maplewood Drive, Seattle, WA, 98101, USA, made the gift on October 15, 2023, and it was received on October 16, 2023. The donation is designated for the University Scholarship Fund (Fund Code: SCH-2023) under the Fall 2023 campaign and alumni direct appeal. Elena specified that the funds are for merit-based scholarships only. There is no pledge associated with this gift. An acknowledgement letter was sent on October 18, 2023, and the tax receipt number is TX-992011. The notes indicate the donor requested an annual impact report. Sarah Jenkins processed the paperwork on October 18, 2023, and it was approved by supervisor Marcus Thorne on October 19, 2023.

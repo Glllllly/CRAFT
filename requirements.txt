@@ -1,0 +1,12 @@
+openpyxl
+openai
+Pillow
+pypdf
+PyPDF2
+python-docx
+PyYAML
+beautifulsoup4
+pandas
+pytesseract
+pywin32; platform_system == "Windows"
+

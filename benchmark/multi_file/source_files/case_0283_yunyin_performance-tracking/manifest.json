@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0283_yunyin_performance-tracking",
+    "tenant":  "yunyin",
+    "topic":  "performance-tracking",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\performance-tracking",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\performance-tracking\\kpi_tracking_4.json",
+                      "copied_name":  "kpi_tracking_4.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1528
+                  },
+                  {
+                      "source_rel":  "yunyin\\performance-tracking\\kpi_tracking_39.json",
+                      "copied_name":  "kpi_tracking_39.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1528
+                  },
+                  {
+                      "source_rel":  "yunyin\\performance-tracking\\kpi_tracking_38.json",
+                      "copied_name":  "kpi_tracking_38.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1528
+                  },
+                  {
+                      "source_rel":  "yunyin\\performance-tracking\\kpi_tracking_42.json",
+                      "copied_name":  "kpi_tracking_42.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1528
+                  },
+                  {
+                      "source_rel":  "yunyin\\performance-tracking\\kpi_tracking_41.json",
+                      "copied_name":  "kpi_tracking_41.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1528
+                  }
+              ]
+}

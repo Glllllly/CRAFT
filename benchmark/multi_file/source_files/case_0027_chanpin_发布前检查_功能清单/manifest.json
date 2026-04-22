@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0027_chanpin_发布前检查_功能清单",
+    "tenant":  "chanpin",
+    "topic":  "发布前检查",
+    "subtopic":  "功能清单",
+    "source_dir":  "chanpin\\发布前检查\\功能清单",
+    "total_files_in_source_dir":  100,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\发布前检查\\功能清单\\清单_021.txt",
+                      "copied_name":  "清单_021.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  920
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布前检查\\功能清单\\清单_081.txt",
+                      "copied_name":  "清单_081.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  920
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布前检查\\功能清单\\清单_051.txt",
+                      "copied_name":  "清单_051.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  920
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布前检查\\功能清单\\清单_020.txt",
+                      "copied_name":  "清单_020.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  920
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布前检查\\功能清单\\清单_016.txt",
+                      "copied_name":  "清单_016.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  920
+                  }
+              ]
+}

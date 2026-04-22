@@ -1,0 +1,14 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "改进措施",
+                                   "selected_value":  "加强沟通协作、优化流程",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "进度滞后原因",
+                                   "selected_value":  "技术困难",
+                                   "conflict":  false
+                               }
+                           ]
+}

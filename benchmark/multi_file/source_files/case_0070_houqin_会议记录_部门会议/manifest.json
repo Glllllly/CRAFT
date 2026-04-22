@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0070_houqin_会议记录_部门会议",
+    "tenant":  "houqin",
+    "topic":  "会议记录",
+    "subtopic":  "部门会议",
+    "source_dir":  "houqin\\会议记录\\部门会议",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\会议记录\\部门会议\\数据统计_1364.json",
+                      "copied_name":  "数据统计_1364.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\部门会议\\维修记录_8362.csv",
+                      "copied_name":  "维修记录_8362.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\部门会议\\维修记录_8590.txt",
+                      "copied_name":  "维修记录_8590.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\部门会议\\工作日志_6801.eml",
+                      "copied_name":  "工作日志_6801.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\部门会议\\培训计划_3240.csv",
+                      "copied_name":  "培训计划_3240.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

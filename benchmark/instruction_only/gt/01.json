@@ -1,0 +1,181 @@
+﻿{
+    "excel":  "01.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan A. Sterling"
+                  },
+                  {
+                      "label":  "Employee ID / Staff Number",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:H11",
+                      "value":  "Regional Sales"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "I11:P11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "Q11:X11",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Business E-mail Address",
+                      "value_cell":  "A13:L13",
+                      "value":  "j.sterling@corp-services.com"
+                  },
+                  {
+                      "label":  "Direct Phone / Extension",
+                      "value_cell":  "M13:X13",
+                      "value":  "555-012-9984"
+                  },
+                  {
+                      "label":  "Reason / Purpose of Trip",
+                      "value_cell":  "A18:X18",
+                      "value":  "Annual Client Site Visit and Project Review"
+                  },
+                  {
+                      "label":  "Pick-up Date \u0026 Time",
+                      "value_cell":  "A20:L20",
+                      "value":  "2023-11-02 09:00 AM"
+                  },
+                  {
+                      "label":  "Return Date \u0026 Time",
+                      "value_cell":  "M20:X20",
+                      "value":  "2023-11-05 05:00 PM"
+                  },
+                  {
+                      "label":  "Pick-up Location (City, Airport, Address)",
+                      "value_cell":  "A22:L22",
+                      "value":  "Chicago O\u0027Hare International Airport"
+                  },
+                  {
+                      "label":  "Drop-off Location (if different)",
+                      "value_cell":  "M22:X22",
+                      "value":  "Chicago O\u0027Hare International Airport"
+                  },
+                  {
+                      "label":  "Destination City / State",
+                      "value_cell":  "A24:P24",
+                      "value":  "Chicago, Illinois"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "Q24:X24",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Vehicle Class Economy",
+                      "value_cell":  "H29",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Vehicle Class Compact",
+                      "value_cell":  "M29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Vehicle Class Mid-Size",
+                      "value_cell":  "R29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Preferred Rental Company (if any)",
+                      "value_cell":  "A30:L30",
+                      "value":  "Enterprise Rent-A-Car"
+                  },
+                  {
+                      "label":  "Frequent Renter Number",
+                      "value_cell":  "M30:X30",
+                      "value":  "ER-9982341"
+                  },
+                  {
+                      "label":  "Features Needed GPS",
+                      "value_cell":  "G32",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Features Needed Automatic",
+                      "value_cell":  "L32",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Features Needed Diesel",
+                      "value_cell":  "Q32",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Special Requirements or Accessibility Needs",
+                      "value_cell":  "A33:X33",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Estimated Rental Cost $",
+                      "value_cell":  "A38:L38",
+                      "value":  "350.00"
+                  },
+                  {
+                      "label":  "Budget / Cost Centre Code",
+                      "value_cell":  "M38:X38",
+                      "value":  "SALES-2023-CHI"
+                  },
+                  {
+                      "label":  "Payment Method Corporate Card",
+                      "value_cell":  "H40",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Payment Method Personal Card (Reimburse)",
+                      "value_cell":  "M40",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Payment Method Direct Bill",
+                      "value_cell":  "R40",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Additional Notes",
+                      "value_cell":  "A41:X41",
+                      "value":  "Vehicle to be picked up at the terminal rental counter."
+                  },
+                  {
+                      "label":  "Requester",
+                      "value_cell":  "A49:L49",
+                      "value":  "Jonathan A. Sterling"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N41:X41",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A52:L52",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N52:X52",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Travel Coordinator",
+                      "value_cell":  "A55:L55",
+                      "value":  "Marcus Vane"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N55:X55",
+                      "value":  "2023-10-17"
+                  }
+              ]
+}

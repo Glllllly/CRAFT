@@ -1,0 +1,109 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:30 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "人员清单_1371",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "进行中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:30.760647",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "71663",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "吴九@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "黄欢@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "人员清单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "刘涛",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "数据统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请人",
+                                   "selected_value":  "赵红",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "用途说明",
+                                   "selected_value":  "部门配置补充",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请日期",
+                                   "selected_value":  "2024-01-15",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请状态",
+                                   "selected_value":  "已批准",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请编号",
+                                   "selected_value":  "MAT-2024-020",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请部门",
+                                   "selected_value":  "人力资源部",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "预算科目",
+                                   "selected_value":  "固定资产/办公用品",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "预计金额",
+                                   "selected_value":  "¥11757",
+                                   "conflict":  false
+                               }
+                           ]
+}

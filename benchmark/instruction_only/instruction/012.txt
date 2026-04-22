@@ -1,0 +1,132 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Work E-mail",
+      "value_text": "s.miller@company.com"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "412"
+    },
+    {
+      "key_text": "Platform / Service Name (exact)",
+      "value_text": "Adobe Creative Cloud"
+    },
+    {
+      "key_text": "Service URL / Website",
+      "value_text": "https://www.adobe.com"
+    },
+    {
+      "key_text": "Vendor / Publisher Name",
+      "value_text": "Adobe Inc."
+    },
+    {
+      "key_text": "Plan / Tier Name",
+      "value_text": "All Apps Plan"
+    },
+    {
+      "key_text": "Monthly Cost $",
+      "value_text": "84.99"
+    },
+    {
+      "key_text": "Annual Cost $",
+      "value_text": "1019.88"
+    },
+    {
+      "key_text": "Renewal Date",
+      "value_text": "2024-10-12"
+    },
+    {
+      "key_text": "Business Purpose — how will this be used?",
+      "value_text": "Used for graphic design, video editing for social media campaigns, and brand asset management."
+    },
+    {
+      "key_text": "Existing Tool Evaluated? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Why existing tools are insufficient",
+      "value_text": "Current tools lack advanced video editing and vector illustration capabilities required for high-res output."
+    },
+    {
+      "key_text": "Security / Privacy Review Completed? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Review Reference Number",
+      "value_text": "SEC-2023-991"
+    },
+    {
+      "key_text": "Budget Code / Cost Centre",
+      "value_text": "MKT-DEPT-500"
+    },
+    {
+      "key_text": "Budget Available? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Access Required From  (date)",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Auto-Renewal?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Requester",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Manager Approval",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "IT Asset Owner",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Finance (if > $500/yr)",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    }
+  ]
+}
+
+Narrative:
+This request is being submitted by Sarah J. Miller, an employee in the Marketing department (EMP-8842), on October 12, 2023. Sarah, who can be reached at s.miller@company.com or extension 412, is requesting a new subscription to Adobe Creative Cloud. The service, provided by Adobe Inc. (accessible at adobe.com), is for the "All Apps Plan," which costs $84.99 per month, totaling $1,019.88 annually, with a renewal date set for October 12, 2024. The business purpose for this software is for graphic design and video editing for social media campaigns. Sarah confirmed that an existing tool was evaluated but found insufficient due to a lack of advanced editing capabilities. The security review has been completed under reference number SEC-2023-991. The subscription will be billed to the MKT-DEPT-500 cost center, and budget availability has been confirmed. Access is requested starting October 15, 2023, with auto-renewal enabled. The form has been signed by Sarah J. Miller on October 12, approved by her manager David Chen on October 13, and authorized by IT Asset Owner Marcus Thorne and Finance lead Elena Rodriguez on October 14, 2023.

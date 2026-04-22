@@ -1,0 +1,159 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "数据统计_8839",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "待审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "紧急",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.410991",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "11495",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "刘林@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "吴九@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "数据统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "黄欢",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "人数统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "姓名",
+                                   "selected_value":  "员工18",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "岗位",
+                                   "selected_value":  "采购员",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "性别",
+                                   "selected_value":  "男",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "手机",
+                                   "selected_value":  "13900014416",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "级别",
+                                   "selected_value":  "初级",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "邮箱",
+                                   "selected_value":  "emp18@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已休假",
+                                   "selected_value":  "11天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "待休假",
+                                   "selected_value":  "12天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "体检状态",
+                                   "selected_value":  "已体检",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "保险投保",
+                                   "selected_value":  "是",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "入职日期",
+                                   "selected_value":  "2013-04-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "出生年月",
+                                   "selected_value":  "1983-09-06",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "员工编号",
+                                   "selected_value":  "EMP-1018",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "工资等级",
+                                   "selected_value":  "3级",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "年假天数",
+                                   "selected_value":  "23天",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "生日奖励",
+                                   "selected_value":  "¥200",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "身份证号",
+                                   "selected_value":  "110100198808121557",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "紧急联系人",
+                                   "selected_value":  "员工28",
+                                   "conflict":  false
+                               }
+                           ]
+}

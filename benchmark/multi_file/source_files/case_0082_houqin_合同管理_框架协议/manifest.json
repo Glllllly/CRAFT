@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0082_houqin_合同管理_框架协议",
+    "tenant":  "houqin",
+    "topic":  "合同管理",
+    "subtopic":  "框架协议",
+    "source_dir":  "houqin\\合同管理\\框架协议",
+    "total_files_in_source_dir":  44,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\合同管理\\框架协议\\工作日志_1896.json",
+                      "copied_name":  "工作日志_1896.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\框架协议\\人员清单_9999.csv",
+                      "copied_name":  "人员清单_9999.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\框架协议\\维修记录_1648.txt",
+                      "copied_name":  "维修记录_1648.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\框架协议\\工作计划_6575.eml",
+                      "copied_name":  "工作计划_6575.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\框架协议\\采购申请_1720.csv",
+                      "copied_name":  "采购申请_1720.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

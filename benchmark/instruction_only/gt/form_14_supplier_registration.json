@@ -1,0 +1,201 @@
+﻿{
+    "excel":  "form_14_supplier_registration.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Legal Company Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Apex Industrial Solutions Inc."
+                  },
+                  {
+                      "label":  "Trading / DBA Name",
+                      "value_cell":  "M9:X9",
+                      "value":  "Apex Supply Co."
+                  },
+                  {
+                      "label":  "Company Registration Number",
+                      "value_cell":  "A11:L11",
+                      "value":  "8849201-B"
+                  },
+                  {
+                      "label":  "Federal Tax ID / VAT Number",
+                      "value_cell":  "M11:X11",
+                      "value":  "12-3456789"
+                  },
+                  {
+                      "label":  "Year Established",
+                      "value_cell":  "A14:L14",
+                      "value":  "2005"
+                  },
+                  {
+                      "label":  "Number of Employees",
+                      "value_cell":  "M14:X14",
+                      "value":  "150"
+                  },
+                  {
+                      "label":  "Annual Revenue  $",
+                      "value_cell":  "A16:L16",
+                      "value":  "12,500,000"
+                  },
+                  {
+                      "label":  "Primary Industry / Sector",
+                      "value_cell":  "M16:X16",
+                      "value":  "Manufacturing"
+                  },
+                  {
+                      "label":  "Registered Business Address",
+                      "value_cell":  "A18:X18",
+                      "value":  "452 Industrial Parkway, Suite 100"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A20:H20",
+                      "value":  "Chicago"
+                  },
+                  {
+                      "label":  "State / Province",
+                      "value_cell":  "I20:P20",
+                      "value":  "IL"
+                  },
+                  {
+                      "label":  "ZIP / Postal Code",
+                      "value_cell":  "Q20:X20",
+                      "value":  "60607"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "A22:L22",
+                      "value":  "United States"
+                  },
+                  {
+                      "label":  "Company Website",
+                      "value_cell":  "M22:X22",
+                      "value":  "www.apexindustrialsolutions.com"
+                  },
+                  {
+                      "label":  "Contact Full Name",
+                      "value_cell":  "A27:L27",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Title / Position",
+                      "value_cell":  "M27:X27",
+                      "value":  "Director of Operations"
+                  },
+                  {
+                      "label":  "Direct Phone",
+                      "value_cell":  "A29:H29",
+                      "value":  "312-555-0198"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I29:P29",
+                      "value":  "312-555-0921"
+                  },
+                  {
+                      "label":  "Business E-mail",
+                      "value_cell":  "Q29:X29",
+                      "value":  "s.jenkins@apexindustrialsolutions.com"
+                  },
+                  {
+                      "label":  "Description of Products / Services Offered",
+                      "value_cell":  "A34:X34; A35:X35",
+                      "value":  "Precision engineered metal components and industrial automation hardware for large-scale manufacturing plants."
+                  },
+                  {
+                      "label":  "Product / Service Category",
+                      "value_cell":  "A37:L37",
+                      "value":  "Industrial Equipment"
+                  },
+                  {
+                      "label":  "UNSPSC Commodity Code (if known)",
+                      "value_cell":  "M37:X37",
+                      "value":  "23101500"
+                  },
+                  {
+                      "label":  "Geographic Service Area",
+                      "value_cell":  "A39:L39",
+                      "value":  "North America"
+                  },
+                  {
+                      "label":  "Lead Time / Delivery Capability",
+                      "value_cell":  "M39:X39",
+                      "value":  "14 Business Days"
+                  },
+                  {
+                      "label":  "Bank Name",
+                      "value_cell":  "A44:L44",
+                      "value":  "Chase Bank"
+                  },
+                  {
+                      "label":  "Branch Name / Location",
+                      "value_cell":  "M44:X44",
+                      "value":  "Chicago Loop Branch"
+                  },
+                  {
+                      "label":  "Account Name",
+                      "value_cell":  "A46:L46",
+                      "value":  "Apex Industrial Solutions Inc."
+                  },
+                  {
+                      "label":  "Account Number",
+                      "value_cell":  "M46:X46",
+                      "value":  "9876543210"
+                  },
+                  {
+                      "label":  "Routing / Sort / SWIFT Code",
+                      "value_cell":  "A48:L48",
+                      "value":  "CHASUS33"
+                  },
+                  {
+                      "label":  "Currency",
+                      "value_cell":  "M48:X48",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "Liability Insurance Provider",
+                      "value_cell":  "A54:L54",
+                      "value":  "Global Shield Insurance"
+                  },
+                  {
+                      "label":  "Policy Number \u0026 Expiry Date",
+                      "value_cell":  "M54:X54",
+                      "value":  "GS-99887766 / 12-31-2025"
+                  },
+                  {
+                      "label":  "W-9 / Tax Form Attached?  Y / N",
+                      "value_cell":  "A56:L56",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Certificate of Insurance Attached?  Y / N",
+                      "value_cell":  "M56:X56",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Any conflicts of interest to disclose?",
+                      "value_cell":  "A58:X58",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Authorised Signatory",
+                      "value_cell":  "A66:M66",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q66:X66",
+                      "value":  "10-24-2023"
+                  },
+                  {
+                      "label":  "Procurement Officer Verification",
+                      "value_cell":  "A68:M68",
+                      "value":  "Michael R. Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q68:X68",
+                      "value":  "10-26-2023"
+                  }
+              ]
+}

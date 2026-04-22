@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0198_houqin_规章制度",
+    "tenant":  "houqin",
+    "topic":  "规章制度",
+    "subtopic":  "",
+    "source_dir":  "houqin\\规章制度",
+    "total_files_in_source_dir":  57,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\规章制度\\工作日志_8831.json",
+                      "copied_name":  "工作日志_8831.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\规章制度\\费用统计_3236.csv",
+                      "copied_name":  "费用统计_3236.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1344
+                  },
+                  {
+                      "source_rel":  "houqin\\规章制度\\制度文件_3.txt",
+                      "copied_name":  "制度文件_3.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  1023
+                  },
+                  {
+                      "source_rel":  "houqin\\规章制度\\库存统计_1506.eml",
+                      "copied_name":  "库存统计_1506.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\规章制度\\批复单_8810.csv",
+                      "copied_name":  "批复单_8810.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1341
+                  }
+              ]
+}

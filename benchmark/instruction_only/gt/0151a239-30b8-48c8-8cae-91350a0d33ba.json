@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "0151a239-30b8-48c8-8cae-91350a0d33ba.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Date",
+                      "value_cell":  "B5:D5",
+                      "value":  "October 24, 2023"
+                  },
+                  {
+                      "label":  "Name",
+                      "value_cell":  "G5:N5",
+                      "value":  "Robert J. Miller"
+                  },
+                  {
+                      "label":  "Phone/Ext.",
+                      "value_cell":  "R5:T5",
+                      "value":  "512-555-0192 / Ext. 342"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "G8:T8",
+                      "value":  "Elizabeth Henderson"
+                  },
+                  {
+                      "label":  "Print/Type Name",
+                      "value_cell":  "G10:T10",
+                      "value":  "Elizabeth Henderson"
+                  },
+                  {
+                      "label":  "250 for $18",
+                      "value_cell":  "K13:L13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "500 for $28",
+                      "value_cell":  "K15:L15",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Fund (2)",
+                      "value_cell":  "K21:K22",
+                      "value":  "11"
+                  },
+                  {
+                      "label":  "Program (4)",
+                      "value_cell":  "L21:M22",
+                      "value":  "2045"
+                  },
+                  {
+                      "label":  "Sub Program (1)",
+                      "value_cell":  "N21:P22",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "TOPS (6)",
+                      "value_cell":  "Q21:S22",
+                      "value":  "601002"
+                  },
+                  {
+                      "label":  "Object (4)",
+                      "value_cell":  "T21:T22",
+                      "value":  "4310"
+                  },
+                  {
+                      "label":  "Name",
+                      "value_cell":  "A26:T26",
+                      "value":  "Robert J. Miller, Ph.D."
+                  },
+                  {
+                      "label":  "Title",
+                      "value_cell":  "A29:T29",
+                      "value":  "Senior Research Associate"
+                  },
+                  {
+                      "label":  "Division/Department/Special Program",
+                      "value_cell":  "A32:T32",
+                      "value":  "Environmental Science Department"
+                  },
+                  {
+                      "label":  "Phone/Ext.",
+                      "value_cell":  "A35:D35",
+                      "value":  "818-240-1000 Ext. 3420"
+                  },
+                  {
+                      "label":  "Fax",
+                      "value_cell":  "F35:K35",
+                      "value":  "818-240-1001"
+                  },
+                  {
+                      "label":  "Email",
+                      "value_cell":  "M35:T35",
+                      "value":  "rmiller@glendale.edu"
+                  },
+                  {
+                      "label":  "ADDRESS , if different from 1500 North Verdugo Road, Glendale, CA 91208-2894",
+                      "value_cell":  "A38:T38",
+                      "value":  null
+                  }
+              ]
+}

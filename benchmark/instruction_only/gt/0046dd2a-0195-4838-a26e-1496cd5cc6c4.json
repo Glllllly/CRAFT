@@ -1,0 +1,181 @@
+﻿{
+    "excel":  "0046dd2a-0195-4838-a26e-1496cd5cc6c4.xlsx",
+    "sheet":  "FA Template",
+    "pairs":  [
+                  {
+                      "label":  "COMPANY",
+                      "value_cell":  "B5:E5",
+                      "value":  "101"
+                  },
+                  {
+                      "label":  "ASSET NUMBER",
+                      "value_cell":  "H5:Q5",
+                      "value":  "00125489"
+                  },
+                  {
+                      "label":  "ASSET DESCRIPTION:",
+                      "value_cell":  "B13:AE13",
+                      "value":  "DELL PRECISION 7920 TOWER WORKSTATION"
+                  },
+                  {
+                      "label":  "FUNCTION",
+                      "value_cell":  "U5",
+                      "value":  "A"
+                  },
+                  {
+                      "label":  "ACQUISITION DATE",
+                      "value_cell":  "B9:C9,E9:F9",
+                      "value":  "10 15 2023"
+                  },
+                  {
+                      "label":  "NEW OR USED",
+                      "value_cell":  "J9",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "PERSONAL OR REAL",
+                      "value_cell":  "O9",
+                      "value":  "P"
+                  },
+                  {
+                      "label":  "ACQUISITION CODE",
+                      "value_cell":  "T9",
+                      "value":  "P"
+                  },
+                  {
+                      "label":  "STATUS CODE",
+                      "value_cell":  "Y9",
+                      "value":  "U"
+                  },
+                  {
+                      "label":  "CONDITION CODE",
+                      "value_cell":  "AD9",
+                      "value":  "G"
+                  },
+                  {
+                      "label":  "OWN CODE",
+                      "value_cell":  "AH9",
+                      "value":  "F"
+                  },
+                  {
+                      "label":  "DESCR. CODE",
+                      "value_cell":  "AG13:AK13",
+                      "value":  "4511"
+                  },
+                  {
+                      "label":  "QUANTITY",
+                      "value_cell":  "AM13:AQ13",
+                      "value":  "1"
+                  },
+                  {
+                      "label":  "BUDGET CODE",
+                      "value_cell":  "B15:F15",
+                      "value":  "BC-99"
+                  },
+                  {
+                      "label":  "FUND",
+                      "value_cell":  "H15:K15",
+                      "value":  "1200"
+                  },
+                  {
+                      "label":  "RCC",
+                      "value_cell":  "L15:O15",
+                      "value":  "450"
+                  },
+                  {
+                      "label":  "PROGRAM",
+                      "value_cell":  "P15:S15",
+                      "value":  "301"
+                  },
+                  {
+                      "label":  "PURCHASE ORDER NO.",
+                      "value_cell":  "U15:AD15",
+                      "value":  "PO-887766"
+                  },
+                  {
+                      "label":  "CHECK/REFERENCE NO.",
+                      "value_cell":  "AF15:AO15",
+                      "value":  "CK-443322"
+                  },
+                  {
+                      "label":  "NCAS OBJECT",
+                      "value_cell":  "AQ15:AV15",
+                      "value":  "4522"
+                  },
+                  {
+                      "label":  "BOOK TYPE",
+                      "value_cell":  "C21",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Millions",
+                      "value_cell":  "I21:K21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Thousands",
+                      "value_cell":  "L21:N21",
+                      "value":  "012"
+                  },
+                  {
+                      "label":  "Hundreds",
+                      "value_cell":  "O21:Q21",
+                      "value":  "450"
+                  },
+                  {
+                      "label":  "Cents",
+                      "value_cell":  "R21:S21",
+                      "value":  "50"
+                  },
+                  {
+                      "label":  "MANUFACTURER/COUNTY",
+                      "value_cell":  "B27:Q27",
+                      "value":  "DELL TECHNOLOGIES"
+                  },
+                  {
+                      "label":  "MODEL/STATE PROP. NO.",
+                      "value_cell":  "S27:AB27",
+                      "value":  "P7920-X1"
+                  },
+                  {
+                      "label":  "SERIAL NUMBER",
+                      "value_cell":  "AE27:AV27",
+                      "value":  "SN-XYZ123456789"
+                  },
+                  {
+                      "label":  "LOCATION",
+                      "value_cell":  "B29:K29",
+                      "value":  "RADIOLOGY DEPT ROOM 402"
+                  },
+                  {
+                      "label":  "PREPARED BY:",
+                      "value_cell":  "S29:AB29",
+                      "value":  "Jane Doe"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "AL29:AR29",
+                      "value":  "10 / 20 / 2023"
+                  },
+                  {
+                      "label":  "CONTROL GROUP DATE",
+                      "value_cell":  "AF39:AL39",
+                      "value":  "10 / 21 / 2023"
+                  },
+                  {
+                      "label":  "VENDOR NO.",
+                      "value_cell":  "AF36:AN36",
+                      "value":  "V-554433"
+                  },
+                  {
+                      "label":  "INVOICE NO.",
+                      "value_cell":  "AF34:AV34",
+                      "value":  "INV-998877"
+                  },
+                  {
+                      "label":  "BATCH NO.",
+                      "value_cell":  "AQ39:AT39",
+                      "value":  "105"
+                  }
+              ]
+}

@@ -1,0 +1,47 @@
+\begin{table*}[t]
+\centering
+\tiny
+\caption{Main benchmark results on the Instruction-Only and Multi-File tracks. All metrics are higher-is-better.}
+\label{tab:main_results}
+\setlength{\tabcolsep}{3.0pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lccccc|ccc}
+\toprule
+& \multicolumn{5}{c|}{\textbf{Instruction-Only Track}} & \multicolumn{3}{c}{\textbf{Multi-File Track}} \\
+\cmidrule(lr){2-6} \cmidrule(lr){7-9}
+\textbf{Method}
+& \textbf{Pair Acc. $\uparrow$}
+& \textbf{E2E Acc. $\uparrow$}
+& \textbf{Rec. $\uparrow$}
+& \textbf{Prec. $\uparrow$}
+& \textbf{F1 $\uparrow$}
+& \textbf{Pair Acc. $\uparrow$}
+& \textbf{E2E Acc. $\uparrow$}
+& \textbf{Fill Acc. $\uparrow$} \\
+
+\midrule
+\multicolumn{11}{l}{\textit{Vanilla VLM baselines}} \\
+VLM+HTML+Image    &  \underline{51.17} & \underline{13.5} & \underline{59.97} & 95.94 & \underline{73.80}& 32.60 & 12.60 &  39.25  \\
+VLM+HTML          & 49.26 & 11.0 & 57.37 & \underline{95.96} & 71.80 
+& 26.31 & 7.87 & 32.34  \\
+VLM+Excel Skills+coding  & 10.66 & 0.0 & 80.91 & 70.76& 7.93 & 0.26 & 0.0 & 0.93  \\
+\midrule
+\multicolumn{11}{l}{\textit{General agent frameworks}} \\
+LangGraph~\cite{langgraph}         & 44.28 & 10.0 & 56.19 & 95.54 & 70.76 & 33.65 & 12.60 & 40.82\\
+OpenAI Agents SDK~\cite{openai_agents_sdk} & 45.64 & 9.5 & 57.65 & 95.94 & 72.02 & \underline{43.14} & 16.54 & \underline{50.79} \\
+CrewAI~\cite{crewai}  & 41.77 & 9.5 & 51.96 & 95.73 & 67.36 & 40.25 & \underline{18.90} & 43.44 \\
+ReAct~\cite{yao2022react}  & 41.66 & 11.0 & 52.45 & 95.56 & 67.73 & 34.00 & 13.39 & 38.81 \\
+\midrule
+\multicolumn{11}{l}{\textit{Spreadsheet agents}} \\
+SheetAgent~\cite{chen2025sheetagent}  & 8.89 & 0.0  & 2.54  &58.41   & 4.87     & 0.26 & 0.0 & 0.00 \\
+SheetBrain~\cite{wang2026sheetbrain}   & 10.98 & 0.0 & 3.58  &65.92   & 6.78     & 0.26 & 0.0 & 0.00 \\
+SheetCopilot~\cite{li2023sheetcopilot} & 33.02 & 7.5   & 37.94  & 93.82   & 54.03     & 0.26 & 0.0 & 1.09 \\
+SheetMind~\cite{zhu2025sheetmind}   & 10.69 & 0.0     & 3.13  &63.37   & 5.96     & 0.26 & 0.0 & 0.00 \\
+\midrule
+\multicolumn{11}{l}
+{\textit{Ours}} \\
+\oursys   & \textbf{59.68} & \textbf{15.5} & \textbf{71.08} & \textbf{96.52} & \textbf{81.87}   & \textbf{66.52} & \textbf{43.31} & \textbf{90.87} \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

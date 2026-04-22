@@ -1,0 +1,176 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Official Organization Name",
+      "value_text": "University Robotics and Engineering Society"
+    },
+    {
+      "key_text": "Organization Abbreviation / Acronym (if any)",
+      "value_text": "URES"
+    },
+    {
+      "key_text": "Organization Category",
+      "value_text": "Academic / Honor Society"
+    },
+    {
+      "key_text": "Date Founded / Re-founding Date",
+      "value_text": "September 12, 2015"
+    },
+    {
+      "key_text": "Mission Statement / Purpose",
+      "value_text": "To foster innovation in robotics through collaborative engineering projects and community outreach."
+    },
+    {
+      "key_text": "President / Chair — Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "8849201"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "m.thorne@uni.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-0192"
+    },
+    {
+      "key_text": "Vice President — Full Name",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "8893412"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "e.rodriguez@uni.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-0834"
+    },
+    {
+      "key_text": "Treasurer — Full Name",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "8821094"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "d.chen@uni.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-0771"
+    },
+    {
+      "key_text": "Secretary — Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "8856233"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@uni.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-0449"
+    },
+    {
+      "key_text": "Faculty / Staff Advisor — Full Name",
+      "value_text": "Dr. Alan Grant"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": null
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "a.grant@eng.uni.edu"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-9920"
+    },
+    {
+      "key_text": "Current Membership Count",
+      "value_text": "45"
+    },
+    {
+      "key_text": "Annual Dues  $",
+      "value_text": "25.00"
+    },
+    {
+      "key_text": "Dues Payment Method",
+      "value_text": "Online Portal"
+    },
+    {
+      "key_text": "Membership Eligibility Criteria",
+      "value_text": "Open to all undergraduate engineering and computer science students in good academic standing."
+    },
+    {
+      "key_text": "University Account Number (if applicable)",
+      "value_text": "ACC-99283-U"
+    },
+    {
+      "key_text": "External Bank Account?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Estimated Annual Budget  $",
+      "value_text": "5000.00"
+    },
+    {
+      "key_text": "Primary Funding Sources",
+      "value_text": "University grant and member dues"
+    },
+    {
+      "key_text": "Primary Regular Meeting Day, Time & Location",
+      "value_text": "Tuesdays, 6:00 PM, Engineering Building Room 204"
+    },
+    {
+      "key_text": "Major Annual Events or Activities (brief list)",
+      "value_text": "Annual Robot Sumo Competition, Spring Tech Showcase, Monthly Guest Speaker Series"
+    },
+    {
+      "key_text": "President Signature",
+      "value_text": "Signed: M. Thorne"
+    },
+    {
+      "key_text": "Advisor Signature",
+      "value_text": "Signed: A. Grant"
+    },
+    {
+      "key_text": "Dean of Students",
+      "value_text": "Pending Review"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 10, 2023"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 10, 2023"
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This registration form is for the University Robotics and Engineering Society, abbreviated as URES. We are categorized as an Academic/Honor Society, originally founded on September 12, 2015. Our mission is to foster innovation in robotics through collaborative engineering projects and community outreach. 
+
+The leadership team consists of President Marcus Thorne (ID: 8849201, m.thorne@uni.edu, 555-0192), Vice President Elena Rodriguez (ID: 8893412, e.rodriguez@uni.edu, 555-0834), Treasurer David Chen (ID: 8821094, d.chen@uni.edu, 555-0771), and Secretary Sarah Jenkins (ID: 8856233, s.jenkins@uni.edu, 555-0449). Dr. Alan Grant serves as our faculty advisor and can be reached at a.grant@eng.uni.edu or 555-9920.
+
+We currently have 45 members, with annual dues set at $25.00 payable via the online portal. Membership is open to all undergraduate engineering and computer science students in good academic standing. Financially, we use university account ACC-99283-U and do not hold an external bank account. Our estimated annual budget is $5,000.00, funded by university grants and member dues. We hold regular meetings every Tuesday at 6:00 PM in the Engineering Building, Room 204. Our major annual activities include the Robot Sumo Competition, the Spring Tech Showcase, and our monthly speaker series. The form has been signed by our President and Advisor on October 10, 2023, and is currently awaiting the Dean of Students' review.

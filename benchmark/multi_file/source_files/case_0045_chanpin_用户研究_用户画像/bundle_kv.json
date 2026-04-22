@@ -1,0 +1,2543 @@
+{
+  "bundle_dir": "case_0045_chanpin_用户研究_用户画像",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "用户画像_29.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-07-08",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-07-08",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥18250",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥18250",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能16，功能17",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能16，功能17",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥2607",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥2607",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "42-73岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：42-73岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷4、访谈5、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷4、访谈5、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "257分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：257分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能15",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能15",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "85%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：85%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0029",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "89%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：89%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "502%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：502%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用户画像_39.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-05-14",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-05-14",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥14829",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥14829",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能11，功能12",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能11，功能12",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥5804",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥5804",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "48-65岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：48-65岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷6、访谈4、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷6、访谈4、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "253分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：253分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能10",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能10",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "21%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：21%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0039",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0039",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "27%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：27%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "132%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：132%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用户画像_40.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点1 > 痛点2 > 痛点3",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点1 > 痛点2 > 痛点3",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-03-13",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-03-13",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥18722",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥18722",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能12，功能13",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能12，功能13",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥3390",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥3390",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "44-51岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：44-51岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷10、访谈3、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷10、访谈3、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "107分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：107分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能11",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能11",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "41%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：41%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体1",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体1",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0040",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0040",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "16%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：16%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "534%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：534%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用户画像_69.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-06-01",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-06-01",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥31502",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥31502",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能11，功能12",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能11，功能12",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥10610",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥10610",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "20-76岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：20-76岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷8、访谈1、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷8、访谈1、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "217分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：217分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能10",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能10",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "17%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：17%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0069",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "77%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：77%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "125%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：125%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用户画像_71.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点2 > 痛点3 > 痛点4",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点2 > 痛点3 > 痛点4",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-10-10",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-10-10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥19795",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥19795",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能13，功能14",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能13，功能14",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥3987",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥3987",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "37-60岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：37-60岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷10、访谈4、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷10、访谈4、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "277分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：277分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能12",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能12",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "22%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：22%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体2",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体2",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0071",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0071",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "90%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：90%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "574%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：574%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "主要痛点",
+      "candidates": [
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要痛点",
+          "value": "易用性不足)",
+          "raw_key": "主要痛点",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要痛点：易用性不足)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优先级排序",
+      "candidates": [
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点1 > 痛点2 > 痛点3",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点1 > 痛点2 > 痛点3",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点5 > 痛点6 > 痛点7",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点5 > 痛点6 > 痛点7",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级排序",
+          "value": "痛点2 > 痛点3 > 痛点4",
+          "raw_key": "优先级排序",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级排序：痛点2 > 痛点3 > 痛点4",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "使用频率",
+      "candidates": [
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用频率",
+          "value": "高频)",
+          "raw_key": "使用频率",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "使用频率：高频)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "创建日期",
+      "candidates": [
+        {
+          "key": "创建日期",
+          "value": "2024-07-08",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-07-08",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-05-14",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-05-14",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-03-13",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-03-13",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-06-01",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-06-01",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建日期",
+          "value": "2024-10-10",
+          "raw_key": "创建日期",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建日期：2024-10-10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "地域",
+      "candidates": [
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "地域",
+          "value": "一线城市)",
+          "raw_key": "地域",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "地域：一线城市)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "学历",
+      "candidates": [
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学历",
+          "value": "本科)",
+          "raw_key": "学历",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学历：本科)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "客户生命周期价值",
+      "candidates": [
+        {
+          "key": "客户生命周期价值",
+          "value": "¥18250",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥18250",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥14829",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥14829",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥18722",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥18722",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥31502",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥31502",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "客户生命周期价值",
+          "value": "¥19795",
+          "raw_key": "客户生命周期价值",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "客户生命周期价值：¥19795",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "常用功能",
+      "candidates": [
+        {
+          "key": "常用功能",
+          "value": "功能16，功能17",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能16，功能17",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能11，功能12",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能11，功能12",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能12，功能13",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能12，功能13",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能11，功能12",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能11，功能12",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常用功能",
+          "value": "功能13，功能14",
+          "raw_key": "常用功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常用功能：功能13，功能14",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "年消费预算",
+      "candidates": [
+        {
+          "key": "年消费预算",
+          "value": "¥2607",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥2607",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥5804",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥5804",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥3390",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥3390",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥10610",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥10610",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年消费预算",
+          "value": "¥3987",
+          "raw_key": "年消费预算",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年消费预算：¥3987",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "年龄段",
+      "candidates": [
+        {
+          "key": "年龄段",
+          "value": "42-73岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：42-73岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "48-65岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：48-65岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "44-51岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：44-51岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "20-76岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：20-76岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "年龄段",
+          "value": "37-60岁",
+          "raw_key": "年龄段",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "年龄段：37-60岁",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "建议新增功能",
+      "candidates": [
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议新增功能",
+          "value": "功能X，功能Y",
+          "raw_key": "建议新增功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议新增功能：功能X，功能Y",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "性别",
+      "candidates": [
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性别",
+          "value": "男)",
+          "raw_key": "性别",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性别：男)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "数据来源",
+      "candidates": [
+        {
+          "key": "数据来源",
+          "value": "问卷4、访谈5、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷4、访谈5、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷6、访谈4、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷6、访谈4、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷10、访谈3、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷10、访谈3、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷8、访谈1、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷8、访谈1、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据来源",
+          "value": "问卷10、访谈4、数据分析",
+          "raw_key": "数据来源",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据来源：问卷10、访谈4、数据分析",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "日均使用时长",
+      "candidates": [
+        {
+          "key": "日均使用时长",
+          "value": "257分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：257分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "253分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：253分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "107分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：107分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "217分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：217分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日均使用时长",
+          "value": "277分钟",
+          "raw_key": "日均使用时长",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日均使用时长：277分钟",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "最喜欢功能",
+      "candidates": [
+        {
+          "key": "最喜欢功能",
+          "value": "功能15",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能15",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能10",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能10",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能11",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能11",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能10",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能10",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最喜欢功能",
+          "value": "功能12",
+          "raw_key": "最喜欢功能",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最喜欢功能：功能12",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "月活跃度",
+      "candidates": [
+        {
+          "key": "月活跃度",
+          "value": "85%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：85%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "21%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：21%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "41%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：41%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "17%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：17%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月活跃度",
+          "value": "22%",
+          "raw_key": "月活跃度",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月活跃度：22%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户群体",
+      "candidates": [
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体1",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体1",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体10",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户群体",
+          "value": "用户群体2",
+          "raw_key": "用户群体",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户群体：用户群体2",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "画像编号",
+      "candidates": [
+        {
+          "key": "画像编号",
+          "value": "UP-0029",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0039",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0039",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0040",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0040",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0069",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "画像编号",
+          "value": "UP-0071",
+          "raw_key": "画像编号",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "画像编号：UP-0071",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "购买意愿",
+      "candidates": [
+        {
+          "key": "购买意愿",
+          "value": "89%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：89%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "27%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：27%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "16%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：16%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "77%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：77%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "购买意愿",
+          "value": "90%",
+          "raw_key": "购买意愿",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "购买意愿：90%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期roi",
+      "candidates": [
+        {
+          "key": "预期roi",
+          "value": "502%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_29.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：502%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "132%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：132%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "534%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_40.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：534%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "125%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：125%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期roi",
+          "value": "574%",
+          "raw_key": "预期ROI",
+          "source_file": "用户画像_71.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期ROI：574%",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

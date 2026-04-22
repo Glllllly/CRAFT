@@ -1,0 +1,106 @@
+{
+  "excel": "case_0278_yunyin_international__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "market",
+      "value_cell": "A6:D7",
+      "value": "Country ${i}"
+    },
+    {
+      "label": "phase1",
+      "value_cell": "F6:I7",
+      "value": "Research and Planning (Months 1-3)"
+    },
+    {
+      "label": "phase2",
+      "value_cell": "K6:N7",
+      "value": "Partner Selection (Months 2-4)"
+    },
+    {
+      "label": "phase3",
+      "value_cell": "P6:S7",
+      "value": "Launch (Months 5-6)"
+    },
+    {
+      "label": "revenuetarget",
+      "value_cell": "A12:D13",
+      "value": "$500K"
+    },
+    {
+      "label": "year1revenue",
+      "value_cell": "F12:I13",
+      "value": "$300K"
+    },
+    {
+      "label": "year2revenue",
+      "value_cell": "K12:N13",
+      "value": "$1M"
+    },
+    {
+      "label": "year1investment",
+      "value_cell": "P12:S13",
+      "value": "$500K"
+    },
+    {
+      "label": "breakeven",
+      "value_cell": "A16:D17",
+      "value": "Month 18"
+    },
+    {
+      "label": "marketsize",
+      "value_cell": "A22:D23",
+      "value": "$2-5B annually"
+    },
+    {
+      "label": "marketshare",
+      "value_cell": "F22:I23",
+      "value": "5%"
+    },
+    {
+      "label": "growthpotential",
+      "value_cell": "K22:N23",
+      "value": "High"
+    },
+    {
+      "label": "competition",
+      "value_cell": "P22:S23",
+      "value": "Differentiation strategy"
+    },
+    {
+      "label": "competitiveintensity",
+      "value_cell": "A26:D27",
+      "value": "Moderate"
+    },
+    {
+      "label": "customeracquisition",
+      "value_cell": "A32:D33",
+      "value": "50+ customers"
+    },
+    {
+      "label": "customersatisfaction",
+      "value_cell": "F32:I33",
+      "value": "4.5+/5"
+    },
+    {
+      "label": "partnerperformance",
+      "value_cell": "K32:N33",
+      "value": "SLA agreements"
+    },
+    {
+      "label": "regulatoryenvironment",
+      "value_cell": "P32:S33",
+      "value": "Favorable"
+    },
+    {
+      "label": "regulatorychanges",
+      "value_cell": "A36:D37",
+      "value": "Legal compliance team"
+    },
+    {
+      "label": "currencyfluctuation",
+      "value_cell": "F36:I37",
+      "value": "Hedging strategy"
+    }
+  ]
+}

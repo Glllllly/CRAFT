@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0106_houqin_数据分析",
+    "tenant":  "houqin",
+    "topic":  "数据分析",
+    "subtopic":  "",
+    "source_dir":  "houqin\\数据分析",
+    "total_files_in_source_dir":  59,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\数据分析\\出差申请_8545.json",
+                      "copied_name":  "出差申请_8545.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\数据分析\\物品清单_7207.csv",
+                      "copied_name":  "物品清单_7207.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\数据分析\\月度分析报告_10.txt",
+                      "copied_name":  "月度分析报告_10.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  1081
+                  },
+                  {
+                      "source_rel":  "houqin\\数据分析\\操作记录_1815.eml",
+                      "copied_name":  "操作记录_1815.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\数据分析\\年报_7566.csv",
+                      "copied_name":  "年报_7566.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

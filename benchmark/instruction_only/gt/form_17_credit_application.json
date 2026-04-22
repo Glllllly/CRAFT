@@ -1,0 +1,246 @@
+﻿{
+    "excel":  "form_17_credit_application.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Company / Legal Business Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Summit Peak Solutions LLC"
+                  },
+                  {
+                      "label":  "Trade Name / DBA (if different)",
+                      "value_cell":  "M9:X9",
+                      "value":  "Summit Peak Tech"
+                  },
+                  {
+                      "label":  "Type of Business (LLC / Corp / Sole Proprietor / etc.)",
+                      "value_cell":  "A11:L11",
+                      "value":  "LLC"
+                  },
+                  {
+                      "label":  "Federal Tax ID / EIN",
+                      "value_cell":  "M11:X11",
+                      "value":  "88-1234567"
+                  },
+                  {
+                      "label":  "Years in Business",
+                      "value_cell":  "A13:H13",
+                      "value":  "7"
+                  },
+                  {
+                      "label":  "Annual Revenue $",
+                      "value_cell":  "I13:P13",
+                      "value":  "1,250,000"
+                  },
+                  {
+                      "label":  "No. of Employees",
+                      "value_cell":  "Q13:X13",
+                      "value":  "24"
+                  },
+                  {
+                      "label":  "Business Address",
+                      "value_cell":  "A15:X15",
+                      "value":  "452 Industrial Parkway, Suite 200"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A17:J17",
+                      "value":  "Denver"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "K17:N17",
+                      "value":  "CO"
+                  },
+                  {
+                      "label":  "ZIP",
+                      "value_cell":  "O17:R17",
+                      "value":  "80202"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "S17:X17",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Business Phone",
+                      "value_cell":  "A19:H19",
+                      "value":  "303-555-0199"
+                  },
+                  {
+                      "label":  "Business Fax",
+                      "value_cell":  "I19:P19",
+                      "value":  "303-555-0198"
+                  },
+                  {
+                      "label":  "Primary Business E-mail",
+                      "value_cell":  "Q19:X19",
+                      "value":  "admin@summitpeak.com"
+                  },
+                  {
+                      "label":  "Primary Contact Name",
+                      "value_cell":  "A24:L24",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Title / Position",
+                      "value_cell":  "M24:X24",
+                      "value":  "Operations Manager"
+                  },
+                  {
+                      "label":  "Direct Phone",
+                      "value_cell":  "A26:H26",
+                      "value":  "303-555-0122"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I26:P26",
+                      "value":  "720-555-0988"
+                  },
+                  {
+                      "label":  "Contact E-mail",
+                      "value_cell":  "Q26:X26",
+                      "value":  "s.jenkins@summitpeak.com"
+                  },
+                  {
+                      "label":  "Accounts Payable Contact Name",
+                      "value_cell":  "A28:L28",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "A/P E-mail \u0026 Phone",
+                      "value_cell":  "M28:X28",
+                      "value":  "ap@summitpeak.com / 303-555-0144"
+                  },
+                  {
+                      "label":  "Credit Limit Requested $",
+                      "value_cell":  "A33:J33",
+                      "value":  "50,000"
+                  },
+                  {
+                      "label":  "Payment Terms Requested",
+                      "value_cell":  "K33:R33",
+                      "value":  "Net 30"
+                  },
+                  {
+                      "label":  "Currency",
+                      "value_cell":  "S33:X33",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "Intended Use of Credit / Products Sought",
+                      "value_cell":  "A35:L35",
+                      "value":  "Server Hardware"
+                  },
+                  {
+                      "label":  "Estimated Monthly Purchase Volume $",
+                      "value_cell":  "M35:X35",
+                      "value":  "15,000"
+                  },
+                  {
+                      "label":  "Bank Name",
+                      "value_cell":  "A40:L40",
+                      "value":  "First National Bank of Denver"
+                  },
+                  {
+                      "label":  "Branch / Location",
+                      "value_cell":  "M40:X40",
+                      "value":  "Downtown Branch"
+                  },
+                  {
+                      "label":  "Account Number (last 4)",
+                      "value_cell":  "A42:H42",
+                      "value":  "9942"
+                  },
+                  {
+                      "label":  "Account Type",
+                      "value_cell":  "I42:N42",
+                      "value":  "Business Checking"
+                  },
+                  {
+                      "label":  "Loan Officer Name",
+                      "value_cell":  "O42:T42",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Bank Phone",
+                      "value_cell":  "U42:X42",
+                      "value":  "303-555-7700"
+                  },
+                  {
+                      "label":  "Reference 1 鈥?Company Name",
+                      "value_cell":  "A47:L47",
+                      "value":  "CloudScale Logistics"
+                  },
+                  {
+                      "label":  "Contact Name (Ref 1)",
+                      "value_cell":  "M47:R47",
+                      "value":  "Elena Rossi"
+                  },
+                  {
+                      "label":  "Phone (Ref 1)",
+                      "value_cell":  "S47:X47",
+                      "value":  "303-555-2233"
+                  },
+                  {
+                      "label":  "Reference 2 鈥?Company Name",
+                      "value_cell":  "A49:L49",
+                      "value":  "Vertex Networking"
+                  },
+                  {
+                      "label":  "Contact Name (Ref 2)",
+                      "value_cell":  "M49:R49",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Phone (Ref 2)",
+                      "value_cell":  "S49:X49",
+                      "value":  "303-555-4455"
+                  },
+                  {
+                      "label":  "Reference 3 鈥?Company Name",
+                      "value_cell":  "A51:L51",
+                      "value":  "DataCore Systems"
+                  },
+                  {
+                      "label":  "Contact Name (Ref 3)",
+                      "value_cell":  "M51:R51",
+                      "value":  "Lisa Wong"
+                  },
+                  {
+                      "label":  "Phone (Ref 3)",
+                      "value_cell":  "S51:X51",
+                      "value":  "303-555-6677"
+                  },
+                  {
+                      "label":  "By signing below, applicant certifies the information provided is accurate and authorizes credit",
+                      "value_cell":  "A56:X56",
+                      "value":  "Authorized"
+                  },
+                  {
+                      "label":  "Authorized Signature",
+                      "value_cell":  "A58:N58",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Signature)",
+                      "value_cell":  "O58:X58",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Print Name",
+                      "value_cell":  "A60:J60",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Title",
+                      "value_cell":  "K60:R60",
+                      "value":  "Operations Manager"
+                  },
+                  {
+                      "label":  "Date (Print)",
+                      "value_cell":  "S60:U60",
+                      "value":  "2023-10-15"
+                  }
+              ]
+}

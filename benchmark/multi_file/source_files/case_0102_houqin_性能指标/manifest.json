@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0102_houqin_性能指标",
+    "tenant":  "houqin",
+    "topic":  "性能指标",
+    "subtopic":  "",
+    "source_dir":  "houqin\\性能指标",
+    "total_files_in_source_dir":  41,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\性能指标\\购置申请_6419.json",
+                      "copied_name":  "购置申请_6419.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\性能指标\\周报_8219.csv",
+                      "copied_name":  "周报_8219.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\性能指标\\KPI看板_04.txt",
+                      "copied_name":  "KPI看板_04.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  2807
+                  },
+                  {
+                      "source_rel":  "houqin\\性能指标\\工作计划_6087.eml",
+                      "copied_name":  "工作计划_6087.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\性能指标\\KPI看板_05.txt",
+                      "copied_name":  "KPI看板_05.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  2807
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0215_houqin_采购管理_待审批",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "待审批",
+    "source_dir":  "houqin\\采购管理\\待审批",
+    "total_files_in_source_dir":  67,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\待审批\\数据统计_4344.json",
+                      "copied_name":  "数据统计_4344.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\待审批\\评估表_6170.csv",
+                      "copied_name":  "评估表_6170.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\待审批\\休假申请_1574.txt",
+                      "copied_name":  "休假申请_1574.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\待审批\\会议记录_2601.eml",
+                      "copied_name":  "会议记录_2601.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\待审批\\总结报告_5607.csv",
+                      "copied_name":  "总结报告_5607.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1341
+                  }
+              ]
+}

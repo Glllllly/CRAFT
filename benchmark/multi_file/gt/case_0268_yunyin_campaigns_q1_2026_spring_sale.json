@@ -1,0 +1,171 @@
+{
+  "excel": "case_0268_yunyin_campaigns_q1_2026_spring_sale__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "活动名称",
+      "value_cell": "A6:D7",
+      "value": "新春焕新季"
+    },
+    {
+      "label": "活动时间",
+      "value_cell": "F6:I7",
+      "value": "2026-02-15至2026-03-31"
+    },
+    {
+      "label": "duration",
+      "value_cell": "K6:N7",
+      "value": "2026-02-15 to 2026-03-31"
+    },
+    {
+      "label": "活动目标",
+      "value_cell": "P6:S7",
+      "value": "新增用户15万+，GMV突破500万，用户留存率提升至70%"
+    },
+    {
+      "label": "budget",
+      "value_cell": "A10:D11",
+      "value": "¥250,000"
+    },
+    {
+      "label": "analyst",
+      "value_cell": "F10:I11",
+      "value": "Zhang运营"
+    },
+    {
+      "label": "updatedby",
+      "value_cell": "K10:N11",
+      "value": "数据团队"
+    },
+    {
+      "label": "date",
+      "value_cell": "P10:S11",
+      "value": "2026-02-13"
+    },
+    {
+      "label": "1.裂变拉新",
+      "value_cell": "A16:D17",
+      "value": "邀请好友得50元优惠券（双方均可使用）"
+    },
+    {
+      "label": "2.促活转化",
+      "value_cell": "F16:I17",
+      "value": "每日签到领积分，积分可兑换实物奖品或现金抵扣"
+    },
+    {
+      "label": "3.留存提升",
+      "value_cell": "K16:N17",
+      "value": "针对老用户推出「焕新会员」专属权益"
+    },
+    {
+      "label": "核心人群",
+      "value_cell": "A22:D23",
+      "value": "18-35岁都市青年（占比60%）"
+    },
+    {
+      "label": "次要人群",
+      "value_cell": "F22:I23",
+      "value": "36-45岁家庭用户（占比30%）"
+    },
+    {
+      "label": "边缘人群",
+      "value_cell": "K22:N23",
+      "value": "学生群体（占比10%）"
+    },
+    {
+      "label": "图文",
+      "value_cell": "A28:D29",
+      "value": "3-9张图片（正方形/竖屏）+ 500-800字文案"
+    },
+    {
+      "label": "图片",
+      "value_cell": "F28:I29",
+      "value": "1080x1920（竖屏）或1080x1080（正方形）"
+    },
+    {
+      "label": "视频",
+      "value_cell": "K28:N29",
+      "value": "60s以内，竖屏"
+    },
+    {
+      "label": "视频时长",
+      "value_cell": "P28:S29",
+      "value": "15s/30s/60s"
+    },
+    {
+      "label": "分辨率",
+      "value_cell": "A32:D33",
+      "value": "1080x1920（竖屏）"
+    },
+    {
+      "label": "格式",
+      "value_cell": "F32:I33",
+      "value": "MP4"
+    },
+    {
+      "label": "海报",
+      "value_cell": "K32:N33",
+      "value": "A0尺寸（841x1189mm）"
+    },
+    {
+      "label": "展架",
+      "value_cell": "P32:S33",
+      "value": "X展架（60x160cm）"
+    },
+    {
+      "label": "宣传单页",
+      "value_cell": "A36:D37",
+      "value": "A5尺寸"
+    },
+    {
+      "label": "文案",
+      "value_cell": "F36:I37",
+      "value": "不超过200字，含emoji"
+    },
+    {
+      "label": "cta按钮",
+      "value_cell": "K36:N37",
+      "value": "「立即参与」或「了解更多」"
+    },
+    {
+      "label": "内容要求",
+      "value_cell": "P36:S37",
+      "value": "突出活动主题、优惠信息、CTA按钮"
+    },
+    {
+      "label": "品牌元素",
+      "value_cell": "A40:D41",
+      "value": "需包含品牌logo（右下角，大小不超过10%）、活动slogan"
+    },
+    {
+      "label": "品牌要求",
+      "value_cell": "F40:I41",
+      "value": "严格遵循2026版品牌手册（附件2）"
+    },
+    {
+      "label": "新增用户数",
+      "value_cell": "A46:D47",
+      "value": "≥15万"
+    },
+    {
+      "label": "gmv",
+      "value_cell": "F46:I47",
+      "value": "≥500万"
+    },
+    {
+      "label": "活动参与率",
+      "value_cell": "K46:N47",
+      "value": "≥30%（基于DAU）"
+    },
+    {
+      "label": "分享率",
+      "value_cell": "P46:S47",
+      "value": "≥15%（参与用户中）"
+    },
+    {
+      "label": "time",
+      "value_cell": "A50:D51",
+      "value": "2026-02-13 22:00"
+    }
+  ]
+}

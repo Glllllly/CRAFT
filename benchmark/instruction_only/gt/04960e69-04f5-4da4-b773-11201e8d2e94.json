@@ -1,0 +1,211 @@
+﻿{
+    "excel":  "04960e69-04f5-4da4-b773-11201e8d2e94.xlsx",
+    "sheet":  "A",
+    "pairs":  [
+                  {
+                      "label":  "Name of Activity",
+                      "value_cell":  "D5:K5",
+                      "value":  "Summer Youth Camp 2024"
+                  },
+                  {
+                      "label":  "Child\u0027s Full Name",
+                      "value_cell":  "D6:K6",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Sex",
+                      "value_cell":  "B8:D8",
+                      "value":  "Male"
+                  },
+                  {
+                      "label":  "Birthday",
+                      "value_cell":  "G8:H8",
+                      "value":  "05/15/2012"
+                  },
+                  {
+                      "label":  "Age",
+                      "value_cell":  "J8:K8",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "Parent or Guardian Name",
+                      "value_cell":  "D10:K10",
+                      "value":  "Sarah Smith"
+                  },
+                  {
+                      "label":  "Home Address",
+                      "value_cell":  "D11:K11",
+                      "value":  "123 Maple St, Waco, TX 76701"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "D12:F12",
+                      "value":  "(254) 555-0101"
+                  },
+                  {
+                      "label":  "Business Phone",
+                      "value_cell":  "H12:K12",
+                      "value":  "(254) 555-0102"
+                  },
+                  {
+                      "label":  "Name",
+                      "value_cell":  "C15:F15",
+                      "value":  "Michael Johnson"
+                  },
+                  {
+                      "label":  "Phone  (",
+                      "value_cell":  "H15",
+                      "value":  "(254) 555-0199"
+                  },
+                  {
+                      "label":  "Street Address",
+                      "value_cell":  "D16:K16",
+                      "value":  "456 Oak Ave"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "C17:F17",
+                      "value":  "Waco"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "H17:I17",
+                      "value":  "TX"
+                  },
+                  {
+                      "label":  "Zip",
+                      "value_cell":  "K17",
+                      "value":  "76702"
+                  },
+                  {
+                      "label":  "Street Address",
+                      "value_cell":  "D18:K18",
+                      "value":  "456 Oak Ave"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "C19:F19",
+                      "value":  "Waco"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "H19:I19",
+                      "value":  "TX"
+                  },
+                  {
+                      "label":  "Zip",
+                      "value_cell":  "K19",
+                      "value":  "76702"
+                  },
+                  {
+                      "label":  "List here",
+                      "value_cell":  "D22:H23",
+                      "value":  "Peanuts, Bee stings"
+                  },
+                  {
+                      "label":  "Other :",
+                      "value_cell":  "K22,J23:K23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "H26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "J26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "If yes, describe the problems or illnesses",
+                      "value_cell":  "F27:K27,A28:K29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "State the name, address, medical specialty and phone number of this child\u0027s family physician and of any other",
+                      "value_cell":  "A32:K34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "State the name, address, and phone number of this child\u0027s dentist (and orthodontist if applicable) :",
+                      "value_cell":  "A36:K37",
+                      "value":  "Dr. Alan Green, 321 Elm St, Waco, TX, (254) 555-0300"
+                  },
+                  {
+                      "label":  "Is there medical or hospitalization insurance which provides benefits for this child?",
+                      "value_cell":  "G38",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Name of Insurance Co.",
+                      "value_cell":  "E39:K39",
+                      "value":  "Blue Cross Blue Shield"
+                  },
+                  {
+                      "label":  "Address",
+                      "value_cell":  "C40:K40",
+                      "value":  "1000 Victory Way, Dallas, TX"
+                  },
+                  {
+                      "label":  "Policy No. of Insurance Policy",
+                      "value_cell":  "E41:K41",
+                      "value":  "TX123456789"
+                  },
+                  {
+                      "label":  "Name of Policy Holder",
+                      "value_cell":  "E42:K42",
+                      "value":  "Sarah Smith"
+                  },
+                  {
+                      "label":  "Phone No. of Insurance Co.",
+                      "value_cell":  "E43:K43",
+                      "value":  "(800) 555-1234"
+                  },
+                  {
+                      "label":  "Is  this  child on  any  medications?",
+                      "value_cell":  "E45",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "If so, please state the medication :",
+                      "value_cell":  "I45:K45,A46:K46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "If so, will this child be bringing to the Activity the medications that he/she should be taking?",
+                      "value_cell":  "J47:K47",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "C69:H69",
+                      "value":  "Sarah Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "J69:K69",
+                      "value":  "06/01/2024"
+                  },
+                  {
+                      "label":  "Print Full Name",
+                      "value_cell":  "D72:H72",
+                      "value":  "Sarah Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "J72:K72",
+                      "value":  "06/01/2024"
+                  },
+                  {
+                      "label":  "Name (printed)",
+                      "value_cell":  "C92:K92",
+                      "value":  "Sarah Smith"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "C95:K95",
+                      "value":  "Sarah Smith"
+                  }
+              ]
+}

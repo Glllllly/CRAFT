@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Disclosure Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Reference Number (Office Use)",
+      "value_text": "REF-2023-8842"
+    },
+    {
+      "key_text": "Full Name  (if providing)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID  (if applicable)",
+      "value_text": "EMP-99021"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@org.com"
+    },
+    {
+      "key_text": "Department / Unit",
+      "value_text": "Logistics & Supply Chain"
+    },
+    {
+      "key_text": "Approximate Date of Incident",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Location / Department Involved",
+      "value_text": "Warehouse Facility B"
+    },
+    {
+      "key_text": "Names of Individuals Involved  (if known)",
+      "value_text": "Mark Thompson, Warehouse Supervisor"
+    },
+    {
+      "key_text": "Detailed Description of Incident / Concern",
+      "value_text": "Observed unauthorized access to restricted inventory logs and potential falsification of safety inspection records for heavy machinery."
+    },
+    {
+      "key_text": "Harm or Potential Harm Caused / Anticipated",
+      "value_text": "Significant risk to workplace safety and potential violation of regulatory compliance standards regarding equipment maintenance."
+    },
+    {
+      "key_text": "Evidence or Documentation Available  (describe; do not attach originals)",
+      "value_text": "Digital timestamps from the security access logs and a saved copy of the digital inspection spreadsheet from October 12th."
+    },
+    {
+      "key_text": "Has this concern been reported elsewhere?  If yes, to whom and when?",
+      "value_text": "No, this is the initial report."
+    },
+    {
+      "key_text": "What action, if any, has been taken so far?",
+      "value_text": "No prior action has been taken; reporting immediately upon discovery."
+    },
+    {
+      "key_text": "Assigned Investigator",
+      "value_text": "David Miller"
+    },
+    {
+      "key_text": "Priority  (High/Med/Low)",
+      "value_text": "High"
+    },
+    {
+      "key_text": "Target Close Date",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Investigator Notes / Disposition",
+      "value_text": "Initial review scheduled for 10-16. Interview with supervisor requested."
+    }
+  ]
+}
+
+Narrative:
+This NCE Incident Disclosure Form was submitted on October 15, 2023, and assigned reference number REF-2023-8842. The report was filed by Sarah Jenkins (Employee ID EMP-99021) from the Logistics & Supply Chain department, who can be reached via phone at 555-012-3456 or email at s.jenkins@org.com. The incident occurred on October 12, 2023, at Warehouse Facility B, involving Warehouse Supervisor Mark Thompson. The report details concerns regarding unauthorized access to inventory logs and the potential falsification of machinery safety inspection records, which poses a significant risk to workplace safety and regulatory compliance. Evidence includes digital security logs and a copy of the inspection spreadsheet. This is the first report of the issue, and no prior actions have been taken. The case has been assigned to investigator David Miller with a High priority status and a target resolution date of October 25, 2023. The investigator has noted that an initial review is scheduled for October 16, with an interview request for the supervisor involved.

@@ -1,0 +1,44 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "已采取",
+                                   "selected_value":  "加强用户告知、完善隐私保护、优化服务条款",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "下步计划",
+                                   "selected_value":  "定期审查、及时更新、用户反馈收集",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "关键条款",
+                                   "selected_value":  "用户隐私保护、知识产权、责任限制、服务保证",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "审查通过",
+                                   "selected_value":  "已通过)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文档类型",
+                                   "selected_value":  "隐私政策)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "更新状态",
+                                   "selected_value":  "已更新)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "法律风险",
+                                   "selected_value":  "低)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "符合法律",
+                                   "selected_value":  "《电商法》)",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,129 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "day7",
+                                   "selected_value":  "Recap and Planning",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "Active",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "day12",
+                                   "selected_value":  "Educational Content",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "day34",
+                                   "selected_value":  "Promotional Content",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "day56",
+                                   "selected_value":  "Community Content",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "blogpost",
+                                   "selected_value":  "\"Top 10 Tips for Product Usage\"",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "blogviews",
+                                   "selected_value":  "5000+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "infographic",
+                                   "selected_value":  "Best practices guide",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pollsurvey",
+                                   "selected_value":  "Gather feedback",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q\u0026asession",
+                                   "selected_value":  "Community engagement",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "videoviews",
+                                   "selected_value":  "3000+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lastupdated",
+                                   "selected_value":  "2024-02-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "socialshares",
+                                   "selected_value":  "200+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "externallinks",
+                                   "selected_value":  "3+ authoritative sources",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "internallinks",
+                                   "selected_value":  "5+ per article",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "userspotlight",
+                                   "selected_value":  "Featured customer",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "videotutorial",
+                                   "selected_value":  "5 minutes walkthrough",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "weeklysummary",
+                                   "selected_value":  "Key metrics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "engagementrate",
+                                   "selected_value":  "5%+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "productshowcase",
+                                   "selected_value":  "New feature announcement",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "engagementreport",
+                                   "selected_value":  "Performance analysis",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "metadescriptions",
+                                   "selected_value":  "Optimized",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "nextweekpreview",
+                                   "selected_value":  "Content roadmap",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "limitedtimeoffer",
+                                   "selected_value":  "Special promotion",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "customersuccessstory",
+                                   "selected_value":  "Case study",
+                                   "conflict":  false
+                               }
+                           ]
+}

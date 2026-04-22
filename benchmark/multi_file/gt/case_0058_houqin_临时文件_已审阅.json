@@ -1,0 +1,96 @@
+{
+  "excel": "case_0058_houqin_临时文件_已审阅__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "24510"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "人员清单_1879"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "人员清单"
+    },
+    {
+      "label": "date",
+      "value_cell": "P6:S7",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A10:D11",
+      "value": "2026-02-10T05:30:31.527520"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F10:I11",
+      "value": "陈芳"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A16:D17",
+      "value": "张丽"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F16:I17",
+      "value": "生产部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K16:N17",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "P16:S17",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "status",
+      "value_cell": "A22:D23",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F22:I23",
+      "value": "低"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "K22:N23",
+      "value": "待审批"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "P22:S23",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "A28:D29",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F28:I29",
+      "value": "周八@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K28:N29",
+      "value": "工作报告"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "P28:S29",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

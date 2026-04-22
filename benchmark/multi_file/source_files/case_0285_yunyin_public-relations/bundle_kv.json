@@ -1,0 +1,1313 @@
+{
+  "bundle_dir": "case_0285_yunyin_public-relations",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "press_release_17.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 12856000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 12856000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$141620M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $141620M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 6 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 6 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**newfeature17**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 17**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 17**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "press_release_18.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 10416000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 10416000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$297940M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $297940M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 3 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 3 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**newfeature18**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 18**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 18**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "press_release_24.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 17420000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 17420000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$182180M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $182180M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 5 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 5 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**newfeature24**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 24**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 24**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "press_release_26.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 12424000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 12424000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$225200M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $225200M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 6 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 6 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**newfeature26**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 26**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 26**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "press_release_39.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 23294000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 23294000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$250410M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $250410M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 4 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 4 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**newfeature39**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 39**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 39**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "**customergrowth**",
+      "candidates": [
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 12856000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 12856000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 10416000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 10416000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 17420000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 17420000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 12424000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 12424000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**customergrowth**",
+          "value": "Expanded customer base to 23294000 organizations",
+          "raw_key": "- **Customer Growth**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Customer Growth**: Expanded customer base to 23294000 organizations",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**distributiondate**",
+      "candidates": [
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**distributiondate**",
+          "value": "2024-02-10",
+          "raw_key": "**Distribution Date**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Distribution Date**: 2024-02-10",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**documentversion**",
+      "candidates": [
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**documentversion**",
+          "value": "1.0",
+          "raw_key": "**Document Version**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Document Version**: 1.0",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**investment**",
+      "candidates": [
+        {
+          "key": "**investment**",
+          "value": "$141620M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $141620M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$297940M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $297940M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$182180M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $182180M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$225200M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $225200M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**investment**",
+          "value": "$250410M raised for product development and market expansion",
+          "raw_key": "- **Investment**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Investment**: $250410M raised for product development and market expansion",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**marketexpansion**",
+      "candidates": [
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 6 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 6 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 3 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 3 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 5 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 5 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 6 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 6 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**marketexpansion**",
+          "value": "Entering 4 new geographic markets",
+          "raw_key": "- **Market Expansion**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **Market Expansion**: Entering 4 new geographic markets",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**newfeature17**",
+      "candidates": [
+        {
+          "key": "**newfeature17**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 17**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 17**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**newfeature18**",
+      "candidates": [
+        {
+          "key": "**newfeature18**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 18**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 18**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**newfeature24**",
+      "candidates": [
+        {
+          "key": "**newfeature24**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 24**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 24**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**newfeature26**",
+      "candidates": [
+        {
+          "key": "**newfeature26**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 26**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 26**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**newfeature39**",
+      "candidates": [
+        {
+          "key": "**newfeature39**",
+          "value": "Revolutionary AI-powered capabilities",
+          "raw_key": "- **New Feature 39**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **New Feature 39**: Revolutionary AI-powered capabilities",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**status**",
+      "candidates": [
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**status**",
+          "value": "Ready for Distribution",
+          "raw_key": "**Status**",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Status**: Ready for Distribution",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "email",
+      "candidates": [
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "email",
+          "value": "pr@productcompany.com",
+          "raw_key": "- Email",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email: pr@productcompany.com",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "name",
+      "candidates": [
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "name",
+          "value": "PR Manager",
+          "raw_key": "- Name",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Name: PR Manager",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "phone",
+      "candidates": [
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_17.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_18.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "phone",
+          "value": "+1-555-0100",
+          "raw_key": "- Phone",
+          "source_file": "press_release_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Phone: +1-555-0100",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

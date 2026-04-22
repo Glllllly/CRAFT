@@ -1,0 +1,61 @@
+﻿{
+    "excel":  "1_Wellesley_092100_Participants.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "EVENT:",
+                      "value_cell":  "B4",
+                      "value":  "Q3 Quarterly Strategic Planning Summit"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "B6",
+                      "value":  "October 14-15, 2023"
+                  },
+                  {
+                      "label":  "TIME:",
+                      "value_cell":  "B8:B9",
+                      "value":  "09:00 AM - 05:00 PM"
+                  },
+                  {
+                      "label":  "PLACE:",
+                      "value_cell":  "B11:B13",
+                      "value":  "The Grand Hyatt, Conference Hall B, 1000 Austin St, Houston, TX 77002"
+                  },
+                  {
+                      "label":  "Contacts:",
+                      "value_cell":  "B16:B18",
+                      "value":  "Sarah Jenkins (Event Coordinator), 713-555-0123, sjenkins@enron.com"
+                  },
+                  {
+                      "label":  "Enron Participants:",
+                      "value_cell":  "B21:F22",
+                      "value":  "Kenneth Lay, Jeffrey Skilling, Richard Kinder, Andrew Fastow"
+                  },
+                  {
+                      "label":  "Flight Arrangements:",
+                      "value_cell":  "B30",
+                      "value":  "Charter flight departing HOU at 07:00 AM on Oct 14"
+                  },
+                  {
+                      "label":  "Hotel Information:",
+                      "value_cell":  "B33:B34",
+                      "value":  "Grand Hyatt Houston, Executive Suite Block"
+                  },
+                  {
+                      "label":  "Hotel Guests:",
+                      "value_cell":  "B37",
+                      "value":  "All Enron participants listed above"
+                  },
+                  {
+                      "label":  "Ground Information:",
+                      "value_cell":  "B40",
+                      "value":  "Private car service provided by Executive Transport"
+                  },
+                  {
+                      "label":  "Additional Information:",
+                      "value_cell":  "B43:B45",
+                      "value":  "Business formal attire required; please bring all Q3 financial reports for review."
+                  }
+              ]
+}

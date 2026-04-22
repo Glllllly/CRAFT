@@ -1,0 +1,49 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Student Full Name", "value_text": "Benjamin J. Miller" },
+    { "key_text": "Date of Birth mm/dd/yyyy", "value_text": "05/14/2010" },
+    { "key_text": "Student ID / Grade / Class", "value_text": "ID: 88429 / Grade 8 / Class 8B" },
+    { "key_text": "School / Institution", "value_text": "Riverside Middle School" },
+    { "key_text": "Parent / Guardian Name", "value_text": "Sarah L. Miller" },
+    { "key_text": "Relationship", "value_text": "Mother" },
+    { "key_text": "Parent Phone (Primary)", "value_text": "(555) 234-8890" },
+    { "key_text": "Parent Phone (Secondary)", "value_text": "(555) 987-1234" },
+    { "key_text": "Parent E-mail", "value_text": "sarah.miller@email.com" },
+    { "key_text": "Home Address", "value_text": "1242 Oakwood Drive, Springfield, IL 62704" },
+    { "key_text": "Trip Name / Destination", "value_text": "Science Museum of Natural History Field Trip" },
+    { "key_text": "Departure Date & Time", "value_text": "10/12/2023 08:00 AM" },
+    { "key_text": "Return Date & Time", "value_text": "10/12/2023 04:30 PM" },
+    { "key_text": "Itinerary / Programme Summary", "value_text": "Guided tour of the Dinosaur Hall and interactive robotics workshop." },
+    { "key_text": "Transportation Mode", "value_text": "Charter School Bus" },
+    { "key_text": "Trip Supervisor / Teacher Name", "value_text": "Mr. David Henderson" },
+    { "key_text": "Cost to Participant $", "value_text": "25.00" },
+    { "key_text": "Payment Due Date", "value_text": "10/05/2023" },
+    { "key_text": "Physician Name", "value_text": "Dr. Elena Rodriguez" },
+    { "key_text": "Physician Phone", "value_text": "(555) 456-7890" },
+    { "key_text": "Insurance Provider", "value_text": "Blue Cross Blue Shield" },
+    { "key_text": "Policy Number", "value_text": "BCBS-99887766" },
+    { "key_text": "Medical Conditions, Allergies, or Dietary Restrictions", "value_text": "Peanut allergy; requires EpiPen." },
+    { "key_text": "Current Medications (name, dosage, timing)", "value_text": "None" },
+    { "key_text": "Yes", "value_text": null },
+    { "key_text": "No", "value_text": null },
+    { "key_text": "Only if prescribed emergency medication", "value_text": "X" },
+    { "key_text": "Emergency Contact Name", "value_text": "Robert Miller" },
+    { "key_text": "Relationship", "value_text": "Father" },
+    { "key_text": "Emergency Phone 1", "value_text": "(555) 345-6789" },
+    { "key_text": "Emergency Phone 2", "value_text": "(555) 876-5432" },
+    { "key_text": "Parent / Guardian Signature", "value_text": "Sarah L. Miller" },
+    { "key_text": "Date", "value_text": "09/25/2023" },
+    { "key_text": "Date Signed", "value_text": "09/25/2023" },
+    { "key_text": "Date", "value_text": "09/25/2023" },
+    { "key_text": "Trip Coordinator", "value_text": "Mr. David Henderson" },
+    { "key_text": "Date", "value_text": "09/26/2023" }
+  ]
+}
+
+Narrative:
+This field trip permission form is for Benjamin J. Miller, an 8th-grade student at Riverside Middle School, born on May 14, 2010. His mother, Sarah L. Miller, has provided her contact information, including her primary phone number (555) 234-8890, secondary number (555) 987-1234, email address, and home address in Springfield.
+
+The student is participating in the Science Museum of Natural History field trip on October 12, 2023, departing at 8:00 AM and returning at 4:30 PM. The trip, coordinated by Mr. David Henderson, involves a guided tour and a robotics workshop, with a participation cost of $25.00 due by October 5, 2023.
+
+Regarding medical information, Benjamin is under the care of Dr. Elena Rodriguez and is covered by Blue Cross Blue Shield (Policy #BCBS-99887766). He has a peanut allergy requiring an EpiPen, and it is indicated that staff may administer medication only if it is prescribed emergency medication. Robert Miller is listed as the secondary emergency contact. The form was signed by Sarah L. Miller on September 25, 2023, and acknowledged by the trip coordinator on September 26, 2023.

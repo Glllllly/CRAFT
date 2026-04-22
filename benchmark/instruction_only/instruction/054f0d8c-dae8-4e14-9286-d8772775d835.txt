@@ -1,0 +1,80 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "NEW:",
+      "value_text": "X"
+    },
+    {
+      "key_text": "UPDATED:",
+      "value_text": null
+    },
+    {
+      "key_text": "COMPANY/ORGANIZATION NAME:",
+      "value_text": "Southwest Tech Solutions LLC"
+    },
+    {
+      "key_text": "COMPANY/ORGANZIATION PHONE:",
+      "value_text": "(505) 555-0123"
+    },
+    {
+      "key_text": "COMPANY ADDRESS:",
+      "value_text": "4200 Central Ave SE, Suite 105"
+    },
+    {
+      "key_text": "CITY / STATE",
+      "value_text": "Albuquerque, NM"
+    },
+    {
+      "key_text": "ZIP CODE",
+      "value_text": "87108"
+    },
+    {
+      "key_text": "CARD HOLDER NAME (PRINT):",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "CARD HOLDER PHONE:",
+      "value_text": "(505) 555-0124"
+    },
+    {
+      "key_text": "CARD HOLDER EMAIL:",
+      "value_text": "e.rodriguez@swtechsol.com"
+    },
+    {
+      "key_text": "AUTHORIZED NAME (PRINT):",
+      "value_text": "Michael Chen"
+    },
+    {
+      "key_text": "AUTHORIZED SIGNATURE:",
+      "value_text": "Michael Chen"
+    },
+    {
+      "key_text": "PHONE NUMBER:",
+      "value_text": "(505) 555-0125"
+    },
+    {
+      "key_text": "TITLE:",
+      "value_text": "Finance Manager"
+    },
+    {
+      "key_text": "DATE: (MM/DD/YYYY):",
+      "value_text": "10/24/2023"
+    },
+    {
+      "key_text": "SOCIAL SECURITY OR FEINNUMBER:",
+      "value_text": "85-1234567"
+    },
+    {
+      "key_text": "E:MAIL ADDRESS",
+      "value_text": "accounts@swtechsol.com"
+    },
+    {
+      "key_text": "ADDITIONAL E:MAIL ADDRESS",
+      "value_text": "billing@swtechsol.com"
+    }
+  ]
+}
+
+Narrative:
+This is a new Vendor E-Pay Payment Form for the City of Albuquerque, submitted by Southwest Tech Solutions LLC. The company is located at 4200 Central Ave SE, Suite 105, Albuquerque, NM 87108, and their main phone number is (505) 555-0123. The designated cardholder for this account is Elena Rodriguez, who can be reached at (505) 555-0124 or via email at e.rodriguez@swtechsol.com. The form was authorized and signed by Michael Chen, the Finance Manager, on October 24, 2023. His direct contact number is (505) 555-0125. For tax purposes, the company's FEIN is 85-1234567. Primary electronic communications should be sent to accounts@swtechsol.com, with billing@swtechsol.com listed as an additional email address.

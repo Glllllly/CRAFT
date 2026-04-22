@@ -1,0 +1,164 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Last Name",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Marcus"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "8849201"
+    },
+    {
+      "key_text": "Date of Birth",
+      "value_text": "05/12/2003"
+    },
+    {
+      "key_text": "Age",
+      "value_text": "20"
+    },
+    {
+      "key_text": "Gender",
+      "value_text": "Male"
+    },
+    {
+      "key_text": "Academic Year",
+      "value_text": "Junior"
+    },
+    {
+      "key_text": "Sport(s)",
+      "value_text": "Basketball"
+    },
+    {
+      "key_text": "Position / Event",
+      "value_text": "Point Guard"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "University E-mail",
+      "value_text": "mhenderson@university.edu"
+    },
+    {
+      "key_text": "Dorm / Local Address",
+      "value_text": "Oak Hall, Room 302"
+    },
+    {
+      "key_text": "Emergency Contact — Full Name",
+      "value_text": "Sarah Henderson"
+    },
+    {
+      "key_text": "Relationship",
+      "value_text": "Mother"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "Cell Phone (Contact)",
+      "value_text": "555-111-2222"
+    },
+    {
+      "key_text": "Work Phone",
+      "value_text": "555-333-4444"
+    },
+    {
+      "key_text": "Contact E-mail",
+      "value_text": "shenderson@email.com"
+    },
+    {
+      "key_text": "Physician Name & Phone",
+      "value_text": "Dr. Alan Grant, 555-777-8888"
+    },
+    {
+      "key_text": "Primary Insurance Company",
+      "value_text": "Blue Shield Health"
+    },
+    {
+      "key_text": "Policy / Member ID",
+      "value_text": "BSH998877665"
+    },
+    {
+      "key_text": "Group Number",
+      "value_text": "G-554433"
+    },
+    {
+      "key_text": "Policyholder Name",
+      "value_text": "Sarah Henderson"
+    },
+    {
+      "key_text": "Current Medications (name, dose, frequency, reason)",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Known Allergies — describe reaction",
+      "value_text": "Penicillin - Hives"
+    },
+    {
+      "key_text": "Chronic Conditions, Diagnoses, or Ongoing Medical Issues",
+      "value_text": "Mild seasonal asthma"
+    },
+    {
+      "key_text": "Prior Surgeries or Hospitalizations (dates & procedures)",
+      "value_text": "Appendectomy, August 2018"
+    },
+    {
+      "key_text": "Concussion History — dates and resolution",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Previous Injuries (with dates)",
+      "value_text": "Sprained left ankle, March 2021"
+    },
+    {
+      "key_text": "Previous Sport-Related Surgeries",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Shoulder",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Elbow/Wrist",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Back/Spine",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Hip",
+      "value_text": "No"
+    },
+    {
+      "key_text": "I authorize the athletic training staff to provide emergency medical care if needed.",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Athlete Signature",
+      "value_text": "Marcus Henderson"
+    },
+    {
+      "key_text": "Parent/Guardian Signature (if under 18)",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/25/2023"
+    }
+  ]
+}
+
+Narrative:
+This medical form is completed for Marcus Henderson, a 20-year-old male junior student-athlete who plays point guard for the basketball team. Marcus, whose student ID is 8849201, was born on May 12, 2003. He can be reached at 555-012-3456 or via his university email, mhenderson@university.edu, and he resides in Oak Hall, Room 302.
+
+For emergency situations, he has listed his mother, Sarah Henderson, as his primary contact. She can be reached at home at 555-987-6543, on her cell at 555-111-2222, or at work at 555-333-4444. Her email is shenderson@email.com, and the family physician is Dr. Alan Grant, reachable at 555-777-8888. His medical insurance is provided by Blue Shield Health under policy number BSH998877665 and group number G-554433, with his mother listed as the policyholder.
+
+Regarding his medical history, Marcus currently takes no daily medications, though he has a known allergy to penicillin which causes hives. He manages mild seasonal asthma and underwent an appendectomy in August 2018. He has no history of concussions or sport-related surgeries, though he did suffer a sprained left ankle in March 2021. He reports no current issues with his shoulders, elbows, wrists, back, spine, or hips. Marcus has provided his authorization for emergency medical care and signed the form on August 25, 2023. Since he is over 18, the parent/guardian signature field remains blank.

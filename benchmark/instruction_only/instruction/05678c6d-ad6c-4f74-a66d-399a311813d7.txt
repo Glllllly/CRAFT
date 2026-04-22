@@ -1,0 +1,60 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Jelentkezni szeretnék az alábbi táborra (a megfelelő aláhúzandó):",
+      "value_text": "Vakáció az ókorban, 2014. június 23-27."
+    },
+    {
+      "key_text": "Név",
+      "value_text": "Kovács Barnabás"
+    },
+    {
+      "key_text": "Születési dátum",
+      "value_text": "2004. május 15."
+    },
+    {
+      "key_text": "Lakcím",
+      "value_text": "1118 Budapest, Ménesi út 12."
+    },
+    {
+      "key_text": "Szülő neve",
+      "value_text": "Kovácsné Szabó Anna"
+    },
+    {
+      "key_text": "Telefonszám",
+      "value_text": "+36 20 123 4567"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "kovacs.anna@example.hu"
+    },
+    {
+      "key_text": "Szülő telefonszáma napközben",
+      "value_text": "+36 1 987 6543"
+    },
+    {
+      "key_text": "Iskola neve és címe",
+      "value_text": "Budapest I. Kerületi Batthyány Lajos Általános Iskola, 1015 Budapest, Batthyány utca 8."
+    },
+    {
+      "key_text": "Osztály",
+      "value_text": "4.b"
+    },
+    {
+      "key_text": "A táborról a következő módon értesültem:",
+      "value_text": "Iskolai hirdetőtáblán"
+    },
+    {
+      "key_text": "Dátum:",
+      "value_text": "2014. május 10."
+    },
+    {
+      "key_text": "Szülő aláírása",
+      "value_text": "Kovácsné Szabó Anna"
+    }
+  ]
+}
+
+Narrative:
+This registration form is for Barnabás Kovács, who is signing up for the "Vacation in Antiquity" summer camp session scheduled for June 23-27, 2014. Barnabás was born on May 15, 2004, and currently lives at 1118 Budapest, Ménesi út 12. He is a student in class 4.b at the Batthyány Lajos Elementary School in Budapest's 1st district. His mother, Anna Kovácsné Szabó, provided her contact details including a mobile phone number (+36 20 123 4567), a work number (+36 1 987 6543), and an email address (kovacs.anna@example.hu). The family learned about the camp from a school bulletin board. The application was completed and signed by the parent on May 10, 2014.

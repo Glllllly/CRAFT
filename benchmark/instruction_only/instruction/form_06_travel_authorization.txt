@@ -1,0 +1,92 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name:",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Employee ID:",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Position:",
+      "value_text": "Senior Brand Manager"
+    },
+    {
+      "key_text": "Emergency Contact:",
+      "value_text": "Carlos Rodriguez"
+    },
+    {
+      "key_text": "Emergency Phone:",
+      "value_text": "555-012-9876"
+    },
+    {
+      "key_text": "Purpose of Travel:",
+      "value_text": "Annual Global Marketing Summit and Product Launch"
+    },
+    {
+      "key_text": "Destination  (City / Country):",
+      "value_text": "Berlin, Germany"
+    },
+    {
+      "key_text": "Departure Date:",
+      "value_text": "2023-11-12"
+    },
+    {
+      "key_text": "Return Date:",
+      "value_text": "2023-11-17"
+    },
+    {
+      "key_text": "Mode of Transport:",
+      "value_text": "Commercial Airline"
+    },
+    {
+      "key_text": "Estimated Airfare  $:",
+      "value_text": "1200"
+    },
+    {
+      "key_text": "Estimated Accommodation  $:",
+      "value_text": "900"
+    },
+    {
+      "key_text": "Estimated Daily Allowance  $:",
+      "value_text": "500"
+    },
+    {
+      "key_text": "Total Estimated Budget  $:",
+      "value_text": "2600"
+    },
+    {
+      "key_text": "Line Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Finance Department",
+      "value_text": "Michael Chen"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-26"
+    },
+    {
+      "key_text": "Vice President / Director",
+      "value_text": "David Thorne"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-27"
+    }
+  ]
+}
+
+Narrative:
+This travel authorization request is for Elena Rodriguez, a Senior Brand Manager (ID: EMP-8842) in the Marketing department. Elena is planning to travel to Berlin, Germany, for the Annual Global Marketing Summit and Product Launch. Her trip is scheduled to depart on November 12, 2023, and she will return on November 17, 2023, traveling via commercial airline. The estimated expenses include $1,200 for airfare, $900 for accommodation, and $500 for a daily allowance, bringing the total estimated budget to $2,600. In case of an emergency, she has listed Carlos Rodriguez at 555-012-9876 as her contact. The form has been approved by her line manager, Sarah Jenkins, on October 25, 2023, followed by Finance Department approval from Michael Chen on October 26, 2023, and final authorization from Vice President David Thorne on October 27, 2023.

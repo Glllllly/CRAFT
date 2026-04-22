@@ -1,0 +1,1793 @@
+{
+  "bundle_dir": "case_0052_chanpin_问题反馈_bug报告",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "报告_009.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "3",
+          "raw_key": "优先级",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：3",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户10",
+          "raw_key": "报告人",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-02-26 12:18",
+          "raw_key": "报告时间",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-02-26 12:18",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00009",
+          "raw_key": "报告编号",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3.7",
+          "raw_key": "版本",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.7",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "报告_029.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "3",
+          "raw_key": "优先级",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：3",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户30",
+          "raw_key": "报告人",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户30",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-04-09 18:22",
+          "raw_key": "报告时间",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-04-09 18:22",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00029",
+          "raw_key": "报告编号",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4.5",
+          "raw_key": "版本",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4.5",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "报告_049.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "5",
+          "raw_key": "优先级",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：5",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户50",
+          "raw_key": "报告人",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户50",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-02-13 05:04",
+          "raw_key": "报告时间",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-02-13 05:04",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00049",
+          "raw_key": "报告编号",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4.2",
+          "raw_key": "版本",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4.2",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "报告_079.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "2",
+          "raw_key": "优先级",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：2",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能20",
+          "raw_key": "功能",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能20",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户30",
+          "raw_key": "报告人",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户30",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-12-11 03:18",
+          "raw_key": "报告时间",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-12-11 03:18",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00079",
+          "raw_key": "报告编号",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00079",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3.4",
+          "raw_key": "版本",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.4",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "报告_089.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "4",
+          "raw_key": "优先级",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：4",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户40",
+          "raw_key": "报告人",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户40",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-01-24 18:52",
+          "raw_key": "报告时间",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-01-24 18:52",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00089",
+          "raw_key": "报告编号",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00089",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3.3",
+          "raw_key": "版本",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.3",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "严重级别",
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "P1严重)",
+          "raw_key": "严重级别",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：P1严重)",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优先级",
+      "candidates": [
+        {
+          "key": "优先级",
+          "value": "3",
+          "raw_key": "优先级",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：3",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "3",
+          "raw_key": "优先级",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：3",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "5",
+          "raw_key": "优先级",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：5",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "2",
+          "raw_key": "优先级",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：2",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "4",
+          "raw_key": "优先级",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：4",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分配给",
+      "candidates": [
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配给",
+          "value": "开发10",
+          "raw_key": "分配给",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配给：开发10",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能",
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能20",
+          "raw_key": "功能",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能20",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告人",
+      "candidates": [
+        {
+          "key": "报告人",
+          "value": "用户10",
+          "raw_key": "报告人",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户30",
+          "raw_key": "报告人",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户30",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户50",
+          "raw_key": "报告人",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户50",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户30",
+          "raw_key": "报告人",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户30",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "用户40",
+          "raw_key": "报告人",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：用户40",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告时间",
+      "candidates": [
+        {
+          "key": "报告时间",
+          "value": "2024-02-26 12:18",
+          "raw_key": "报告时间",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-02-26 12:18",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-04-09 18:22",
+          "raw_key": "报告时间",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-04-09 18:22",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-02-13 05:04",
+          "raw_key": "报告时间",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-02-13 05:04",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-12-11 03:18",
+          "raw_key": "报告时间",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-12-11 03:18",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-01-24 18:52",
+          "raw_key": "报告时间",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-01-24 18:52",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告编号",
+      "candidates": [
+        {
+          "key": "报告编号",
+          "value": "BUG-00009",
+          "raw_key": "报告编号",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00029",
+          "raw_key": "报告编号",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00029",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00049",
+          "raw_key": "报告编号",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00079",
+          "raw_key": "报告编号",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00079",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BUG-00089",
+          "raw_key": "报告编号",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BUG-00089",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "浏览器",
+      "candidates": [
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "浏览器",
+          "value": "Chrome)",
+          "raw_key": "浏览器",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "浏览器：Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "版本",
+      "candidates": [
+        {
+          "key": "版本",
+          "value": "V3.7",
+          "raw_key": "版本",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.7",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4.5",
+          "raw_key": "版本",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4.5",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4.2",
+          "raw_key": "版本",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4.2",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3.4",
+          "raw_key": "版本",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.4",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V3.3",
+          "raw_key": "版本",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V3.3",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待确认)",
+          "raw_key": "状态",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：待确认)",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "系统",
+      "candidates": [
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统",
+          "value": "Windows)",
+          "raw_key": "系统",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统：Windows)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "网络",
+      "candidates": [
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "网络",
+          "value": "WiFi)",
+          "raw_key": "网络",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "网络：WiFi)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "问题现象",
+      "candidates": [
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "问题现象",
+          "value": "无法加载)",
+          "raw_key": "问题现象",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "问题现象：无法加载)",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "附件",
+      "candidates": [
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_009.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_029.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_049.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "截图、日志、录屏",
+          "raw_key": "附件",
+          "source_file": "报告_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "附件：截图、日志、录屏",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

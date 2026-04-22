@@ -1,0 +1,36 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "UPDATE:", "value_text": "2023-10-25" },
+    { "key_text": "PREP:", "value_text": "Sarah Jenkins" },
+    { "key_text": "PHONE:", "value_text": "555-012-3456" },
+    { "key_text": "PURCHASE BEHIND PLANT", "value_text": "Yes" },
+    { "key_text": "DEDICATED RESERVES", "value_text": "No" },
+    { "key_text": "NAME PLANT:", "value_text": "Blue Ridge Energy Center" },
+    { "key_text": "FIRST PURCHASER", "value_text": "Alpha Gas Corp" },
+    { "key_text": "DEAL NUMBER", "value_text": "BR-99821" },
+    { "key_text": "Deal # ", "value_text": "99821-X" },
+    { "key_text": "COUNTERPARTY/CUSTOMER", "value_text": "Summit Utilities" },
+    { "key_text": "CONTACT     ", "value_text": "Mark Thompson" },
+    { "key_text": "ORIGINATOR      ", "value_text": "Elena Rodriguez" },
+    { "key_text": "DEAL DATE", "value_text": "2023-10-24" },
+    { "key_text": "TRANSACTION TYPE (SWAP, CAP, INDEX, ETC.)", "value_text": "INDEX" },
+    { "key_text": "Affiliate?", "value_text": "No" },
+    { "key_text": "Buy or sell?", "value_text": "Buy" },
+    { "key_text": "Financial or Physical?", "value_text": "Physical" },
+    { "key_text": "IFGMR, NGI, NGW, GAS DAILY INDEX", "value_text": "NGI" },
+    { "key_text": "PHYSICAL DELIVERY POINT/PIPELINE", "value_text": "Henry Hub" },
+    { "key_text": "COMMODITY", "value_text": "Natural Gas" },
+    { "key_text": "UNIT OF MEASURE", "value_text": "MMBtu" },
+    { "key_text": "MW", "value_text": "N/A" },
+    { "key_text": "CURRENCY", "value_text": "USD" },
+    { "key_text": "BROKER", "value_text": "Intercontinental Exchange" },
+    { "key_text": "FEE", "value_text": "0.02" },
+    { "key_text": "DEAL STATUS", "value_text": "Confirmed" },
+    { "key_text": "SETTLEMENT", "value_text": "Monthly Net" },
+    { "key_text": "DESCRIPTION:", "value_text": "Physical purchase of natural gas at Henry Hub for delivery to the Blue Ridge Energy Center. Transaction processed through the Intercontinental Exchange with a monthly net settlement." }
+  ]
+}
+
+Narrative:
+This transaction record was updated on October 25, 2023, by Sarah Jenkins (555-012-3456). The deal, numbered BR-99821 (reference 99821-X), involves a physical purchase of natural gas behind the Blue Ridge Energy Center plant, with Alpha Gas Corp listed as the first purchaser. The counterparty is Summit Utilities, with Mark Thompson acting as the contact and Elena Rodriguez as the originator. The deal was finalized on October 24, 2023, as an index-based physical buy transaction using NGI pricing at the Henry Hub delivery point. The trade is not with an affiliate, is denominated in USD, and was brokered by the Intercontinental Exchange for a fee of 0.02. The deal status is confirmed, and the settlement will be handled as a monthly net arrangement. The description confirms the physical gas purchase for the specified energy center.

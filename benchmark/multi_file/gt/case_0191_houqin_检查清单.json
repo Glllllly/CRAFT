@@ -1,0 +1,96 @@
+{
+  "excel": "case_0191_houqin_检查清单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "56333"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "费用统计_4037"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "费用统计"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M9:Q9",
+      "value": "维护计划"
+    },
+    {
+      "label": "status",
+      "value_cell": "D12:H12",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M12:Q12",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D15:H15",
+      "value": "紧急"
+    },
+    {
+      "label": "检查编号",
+      "value_cell": "D20:H20",
+      "value": "CHK-019"
+    },
+    {
+      "label": "检查日期",
+      "value_cell": "M20:Q20",
+      "value": "2024-02-06"
+    },
+    {
+      "label": "检查人",
+      "value_cell": "D23:H23",
+      "value": "检查员5"
+    },
+    {
+      "label": "检查结果",
+      "value_cell": "M23:Q23",
+      "value": "合格"
+    },
+    {
+      "label": "检查评分",
+      "value_cell": "D26:H26",
+      "value": "88/100分"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D31:H31",
+      "value": "2026-02-10T05:30:33.181296"
+    },
+    {
+      "label": "date",
+      "value_cell": "M31:Q31",
+      "value": "Tue, 10 Feb 2026 05:30:33 +0800"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D34:H34",
+      "value": "王军"
+    },
+    {
+      "label": "from",
+      "value_cell": "M34:Q34",
+      "value": "王五@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D37:H37",
+      "value": "李四@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D42:H42",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

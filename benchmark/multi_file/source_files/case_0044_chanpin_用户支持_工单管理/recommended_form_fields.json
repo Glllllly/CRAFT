@@ -1,0 +1,49 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "内部备注",
+                                   "selected_value":  "持续跟踪",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "处理方法",
+                                   "selected_value":  "远程协助",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "处理状态",
+                                   "selected_value":  "待处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "影响范围",
+                                   "selected_value":  "单用户",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "是否解决",
+                                   "selected_value":  "已解决",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "联系方式",
+                                   "selected_value":  "用户邮箱或电话",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "重现步骤",
+                                   "selected_value":  "已记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "问题类型",
+                                   "selected_value":  "功能问题",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "用户遇到问题",
+                                   "selected_value":  "无法登录",
+                                   "conflict":  false
+                               }
+                           ]
+}

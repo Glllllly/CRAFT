@@ -1,0 +1,32 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "User Name",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Date comments entered",
+      "value_text": "10/24/2023"
+    },
+    {
+      "key_text": "User Comments:",
+      "value_text": "The system is throwing a 500 internal server error when attempting to export the monthly transaction report as a CSV file."
+    },
+    {
+      "key_text": "PLOG number (assigned by IT)",
+      "value_text": "44921"
+    },
+    {
+      "key_text": "Prod Support Issue (P) or Enhancement (E)",
+      "value_text": "P"
+    },
+    {
+      "key_text": "IT Feedback:",
+      "value_text": "We have identified a timeout issue in the database query. A patch is currently being deployed to resolve this."
+    }
+  ]
+}
+
+Narrative:
+Jonathan Miller submitted a report on 10/24/2023 regarding a technical issue. He noted in the comments that the system displays a 500 internal server error whenever he tries to export the monthly transaction report as a CSV file. IT has assigned this report the PLOG number 44921 and classified it as a Production Support Issue (P). The IT team provided feedback stating that they have identified a database query timeout and are currently deploying a patch to fix the problem.

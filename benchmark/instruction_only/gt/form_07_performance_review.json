@@ -1,0 +1,121 @@
+﻿{
+    "excel":  "form_07_performance_review.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name",
+                      "value_cell":  "E6:H6",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "E7:H7",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "M7:P7",
+                      "value":  "Senior Backend Developer"
+                  },
+                  {
+                      "label":  "Review Period",
+                      "value_cell":  "E8:H8",
+                      "value":  "2023-01-01 to 2023-12-31"
+                  },
+                  {
+                      "label":  "Reviewer Name",
+                      "value_cell":  "I8:P8",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Quality of Work  ___/5",
+                      "value_cell":  "E11:H11",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Productivity  ___/5",
+                      "value_cell":  "M11:P11",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Communication Skills  ___/5",
+                      "value_cell":  "E12:H12",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Teamwork \u0026 Collaboration  ___/5",
+                      "value_cell":  "M12:P12",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Initiative \u0026 Innovation  ___/5",
+                      "value_cell":  "E13:H13",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Attendance \u0026 Punctuality  ___/5",
+                      "value_cell":  "M13:P13",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Overall Rating  ___/5",
+                      "value_cell":  "E14:H14",
+                      "value":  "4.7"
+                  },
+                  {
+                      "label":  "Key Achievements This Period",
+                      "value_cell":  "E17:P17",
+                      "value":  "Led the successful migration of legacy database systems to AWS Cloud."
+                  },
+                  {
+                      "label":  "Areas for Improvement",
+                      "value_cell":  "E18:P18",
+                      "value":  "Delegation of minor technical tasks to junior team members."
+                  },
+                  {
+                      "label":  "Goals for Next Review Period",
+                      "value_cell":  "E19:P19",
+                      "value":  "Obtain Cloud Architect certification and mentor two junior developers."
+                  },
+                  {
+                      "label":  "Training / Development Needs",
+                      "value_cell":  "E20:P20",
+                      "value":  "Advanced Kubernetes orchestration workshop."
+                  },
+                  {
+                      "label":  "Reviewer / Supervisor",
+                      "value_cell":  "A26:J26",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M26:P26",
+                      "value":  "2024-01-15"
+                  },
+                  {
+                      "label":  "Employee (Acknowledgement)",
+                      "value_cell":  "A28:J28",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M28:P28",
+                      "value":  "2024-01-16"
+                  },
+                  {
+                      "label":  "HR Manager",
+                      "value_cell":  "A30:J30",
+                      "value":  "Robert Thompson"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M30:P30",
+                      "value":  "2024-01-17"
+                  }
+              ]
+}

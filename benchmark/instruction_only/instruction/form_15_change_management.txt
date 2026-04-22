@@ -1,0 +1,100 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By — Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Department / Team",
+      "value_text": "IT Infrastructure Operations"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-8843"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "m.thorne@enterprise.com"
+    },
+    {
+      "key_text": "Request Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Change Title / Summary",
+      "value_text": "Core Database Server Patching and Firmware Update"
+    },
+    {
+      "key_text": "Planned Start Date & Time",
+      "value_text": "2023-10-21 22:00"
+    },
+    {
+      "key_text": "Planned End Date & Time",
+      "value_text": "2023-10-22 04:00"
+    },
+    {
+      "key_text": "Business Justification / Reason for Change",
+      "value_text": "Address critical security vulnerabilities identified in the Q4 internal audit and improve database I/O performance."
+    },
+    {
+      "key_text": "Detailed Description of Change (step-by-step plan)",
+      "value_text": "1. Perform full system backup. 2. Stop database services. 3. Apply firmware updates. 4. Install OS security patches. 5. Restart services and verify connectivity."
+    },
+    {
+      "key_text": "Rollback / Back-Out Plan",
+      "value_text": "Restore from the pre-patch system snapshot taken at 21:00 on 2023-10-21 if post-patch verification fails."
+    },
+    {
+      "key_text": "Estimated Downtime Duration",
+      "value_text": "6 hours"
+    },
+    {
+      "key_text": "Services / Users Affected",
+      "value_text": "Customer Billing Portal, ERP System"
+    },
+    {
+      "key_text": "Risk Description & Mitigations",
+      "value_text": "Risk of extended downtime; mitigated by off-peak scheduling and pre-verified backup restoration."
+    },
+    {
+      "key_text": "Test Plan Summary",
+      "value_text": "End-to-end connectivity check and SQL query latency testing in the staging environment."
+    },
+    {
+      "key_text": "Test Environment",
+      "value_text": "Staging Cluster B"
+    },
+    {
+      "key_text": "Test Completion Date",
+      "value_text": "2023-10-19"
+    },
+    {
+      "key_text": "CAB Chair",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "CAB Decision",
+      "value_text": "Approved"
+    },
+    {
+      "key_text": "CAB Meeting Date",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Implementer Signature",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Manager Approval",
+      "value_text": "David Vane"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-20"
+    }
+  ]
+}
+
+Narrative:
+This change request was submitted by Marcus Thorne from the IT Infrastructure Operations team on October 15, 2023. He can be reached at 555-012-8843 or via email at m.thorne@enterprise.com. The request concerns a core database server patch and firmware update scheduled for October 21, 2023, from 10:00 PM to 4:00 AM. The primary goal is to address critical security vulnerabilities and improve database performance. The process involves a full backup, stopping services, applying updates, and verifying connectivity. A rollback plan is in place to restore from a system snapshot if needed. The six-hour downtime will impact the Customer Billing Portal and ERP system. Risks are mitigated by the off-peak scheduling. Testing was completed in Staging Cluster B on October 19, 2023. The Change Advisory Board, chaired by Sarah Jenkins, approved the plan on October 20, 2023. The implementation is signed off by Marcus Thorne and approved by manager David Vane as of October 20, 2023.

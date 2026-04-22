@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "003acd69-b98b-4c9a-b8f4-2942fee721e4.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Check In Date:",
+                      "value_cell":  "C9",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Check Out Date:",
+                      "value_cell":  "C10",
+                      "value":  "10/14/2023"
+                  },
+                  {
+                      "label":  "Guest Name:",
+                      "value_cell":  "C12:F12",
+                      "value":  "John Doe"
+                  },
+                  {
+                      "label":  "Bed Type:",
+                      "value_cell":  "C13:F13",
+                      "value":  "King"
+                  },
+                  {
+                      "label":  "Smoking Preference:",
+                      "value_cell":  "C14:F14",
+                      "value":  "Non-Smoking"
+                  },
+                  {
+                      "label":  "Confirmation #:",
+                      "value_cell":  "C15:F15",
+                      "value":  "RH-5521A"
+                  },
+                  {
+                      "label":  "Guest Name:",
+                      "value_cell":  "C17:F17",
+                      "value":  "Jane Smith"
+                  },
+                  {
+                      "label":  "Bed Type:",
+                      "value_cell":  "C18:F18",
+                      "value":  "Queen"
+                  },
+                  {
+                      "label":  "Smoking Preference:",
+                      "value_cell":  "C19:F19",
+                      "value":  "Non-Smoking"
+                  },
+                  {
+                      "label":  "Confirmation #:",
+                      "value_cell":  "C20:F20",
+                      "value":  "RH-5521B"
+                  },
+                  {
+                      "label":  "Guest Name:",
+                      "value_cell":  "C22:F22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Bed Type:",
+                      "value_cell":  "C23:F23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Smoking Preference:",
+                      "value_cell":  "C24:F24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Confirmation #:",
+                      "value_cell":  "C25:F25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "B29:C29",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "B30:C30",
+                      "value":  "Biology"
+                  },
+                  {
+                      "label":  "College:",
+                      "value_cell":  "B31:C31",
+                      "value":  "Science, Technology and Mathematics"
+                  },
+                  {
+                      "label":  "FHSU FAX #:",
+                      "value_cell":  "E29:F29",
+                      "value":  "785-628-4000"
+                  },
+                  {
+                      "label":  "FHSU Phone #:",
+                      "value_cell":  "E30:F30",
+                      "value":  "785-628-4214"
+                  },
+                  {
+                      "label":  "BPC Last 5 Digits:",
+                      "value_cell":  "E31:F31",
+                      "value":  "12345"
+                  },
+                  {
+                      "label":  "Will Pay Personally:",
+                      "value_cell":  "E32:F32",
+                      "value":  "No"
+                  }
+              ]
+}

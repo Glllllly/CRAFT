@@ -1,0 +1,43 @@
+{
+  "product_id": "product_41",
+  "version": "5.14",
+  "name": "产品2",
+  "description": "这是产品41的配置文件",
+  "status": "active",
+  "enabled_features": [
+    "feature_core",
+    "feature_premium",
+    "feature_analytics",
+    "feature_integration"
+  ],
+  "limits": {
+    "max_users": 8502,
+    "max_api_calls": 117308,
+    "storage_gb": 1076
+  },
+  "pricing": {
+    "currency": "CNY",
+    "basic_price": 375,
+    "premium_price": 2104,
+    "enterprise_price": 13502
+  },
+  "regions": [
+    "china",
+    "asia",
+    "global"
+  ],
+  "support_level": "community",
+  "sla": {
+    "uptime": "97%",
+    "response_time_ms": 418,
+    "support_hours": "24/7"
+  },
+  "created_at": "2024-02-03T01:41:00Z",
+  "updated_at": "2024-11-03T06:53:00Z",
+  "owner": "product_team_2",
+  "tags": [
+    "important",
+    "production",
+    "monitored"
+  ]
+}

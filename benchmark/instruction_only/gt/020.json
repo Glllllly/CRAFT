@@ -1,0 +1,211 @@
+﻿{
+    "excel":  "020.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "A10:L10",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Job Title / Position",
+                      "value_cell":  "M10:X10",
+                      "value":  "Senior Data Analyst"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A12:H12",
+                      "value":  "Business Intelligence"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "I12:P12",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q12:X12",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Work E-mail",
+                      "value_cell":  "A14:L14",
+                      "value":  "s.jenkins@company.com"
+                  },
+                  {
+                      "label":  "Work Phone",
+                      "value_cell":  "M14:X14",
+                      "value":  "555-012-9988"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "A16:L16",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Manager E-mail",
+                      "value_cell":  "M16:X16",
+                      "value":  "m.thorne@company.com"
+                  },
+                  {
+                      "label":  "Event / Workshop Name",
+                      "value_cell":  "A21:X21",
+                      "value":  "Advanced Predictive Modeling Workshop"
+                  },
+                  {
+                      "label":  "Date(s)",
+                      "value_cell":  "A23:L23",
+                      "value":  "November 12-14, 2023"
+                  },
+                  {
+                      "label":  "Time (Start 鈥?End)",
+                      "value_cell":  "M23:X23",
+                      "value":  "09:00 AM 鈥?04:30 PM"
+                  },
+                  {
+                      "label":  "Venue / Location (or \"Online\")",
+                      "value_cell":  "A25:L25",
+                      "value":  "Tech Hub Conference Center"
+                  },
+                  {
+                      "label":  "Platform / Room Number",
+                      "value_cell":  "M25:X25",
+                      "value":  "Room 4B"
+                  },
+                  {
+                      "label":  "Facilitator / Trainer Name",
+                      "value_cell":  "A27:L27",
+                      "value":  "Dr. Elena Rossi"
+                  },
+                  {
+                      "label":  "Organising Department / Provider",
+                      "value_cell":  "M27:X27",
+                      "value":  "Data Science Institute"
+                  },
+                  {
+                      "label":  "Registration Fee $",
+                      "value_cell":  "A29:L29",
+                      "value":  "850.00"
+                  },
+                  {
+                      "label":  "Cost Centre Code",
+                      "value_cell":  "M29:X29",
+                      "value":  "CC-990-BI"
+                  },
+                  {
+                      "label":  "Registration Type: Required / Mandatory",
+                      "value_cell":  "H33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Registration Type: Manager-Recommended",
+                      "value_cell":  "M33",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Registration Type: Self-Initiated",
+                      "value_cell":  "R33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "How does this event support your current role or development plan?",
+                      "value_cell":  "A35:X35",
+                      "value":  "Enhances my ability to build predictive sales models for the upcoming fiscal year."
+                  },
+                  {
+                      "label":  "Key Learning Objectives You Expect to Achieve",
+                      "value_cell":  "A37:X37",
+                      "value":  "Mastering R-based forecasting algorithms and improving model accuracy metrics."
+                  },
+                  {
+                      "label":  "Attendance Mode: In-Person",
+                      "value_cell":  "H41",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Attendance Mode: Virtual",
+                      "value_cell":  "M41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Attendance Mode: Hybrid 鈥?specify below",
+                      "value_cell":  "R41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Hybrid or Accessibility Requirements",
+                      "value_cell":  "A43:X43",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Printed Materials",
+                      "value_cell":  "G44",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Laptop",
+                      "value_cell":  "L44",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Parking",
+                      "value_cell":  "Q44",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Dietary Requirements  (if catering)",
+                      "value_cell":  "A46:L46",
+                      "value":  "Vegetarian"
+                  },
+                  {
+                      "label":  "Accessibility / Accessibility Needs",
+                      "value_cell":  "M46:X46",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "How will you share learnings with your team after attending?",
+                      "value_cell":  "A51:X51",
+                      "value":  "I will host a 30-minute knowledge-sharing session during our next team meeting."
+                  },
+                  {
+                      "label":  "Follow-up Action Plan Agreed with Manager?  Y / N",
+                      "value_cell":  "A53:L53",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Review Date",
+                      "value_cell":  "M53:X53",
+                      "value":  "2023-12-01"
+                  },
+                  {
+                      "label":  "Participant Signature",
+                      "value_cell":  "A60:L60",
+                      "value":  "Signed: Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N60:X60",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Manager Approval",
+                      "value_cell":  "A63:L63",
+                      "value":  "Approved: Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N63:X63",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "L\u0026D Coordinator",
+                      "value_cell":  "A66:L66",
+                      "value":  "Pending"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N66:X66",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,1293 @@
+{
+  "bundle_dir": "case_0002_chanpin_OKR和目标_目标评审",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "评审_46.txt",
+      "source_type": "txt",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "58%，完成度 16%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=58%，完成度 16%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "90%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：90%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "68/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：68/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "37%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：37%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监2",
+          "raw_key": "评审人",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-10-08",
+          "raw_key": "评审时间",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-10-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q35",
+          "raw_key": "评审期间",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q35",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0046",
+          "raw_key": "评审编号",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0046",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评审_47.txt",
+      "source_type": "txt",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "43%，完成度 56%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=43%，完成度 56%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "56%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：56%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "64/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：64/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "95%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：95%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监3",
+          "raw_key": "评审人",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-02-18",
+          "raw_key": "评审时间",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-02-18",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q45",
+          "raw_key": "评审期间",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q45",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0047",
+          "raw_key": "评审编号",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0047",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评审_48.txt",
+      "source_type": "txt",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "45%，完成度 48%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=45%，完成度 48%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "93%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：93%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "69/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：69/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "67%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：67%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监1",
+          "raw_key": "评审人",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-07-05",
+          "raw_key": "评审时间",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-07-05",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q15",
+          "raw_key": "评审期间",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0048",
+          "raw_key": "评审编号",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0048",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评审_50.txt",
+      "source_type": "txt",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "46%，完成度 39%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=46%，完成度 39%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "22%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：22%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "65/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：65/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "42%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：42%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监3",
+          "raw_key": "评审人",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-09-14",
+          "raw_key": "评审时间",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-09-14",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q36",
+          "raw_key": "评审期间",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q36",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0050",
+          "raw_key": "评审编号",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0050",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评审_55.txt",
+      "source_type": "txt",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "73%，完成度 97%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=73%，完成度 97%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "45%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：45%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "68/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：68/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "42%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：42%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监2",
+          "raw_key": "评审人",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-03-09",
+          "raw_key": "评审时间",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-03-09",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q46",
+          "raw_key": "评审期间",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q46",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0055",
+          "raw_key": "评审编号",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0055",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "kr2.用户留存率d7",
+      "candidates": [
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "58%，完成度 16%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=58%，完成度 16%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "43%，完成度 56%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=43%，完成度 56%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "45%，完成度 48%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=45%，完成度 48%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "46%，完成度 39%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=46%，完成度 39%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kr2.用户留存率d7",
+          "value": "73%，完成度 97%",
+          "raw_key": "KR2. 用户留存率 D7",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "KR2. 用户留存率 D7=73%，完成度 97%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "关键成果完成度",
+      "candidates": [
+        {
+          "key": "关键成果完成度",
+          "value": "90%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：90%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "56%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：56%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "93%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：93%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "22%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：22%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "关键成果完成度",
+          "value": "45%",
+          "raw_key": "关键成果完成度",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "关键成果完成度：45%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总体评分",
+      "candidates": [
+        {
+          "key": "总体评分",
+          "value": "68/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：68/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "64/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：64/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "69/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：69/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "65/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：65/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总体评分",
+          "value": "68/100",
+          "raw_key": "总体评分",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总体评分：68/100",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "改进措施",
+      "candidates": [
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "改进措施",
+          "value": "加强沟通协作、优化流程",
+          "raw_key": "- 改进措施",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 改进措施：加强沟通协作、优化流程",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "目标完成度",
+      "candidates": [
+        {
+          "key": "目标完成度",
+          "value": "37%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：37%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "95%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：95%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "67%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：67%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "42%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：42%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标完成度",
+          "value": "42%",
+          "raw_key": "目标完成度",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标完成度：42%",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评审人",
+      "candidates": [
+        {
+          "key": "评审人",
+          "value": "产品总监2",
+          "raw_key": "评审人",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监3",
+          "raw_key": "评审人",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监1",
+          "raw_key": "评审人",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监3",
+          "raw_key": "评审人",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审人",
+          "value": "产品总监2",
+          "raw_key": "评审人",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审人：产品总监2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评审时间",
+      "candidates": [
+        {
+          "key": "评审时间",
+          "value": "2024-10-08",
+          "raw_key": "评审时间",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-10-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-02-18",
+          "raw_key": "评审时间",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-02-18",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-07-05",
+          "raw_key": "评审时间",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-07-05",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-09-14",
+          "raw_key": "评审时间",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-09-14",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审时间",
+          "value": "2024-03-09",
+          "raw_key": "评审时间",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审时间：2024-03-09",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评审期间",
+      "candidates": [
+        {
+          "key": "评审期间",
+          "value": "Q35",
+          "raw_key": "评审期间",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q35",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q45",
+          "raw_key": "评审期间",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q45",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q15",
+          "raw_key": "评审期间",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q36",
+          "raw_key": "评审期间",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q36",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审期间",
+          "value": "Q46",
+          "raw_key": "评审期间",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审期间：Q46",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评审编号",
+      "candidates": [
+        {
+          "key": "评审编号",
+          "value": "OKRR-0046",
+          "raw_key": "评审编号",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0046",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0047",
+          "raw_key": "评审编号",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0047",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0048",
+          "raw_key": "评审编号",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0048",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0050",
+          "raw_key": "评审编号",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0050",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评审编号",
+          "value": "OKRR-0055",
+          "raw_key": "评审编号",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评审编号：OKRR-0055",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "进度滞后原因",
+      "candidates": [
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_46.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_48.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "进度滞后原因",
+          "value": "技术困难",
+          "raw_key": "- 进度滞后原因",
+          "source_file": "评审_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 进度滞后原因：技术困难",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

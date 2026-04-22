@@ -1,0 +1,46 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Submitted By — Full Name", "value_text": "Sarah Jenkins" },
+    { "key_text": "Department / Unit", "value_text": "Marketing Operations" },
+    { "key_text": "Phone", "value_text": "555-012-3456" },
+    { "key_text": "E-mail", "value_text": "s.jenkins@org.com" },
+    { "key_text": "Submission Date", "value_text": "2023-10-15" },
+    { "key_text": "Contract / Agreement Title", "value_text": "Digital Asset Management Software License" },
+    { "key_text": "Counterparty Name", "value_text": "Mark Thompson" },
+    { "key_text": "Counterparty Organization", "value_text": "CreativeFlow Solutions Inc." },
+    { "key_text": "Contract Type", "value_text": "Software License Agreement" },
+    { "key_text": "Effective Date", "value_text": "2023-11-01" },
+    { "key_text": "Expiration Date", "value_text": "2024-10-31" },
+    { "key_text": "Auto-Renew?  Y / N", "value_text": "Y" },
+    { "key_text": "Contract Value  $", "value_text": "12,500" },
+    { "key_text": "Funding Source / Account Code", "value_text": "MKT-2023-774" },
+    { "key_text": "Scope of Services / Purpose", "value_text": "Subscription for cloud-based digital asset storage and management platform." },
+    { "key_text": "Key Obligations & Deliverables", "value_text": "Access to platform for 10 users, monthly analytics reports, and technical support." },
+    { "key_text": "Special Terms, Conditions, or Exceptions", "value_text": "30-day notice required for cancellation prior to renewal date." },
+    { "key_text": "Statement of Work", "value_text": "X" },
+    { "key_text": "Budget", "value_text": "X" },
+    { "key_text": "Insurance Certificate", "value_text": "X" },
+    { "key_text": "W-9", "value_text": "X" },
+    { "key_text": "Other", "value_text": null },
+    { "key_text": "Liability / Indemnification", "value_text": "X" },
+    { "key_text": "Insurance Requirements", "value_text": "X" },
+    { "key_text": "IP / Confidentiality", "value_text": "X" },
+    { "key_text": "Conflict of Interest", "value_text": "X" },
+    { "key_text": "Data Privacy", "value_text": "X" },
+    { "key_text": "Conflicts of Interest Disclosed?  Y / N", "value_text": "N" },
+    { "key_text": "Details (if yes)", "value_text": null },
+    { "key_text": "Dept Manager", "value_text": "Robert Chen" },
+    { "key_text": "Legal Counsel", "value_text": "Elena Rodriguez" },
+    { "key_text": "CFO / Finance", "value_text": "David Miller" },
+    { "key_text": "Signature (Dept)", "value_text": "Signed" },
+    { "key_text": "Signature (Legal)", "value_text": "Signed" },
+    { "key_text": "Signature (Finance)", "value_text": "Signed" },
+    { "key_text": "Date (Dept)", "value_text": "2023-10-16" },
+    { "key_text": "Date (Legal)", "value_text": "2023-10-18" },
+    { "key_text": "Date (Finance)", "value_text": "2023-10-20" }
+  ]
+}
+
+Narrative:
+This contract routing form was submitted by Sarah Jenkins from the Marketing Operations department on October 15, 2023. She can be reached at 555-012-3456 or via email at s.jenkins@org.com. The agreement pertains to a Digital Asset Management Software License with Mark Thompson from CreativeFlow Solutions Inc. The contract is valued at $12,500 and is funded under account code MKT-2023-774. It is set to be effective from November 1, 2023, to October 31, 2024, with an auto-renewal clause in effect. The scope involves platform subscription, user access, and reporting, with a specific note regarding a 30-day cancellation notice. The submission includes the Statement of Work, Budget, Insurance Certificate, and W-9. The compliance checklist confirms that liability, insurance, IP, conflict of interest, and data privacy have all been reviewed. There are no conflicts of interest to disclose. The form has been approved by department manager Robert Chen, legal counsel Elena Rodriguez, and CFO David Miller, with their respective signatures and dates recorded between October 16 and October 20, 2023.

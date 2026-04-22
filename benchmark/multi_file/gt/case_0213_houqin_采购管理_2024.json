@@ -1,0 +1,96 @@
+{
+  "excel": "case_0213_houqin_采购管理_2024__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "24750"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "报销申请_8626"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "报销申请"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A11:D12",
+      "value": "销售统计"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F11:I12",
+      "value": "2026-02-10T05:30:32.009651"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A17:D18",
+      "value": "王军"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F17:I18",
+      "value": "采购部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K17:N18",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "A21:D22",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "from",
+      "value_cell": "A27:D28",
+      "value": "孙七@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F27:I28",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "creator",
+      "value_cell": "K27:N28",
+      "value": "赵六"
+    },
+    {
+      "label": "date",
+      "value_cell": "A31:D32",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "status",
+      "value_cell": "A37:D38",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F37:I38",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K37:N38",
+      "value": "紧急"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "A41:D42",
+      "value": "待审批"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A47:D48",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+    "excel":  "form_14_project_initiation.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Sponsor Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "I7:P7",
+                      "value":  "Customer Experience"
+                  },
+                  {
+                      "label":  "Project Manager (Proposed)",
+                      "value_cell":  "A9:H9",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date of Submission",
+                      "value_cell":  "I9:P9",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Target Start Date",
+                      "value_cell":  "A11:H11",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Target End Date",
+                      "value_cell":  "I11:P11",
+                      "value":  "2024-04-30"
+                  },
+                  {
+                      "label":  "Project Name",
+                      "value_cell":  "A15:H15",
+                      "value":  "Omni-Channel Support Integration"
+                  },
+                  {
+                      "label":  "Category  (IT / Ops / HR / Finance / Other)",
+                      "value_cell":  "I15:P15",
+                      "value":  "IT"
+                  },
+                  {
+                      "label":  "Project Objective / Problem Statement",
+                      "value_cell":  "A17:P17",
+                      "value":  "Integrate disparate support ticketing systems into a single dashboard to reduce response times by 30%."
+                  },
+                  {
+                      "label":  "Scope  (In-Scope / Out-of-Scope)",
+                      "value_cell":  "A19:P19",
+                      "value":  "In-Scope: API development, staff training. Out-of-Scope: Hardware replacement."
+                  },
+                  {
+                      "label":  "Key Deliverables",
+                      "value_cell":  "A21:P21",
+                      "value":  "Unified API gateway, centralized dashboard, staff training manual."
+                  },
+                  {
+                      "label":  "Estimated Budget  $",
+                      "value_cell":  "A23:H23",
+                      "value":  "45,000"
+                  },
+                  {
+                      "label":  "Funding Source",
+                      "value_cell":  "I23:P23",
+                      "value":  "Operational Improvement Fund"
+                  },
+                  {
+                      "label":  "Key Risks",
+                      "value_cell":  "A25:P25",
+                      "value":  "Data migration errors and potential downtime during system cutover."
+                  },
+                  {
+                      "label":  "Key Stakeholders",
+                      "value_cell":  "A27:P27",
+                      "value":  "Support Team Leads, IT Infrastructure Team, Head of Operations."
+                  },
+                  {
+                      "label":  "Project Sponsor",
+                      "value_cell":  "A33:J33",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Sponsor)",
+                      "value_cell":  "M33:P33",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "PMO Director",
+                      "value_cell":  "A35:J35",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date (PMO)",
+                      "value_cell":  "M35:P35",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "CFO (budget \u003e $25,000)",
+                      "value_cell":  "A37:J37",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date (CFO)",
+                      "value_cell":  "M37:P37",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Executive Committee",
+                      "value_cell":  "A39:J39",
+                      "value":  "Board Approval Pending"
+                  },
+                  {
+                      "label":  "Date (Executive)",
+                      "value_cell":  "M39:P39",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,138 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Logistics"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Warehouse Supervisor"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Work Phone / Extension",
+      "value_text": "555-012-3488"
+    },
+    {
+      "key_text": "Personal Cell Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "Personal E-mail",
+      "value_text": "j.miller.work@email.com"
+    },
+    {
+      "key_text": "Date of Hire",
+      "value_text": "March 15, 2018"
+    },
+    {
+      "key_text": "Employment Type  (Full/Part-Time / Exempt/Non-Exempt)",
+      "value_text": "Full-Time / Exempt"
+    },
+    {
+      "key_text": "Requested Leave Start Date",
+      "value_text": "November 10, 2023"
+    },
+    {
+      "key_text": "Anticipated Return-to-Work Date",
+      "value_text": "December 8, 2023"
+    },
+    {
+      "key_text": "Total Duration Requested  (days / weeks)",
+      "value_text": "4 weeks"
+    },
+    {
+      "key_text": "Intermittent Leave?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "If intermittent, describe expected frequency and duration of absences",
+      "value_text": null
+    },
+    {
+      "key_text": "Reduced Schedule Details  (hours/days if applicable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Healthcare Provider's Name",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "Provider's Phone & Fax",
+      "value_text": "555-222-9900 / 555-222-9901"
+    },
+    {
+      "key_text": "Diagnosis / Condition  (general description — details on certification)",
+      "value_text": "Post-surgical recovery"
+    },
+    {
+      "key_text": "Hospital / Facility Name (if applicable)",
+      "value_text": "City General Hospital"
+    },
+    {
+      "key_text": "Admission / Procedure Date",
+      "value_text": "November 10, 2023"
+    },
+    {
+      "key_text": "PTO Balance  (days)",
+      "value_text": "12"
+    },
+    {
+      "key_text": "STD Claim Number (if applicable)",
+      "value_text": "STD-99887766"
+    },
+    {
+      "key_text": "Health Insurance Continued During Leave?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Benefit Premium Payment Method",
+      "value_text": "Payroll Deduction"
+    },
+    {
+      "key_text": "Modified Duty Restrictions / Limitations  (if known)",
+      "value_text": "No lifting over 10 lbs for 2 weeks upon return"
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date (Employee)",
+      "value_text": "October 20, 2023"
+    },
+    {
+      "key_text": "Manager Acknowledgement",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 21, 2023"
+    },
+    {
+      "key_text": "HR Leave Administrator",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 23, 2023"
+    }
+  ]
+}
+
+Narrative:
+Jonathan D. Miller, a Warehouse Supervisor in the Logistics department (Employee ID: EMP-88429), is requesting a medical leave of absence starting November 10, 2023, with an anticipated return date of December 8, 2023. This is a continuous leave request for a total duration of 4 weeks, and it is not an intermittent leave. Jonathan has been with the company since March 15, 2018, and holds a full-time, exempt position. He can be reached at 555-012-3488 or via his personal email at j.miller.work@email.com.
+
+The medical necessity is for post-surgical recovery, overseen by Dr. Elena Rodriguez (Phone: 555-222-9900). The procedure will take place at City General Hospital on November 10, 2023. Regarding benefits, Jonathan has a PTO balance of 12 days and has filed an STD claim (Number: STD-99887766). He confirmed that health insurance will continue during his leave, with premiums paid via payroll deduction. Upon his return, he anticipates needing modified duty restrictions, specifically avoiding lifting over 10 lbs for the first two weeks. The form has been signed by Jonathan on October 20, 2023, acknowledged by his manager Sarah Jenkins on October 21, 2023, and approved by HR Administrator Marcus Thorne on October 23, 2023.

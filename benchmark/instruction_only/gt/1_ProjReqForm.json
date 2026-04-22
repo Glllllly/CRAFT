@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "1_ProjReqForm.xlsx",
+    "sheet":  "Req-Chkist",
+    "pairs":  [
+                  {
+                      "label":  "Requestor Name:",
+                      "value_cell":  "G5:O5",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Request Number:",
+                      "value_cell":  "G6:O6",
+                      "value":  "REQ-2023-8842"
+                  },
+                  {
+                      "label":  "Project Name:",
+                      "value_cell":  "F7:X7",
+                      "value":  "Northwest Expansion Phase II"
+                  },
+                  {
+                      "label":  "Cust. Rep. Name/Phone:",
+                      "value_cell":  "I8:X8",
+                      "value":  "Mark Thompson / 555-012-9988"
+                  },
+                  {
+                      "label":  "Pipeline:",
+                      "value_cell":  "D9:M9",
+                      "value":  "Mainline-A"
+                  },
+                  {
+                      "label":  "Other:",
+                      "value_cell":  "Q9:X9",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "System/Line No.:",
+                      "value_cell":  "G10:M10",
+                      "value":  "SL-402"
+                  },
+                  {
+                      "label":  "Connection Mile Post:",
+                      "value_cell":  "U10:AF10",
+                      "value":  "MP 142.5"
+                  },
+                  {
+                      "label":  "Facilty Planner:",
+                      "value_cell":  "F11:P11",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "Region:",
+                      "value_cell":  "U11:AF11",
+                      "value":  "Western Division"
+                  },
+                  {
+                      "label":  "Project Location(s):",
+                      "value_cell":  "G12:AF12",
+                      "value":  "Clearwater County, Sector 7"
+                  },
+                  {
+                      "label":  "Location/Dept.:",
+                      "value_cell":  "U5:AF5",
+                      "value":  "Engineering Dept - HQ"
+                  },
+                  {
+                      "label":  "Required Date:",
+                      "value_cell":  "U6:X6",
+                      "value":  "12/15/2023"
+                  },
+                  {
+                      "label":  "Type of:",
+                      "value_cell":  "AC7:AF7",
+                      "value":  "New"
+                  },
+                  {
+                      "label":  "Estimate:",
+                      "value_cell":  "AC9:AF9",
+                      "value":  "$450,000"
+                  },
+                  {
+                      "label":  "Scope:",
+                      "value_cell":  "B14:AF14",
+                      "value":  "Installation of secondary pressure regulation valve and metering station upgrades."
+                  },
+                  {
+                      "label":  "Measurement:",
+                      "value_cell":  "E23:J23",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Regulation:",
+                      "value_cell":  "E24:J24",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Compression:",
+                      "value_cell":  "O23:W23",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Piping:",
+                      "value_cell":  "O24:W24",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Power:",
+                      "value_cell":  "Z23:AF23",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Other:",
+                      "value_cell":  "Z24:AF24",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Other:",
+                      "value_cell":  "N25:V25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other:",
+                      "value_cell":  "Z25:AF25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other:",
+                      "value_cell":  "Z26:AF26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Describe Facility Ownership/Operation:",
+                      "value_cell":  "J27:AF27",
+                      "value":  "Owned and operated by regional infrastructure division."
+                  },
+                  {
+                      "label":  "Regulatory:",
+                      "value_cell":  "G29:J29",
+                      "value":  "Pending"
+                  },
+                  {
+                      "label":  "Environmental:",
+                      "value_cell":  "G30:J30",
+                      "value":  "Approved"
+                  },
+                  {
+                      "label":  "Legal Review:",
+                      "value_cell":  "G31:J31",
+                      "value":  "In Progress"
+                  },
+                  {
+                      "label":  "Type:",
+                      "value_cell":  "M29:P29",
+                      "value":  "Standard"
+                  },
+                  {
+                      "label":  "Right-of-Way:",
+                      "value_cell":  "Q31:T31",
+                      "value":  "Secured"
+                  },
+                  {
+                      "label":  "Comments:",
+                      "value_cell":  "AA31:AD31",
+                      "value":  "Expedite phase 1"
+                  }
+              ]
+}

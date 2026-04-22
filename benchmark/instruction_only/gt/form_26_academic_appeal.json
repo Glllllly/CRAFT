@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_26_academic_appeal.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name:",
+                      "value_cell":  "F8:U8",
+                      "value":  "Alexander James Thorne"
+                  },
+                  {
+                      "label":  "Student ID:",
+                      "value_cell":  "F9:N9",
+                      "value":  "STU-882941"
+                  },
+                  {
+                      "label":  "Date of Birth  mm/dd/yyyy:",
+                      "value_cell":  "S9:X9",
+                      "value":  "05/12/2002"
+                  },
+                  {
+                      "label":  "Programme / Degree:",
+                      "value_cell":  "F10:N10",
+                      "value":  "Bachelor of Science in Physics"
+                  },
+                  {
+                      "label":  "Year of Study:",
+                      "value_cell":  "S10:X10",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Cell Phone:",
+                      "value_cell":  "F11:N11",
+                      "value":  "555-012-9834"
+                  },
+                  {
+                      "label":  "University E-mail:",
+                      "value_cell":  "S11:X11",
+                      "value":  "ajthorne@university.edu"
+                  },
+                  {
+                      "label":  "Personal E-mail:",
+                      "value_cell":  "F12:N12",
+                      "value":  "alex.thorne.work@email.com"
+                  },
+                  {
+                      "label":  "Date of Submission:",
+                      "value_cell":  "S12:X12",
+                      "value":  "10/14/2023"
+                  },
+                  {
+                      "label":  "Course / Module Involved  (code \u0026 title):",
+                      "value_cell":  "F17:N17",
+                      "value":  "PHYS301: Quantum Mechanics"
+                  },
+                  {
+                      "label":  "Instructor Name:",
+                      "value_cell":  "S17:X17",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Term / Semester:",
+                      "value_cell":  "F18:N18",
+                      "value":  "Fall 2023"
+                  },
+                  {
+                      "label":  "Original Decision / Grade:",
+                      "value_cell":  "S18:X18",
+                      "value":  "F (Fail)"
+                  },
+                  {
+                      "label":  "Outcome Sought:",
+                      "value_cell":  "F19:N19",
+                      "value":  "Grade Review and Re-assessment"
+                  },
+                  {
+                      "label":  "Date of Original Decision:",
+                      "value_cell":  "S19:X19",
+                      "value":  "09/28/2023"
+                  },
+                  {
+                      "label":  "Background 鈥?state the facts clearly and in chronological order",
+                      "value_cell":  "A20:U23",
+                      "value":  "I submitted the final project on 09/15. On 09/28, I received a grade of F, citing a missing file. I confirmed via system logs that the file was uploaded successfully at 11:45 PM on 09/15."
+                  },
+                  {
+                      "label":  "Grounds for Appeal 鈥?explain why the original decision was incorrect or unfair",
+                      "value_cell":  "A25:U27",
+                      "value":  "The grade is based on a technical error within the submission portal. My timestamped logs prove the work was submitted before the deadline."
+                  },
+                  {
+                      "label":  "Evidence Attached  (list all supporting documents)",
+                      "value_cell":  "A29:U30",
+                      "value":  "Submission portal confirmation screenshot, email correspondence with IT helpdesk."
+                  },
+                  {
+                      "label":  "Previous Steps Taken  (informal resolution, prior appeals)",
+                      "value_cell":  "A32:U32",
+                      "value":  "Met with Dr. Vance on 10/02; she advised filing a formal appeal."
+                  },
+                  {
+                      "label":  "Reference / Witness 1 鈥?Name \u0026 Role:",
+                      "value_cell":  "F37:N37",
+                      "value":  "Sarah Jenkins, Lab Assistant"
+                  },
+                  {
+                      "label":  "Contact Details:",
+                      "value_cell":  "S37:X37",
+                      "value":  "sjenkins@university.edu"
+                  },
+                  {
+                      "label":  "Reference / Witness 2 鈥?Name \u0026 Role:",
+                      "value_cell":  "F38:N38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Contact Details:",
+                      "value_cell":  "S38:X38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date Received:",
+                      "value_cell":  "F42:N42",
+                      "value":  "10/16/2023"
+                  },
+                  {
+                      "label":  "Hearing Date Scheduled:",
+                      "value_cell":  "S42:X42",
+                      "value":  "10/25/2023"
+                  },
+                  {
+                      "label":  "Committee Decision:",
+                      "value_cell":  "F43:N43",
+                      "value":  "Pending"
+                  },
+                  {
+                      "label":  "Date of Decision:",
+                      "value_cell":  "S43:X43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Committee Notes / Rationale",
+                      "value_cell":  "A45:X45",
+                      "value":  "Case under review pending IT verification of server logs."
+                  },
+                  {
+                      "label":  "Appellant Signature",
+                      "value_cell":  "A53:N53",
+                      "value":  "Alexander J. Thorne"
+                  },
+                  {
+                      "label":  "Date (Appellant)",
+                      "value_cell":  "Q53:U53",
+                      "value":  "10/14/2023"
+                  },
+                  {
+                      "label":  "Dean of Students / Committee Chair",
+                      "value_cell":  "A55:N55",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q55:U55",
+                      "value":  null
+                  }
+              ]
+}

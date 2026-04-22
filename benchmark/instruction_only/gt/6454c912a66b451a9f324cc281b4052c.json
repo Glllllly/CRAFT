@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "6454c912a66b451a9f324cc281b4052c.xlsx",
+    "sheet":  "Simple Tax Estimator",
+    "pairs":  [
+                  {
+                      "label":  "Filing Status",
+                      "value_cell":  "C3:D3",
+                      "value":  "Married Filing Jointly"
+                  },
+                  {
+                      "label":  "Number of Dependents",
+                      "value_cell":  "D4",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Number of Personal Exemptions (Self, Spouse)",
+                      "value_cell":  "D5",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Total Personal Exemptions",
+                      "value_cell":  "D6",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Number of Filer above 65",
+                      "value_cell":  "D7",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "Tax Bracket",
+                      "value_cell":  "D8",
+                      "value":  "22%"
+                  },
+                  {
+                      "label":  "Gross Annual Income",
+                      "value_cell":  "D10",
+                      "value":  "95000"
+                  },
+                  {
+                      "label":  "Adjustments",
+                      "value_cell":  "D11",
+                      "value":  "4500"
+                  },
+                  {
+                      "label":  "Adjusted Gross Income (AGI)",
+                      "value_cell":  "D12",
+                      "value":  "90500"
+                  },
+                  {
+                      "label":  "Standard Deduction",
+                      "value_cell":  "D13",
+                      "value":  "25900"
+                  },
+                  {
+                      "label":  "Itemized Deductions",
+                      "value_cell":  "D14",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "Personal Exemptions",
+                      "value_cell":  "D15",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "Total Taxable Income",
+                      "value_cell":  "D16",
+                      "value":  "64600"
+                  },
+                  {
+                      "label":  "Tax Credits",
+                      "value_cell":  "D17",
+                      "value":  "2000"
+                  },
+                  {
+                      "label":  "Tax Estimates",
+                      "value_cell":  "D18",
+                      "value":  "12212"
+                  },
+                  {
+                      "label":  "Educator expenses",
+                      "value_cell":  "I2",
+                      "value":  "250"
+                  },
+                  {
+                      "label":  "IRA deduction",
+                      "value_cell":  "I3",
+                      "value":  "3000"
+                  },
+                  {
+                      "label":  "Student loan interest deduction",
+                      "value_cell":  "I4",
+                      "value":  "1250"
+                  },
+                  {
+                      "label":  "Tuition and fees deduction",
+                      "value_cell":  "I5",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Health savings account deduction",
+                      "value_cell":  "I6",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Moving expenses",
+                      "value_cell":  "I8",
+                      "value":  null
+                  },
+                  {
+                      "label":  "50% of self-employment tax",
+                      "value_cell":  "I9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Self-employed Health Insurance Deduction",
+                      "value_cell":  "I10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other Self-Employed Plans (SEP, SIMPLE, etc)",
+                      "value_cell":  "I11",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Penalty paid on early withdrawal of savings",
+                      "value_cell":  "I12",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Alimony paid",
+                      "value_cell":  "I13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Total Adjustments",
+                      "value_cell":  "I14",
+                      "value":  "4500"
+                  },
+                  {
+                      "label":  "Foreign tax credit",
+                      "value_cell":  "I17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credit for child and dependent care expenses",
+                      "value_cell":  "I18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credit for the elderly or the disabled",
+                      "value_cell":  "I19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Education credits",
+                      "value_cell":  "I20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Retirement savings contributions credit",
+                      "value_cell":  "I21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Child tax credit",
+                      "value_cell":  "I22",
+                      "value":  "2000"
+                  },
+                  {
+                      "label":  "Adoption credit",
+                      "value_cell":  "I23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other Credits",
+                      "value_cell":  "I24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Total Tax Credits",
+                      "value_cell":  "I25",
+                      "value":  "2000"
+                  }
+              ]
+}

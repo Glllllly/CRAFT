@@ -1,0 +1,156 @@
+{
+  "excel": "case_0284_yunyin_presentations__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "presentationtitle",
+      "value_cell": "A7:D8",
+      "value": "\"Marketing Strategy Q1 2024\""
+    },
+    {
+      "label": "date",
+      "value_cell": "F7:I8",
+      "value": "February 10, 2024"
+    },
+    {
+      "label": "presenter",
+      "value_cell": "K7:N8",
+      "value": "Marketing Director"
+    },
+    {
+      "label": "q12024",
+      "value_cell": "A13:D14",
+      "value": "Launch phase"
+    },
+    {
+      "label": "q22024",
+      "value_cell": "F13:I14",
+      "value": "Growth phase"
+    },
+    {
+      "label": "q32024",
+      "value_cell": "K13:N14",
+      "value": "Optimization phase"
+    },
+    {
+      "label": "q42024",
+      "value_cell": "A17:D18",
+      "value": "Planning for next year"
+    },
+    {
+      "label": "campaign1",
+      "value_cell": "A23:D24",
+      "value": "Brand Awareness"
+    },
+    {
+      "label": "campaign2",
+      "value_cell": "F23:I24",
+      "value": "Lead Generation"
+    },
+    {
+      "label": "campaign3",
+      "value_cell": "K23:N24",
+      "value": "Customer Retention"
+    },
+    {
+      "label": "growthrate",
+      "value_cell": "A27:D28",
+      "value": "25% CAGR"
+    },
+    {
+      "label": "marketsize",
+      "value_cell": "F27:I28",
+      "value": "$50B"
+    },
+    {
+      "label": "mediaspend",
+      "value_cell": "K27:N28",
+      "value": "40%"
+    },
+    {
+      "label": "platformfocus",
+      "value_cell": "A31:D32",
+      "value": "Facebook, Instagram, LinkedIn"
+    },
+    {
+      "label": "contentcalendar",
+      "value_cell": "F31:I32",
+      "value": "30+ posts/month"
+    },
+    {
+      "label": "toolstechnology",
+      "value_cell": "K31:N32",
+      "value": "10%"
+    },
+    {
+      "label": "creative",
+      "value_cell": "A35:D36",
+      "value": "25%"
+    },
+    {
+      "label": "personnel",
+      "value_cell": "F35:I36",
+      "value": "25%"
+    },
+    {
+      "label": "slide9",
+      "value_cell": "K35:N36",
+      "value": "KPIs and Metrics"
+    },
+    {
+      "label": "slide1",
+      "value_cell": "A41:D42",
+      "value": "Title Slide"
+    },
+    {
+      "label": "slide2",
+      "value_cell": "F41:I42",
+      "value": "Executive Summary"
+    },
+    {
+      "label": "slide3",
+      "value_cell": "K41:N42",
+      "value": "Market Overview"
+    },
+    {
+      "label": "slide4",
+      "value_cell": "A45:D46",
+      "value": "Campaign Strategy"
+    },
+    {
+      "label": "slide5",
+      "value_cell": "F45:I46",
+      "value": "Social Media Plan"
+    },
+    {
+      "label": "slide6",
+      "value_cell": "K45:N46",
+      "value": "Email Marketing"
+    },
+    {
+      "label": "slide7",
+      "value_cell": "A49:D50",
+      "value": "Content Strategy"
+    },
+    {
+      "label": "slide8",
+      "value_cell": "F49:I50",
+      "value": "Budget Breakdown"
+    },
+    {
+      "label": "slide10",
+      "value_cell": "K49:N50",
+      "value": "Timeline and Roadmap"
+    },
+    {
+      "label": "slide11",
+      "value_cell": "A53:D54",
+      "value": "Risk Mitigation"
+    },
+    {
+      "label": "slide12",
+      "value_cell": "F53:I54",
+      "value": "Q&A"
+    }
+  ]
+}

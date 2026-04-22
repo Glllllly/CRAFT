@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0218_houqin_项目管理",
+    "tenant":  "houqin",
+    "topic":  "项目管理",
+    "subtopic":  "",
+    "source_dir":  "houqin\\项目管理",
+    "total_files_in_source_dir":  66,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\项目管理\\设备清单_9265.json",
+                      "copied_name":  "设备清单_9265.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\项目管理\\人员清单_7079.csv",
+                      "copied_name":  "人员清单_7079.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\项目管理\\项目计划_18.txt",
+                      "copied_name":  "项目计划_18.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  546
+                  },
+                  {
+                      "source_rel":  "houqin\\项目管理\\资产清单_8311.eml",
+                      "copied_name":  "资产清单_8311.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\项目管理\\培训计划_8346.csv",
+                      "copied_name":  "培训计划_8346.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

@@ -1,0 +1,211 @@
+﻿{
+    "excel":  "form_16_student_org_registration.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Official Organization Name",
+                      "value_cell":  "A9:X9",
+                      "value":  "University Robotics and Engineering Society"
+                  },
+                  {
+                      "label":  "Organization Abbreviation / Acronym (if any)",
+                      "value_cell":  "A11:X11",
+                      "value":  "URES"
+                  },
+                  {
+                      "label":  "Organization Category",
+                      "value_cell":  "A13:L13",
+                      "value":  "Academic / Honor Society"
+                  },
+                  {
+                      "label":  "Date Founded / Re-founding Date",
+                      "value_cell":  "M13:X13",
+                      "value":  "September 12, 2015"
+                  },
+                  {
+                      "label":  "Mission Statement / Purpose",
+                      "value_cell":  "A16:X16",
+                      "value":  "To foster innovation in robotics through collaborative engineering projects and community outreach."
+                  },
+                  {
+                      "label":  "President / Chair 鈥?Full Name",
+                      "value_cell":  "A21:L21",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M21:P21",
+                      "value":  "8849201"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q21:V21",
+                      "value":  "m.thorne@uni.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "W21:X21",
+                      "value":  "555-0192"
+                  },
+                  {
+                      "label":  "Vice President 鈥?Full Name",
+                      "value_cell":  "A23:L23",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M23:P23",
+                      "value":  "8893412"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q23:V23",
+                      "value":  "e.rodriguez@uni.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "W23:X23",
+                      "value":  "555-0834"
+                  },
+                  {
+                      "label":  "Treasurer 鈥?Full Name",
+                      "value_cell":  "A25:L25",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M25:P25",
+                      "value":  "8821094"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q25:V25",
+                      "value":  "d.chen@uni.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "W25:X25",
+                      "value":  "555-0771"
+                  },
+                  {
+                      "label":  "Secretary 鈥?Full Name",
+                      "value_cell":  "A27:L27",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M27:P27",
+                      "value":  "8856233"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q27:V27",
+                      "value":  "s.jenkins@uni.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "W27:X27",
+                      "value":  "555-0449"
+                  },
+                  {
+                      "label":  "Faculty / Staff Advisor 鈥?Full Name",
+                      "value_cell":  "A29:L29",
+                      "value":  "Dr. Alan Grant"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M29:P29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q29:V29",
+                      "value":  "a.grant@eng.uni.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "W29:X29",
+                      "value":  "555-9920"
+                  },
+                  {
+                      "label":  "Current Membership Count",
+                      "value_cell":  "A34:H34",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "Annual Dues  $",
+                      "value_cell":  "I34:P34",
+                      "value":  "25.00"
+                  },
+                  {
+                      "label":  "Dues Payment Method",
+                      "value_cell":  "Q34:X34",
+                      "value":  "Online Portal"
+                  },
+                  {
+                      "label":  "Membership Eligibility Criteria",
+                      "value_cell":  "A36:X36",
+                      "value":  "Open to all undergraduate engineering and computer science students in good academic standing."
+                  },
+                  {
+                      "label":  "University Account Number (if applicable)",
+                      "value_cell":  "A41:L41",
+                      "value":  "ACC-99283-U"
+                  },
+                  {
+                      "label":  "External Bank Account?  Y / N",
+                      "value_cell":  "M41:X41",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Estimated Annual Budget  $",
+                      "value_cell":  "A43:L43",
+                      "value":  "5000.00"
+                  },
+                  {
+                      "label":  "Primary Funding Sources",
+                      "value_cell":  "M43:X43",
+                      "value":  "University grant and member dues"
+                  },
+                  {
+                      "label":  "Primary Regular Meeting Day, Time \u0026 Location",
+                      "value_cell":  "A48:X48",
+                      "value":  "Tuesdays, 6:00 PM, Engineering Building Room 204"
+                  },
+                  {
+                      "label":  "Major Annual Events or Activities (brief list)",
+                      "value_cell":  "A50:X50",
+                      "value":  "Annual Robot Sumo Competition, Spring Tech Showcase, Monthly Guest Speaker Series"
+                  },
+                  {
+                      "label":  "President Signature",
+                      "value_cell":  "A56:H56",
+                      "value":  "Signed: M. Thorne"
+                  },
+                  {
+                      "label":  "Advisor Signature",
+                      "value_cell":  "I56:P56",
+                      "value":  "Signed: A. Grant"
+                  },
+                  {
+                      "label":  "Dean of Students",
+                      "value_cell":  "Q56:X56",
+                      "value":  "Pending Review"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "A58:H58",
+                      "value":  "October 10, 2023"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "I58:P58",
+                      "value":  "October 10, 2023"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:X58",
+                      "value":  null
+                  }
+              ]
+}

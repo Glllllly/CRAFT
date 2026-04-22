@@ -1,0 +1,128 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Customer Full Name / Company",
+      "value_text": "TechStream Solutions Inc."
+    },
+    {
+      "key_text": "Account / Customer ID",
+      "value_id": "TS-88492"
+    },
+    {
+      "key_text": "Billing Address",
+      "value_text": "442 Innovation Drive"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Austin, TX 78701"
+    },
+    {
+      "key_text": "Phone Number",
+      "value_text": "512-555-0128"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "procurement@techstream.com"
+    },
+    {
+      "key_text": "Contact Name  (if different)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Contact Phone",
+      "value_text": "512-555-0993"
+    },
+    {
+      "key_text": "Order Number",
+      "value_text": "ORD-99201"
+    },
+    {
+      "key_text": "Order Date  mm/dd/yyyy",
+      "value_text": "10/12/2023"
+    },
+    {
+      "key_text": "Invoice Number",
+      "value_text": "INV-5502"
+    },
+    {
+      "key_text": "Invoice Date",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "Product Name / Description",
+      "value_text": "UltraView 27-inch Monitor"
+    },
+    {
+      "key_text": "SKU / Part Number",
+      "value_text": "UV-27-BLK"
+    },
+    {
+      "key_text": "Quantity to Return",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "349.99"
+    },
+    {
+      "key_text": "Serial Number(s)",
+      "value_text": "SN-9988776655"
+    },
+    {
+      "key_text": "Original Condition on Receipt",
+      "value_text": "Damaged screen upon unboxing"
+    },
+    {
+      "key_text": "Detailed Description of Issue / Reason",
+      "value_text": "The monitor arrived with a visible crack across the bottom left quadrant of the display panel. It does not power on correctly."
+    },
+    {
+      "key_text": "Proof of Purchase Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Product Photo Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "RMA Number Issued",
+      "value_text": "RMA-2023-1104"
+    },
+    {
+      "key_text": "Return Shipping Label Sent?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Assigned to",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Resolution Target Date",
+      "value_text": "11/05/2023"
+    },
+    {
+      "key_text": "Customer Service Notes / Resolution Details",
+      "value_text": "Replacement unit authorized for expedited shipping upon receipt of damaged item."
+    },
+    {
+      "key_text": "Customer Service Rep",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/28/2023"
+    },
+    {
+      "key_text": "Returns Manager",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/29/2023"
+    }
+  ]
+}
+
+Narrative:
+This Return Merchandise Authorization (RMA) form is filed by TechStream Solutions Inc. (Account TS-88492), located at 442 Innovation Drive, Austin, TX 78701. Sarah Jenkins is the primary contact for this request, reachable at 512-555-0993. The return concerns an UltraView 27-inch Monitor (SKU: UV-27-BLK), purchased under order ORD-99201 and invoice INV-5502 dated October 15, 2023. The unit, serial number SN-9988776655, arrived damaged with a cracked screen and will not power on. Both proof of purchase and photographs of the damage have been provided. The office has issued RMA-2023-1104, confirmed that a return shipping label was sent, and assigned the case to Marcus Thorne with a resolution deadline of November 5, 2023. The internal resolution note indicates that a replacement unit will be shipped once the damaged monitor is received. The form was processed by Elena Rodriguez on October 28, 2023, and approved by the Returns Manager, David Chen, on October 29, 2023.

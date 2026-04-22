@@ -1,0 +1,26 @@
+﻿{
+    "excel":  "053fe5f5-0305-44bd-87bc-59ce723ac174.xlsx",
+    "sheet":  "TASAS MIXTAS",
+    "pairs":  [
+                  {
+                      "label":  "TASA NOMINAL =",
+                      "value_cell":  "E9",
+                      "value":  "12.00%"
+                  },
+                  {
+                      "label":  "PER脥ODOS POR A脩O =",
+                      "value_cell":  "E10",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "TASA NOMINAL =",
+                      "value_cell":  "E13",
+                      "value":  "4.00%"
+                  },
+                  {
+                      "label":  "PER脥ODOS POR A脩O =",
+                      "value_cell":  "E14",
+                      "value":  "4"
+                  }
+              ]
+}

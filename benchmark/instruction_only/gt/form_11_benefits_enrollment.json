@@ -1,0 +1,321 @@
+﻿{
+    "excel":  "form_11_benefits_enrollment.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Jonathan A. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:J11",
+                      "value":  "Engineering"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "K11:R11",
+                      "value":  "Senior Developer"
+                  },
+                  {
+                      "label":  "Hire Date",
+                      "value_cell":  "S11:X11",
+                      "value":  "05/15/2022"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I13:P13",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Work E-mail",
+                      "value_cell":  "Q13:X13",
+                      "value":  "j.miller@company.com"
+                  },
+                  {
+                      "label":  "Home Address",
+                      "value_cell":  "A15:X15",
+                      "value":  "123 Maple Street, Springfield, IL 62704"
+                  },
+                  {
+                      "label":  "Event Type",
+                      "value_cell":  "A20:N20",
+                      "value":  "Marriage"
+                  },
+                  {
+                      "label":  "Event Date  mm/dd/yyyy",
+                      "value_cell":  "020:X20",
+                      "value":  "09/10/2023"
+                  },
+                  {
+                      "label":  "New Hire",
+                      "value_cell":  "F22:G22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Open Enrollment",
+                      "value_cell":  "L22:M22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Marriage / Domestic Partnership",
+                      "value_cell":  "R22:S22",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Birth / Adoption",
+                      "value_cell":  "X22:Y22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Loss of Other Coverage",
+                      "value_cell":  "AD22:AE22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other Life Event",
+                      "value_cell":  "AJ22:AK22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PPO Standard",
+                      "value_cell":  "F26:G26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PPO Premier",
+                      "value_cell":  "L26:M26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "HMO",
+                      "value_cell":  "R26:S26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "HDHP + HSA",
+                      "value_cell":  "X26:Y26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Waive",
+                      "value_cell":  "AD26:AE26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Basic",
+                      "value_cell":  "F27:G27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Enhanced",
+                      "value_cell":  "L27:M27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Waive",
+                      "value_cell":  "R27:S27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Enroll",
+                      "value_cell":  "F28:G28",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Waive",
+                      "value_cell":  "L28:M28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employee Only",
+                      "value_cell":  "F29:G29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employee + Spouse",
+                      "value_cell":  "L29:M29",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Employee + Child(ren)",
+                      "value_cell":  "R29:S29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Family",
+                      "value_cell":  "X29:Y29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dependent 1 Name (Last, First)",
+                      "value_cell":  "A33:L33",
+                      "value":  "Miller, Sarah"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M33:P33",
+                      "value":  "Spouse"
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "Q33:T33",
+                      "value":  "11/22/1992"
+                  },
+                  {
+                      "label":  "SSN (last 4)",
+                      "value_cell":  "U33:X33",
+                      "value":  "4492"
+                  },
+                  {
+                      "label":  "Dependent 2 Name (Last, First)",
+                      "value_cell":  "A35:L35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M35:P35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "Q35:T35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SSN (last 4)",
+                      "value_cell":  "U35:X35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dependent 3 Name (Last, First)",
+                      "value_cell":  "A37:L37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M37:P37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "Q37:T37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SSN (last 4)",
+                      "value_cell":  "U37:X37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "1x Salary",
+                      "value_cell":  "F42:G42",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "2x Salary",
+                      "value_cell":  "L42:M42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "3x Salary",
+                      "value_cell":  "R42:S42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Waive",
+                      "value_cell":  "X42:Y42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Short-Term",
+                      "value_cell":  "F43:G43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Long-Term",
+                      "value_cell":  "L43:M43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Both",
+                      "value_cell":  "R43:S43",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Waive",
+                      "value_cell":  "X43:Y43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "FSA Annual Election  $",
+                      "value_cell":  "A44:L44",
+                      "value":  "1500"
+                  },
+                  {
+                      "label":  "HSA Annual Contribution  $",
+                      "value_cell":  "M44:X44",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "401(k) Contribution  %",
+                      "value_cell":  "A46:L46",
+                      "value":  "6"
+                  },
+                  {
+                      "label":  "401(k) Roth After-Tax  %",
+                      "value_cell":  "M46:X46",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "Primary Beneficiary 鈥?Full Name",
+                      "value_cell":  "A51:N51",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Relationship (Primary)",
+                      "value_cell":  "O51:P51",
+                      "value":  "Spouse"
+                  },
+                  {
+                      "label":  "% Share (Primary)",
+                      "value_cell":  "S51:X51",
+                      "value":  "100"
+                  },
+                  {
+                      "label":  "Contingent Beneficiary 鈥?Full Name",
+                      "value_cell":  "A52:N52",
+                      "value":  "John Miller Sr."
+                  },
+                  {
+                      "label":  "Relationship (Primary)",
+                      "value_cell":  "O52:P52",
+                      "value":  "Father"
+                  },
+                  {
+                      "label":  "% Share (Primary)",
+                      "value_cell":  "S52:X52",
+                      "value":  "100"
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A56:N56",
+                      "value":  "Jonathan A. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "056:X56",
+                      "value":  "09/15/2023"
+                  }
+              ]
+}

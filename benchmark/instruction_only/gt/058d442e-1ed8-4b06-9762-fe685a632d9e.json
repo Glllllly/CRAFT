@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "058d442e-1ed8-4b06-9762-fe685a632d9e.xlsx",
+    "sheet":  "MLT(AAS)",
+    "pairs":  [
+                  {
+                      "label":  "Commune :",
+                      "value_cell":  "B28:F28",
+                      "value":  "Lyon"
+                  },
+                  {
+                      "label":  "D茅partement :",
+                      "value_cell":  "B30:F30",
+                      "value":  "Rh么ne"
+                  },
+                  {
+                      "label":  "Population :",
+                      "value_cell":  "C33:D33",
+                      "value":  "516092"
+                  },
+                  {
+                      "label":  "Structure intercommunale (oui / non ) :",
+                      "value_cell":  "C35:D35",
+                      "value":  "oui"
+                  },
+                  {
+                      "label":  "Si \"oui\", nom de la structure :",
+                      "value_cell":  "C37:F37",
+                      "value":  "M茅tropole de Lyon"
+                  },
+                  {
+                      "label":  "Chef de service (NOM, Pr茅nom) :",
+                      "value_cell":  "C39:F39",
+                      "value":  "DUPONT, Jean-Marc"
+                  },
+                  {
+                      "label":  "Cat茅gorie (A /B ou C):",
+                      "value_cell":  "C41:D41",
+                      "value":  "A"
+                  },
+                  {
+                      "label":  "Courriel :",
+                      "value_cell":  "C44:F44",
+                      "value":  "jm.dupont@lyon.fr"
+                  }
+              ]
+}

@@ -1,0 +1,206 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requesting Department / Unit",
+      "value_text": "Information Technology Services"
+    },
+    {
+      "key_text": "Department Code",
+      "value_text": "ITS-9920"
+    },
+    {
+      "key_text": "Buyer / Contact Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Contact Phone & E-mail",
+      "value_text": "555-012-3456 / s.jenkins@corp.com"
+    },
+    {
+      "key_text": "RFQ Issue Date",
+      "value_text": "2023-10-01"
+    },
+    {
+      "key_text": "Quote Due Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Delivery Date Required",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Vendor / Supplier Name",
+      "value_text": "TechFlow Solutions Inc."
+    },
+    {
+      "key_text": "Vendor Contact Name",
+      "value_text": "Mark Sterling"
+    },
+    {
+      "key_text": "Vendor Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "Vendor Fax",
+      "value_text": "555-987-6544"
+    },
+    {
+      "key_text": "Vendor E-mail",
+      "value_text": "sales@techflow.com"
+    },
+    {
+      "key_text": "Vendor Address",
+      "value_text": "123 Innovation Drive, Silicon Valley, CA 94025"
+    },
+    {
+      "key_text": "Item 1 — Description",
+      "value_text": "Ergonomic Office Chairs"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Each"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "250.00"
+    },
+    {
+      "key_text": "Item 2 — Description",
+      "value_text": "Standing Desks"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Each"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "400.00"
+    },
+    {
+      "key_text": "Item 3 — Description",
+      "value_text": "Monitor Arms"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Each"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "80.00"
+    },
+    {
+      "key_text": "Item 4 — Description",
+      "value_text": "Power Strips"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Box"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "50.00"
+    },
+    {
+      "key_text": "Item 5 — Description",
+      "value_text": "Cable Management Kits"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Set"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Unit Price  $",
+      "value_text": "30.00"
+    },
+    {
+      "key_text": "Subtotal  $",
+      "value_text": "5,400.00"
+    },
+    {
+      "key_text": "Tax  $",
+      "value_text": "432.00"
+    },
+    {
+      "key_text": "Shipping  $",
+      "value_text": "150.00"
+    },
+    {
+      "key_text": "TOTAL  $",
+      "value_text": "5,982.00"
+    },
+    {
+      "key_text": "Payment Terms",
+      "value_text": "Net 30"
+    },
+    {
+      "key_text": "Warranty / Guarantee Period",
+      "value_text": "2 Years"
+    },
+    {
+      "key_text": "Delivery Terms  (FOB Destination / Origin)",
+      "value_text": "FOB Destination"
+    },
+    {
+      "key_text": "Lead Time (Days)",
+      "value_text": "14"
+    },
+    {
+      "key_text": "Special Terms, Exceptions, or Notes from Vendor",
+      "value_text": "Prices valid for 30 days. Includes professional assembly."
+    },
+    {
+      "key_text": "Authorized Representative Name",
+      "value_text": "Mark Sterling"
+    },
+    {
+      "key_text": "Title",
+      "value_text": "Sales Manager"
+    },
+    {
+      "key_text": "Vendor Signature",
+      "value_text": "M. Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "PO Number Issued",
+      "value_text": "PO-88291"
+    },
+    {
+      "key_text": "Buyer Signature",
+      "value_text": "S. Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+This Request for Quote (RFQ) was initiated by the Information Technology Services department (ITS-9920) on October 1, 2023, managed by Sarah Jenkins, who can be reached at 555-012-3456 or s.jenkins@corp.com. The quote is due by October 15, 2023, with a requested delivery date of November 1, 2023. The vendor, TechFlow Solutions Inc., represented by Mark Sterling, is located at 123 Innovation Drive, Silicon Valley, CA 94025. They can be contacted at 555-987-6543 or via email at sales@techflow.com. 
+
+The order includes 10 ergonomic office chairs at $250 each, 5 standing desks at $400 each, 10 monitor arms at $80 each, 2 boxes of power strips at $50 each, and 5 cable management sets at $30 each. This brings the subtotal to $5,400.00, with $432.00 in tax and $150.00 for shipping, for a grand total of $5,982.00. The payment terms are Net 30, with a 2-year warranty and FOB Destination delivery. The lead time is 14 days, and the vendor notes that pricing is valid for 30 days and includes assembly. The document was signed by Mark Sterling on October 14, 2023, and subsequently authorized with PO number PO-88291 by Sarah Jenkins on October 16, 2023.

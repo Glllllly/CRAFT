@@ -1,0 +1,26 @@
+{
+  "excel": "case_0034_chanpin_数据安全__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "信息安全等级",
+      "value_cell": "A6:D7",
+      "value": "A级)"
+    },
+    {
+      "label": "gdpr合规",
+      "value_cell": "F6:I7",
+      "value": "完全合规)"
+    },
+    {
+      "label": "已部署",
+      "value_cell": "A12:D13",
+      "value": "防火墙)"
+    },
+    {
+      "label": "下月重点",
+      "value_cell": "A18:D19",
+      "value": "加强 员工培训)"
+    }
+  ]
+}

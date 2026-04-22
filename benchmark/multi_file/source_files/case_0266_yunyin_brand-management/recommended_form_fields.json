@@ -1,0 +1,49 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "body",
+                                   "selected_value":  "Calibri Regular, 14-16pt",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "neutral",
+                                   "selected_value":  "#1E293B (Dark), #F1F5F9 (Light)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "primary",
+                                   "selected_value":  "#065A82 (Deep Blue)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "headlines",
+                                   "selected_value":  "Calibri Bold, 36-44pt",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "secondary",
+                                   "selected_value":  "#02C39A (Teal)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "clearspace",
+                                   "selected_value":  "10px minimum",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "primarylogo",
+                                   "selected_value":  "product_logo_primary.png",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "secondarylogo",
+                                   "selected_value":  "product_logo_secondary.png",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "usageguidelines",
+                                   "selected_value":  "Minimum 50px width",
+                                   "conflict":  false
+                               }
+                           ]
+}

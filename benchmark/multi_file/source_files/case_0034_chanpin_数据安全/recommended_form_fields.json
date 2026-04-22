@@ -1,0 +1,24 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "gdpr合规",
+                                   "selected_value":  "完全合规)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已部署",
+                                   "selected_value":  "防火墙)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "下月重点",
+                                   "selected_value":  "加强 员工培训)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "信息安全等级",
+                                   "selected_value":  "A级)",
+                                   "conflict":  false
+                               }
+                           ]
+}

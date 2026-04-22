@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0098_houqin_库存管理_出入记录",
+    "tenant":  "houqin",
+    "topic":  "库存管理",
+    "subtopic":  "出入记录",
+    "source_dir":  "houqin\\库存管理\\出入记录",
+    "total_files_in_source_dir":  45,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\库存管理\\出入记录\\工作报告_1108.json",
+                      "copied_name":  "工作报告_1108.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\出入记录\\评估表_6291.csv",
+                      "copied_name":  "评估表_6291.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\出入记录\\2024年出入库日志.txt",
+                      "copied_name":  "2024年出入库日志.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  1641
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\出入记录\\操作记录_7092.eml",
+                      "copied_name":  "操作记录_7092.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\出入记录\\库存统计_2265.csv",
+                      "copied_name":  "库存统计_2265.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

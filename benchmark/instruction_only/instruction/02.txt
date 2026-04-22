@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Content Strategist"
+    },
+    {
+      "key_text": "Hire Date",
+      "value_text": "05/12/2018"
+    },
+    {
+      "key_text": "Direct Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Manager E-mail / Phone",
+      "value_text": "s.jenkins@company.com / 555-0192"
+    },
+    {
+      "key_text": "Home Address",
+      "value_text": "742 Maplewood Avenue"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Portland, OR 97201"
+    },
+    {
+      "key_text": "Date Summons Received",
+      "value_text": "09/15/2023"
+    },
+    {
+      "key_text": "Court Name",
+      "value_text": "Multnomah County Circuit Court"
+    },
+    {
+      "key_text": "Court Address",
+      "value_text": "1021 SW 4th Ave, Portland, OR 97204"
+    },
+    {
+      "key_text": "Case / Summons Reference Number",
+      "value_text": "JURY-2023-9982"
+    },
+    {
+      "key_text": "Jury Duty Start Date",
+      "value_text": "10/02/2023"
+    },
+    {
+      "key_text": "Anticipated End Date",
+      "value_text": "10/06/2023"
+    },
+    {
+      "key_text": "Daily Start & End Times Required at Court",
+      "value_text": "8:30 AM - 4:30 PM"
+    },
+    {
+      "key_text": "Grand Jury",
+      "value_text": null
+    },
+    {
+      "key_text": "Trial Jury",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Coroner's Jury",
+      "value_text": null
+    },
+    {
+      "key_text": "Jury Duty Pay Received from Court $",
+      "value_text": "50.00"
+    },
+    {
+      "key_text": "Per Day $",
+      "value_text": "10.00"
+    },
+    {
+      "key_text": "Full Pay Maintained",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Differential Pay",
+      "value_text": null
+    },
+    {
+      "key_text": "Unpaid Leave",
+      "value_text": null
+    },
+    {
+      "key_text": "Juror Attendance Proof Attached? Y / N — describe",
+      "value_text": "Y - Official court summons copy attached"
+    },
+    {
+      "key_text": "Additional Notes / Comments",
+      "value_text": "Will check in with manager daily if dismissed early."
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date (Employee)",
+      "value_text": "09/18/2023"
+    },
+    {
+      "key_text": "HR Representative",
+      "value_text": "Robert Vance"
+    },
+    {
+      "key_text": "Date (HR)",
+      "value_text": "09/19/2023"
+    },
+    {
+      "key_text": "Payroll Processor",
+      "value_text": "Alice Thompson"
+    },
+    {
+      "key_text": "Date (Payroll)",
+      "value_text": "09/20/2023"
+    }
+  ]
+}
+
+Narrative:
+This form is for Jonathan D. Miller, an employee in the Marketing department (ID: EMP-88429) who has been hired since May 12, 2018. His manager is Sarah Jenkins, who can be reached at s.jenkins@company.com or 555-0192. Jonathan lives at 742 Maplewood Avenue in Portland, OR 97201. He received his summons on September 15, 2023, for the Multnomah County Circuit Court located at 1021 SW 4th Ave, Portland, OR 97204, under reference number JURY-2023-9982. He is scheduled for Trial Jury duty from October 2, 2023, to October 6, 2023, requiring his presence daily from 8:30 AM to 4:30 PM. He will receive $50.00 total from the court at a rate of $10.00 per day. The company will maintain his full pay during this period. He has attached proof of his attendance, and noted that he will check in with his manager if he is dismissed early. The form was signed by Jonathan on September 18, 2023, processed by HR representative Robert Vance on September 19, 2023, and finalized by payroll processor Alice Thompson on September 20, 2023.

@@ -1,0 +1,96 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name",
+      "value_text": "Jonathan A. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Start Date",
+      "value_text": "2023-10-02"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Backend Developer"
+    },
+    {
+      "key_text": "Reporting Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "HR Orientation Completed",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Date Completed",
+      "value_text": "2023-10-02"
+    },
+    {
+      "key_text": "IT Accounts Setup Completed",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Date Completed",
+      "value_text": "2023-10-02"
+    },
+    {
+      "key_text": "Building Access Card Issued",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Date Issued",
+      "value_text": "2023-10-03"
+    },
+    {
+      "key_text": "Employee Handbook Received  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Benefits Enrollment Completed  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Payroll Setup Confirmed  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "30-Day Check-in Scheduled  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "HR Coordinator",
+      "value_text": "Amanda Richards"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-04"
+    },
+    {
+      "key_text": "Department Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-04"
+    },
+    {
+      "key_text": "IT Representative",
+      "value_text": "Kevin Thompson"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-04"
+    }
+  ]
+}
+
+Narrative:
+This onboarding checklist is for Jonathan A. Miller, employee ID EMP-88429, who joined the Software Engineering department as a Senior Backend Developer on October 2, 2023, reporting to Sarah Jenkins. As part of his onboarding, he completed his HR orientation on October 2, 2023, and had his IT accounts set up on the same day. He received his building access card on October 3, 2023. Additionally, he has confirmed receipt of the employee handbook, completed his benefits enrollment, verified his payroll setup, and has his 30-day check-in scheduled. The form was finalized with approvals from HR Coordinator Amanda Richards, Department Manager Sarah Jenkins, and IT Representative Kevin Thompson, all signed off on October 4, 2023.

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0212_houqin_采购管理_2023",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "2023",
+    "source_dir":  "houqin\\采购管理\\2023",
+    "total_files_in_source_dir":  43,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\2023\\分析报告_9827.json",
+                      "copied_name":  "分析报告_9827.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2023\\项目计划_9445.csv",
+                      "copied_name":  "项目计划_9445.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1377
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2023\\总结报告_2803.md",
+                      "copied_name":  "总结报告_2803.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2023\\数据统计_4332.eml",
+                      "copied_name":  "数据统计_4332.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2023\\项目计划_4071.csv",
+                      "copied_name":  "项目计划_4071.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

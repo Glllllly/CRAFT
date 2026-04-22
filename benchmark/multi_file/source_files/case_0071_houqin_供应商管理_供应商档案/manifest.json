@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0071_houqin_供应商管理_供应商档案",
+    "tenant":  "houqin",
+    "topic":  "供应商管理",
+    "subtopic":  "供应商档案",
+    "source_dir":  "houqin\\供应商管理\\供应商档案",
+    "total_files_in_source_dir":  55,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\供应商管理\\供应商档案\\人员清单_1208.json",
+                      "copied_name":  "人员清单_1208.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\供应商档案\\报销申请_9540.csv",
+                      "copied_name":  "报销申请_9540.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1374
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\供应商档案\\出差申请_8197.txt",
+                      "copied_name":  "出差申请_8197.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\供应商档案\\总结报告_3445.eml",
+                      "copied_name":  "总结报告_3445.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\供应商档案\\绩效表_5564.csv",
+                      "copied_name":  "绩效表_5564.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

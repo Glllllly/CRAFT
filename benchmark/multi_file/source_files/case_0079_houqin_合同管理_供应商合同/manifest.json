@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0079_houqin_合同管理_供应商合同",
+    "tenant":  "houqin",
+    "topic":  "合同管理",
+    "subtopic":  "供应商合同",
+    "source_dir":  "houqin\\合同管理\\供应商合同",
+    "total_files_in_source_dir":  47,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\合同管理\\供应商合同\\库存统计_4256.json",
+                      "copied_name":  "库存统计_4256.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\供应商合同\\绩效表_1115.csv",
+                      "copied_name":  "绩效表_1115.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\供应商合同\\合同_005.txt",
+                      "copied_name":  "合同_005.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  542
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\供应商合同\\工作报告_5247.eml",
+                      "copied_name":  "工作报告_5247.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\合同管理\\供应商合同\\周报_2556.csv",
+                      "copied_name":  "周报_2556.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

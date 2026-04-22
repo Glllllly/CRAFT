@@ -1,0 +1,132 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-4492"
+    },
+    {
+      "key_text": "SSN (last 4)",
+      "value_text": "8821"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Position / Job Title",
+      "value_text": "Senior Developer"
+    },
+    {
+      "key_text": "Current Pay Rate  $",
+      "value_text": "52.00"
+    },
+    {
+      "key_text": "FLSA Status",
+      "value_text": "Exempt"
+    },
+    {
+      "key_text": "Current Annual Salary / Hourly Rate  $",
+      "value_text": "108,160"
+    },
+    {
+      "key_text": "New Annual Salary / Hourly Rate  $",
+      "value_text": "118,976"
+    },
+    {
+      "key_text": "Effective Date",
+      "value_text": "10/01/2023"
+    },
+    {
+      "key_text": "Pay Grade  (Current)",
+      "value_text": "Level 4"
+    },
+    {
+      "key_text": "Pay Grade  (New)",
+      "value_text": "Level 5"
+    },
+    {
+      "key_text": "% Change",
+      "value_text": "10%"
+    },
+    {
+      "key_text": "Justification / Notes",
+      "value_text": "Annual performance review and promotion to Senior Developer."
+    },
+    {
+      "key_text": "Bank Name",
+      "value_text": "Evergreen Credit Union"
+    },
+    {
+      "key_text": "Routing Number",
+      "value_text": "123456789"
+    },
+    {
+      "key_text": "Account Number",
+      "value_text": "9876543210"
+    },
+    {
+      "key_text": "Account Type (Checking/Savings)",
+      "value_text": "Checking"
+    },
+    {
+      "key_text": "Deposit Amount or %",
+      "value_text": "100%"
+    },
+    {
+      "key_text": "Effective Pay Date",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "Filing Status",
+      "value_text": "Single"
+    },
+    {
+      "key_text": "Allowances / Exemptions",
+      "value_text": "0"
+    },
+    {
+      "key_text": "Additional Withholding  $",
+      "value_text": "50.00"
+    },
+    {
+      "key_text": "State Withholding Changes",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Effective Date",
+      "value_text": "10/01/2023"
+    },
+    {
+      "key_text": "HR Rep Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Manager Signature",
+      "value_text": "Robert Thorne"
+    },
+    {
+      "key_text": "Payroll Processor",
+      "value_text": "Alice Wong"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "09/20/2023"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "09/21/2023"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "09/22/2023"
+    }
+  ]
+}
+
+Narrative:
+This payroll change request form is for Jonathan D. Miller, employee ID EMP-4492 (SSN last 4: 8821), who works as a Senior Developer in the Software Engineering department. His current hourly pay rate is $52.00, which classifies him as Exempt. Following an annual performance review, his salary is increasing from $108,160 to $118,976, effective 10/01/2023. This 10% raise corresponds to a promotion from pay grade Level 4 to Level 5. The change is justified by his recent promotion and performance. Regarding direct deposit, he is using Evergreen Credit Union with routing number 123456789 and account number 9876543210 (Checking account), with 100% of his pay deposited effective 10/15/2023. His tax withholding status is set to Single with 0 allowances and an additional $50.00 withheld; there are no changes to state withholding as of 10/01/2023. The form is signed and dated by HR representative Sarah Jenkins on 09/20/2023, manager Robert Thorne on 09/21/2023, and payroll processor Alice Wong on 09/22/2023.

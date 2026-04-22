@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0207_houqin_车队管理_车辆信息",
+    "tenant":  "houqin",
+    "topic":  "车队管理",
+    "subtopic":  "车辆信息",
+    "source_dir":  "houqin\\车队管理\\车辆信息",
+    "total_files_in_source_dir":  51,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\车队管理\\车辆信息\\数据统计_3853.json",
+                      "copied_name":  "数据统计_3853.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\车辆信息\\数据统计_2472.csv",
+                      "copied_name":  "数据统计_2472.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1392
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\车辆信息\\会议记录_7613.txt",
+                      "copied_name":  "会议记录_7613.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\车辆信息\\数据统计_3953.eml",
+                      "copied_name":  "数据统计_3953.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\车辆信息\\报销申请_2181.csv",
+                      "copied_name":  "报销申请_2181.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  }
+              ]
+}

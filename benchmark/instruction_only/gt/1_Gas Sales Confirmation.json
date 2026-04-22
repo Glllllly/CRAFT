@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "1_Gas Sales Confirmation.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Account Manager",
+                      "value_cell":  "D7:E7",
+                      "value":  "Robert J. Sterling"
+                  },
+                  {
+                      "label":  "Deal Date:",
+                      "value_cell":  "D9:E9",
+                      "value":  "March 15, 2002"
+                  },
+                  {
+                      "label":  "Gas Sale Date (s)",
+                      "value_cell":  "D11:E11",
+                      "value":  "April 1, 2002 - December 31, 2003"
+                  },
+                  {
+                      "label":  "Total Quantity",
+                      "value_cell":  "D13:E13",
+                      "value":  "150,000 MMBtu"
+                  },
+                  {
+                      "label":  "Gas Sale Price",
+                      "value_cell":  "D15:E15",
+                      "value":  "$3.25 per MMBtu"
+                  },
+                  {
+                      "label":  "Company:",
+                      "value_cell":  "I7:K7",
+                      "value":  "Energy Solutions Corp"
+                  },
+                  {
+                      "label":  "Contact Name:",
+                      "value_cell":  "I9:K9",
+                      "value":  "Alice Thompson"
+                  },
+                  {
+                      "label":  "FAX Number:",
+                      "value_cell":  "I11:K11",
+                      "value":  "713-555-0129"
+                  },
+                  {
+                      "label":  "Address:",
+                      "value_cell":  "I13:K13,I15:K15",
+                      "value":  "1200 Industrial Way, Suite 400, Houston, TX 77002"
+                  },
+                  {
+                      "label":  "Month Bill To Be Rec\u0027d",
+                      "value_cell":  "D48:E49",
+                      "value":  "May 2002"
+                  },
+                  {
+                      "label":  "Expected Bill  Amount",
+                      "value_cell":  "F48:H49",
+                      "value":  "$16,250.00"
+                  },
+                  {
+                      "label":  "Comments:",
+                      "value_cell":  "C51:K51,C53:K53",
+                      "value":  "Subject to standard pipeline tariff regulations and monthly nomination adjustments."
+                  },
+                  {
+                      "label":  "Gas Buyer Signature",
+                      "value_cell":  "D58:G58",
+                      "value":  "Alice Thompson"
+                  },
+                  {
+                      "label":  "      Date:",
+                      "value_cell":  "I58:K58",
+                      "value":  "March 18, 2002"
+                  },
+                  {
+                      "label":  "TW Acct Manager Signature",
+                      "value_cell":  "D60:G60",
+                      "value":  "Robert J. Sterling"
+                  },
+                  {
+                      "label":  "      Date:",
+                      "value_cell":  "I60:K60",
+                      "value":  "March 19, 2002"
+                  }
+              ]
+}

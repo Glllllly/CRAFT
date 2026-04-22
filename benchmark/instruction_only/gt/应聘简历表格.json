@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "应聘简历表格.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "濮撳悕",
+                      "value_cell":  "B2",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鎬у埆",
+                      "value_cell":  "D2",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "鍑虹敓骞存湀",
+                      "value_cell":  "F2",
+                      "value":  "1995骞?5鏈?"
+                  },
+                  {
+                      "label":  "姘戞棌",
+                      "value_cell":  "H2",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "鏀挎不闈㈣矊",
+                      "value_cell":  "B3",
+                      "value":  "涓叡鍏氬憳"
+                  },
+                  {
+                      "label":  "鏂囧寲绋嬪害",
+                      "value_cell":  "D3",
+                      "value":  "鏈"
+                  },
+                  {
+                      "label":  "鎵€瀛︿笓涓?",
+                      "value_cell":  "F3:H3",
+                      "value":  "璁＄畻鏈虹瀛︿笌鎶€鏈?"
+                  },
+                  {
+                      "label":  "搴旇仒宀椾綅",
+                      "value_cell":  "B4",
+                      "value":  "楂樼骇杞欢宸ョ▼甯?"
+                  },
+                  {
+                      "label":  "鏈熸湜寰呴亣",
+                      "value_cell":  "D4",
+                      "value":  "15000鍏?鏈?"
+                  },
+                  {
+                      "label":  "鑱旂郴鐢佃瘽",
+                      "value_cell":  "F4:H4",
+                      "value":  "13800138000"
+                  },
+                  {
+                      "label":  "瀹跺涵浣忓潃",
+                      "value_cell":  "B5:I5",
+                      "value":  "鍖椾含甯傛湞闃冲尯寤哄浗璺?8鍙?"
+                  },
+                  {
+                      "label":  "瀛︿範缁忓巻",
+                      "value_cell":  "B6:I6",
+                      "value":  "2013骞?2017骞村氨璇讳簬娓呭崕澶у璁＄畻鏈虹郴"
+                  },
+                  {
+                      "label":  "宸ヤ綔缁忓巻",
+                      "value_cell":  "B7:I7",
+                      "value":  "2017骞磋嚦浠婂湪鏌愮鎶€鍏徃鎷呬换鍚庣寮€鍙戝伐绋嬪笀"
+                  },
+                  {
+                      "label":  "鑷垜璇勪环",
+                      "value_cell":  "B8:I8",
+                      "value":  "鍏峰鎵庡疄鐨勪笓涓氬熀纭€锛屽伐浣滀弗璋ㄨ礋璐ｏ紝鍏锋湁鑹ソ鐨勫洟闃熷崗浣滆兘鍔涖€?"
+                  },
+                  {
+                      "label":  "瀹跺涵鎴愬憳",
+                      "value_cell":  "A11",
+                      "value":  "鏉庤姵"
+                  },
+                  {
+                      "label":  "鍏?绯?",
+                      "value_cell":  "B11",
+                      "value":  "閰嶅伓"
+                  },
+                  {
+                      "label":  "鑱旂郴鏂瑰紡",
+                      "value_cell":  "C11:E11",
+                      "value":  "13900139000"
+                  },
+                  {
+                      "label":  "宸ヤ綔鍗曚綅",
+                      "value_cell":  "F11:I11",
+                      "value":  "鍖椾含鏌愭暀鑲茬鎶€鏈夐檺鍏徃"
+                  },
+                  {
+                      "label":  "澶?娉?",
+                      "value_cell":  "B13:I13",
+                      "value":  "闅忔椂鍙互鍒板矖銆?"
+                  }
+              ]
+}

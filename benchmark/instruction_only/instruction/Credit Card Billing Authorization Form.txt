@@ -1,0 +1,60 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name: (As seen on credit card)",
+      "value_text": "Jonathan A. Miller"
+    },
+    {
+      "key_text": "Billing Address:",
+      "value_text": "482 Maplewood Drive"
+    },
+    {
+      "key_text": "City, State, Zip:",
+      "value_text": "Springfield, IL 62704"
+    },
+    {
+      "key_text": "Phone Number:",
+      "value_text": "217-555-0198"
+    },
+    {
+      "key_text": "Credit Card type:",
+      "value_text": "Visa"
+    },
+    {
+      "key_text": "Credit Card #:",
+      "value_text": "4111-2222-3333-4444"
+    },
+    {
+      "key_text": "Expiry Date:",
+      "value_text": "12/26"
+    },
+    {
+      "key_text": "Amount:",
+      "value_text": "$89.99"
+    },
+    {
+      "key_text": "Start Billing on:",
+      "value_text": "10/01/2023"
+    },
+    {
+      "key_text": "Frequency of charge:",
+      "value_text": "Monthly"
+    },
+    {
+      "key_text": "I hereby authorize my credit card every for the purchase of the following:",
+      "value_text": "Monthly subscription for premium cloud storage services."
+    },
+    {
+      "key_text": "Card Holder’s Name and Signature",
+      "value_text": "Jonathan A. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "09/25/2023"
+    }
+  ]
+}
+
+Narrative:
+This form is filled out by Jonathan A. Miller, who resides at 482 Maplewood Drive, Springfield, IL 62704. He can be reached at 217-555-0198. For the payment, he is using a Visa credit card numbered 4111-2222-3333-4444, which expires in December 2026. The merchant has set the billing amount to $89.99, starting on October 1, 2023, and recurring on a monthly basis. Mr. Miller has authorized these charges for his monthly premium cloud storage subscription. He signed the document as Jonathan A. Miller on September 25, 2023.

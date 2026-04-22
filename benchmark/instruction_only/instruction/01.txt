@@ -1,0 +1,148 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan A. Sterling"
+    },
+    {
+      "key_text": "Employee ID / Staff Number",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Regional Sales"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Business E-mail Address",
+      "value_text": "j.sterling@corp-services.com"
+    },
+    {
+      "key_text": "Direct Phone / Extension",
+      "value_text": "555-012-9984"
+    },
+    {
+      "key_text": "Reason / Purpose of Trip",
+      "value_text": "Annual Client Site Visit and Project Review"
+    },
+    {
+      "key_text": "Pick-up Date & Time",
+      "value_text": "2023-11-02 09:00 AM"
+    },
+    {
+      "key_text": "Return Date & Time",
+      "value_text": "2023-11-05 05:00 PM"
+    },
+    {
+      "key_text": "Pick-up Location (City, Airport, Address)",
+      "value_text": "Chicago O'Hare International Airport"
+    },
+    {
+      "key_text": "Drop-off Location (if different)",
+      "value_text": "Chicago O'Hare International Airport"
+    },
+    {
+      "key_text": "Destination City / State",
+      "value_text": "Chicago, Illinois"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Vehicle Class Economy",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Vehicle Class Compact",
+      "value_text": null
+    },
+    {
+      "key_text": "Vehicle Class Mid-Size",
+      "value_text": null
+    },
+    {
+      "key_text": "Preferred Rental Company (if any)",
+      "value_text": "Enterprise Rent-A-Car"
+    },
+    {
+      "key_text": "Frequent Renter Number",
+      "value_text": "ER-9982341"
+    },
+    {
+      "key_text": "Features Needed GPS",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Features Needed Automatic",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Features Needed Diesel",
+      "value_text": null
+    },
+    {
+      "key_text": "Special Requirements or Accessibility Needs",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Estimated Rental Cost $",
+      "value_text": "350.00"
+    },
+    {
+      "key_text": "Budget / Cost Centre Code",
+      "value_text": "SALES-2023-CHI"
+    },
+    {
+      "key_text": "Payment Method Corporate Card",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Payment Method Personal Card (Reimburse)",
+      "value_text": null
+    },
+    {
+      "key_text": "Payment Method Direct Bill",
+      "value_text": null
+    },
+    {
+      "key_text": "Additional Notes",
+      "value_text": "Vehicle to be picked up at the terminal rental counter."
+    },
+    {
+      "key_text": "Requester",
+      "value_text": "Jonathan A. Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Line Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Travel Coordinator",
+      "value_text": "Marcus Vane"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-17"
+    }
+  ]
+}
+
+Narrative:
+Jonathan A. Sterling (Employee ID: EMP-88429) from the Regional Sales department has submitted a rental car request for an upcoming business trip. The request was filed on October 15, 2023, for a trip to Chicago, Illinois, from November 2 to November 5, 2023. Jonathan will be picking up and dropping off an economy-class vehicle at Chicago O'Hare International Airport, specifically requesting an automatic car equipped with GPS from Enterprise Rent-A-Car (Frequent Renter Number: ER-9982341). The estimated cost of $350.00 will be billed to the cost center SALES-2023-CHI using his corporate card. The request has been noted by his manager, Sarah Jenkins, and approved by the travel coordinator, Marcus Vane.

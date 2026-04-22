@@ -1,0 +1,14 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "已实施",
+                                   "selected_value":  "优惠政策",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "执行措施",
+                                   "selected_value":  "3条主要措施已制定",
+                                   "conflict":  false
+                               }
+                           ]
+}

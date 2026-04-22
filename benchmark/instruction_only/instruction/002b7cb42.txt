@@ -1,0 +1,52 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Director Requesting Additional Stipend",
+      "value_text": "Dr. Sarah Miller"
+    },
+    {
+      "key_text": "Name of Person to receive the stipend",
+      "value_text": "James Wilson"
+    },
+    {
+      "key_text": "Department of person receiving stipend",
+      "value_text": "Department of Biological Sciences"
+    },
+    {
+      "key_text": "Purpose for Stipend",
+      "value_text": "Supervision of additional undergraduate research projects during the summer semester and coordination of laboratory equipment upgrades."
+    },
+    {
+      "key_text": "Time period for stipend",
+      "value_text": "June 1, 2024 - August 15, 2024"
+    },
+    {
+      "key_text": "Amount of stipend",
+      "value_text": "$2,500.00"
+    },
+    {
+      "key_text": "Source of Funding for unbudgeted stipend (i.e., account number)",
+      "value_text": "Grant #BIO-2024-089-RESEARCH"
+    },
+    {
+      "key_text": "University Officer",
+      "value_text": "Dr. Robert Henderson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/15/2024"
+    },
+    {
+      "key_text": "Budgets",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/18/2024"
+    }
+  ]
+}
+
+Narrative:
+This is a completed Request for Additional Stipend Approval form for Long Island University. The request was initiated by Director Dr. Sarah Miller for James Wilson, who is part of the Department of Biological Sciences. The stipend is for $2,500.00 and covers the time period from June 1, 2024, to August 15, 2024. The purpose of this additional pay is for the supervision of undergraduate research projects and the coordination of laboratory equipment upgrades. The source of funding is identified as Grant #BIO-2024-089-RESEARCH. The form has been approved by University Officer Dr. Robert Henderson on May 15, 2024, and by Elena Rodriguez from the Budgets office on May 18, 2024.

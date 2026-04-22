@@ -1,0 +1,284 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "1. NAME",
+      "value_text": "Miller, James A."
+    },
+    {
+      "key_text": "2. SSN",
+      "value_text": "000-11-2222"
+    },
+    {
+      "key_text": "3. COLLEGE ID #",
+      "value_text": "987654321"
+    },
+    {
+      "key_text": "4. EMAIL",
+      "value_text": "james.miller@university.edu"
+    },
+    {
+      "key_text": "5. LOCAL ADDRESS",
+      "value_text": "456 Dormitory Lane"
+    },
+    {
+      "key_text": "5a. CITY",
+      "value_text": "Columbus"
+    },
+    {
+      "key_text": "5b. STATE",
+      "value_text": "OH"
+    },
+    {
+      "key_text": "5c. ZIP CODE",
+      "value_text": "43210"
+    },
+    {
+      "key_text": "6. PHONE NUM",
+      "value_text": "614-555-0199"
+    },
+    {
+      "key_text": "7. PERMANENT ADDRESS",
+      "value_text": "123 Maple Street"
+    },
+    {
+      "key_text": "7a. CITY",
+      "value_text": "Dayton"
+    },
+    {
+      "key_text": "7b. STATE",
+      "value_text": "OH"
+    },
+    {
+      "key_text": "7c. ZIP CODE",
+      "value_text": "45402"
+    },
+    {
+      "key_text": "8. PH NUM",
+      "value_text": "937-555-0123"
+    },
+    {
+      "key_text": "9. DOB",
+      "value_text": "05/15/2004"
+    },
+    {
+      "key_text": "10. POB",
+      "value_text": "Dayton, OH"
+    },
+    {
+      "key_text": "11. RELIGIOUS PREF",
+      "value_text": "Catholic"
+    },
+    {
+      "key_text": "12. BLOOD TYPE",
+      "value_text": "O+"
+    },
+    {
+      "key_text": "13. ACT",
+      "value_text": "28"
+    },
+    {
+      "key_text": "14. SAT",
+      "value_text": "1250"
+    },
+    {
+      "key_text": "15. SEX",
+      "value_text": "M"
+    },
+    {
+      "key_text": "16. HEIGHT",
+      "value_text": "71 in"
+    },
+    {
+      "key_text": "17. WEIGHT",
+      "value_text": "180 lbs"
+    },
+    {
+      "key_text": "18. MARITAL STATUS",
+      "value_text": "Single"
+    },
+    {
+      "key_text": "19. DEPENDENTS",
+      "value_text": "No"
+    },
+    {
+      "key_text": "19a. NUMBER OF DEPENDENTS",
+      "value_text": "0"
+    },
+    {
+      "key_text": "20. RACE/ETHNICITY (Check One)",
+      "value_text": "Caucasian"
+    },
+    {
+      "key_text": "21. CITIZENSHIP (Check One)",
+      "value_text": "U.S. Born"
+    },
+    {
+      "key_text": "22. Do you have any condition that could interfere with you participating in a normal college physical education course?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "22a. If \"yes\" explain",
+      "value_text": null
+    },
+    {
+      "key_text": "23. Have you ever received Medical Disability payments from any source?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "23a. If \"yes\" explain",
+      "value_text": null
+    },
+    {
+      "key_text": "24. NEXT OF KIN",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "24a. ADDRESS",
+      "value_text": "123 Maple Street, Dayton, OH 45402"
+    },
+    {
+      "key_text": "24b. PHONE NO",
+      "value_text": "937-555-0123"
+    },
+    {
+      "key_text": "25. ROTC HOST SCHOOL",
+      "value_text": "Ohio State University"
+    },
+    {
+      "key_text": "25a. FICE CODE",
+      "value_text": "003090"
+    },
+    {
+      "key_text": "26. SCHOOL OF ATTENDANCE",
+      "value_text": "Ohio State University"
+    },
+    {
+      "key_text": "26a. FICE CODE",
+      "value_text": "003090"
+    },
+    {
+      "key_text": "27. RESIDENCY STATUS",
+      "value_text": "In-State"
+    },
+    {
+      "key_text": "28. ACADEMIC CLASS",
+      "value_text": "Freshman"
+    },
+    {
+      "key_text": "29. PROJECTED GRADUATION DATE",
+      "value_text": "05/2027"
+    },
+    {
+      "key_text": "30. ACADEMIC MAJOR",
+      "value_text": "Mechanical Engineering"
+    },
+    {
+      "key_text": "31. ACADEMIC MINOR",
+      "value_text": null
+    },
+    {
+      "key_text": "32. CREDITS TOWARD DEGREE",
+      "value_text": "15"
+    },
+    {
+      "key_text": "33. CREDITS REQUIRED FOR DEGREE",
+      "value_text": "128"
+    },
+    {
+      "key_text": "34. CGPA (COLLEGE)",
+      "value_text": "3.8"
+    },
+    {
+      "key_text": "35. OTHER COLLEGES ATTENDED",
+      "value_text": null
+    },
+    {
+      "key_text": "35a. YEAR(S) ATTENDED",
+      "value_text": null
+    },
+    {
+      "key_text": "36. HIGH SCHOOL ATTENDED",
+      "value_text": "Dayton Central High"
+    },
+    {
+      "key_text": "36a. GRADUATION DATE",
+      "value_text": "05/2023"
+    },
+    {
+      "key_text": "37. ROTC SCHOLARSHIP RECIPIENT",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "37a. If \"yes\" what type?",
+      "value_text": "4-Year National"
+    },
+    {
+      "key_text": "38. OTHER SCHOLARSHIPS",
+      "value_text": null
+    },
+    {
+      "key_text": "39. JROTC EXPERIENCE",
+      "value_text": "Yes, 2 years"
+    },
+    {
+      "key_text": "NOT APPLICABLE (Go to PART IV)",
+      "value_text": "Checked"
+    },
+    {
+      "key_text": "40. CURRENT SERVICE: Are you currently in the Armed Forces?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "40a. If \"yes\" which Branch?",
+      "value_text": null
+    },
+    {
+      "key_text": "40b. SMP UNIT",
+      "value_text": null
+    },
+    {
+      "key_text": "40c. Is your spouse currently a member of the Armed Forces?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41. PRIOR SERVICE: Have you ever been enrolled in an officer producing program?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41a. Were you ever disenrolled from the ROTC Program?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41b. Were you ever enrolled in a Service Academy?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41c. Were you ever discharged from the Armed Forces?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41d. If \"yes\" what type of discharge?",
+      "value_text": null
+    },
+    {
+      "key_text": "41e. If \"yes\" what was the RE Code?",
+      "value_text": null
+    },
+    {
+      "key_text": "41f. Months of Active Service",
+      "value_text": "0"
+    },
+    {
+      "key_text": "41g. Have you ever been discharged for medical reasons?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "41 h. If \"yes\", explain:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+James A. Miller is enrolling in the ROTC program as a freshman at Ohio State University. He was born on May 15, 2004, in Dayton, Ohio, and is a U.S.-born citizen. James currently lives at 456 Dormitory Lane in Columbus, OH, but maintains his permanent residence in Dayton at 123 Maple Street. He is a single male, 5'11" tall and 180 lbs, with no dependents. Academically, he is an in-state Mechanical Engineering major with a current college GPA of 3.8, having graduated from Dayton Central High in May 2023. He is an ROTC scholarship recipient under a 4-year national program and previously participated in JROTC for two years. James has no current or prior military service, no medical conditions that would limit his participation, and has never received disability payments. His father, Robert Miller, is listed as his next of kin.

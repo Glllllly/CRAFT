@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Registration No",
+      "value_text": "TS-2023-8842"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "October 14, 2023"
+    },
+    {
+      "key_text": "AUTHORS",
+      "value_text": "Dr. Elena Vance, Marcus Thorne"
+    },
+    {
+      "key_text": "TITLE",
+      "value_text": "Analysis of Soil Nitrogen Levels in Tobacco Cultivation"
+    },
+    {
+      "key_text": "REVIEW COMPLETED",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "APPROVE IN ITS",
+      "value_text": null
+    },
+    {
+      "key_text": "NOT APPROVE",
+      "value_text": null
+    },
+    {
+      "key_text": "SUGGESTED REVISIONS",
+      "value_text": "1. Expand the methodology section to include specific soil sampling depth. 2. Clarify the statistical significance of the yield variations. 3. Update references to include recent 2022-2023 studies."
+    }
+  ]
+}
+
+Narrative:
+This manuscript review form, registered under the number TS-2023-8842, was completed on October 14, 2023. The paper, titled "Analysis of Soil Nitrogen Levels in Tobacco Cultivation," was authored by Dr. Elena Vance and Marcus Thorne. The review process is officially marked as completed. While the manuscript was not approved in its current form, the reviewer provided specific suggested revisions: the authors need to expand the methodology section regarding soil sampling depth, clarify the statistical significance of the yield variations, and update the bibliography to include more recent studies from 2022 and 2023.

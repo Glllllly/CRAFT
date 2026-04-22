@@ -1,0 +1,793 @@
+{
+  "bundle_dir": "case_0277_yunyin_documentation",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "operations_guide_38.md",
+      "source_type": "md",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "operations_guide_39.md",
+      "source_type": "md",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "operations_guide_4.md",
+      "source_type": "md",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "operations_guide_41.md",
+      "source_type": "md",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "operations_guide_42.md",
+      "source_type": "md",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "analytics",
+      "candidates": [
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "analytics",
+          "value": "Google Analytics, Mixpanel",
+          "raw_key": "- Analytics",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Analytics: Google Analytics, Mixpanel",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "communication",
+      "candidates": [
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "communication",
+          "value": "Slack, Microsoft Teams",
+          "raw_key": "- Communication",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Communication: Slack, Microsoft Teams",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "lastupdated",
+      "candidates": [
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "Last Updated",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Last Updated: 2024-02-10",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketingautomation",
+      "candidates": [
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingautomation",
+          "value": "HubSpot",
+          "raw_key": "- Marketing Automation",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing Automation: HubSpot",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "projectmanagement",
+      "candidates": [
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "projectmanagement",
+          "value": "Asana, Monday.com",
+          "raw_key": "- Project Management",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Project Management: Asana, Monday.com",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "socialmedia",
+      "candidates": [
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_38.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_39.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_4.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmedia",
+          "value": "Hootsuite, Buffer",
+          "raw_key": "- Social Media",
+          "source_file": "operations_guide_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media: Hootsuite, Buffer",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

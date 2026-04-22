@@ -1,0 +1,406 @@
+﻿{
+    "excel":  "00b6d9ee-e10e-42fc-bc35-d46272543b37.xlsx",
+    "sheet":  "Page 1",
+    "pairs":  [
+                  {
+                      "label":  "1.  NAME",
+                      "value_cell":  "C12:M12",
+                      "value":  "Miller, James A."
+                  },
+                  {
+                      "label":  "2.  SSN",
+                      "value_cell":  "P12:R12",
+                      "value":  "000-11-2222"
+                  },
+                  {
+                      "label":  "3.  COLLEGE ID #",
+                      "value_cell":  "V12:X12",
+                      "value":  "987654321"
+                  },
+                  {
+                      "label":  "4.  EMAIL",
+                      "value_cell":  "AA12:AJ12",
+                      "value":  "james.miller@university.edu"
+                  },
+                  {
+                      "label":  "5.  LOCAL ADDRESS",
+                      "value_cell":  "E14:M14",
+                      "value":  "456 Dormitory Lane"
+                  },
+                  {
+                      "label":  "5a.  CITY",
+                      "value_cell":  "P14:T14",
+                      "value":  "Columbus"
+                  },
+                  {
+                      "label":  "5b.  STATE",
+                      "value_cell":  "W14",
+                      "value":  "OH"
+                  },
+                  {
+                      "label":  "5c. ZIP CODE",
+                      "value_cell":  "AA14:AC14",
+                      "value":  "43210"
+                  },
+                  {
+                      "label":  "6. PHONE NUM",
+                      "value_cell":  "AG14:AJ14",
+                      "value":  "614-555-0199"
+                  },
+                  {
+                      "label":  "7.  PERMANENT ADDRESS",
+                      "value_cell":  "F16:M16",
+                      "value":  "123 Maple Street"
+                  },
+                  {
+                      "label":  "7a.  CITY",
+                      "value_cell":  "P16:T16",
+                      "value":  "Dayton"
+                  },
+                  {
+                      "label":  "7b.  STATE",
+                      "value_cell":  "W16:Y16",
+                      "value":  "OH"
+                  },
+                  {
+                      "label":  "7c. ZIP CODE",
+                      "value_cell":  "AC16:AE16",
+                      "value":  "45402"
+                  },
+                  {
+                      "label":  "8. PH NUM",
+                      "value_cell":  "AH16:AK16",
+                      "value":  "937-555-0123"
+                  },
+                  {
+                      "label":  "9.  DOB",
+                      "value_cell":  "C18:D18",
+                      "value":  "05/15/2004"
+                  },
+                  {
+                      "label":  "10.  POB",
+                      "value_cell":  "G18:Q18",
+                      "value":  "Dayton, OH"
+                  },
+                  {
+                      "label":  "11.  RELIGIOUS PREF",
+                      "value_cell":  "V18:Y18",
+                      "value":  "Catholic"
+                  },
+                  {
+                      "label":  "12. BLOOD TYPE",
+                      "value_cell":  "AC18",
+                      "value":  "O+"
+                  },
+                  {
+                      "label":  "13. ACT",
+                      "value_cell":  "AF18",
+                      "value":  "28"
+                  },
+                  {
+                      "label":  "14.  SAT",
+                      "value_cell":  "AI18:AJ18",
+                      "value":  "1250"
+                  },
+                  {
+                      "label":  "15.  SEX",
+                      "value_cell":  "C20",
+                      "value":  "M"
+                  },
+                  {
+                      "label":  "16. HEIGHT",
+                      "value_cell":  "F20:G20",
+                      "value":  "71 in"
+                  },
+                  {
+                      "label":  "17. WEIGHT",
+                      "value_cell":  "K20:L20",
+                      "value":  "180 lbs"
+                  },
+                  {
+                      "label":  "18. MARITAL STATUS",
+                      "value_cell":  "R20",
+                      "value":  "Single"
+                  },
+                  {
+                      "label":  "19.  DEPENDENTS",
+                      "value_cell":  "Y20",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "19a.  NUMBER OF DEPENDENTS",
+                      "value_cell":  "AG20:AH20",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "African American",
+                      "value_cell":  "G22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "American Indian",
+                      "value_cell":  "L22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Asian",
+                      "value_cell":  "Q22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Caucasian",
+                      "value_cell":  "T22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Hispanic",
+                      "value_cell":  "X22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "AB22, AE22:AJ22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "U.S. Born",
+                      "value_cell":  "K24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Naturalized",
+                      "value_cell":  "O24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Born Overseas With U.S. Parents",
+                      "value_cell":  "S24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dual Citizenship (See CC PAM 145-4, 2-39)",
+                      "value_cell":  "AA24",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Immigrant Alien",
+                      "value_cell":  "L26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Nonimmigrant Alien",
+                      "value_cell":  "Q26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Refugee",
+                      "value_cell":  "W26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "22.  Do you have any condition that could interfere with you participating in a normal college physical education course?",
+                      "value_cell":  "T28",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "22a.  If \"yes\" explain",
+                      "value_cell":  "Y28:AJ28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "23.  Have you ever received Medical Disability payments from any source?",
+                      "value_cell":  "M31",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "23a. If \"yes\" explain",
+                      "value_cell":  "R31:AJ31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "24.  NEXT OF KIN",
+                      "value_cell":  "D33:M33",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "24a.  ADDRESS",
+                      "value_cell":  "Q33:AD33",
+                      "value":  "123 Maple Street, Dayton, OH 45402"
+                  },
+                  {
+                      "label":  "24b. PHONE NO",
+                      "value_cell":  "AH33:AK33",
+                      "value":  "937-555-0123"
+                  },
+                  {
+                      "label":  "25.  ROTC HOST SCHOOL",
+                      "value_cell":  "F37:M37",
+                      "value":  "Ohio State University"
+                  },
+                  {
+                      "label":  "25a.  FICE CODE",
+                      "value_cell":  "Q37:R37",
+                      "value":  "003090"
+                  },
+                  {
+                      "label":  "26.  SCHOOL OF ATTENDANCE",
+                      "value_cell":  "Y37:AF37",
+                      "value":  "Ohio State University"
+                  },
+                  {
+                      "label":  "26a.  FICE CODE",
+                      "value_cell":  "AJ37:AK37",
+                      "value":  "003090"
+                  },
+                  {
+                      "label":  "27.  RESIDENCY STATUS",
+                      "value_cell":  "F39",
+                      "value":  "In-State"
+                  },
+                  {
+                      "label":  "28. ACADEMIC CLASS",
+                      "value_cell":  "L39",
+                      "value":  "Freshman"
+                  },
+                  {
+                      "label":  "29. PROJECTED GRADUATION DATE",
+                      "value_cell":  "U39:V39",
+                      "value":  "05/2027"
+                  },
+                  {
+                      "label":  "30.  ACADEMIC MAJOR",
+                      "value_cell":  "AB39:AK39",
+                      "value":  "Mechanical Engineering"
+                  },
+                  {
+                      "label":  "31. ACADEMIC MINOR",
+                      "value_cell":  "E41:L41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "32. CREDITS TOWARD DEGREE",
+                      "value_cell":  "S41:T41",
+                      "value":  "15"
+                  },
+                  {
+                      "label":  "33. CREDITS REQUIRED FOR DEGREE",
+                      "value_cell":  "AB41:AC41",
+                      "value":  "128"
+                  },
+                  {
+                      "label":  "34. CGPA (COLLEGE)",
+                      "value_cell":  "AH41:AI41",
+                      "value":  "3.8"
+                  },
+                  {
+                      "label":  "35.  OTHER COLLEGES ATTENDED",
+                      "value_cell":  "H43:Q43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "35a. YEAR(S) ATTENDED",
+                      "value_cell":  "W43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "36. HIGH SCHOOL ATTENDED",
+                      "value_cell":  "AD43:AK43",
+                      "value":  "Dayton Central High"
+                  },
+                  {
+                      "label":  "36a.  GRADUATION DATE",
+                      "value_cell":  "F45:G45",
+                      "value":  "05/2023"
+                  },
+                  {
+                      "label":  "37. ROTC SCHOLARSHIP RECIPIENT",
+                      "value_cell":  "S45",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "37a.  If \"yes\" what type?",
+                      "value_cell":  "AB45:AJ45",
+                      "value":  "4-Year National"
+                  },
+                  {
+                      "label":  "38.  OTHER SCHOLARSHIPS",
+                      "value_cell":  "F47:W47",
+                      "value":  null
+                  },
+                  {
+                      "label":  "39. JROTC EXPERIENCE",
+                      "value_cell":  "AC47:AJ47",
+                      "value":  "Yes, 2 years"
+                  },
+                  {
+                      "label":  "NOT APPLICABLE (Go to PART IV)",
+                      "value_cell":  "B51",
+                      "value":  "Checked"
+                  },
+                  {
+                      "label":  "40. CURRENT SERVICE: Are you currently in the Armed Forces?",
+                      "value_cell":  "V51",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "40a.  If \"yes\" which Branch?",
+                      "value_cell":  "AB51:AJ51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "40b. SMP UNIT",
+                      "value_cell":  "D53:Y53",
+                      "value":  null
+                  },
+                  {
+                      "label":  "40c.  Is your spouse currently a member of the Armed Forces?",
+                      "value_cell":  "AJ53",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41. PRIOR SERVICE: Have you ever been enrolled in an officer producing program?",
+                      "value_cell":  "O55",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41a. Were you ever disenrolled from the ROTC Program?",
+                      "value_cell":  "Z55",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41b.  Were you ever enrolled in a Service Academy?",
+                      "value_cell":  "J57",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41c. Were you ever discharged from the Armed Forces?",
+                      "value_cell":  "T57",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41d. If \"yes\" what type of discharge?",
+                      "value_cell":  "AA57:AB57",
+                      "value":  null
+                  },
+                  {
+                      "label":  "41e. If \"yes\" what was the RE Code?",
+                      "value_cell":  "AI57:AJ57",
+                      "value":  null
+                  },
+                  {
+                      "label":  "41f.  Months of Active Service",
+                      "value_cell":  "F59",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "41g. Have you ever been discharged for medical reasons?",
+                      "value_cell":  "Q59",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "41 h.  If \"yes\", explain:",
+                      "value_cell":  "V59:AJ59, V60:AJ60",
+                      "value":  null
+                  }
+              ]
+}

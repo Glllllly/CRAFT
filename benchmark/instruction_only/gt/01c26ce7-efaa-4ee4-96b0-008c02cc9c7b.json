@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "01c26ce7-efaa-4ee4-96b0-008c02cc9c7b.xlsx",
+    "sheet":  "Team - Form 1",
+    "pairs":  [
+                  {
+                      "label":  "Member Association:",
+                      "value_cell":  "B23:D23",
+                      "value":  "Badminton England"
+                  },
+                  {
+                      "label":  "E-mail address:",
+                      "value_cell":  "B24:D24",
+                      "value":  "info@badmintonengland.co.uk"
+                  },
+                  {
+                      "label":  "Male",
+                      "value_cell":  "B26",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Female",
+                      "value_cell":  "C26",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Total",
+                      "value_cell":  "D26",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Male",
+                      "value_cell":  "B28",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Female",
+                      "value_cell":  "C28",
+                      "value":  "1"
+                  },
+                  {
+                      "label":  "Total",
+                      "value_cell":  "D28",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Likely date of Arrival:",
+                      "value_cell":  "B29:D29",
+                      "value":  "21 October 2013"
+                  },
+                  {
+                      "label":  "Signed:",
+                      "value_cell":  "B30:D30",
+                      "value":  "John Smith"
+                  },
+                  {
+                      "label":  "Print Name:",
+                      "value_cell":  "B31:D31",
+                      "value":  "John Smith"
+                  },
+                  {
+                      "label":  "Position:",
+                      "value_cell":  "B32:D32",
+                      "value":  "National Teams Manager"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B33:D33",
+                      "value":  "15 July 2013"
+                  }
+              ]
+}

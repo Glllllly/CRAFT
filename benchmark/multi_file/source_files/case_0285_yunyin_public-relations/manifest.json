@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0285_yunyin_public-relations",
+    "tenant":  "yunyin",
+    "topic":  "public-relations",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\public-relations",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\public-relations\\press_release_18.md",
+                      "copied_name":  "press_release_18.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1495
+                  },
+                  {
+                      "source_rel":  "yunyin\\public-relations\\press_release_17.md",
+                      "copied_name":  "press_release_17.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1495
+                  },
+                  {
+                      "source_rel":  "yunyin\\public-relations\\press_release_24.md",
+                      "copied_name":  "press_release_24.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1495
+                  },
+                  {
+                      "source_rel":  "yunyin\\public-relations\\press_release_39.md",
+                      "copied_name":  "press_release_39.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1495
+                  },
+                  {
+                      "source_rel":  "yunyin\\public-relations\\press_release_26.md",
+                      "copied_name":  "press_release_26.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1495
+                  }
+              ]
+}

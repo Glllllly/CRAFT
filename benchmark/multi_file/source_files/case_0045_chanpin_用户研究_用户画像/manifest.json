@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0045_chanpin_用户研究_用户画像",
+    "tenant":  "chanpin",
+    "topic":  "用户研究",
+    "subtopic":  "用户画像",
+    "source_dir":  "chanpin\\用户研究\\用户画像",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\用户研究\\用户画像\\用户画像_69.txt",
+                      "copied_name":  "用户画像_69.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  656
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户研究\\用户画像\\用户画像_40.txt",
+                      "copied_name":  "用户画像_40.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  655
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户研究\\用户画像\\用户画像_29.txt",
+                      "copied_name":  "用户画像_29.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  655
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户研究\\用户画像\\用户画像_39.txt",
+                      "copied_name":  "用户画像_39.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  655
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户研究\\用户画像\\用户画像_71.txt",
+                      "copied_name":  "用户画像_71.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  655
+                  }
+              ]
+}

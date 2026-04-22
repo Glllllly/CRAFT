@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0195_houqin_物资申请_待审批",
+    "tenant":  "houqin",
+    "topic":  "物资申请",
+    "subtopic":  "待审批",
+    "source_dir":  "houqin\\物资申请\\待审批",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\物资申请\\待审批\\工作日志_3712.json",
+                      "copied_name":  "工作日志_3712.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\待审批\\费用统计_9381.csv",
+                      "copied_name":  "费用统计_9381.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\待审批\\物资申请_6.txt",
+                      "copied_name":  "物资申请_6.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  284
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\待审批\\分析报告_4579.eml",
+                      "copied_name":  "分析报告_4579.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\物资申请\\待审批\\访问记录_5428.csv",
+                      "copied_name":  "访问记录_5428.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  }
+              ]
+}

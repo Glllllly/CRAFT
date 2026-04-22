@@ -1,0 +1,126 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name:",
+      "value_text": "Dr. Alice Thompson"
+    },
+    {
+      "key_text": "Date of Application:",
+      "value_text": "11/15/2023"
+    },
+    {
+      "key_text": "Name of conference:",
+      "value_text": "2024 Annual Humanities Symposium"
+    },
+    {
+      "key_text": "Sponsoring organization or institution:",
+      "value_text": "National Endowment for the Humanities"
+    },
+    {
+      "key_text": "Location:",
+      "value_text": "Chicago, IL"
+    },
+    {
+      "key_text": "Dates:",
+      "value_text": "March 14-17, 2024"
+    },
+    {
+      "key_text": "Number of days:",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Title of paper being presented: (if applicable)",
+      "value_text": "The Evolution of Digital Literacy in Post-Secondary Education"
+    },
+    {
+      "key_text": "Airfare",
+      "value_text": "$385.00"
+    },
+    {
+      "key_text": "Airport Parking",
+      "value_text": "$60.00"
+    },
+    {
+      "key_text": "Airport Shuttle",
+      "value_text": null
+    },
+    {
+      "key_text": "Car Mileage",
+      "value_text": "45"
+    },
+    {
+      "key_text": "@ 0.565",
+      "value_text": "$25.43"
+    },
+    {
+      "key_text": "Tolls en route",
+      "value_text": "$12.50"
+    },
+    {
+      "key_text": "Parking at Conference",
+      "value_text": null
+    },
+    {
+      "key_text": "College Car/Driver/Car Rental",
+      "value_text": null
+    },
+    {
+      "key_text": "Train/Bus",
+      "value_text": null
+    },
+    {
+      "key_text": "Subway/Taxi",
+      "value_text": "$45.00"
+    },
+    {
+      "key_text": "Total transportation expenses",
+      "value_text": "$527.93"
+    },
+    {
+      "key_text": "Conference registration fee",
+      "value_text": "$450.00"
+    },
+    {
+      "key_text": "Miscellaneous expenses",
+      "value_text": "$50.00"
+    },
+    {
+      "key_text": "Meals",
+      "value_text": "$240.00"
+    },
+    {
+      "key_text": "Hotel",
+      "value_text": "$750.00"
+    },
+    {
+      "key_text": "Total Hotel & Meals",
+      "value_text": "$990.00"
+    },
+    {
+      "key_text": "TOTAL",
+      "value_text": "$2,017.93"
+    },
+    {
+      "key_text": "Invitation to present a paper or confirmation that the paper is scheduled for the conference",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Program from the conference",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Copy of the paper presented",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Notes, if needed:",
+      "value_text": "Early bird registration was used to save $100."
+    }
+  ]
+}
+
+Narrative:
+Dr. Alice Thompson submitted an advance notice for faculty conference funding on November 15, 2023. She is planning to attend the 2024 Annual Humanities Symposium in Chicago, IL, from March 14 to March 17, 2024. The conference is sponsored by the National Endowment for the Humanities. During the 4-day event, she will be presenting a paper titled "The Evolution of Digital Literacy in Post-Secondary Education."
+
+The total estimated expenses for the trip are $2,017.93. Transportation costs account for $527.93, which includes $385.00 for airfare, $60.00 for airport parking, $25.43 for 45 miles of car travel (calculated at $0.565 per mile), $12.50 in tolls, and $45.00 for subway or taxi fares. Other costs include a $450.00 conference registration fee and $50.00 for miscellaneous expenses. Accommodations and meals are estimated at $990.00, with $750.00 for the hotel and $240.00 for meals. Dr. Thompson noted that she utilized early bird registration to save $100. She has confirmed that she will provide an invitation to present, the conference program, and a copy of her paper.

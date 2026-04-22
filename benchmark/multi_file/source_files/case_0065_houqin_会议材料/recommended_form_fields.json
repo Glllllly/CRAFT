@@ -1,0 +1,119 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:31 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "会议记录_4404",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:31.174456",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "42280",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "马腾@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "马腾@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "会议记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "张三",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "采购计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "操作方式",
+                                   "selected_value":  "配置中心调整",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "每分钟最多15次",
+                                   "selected_value":  "-",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "模板反馈点赞点踩接口",
+                                   "selected_value":  "块反馈接口",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "演练",
+                                   "selected_value":  "演练平台",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第一次",
+                                   "selected_value":  "单轮压测报告",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第二次",
+                                   "selected_value":  "二轮压测报告",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "功能入口",
+                                   "selected_value":  "内部功能平台入口",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "功能用例",
+                                   "selected_value":  "功能测试用例文档",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "问题记录",
+                                   "selected_value":  "问题跟踪文档",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "限流后用户侧表现",
+                                   "selected_value":  "弹窗提示错误",
+                                   "conflict":  false
+                               }
+                           ]
+}

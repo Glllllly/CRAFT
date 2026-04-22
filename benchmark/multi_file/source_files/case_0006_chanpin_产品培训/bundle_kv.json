@@ -1,0 +1,2543 @@
+{
+  "bundle_dir": "case_0006_chanpin_产品培训",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "培训资料_15.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-12-06",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-12-06",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "17个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：17个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-04-21",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-04-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "10份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：10份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家4",
+          "raw_key": "培训师",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-19% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-19% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "60/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：60/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "17个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：17个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "83%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：83%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "84%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：84%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "63页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：63页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "14个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：14个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "11个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：11个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "54%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：54%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "64条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：64条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "60分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：60分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "75%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：75%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0015",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0015",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "培训资料_22.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-03-04",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-03-04",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "22个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：22个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-12-11",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-12-11",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "10份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：10份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家3",
+          "raw_key": "培训师",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-14% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-14% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "90/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：90/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "25个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：25个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "63%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：63%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "65%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：65%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "20页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：20页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "10个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：10个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "5个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：5个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "74%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：74%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "27条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：27条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "106分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：106分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "75%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：75%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0022",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0022",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "培训资料_35.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-03-10",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-03-10",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "24个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：24个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-01-10",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-01-10",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "13份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：13份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家4",
+          "raw_key": "培训师",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-6% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-6% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "93/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：93/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "21个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：21个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "93%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：93%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "73%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：73%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "54页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：54页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "14个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：14个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "14个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：14个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "60%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：60%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "22条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：22条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "126分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：126分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "64%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：64%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0035",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "培训资料_42.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-01-04",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-01-04",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "17个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：17个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-10-23",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-10-23",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "6份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：6份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家3",
+          "raw_key": "培训师",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-20% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-20% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "87/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：87/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "16个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：16个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "86%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：86%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "64%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：64%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "55页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：55页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "10个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：10个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "10个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：10个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "63%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：63%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "49条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：49条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "106分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：106分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "94%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：94%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0042",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0042",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "培训资料_9.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-11-06",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-11-06",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "15个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：15个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-06-18",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-06-18",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "11份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：11份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家2",
+          "raw_key": "培训师",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-4% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-4% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "70/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：70/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "13个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：13个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "84%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：84%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "89%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：89%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "51页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：51页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "13个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：13个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "14个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：14个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "80%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：80%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "61条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：61条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "116分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：116分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "92%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：92%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0009",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "下次更新",
+      "candidates": [
+        {
+          "key": "下次更新",
+          "value": "2024-12-06",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-12-06",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下次更新",
+          "value": "2024-03-04",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-03-04",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下次更新",
+          "value": "2024-03-10",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-03-10",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下次更新",
+          "value": "2024-01-04",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-01-04",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "下次更新",
+          "value": "2024-11-06",
+          "raw_key": "下次更新",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "下次更新：2024-11-06",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "交互练习",
+      "candidates": [
+        {
+          "key": "交互练习",
+          "value": "17个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：17个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "22个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：22个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "24个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：24个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "17个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：17个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "交互练习",
+          "value": "15个",
+          "raw_key": "交互练习",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "交互练习：15个",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "制作时间",
+      "candidates": [
+        {
+          "key": "制作时间",
+          "value": "2024-04-21",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-04-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-12-11",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-12-11",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-01-10",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-01-10",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-10-23",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-10-23",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制作时间",
+          "value": "2024-06-18",
+          "raw_key": "制作时间",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制作时间：2024-06-18",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "参考资料",
+      "candidates": [
+        {
+          "key": "参考资料",
+          "value": "10份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：10份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "10份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：10份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "13份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：13份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "6份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：6份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "参考资料",
+          "value": "11份",
+          "raw_key": "参考资料",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "参考资料：11份",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "培训主题",
+      "candidates": [
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训主题",
+          "value": "产品介绍)",
+          "raw_key": "培训主题",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训主题：产品介绍)",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "培训师",
+      "candidates": [
+        {
+          "key": "培训师",
+          "value": "培训专家4",
+          "raw_key": "培训师",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家3",
+          "raw_key": "培训师",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家4",
+          "raw_key": "培训师",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家3",
+          "raw_key": "培训师",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "培训师",
+          "value": "培训专家2",
+          "raw_key": "培训师",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "培训师：培训专家2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "学习效率",
+      "candidates": [
+        {
+          "key": "学习效率",
+          "value": "-19% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-19% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-14% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-14% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-6% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-6% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-20% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-20% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学习效率",
+          "value": "-4% 提升",
+          "raw_key": "学习效率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学习效率：-4% 提升",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "学员满意度",
+      "candidates": [
+        {
+          "key": "学员满意度",
+          "value": "60/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：60/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "90/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：90/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "93/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：93/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "87/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：87/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "学员满意度",
+          "value": "70/100",
+          "raw_key": "学员满意度",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "学员满意度：70/100",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "常见问题",
+      "candidates": [
+        {
+          "key": "常见问题",
+          "value": "17个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：17个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "25个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：25个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "21个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：21个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "16个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：16个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "常见问题",
+          "value": "13个",
+          "raw_key": "常见问题",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "常见问题：13个",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "应用能力",
+      "candidates": [
+        {
+          "key": "应用能力",
+          "value": "83%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：83%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "63%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：63%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "93%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：93%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "86%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：86%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应用能力",
+          "value": "84%",
+          "raw_key": "应用能力",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应用能力：84%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "掌握度",
+      "candidates": [
+        {
+          "key": "掌握度",
+          "value": "84%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：84%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "65%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：65%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "73%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：73%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "64%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：64%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "掌握度",
+          "value": "89%",
+          "raw_key": "掌握度",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "掌握度：89%",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档页数",
+      "candidates": [
+        {
+          "key": "文档页数",
+          "value": "63页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：63页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "20页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：20页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "54页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：54页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "55页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：55页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档页数",
+          "value": "51页",
+          "raw_key": "文档页数",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文档页数：51页",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "更新内容",
+      "candidates": [
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新内容",
+          "value": "新功能演示、案例补充、FAQ更新",
+          "raw_key": "更新内容",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "更新内容：新功能演示、案例补充、FAQ更新",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "核心模块",
+      "candidates": [
+        {
+          "key": "核心模块",
+          "value": "14个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：14个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "10个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：10个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "14个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：14个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "10个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：10个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心模块",
+          "value": "13个",
+          "raw_key": "核心模块",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "核心模块：13个",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "案例分析",
+      "candidates": [
+        {
+          "key": "案例分析",
+          "value": "11个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：11个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "5个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：5个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "14个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：14个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "10个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：10个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "案例分析",
+          "value": "14个",
+          "raw_key": "案例分析",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "案例分析：14个",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "知识保留率",
+      "candidates": [
+        {
+          "key": "知识保留率",
+          "value": "54%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：54%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "74%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：74%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "60%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：60%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "63%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：63%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识保留率",
+          "value": "80%",
+          "raw_key": "知识保留率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识保留率：80%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "知识点",
+      "candidates": [
+        {
+          "key": "知识点",
+          "value": "64条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：64条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "27条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：27条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "22条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：22条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "49条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：49条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "知识点",
+          "value": "61条",
+          "raw_key": "知识点",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "知识点：61条",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "视频时长",
+      "candidates": [
+        {
+          "key": "视频时长",
+          "value": "60分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：60分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "106分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：106分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "126分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：126分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "106分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：106分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "116分钟",
+          "raw_key": "视频时长",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "视频时长：116分钟",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "认证通过率",
+      "candidates": [
+        {
+          "key": "认证通过率",
+          "value": "75%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：75%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "75%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：75%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "64%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：64%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "94%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：94%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "认证通过率",
+          "value": "92%",
+          "raw_key": "认证通过率",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "认证通过率：92%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "资料编号",
+      "candidates": [
+        {
+          "key": "资料编号",
+          "value": "TRN-0015",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_15.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0015",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0022",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_22.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0022",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0035",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_35.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0035",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0042",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_42.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0042",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资料编号",
+          "value": "TRN-0009",
+          "raw_key": "资料编号",
+          "source_file": "培训资料_9.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资料编号：TRN-0009",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

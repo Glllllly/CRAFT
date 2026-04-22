@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0093_houqin_基础数据",
+    "tenant":  "houqin",
+    "topic":  "基础数据",
+    "subtopic":  "",
+    "source_dir":  "houqin\\基础数据",
+    "total_files_in_source_dir":  52,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\基础数据\\维护计划_7171.json",
+                      "copied_name":  "维护计划_7171.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\基础数据\\绩效表_2663.csv",
+                      "copied_name":  "绩效表_2663.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1374
+                  },
+                  {
+                      "source_rel":  "houqin\\基础数据\\备件申请_4439.txt",
+                      "copied_name":  "备件申请_4439.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\基础数据\\维修记录_4940.eml",
+                      "copied_name":  "维修记录_4940.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\基础数据\\培训计划_5146.csv",
+                      "copied_name":  "培训计划_5146.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

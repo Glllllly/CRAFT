@@ -1,0 +1,88 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date",
+      "value_text": "October 14, 2023"
+    },
+    {
+      "key_text": "Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Phone/Ext.",
+      "value_text": "5125"
+    },
+    {
+      "key_text": "Approved by (Tops Manaaer):",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Payment enclosed or see account number below:",
+      "value_text": "500 for $28"
+    },
+    {
+      "key_text": "Fund (2)",
+      "value_text": "01"
+    },
+    {
+      "key_text": "Program (4)",
+      "value_text": "4020"
+    },
+    {
+      "key_text": "Sub Program (1)",
+      "value_text": "A"
+    },
+    {
+      "key_text": "TOPS (6)",
+      "value_text": "123456"
+    },
+    {
+      "key_text": "Obiect (4)",
+      "value_text": "5001"
+    },
+    {
+      "key_text": "Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Title",
+      "value_text": "Senior Project Coordinator"
+    },
+    {
+      "key_text": "Division / Department / Special Proaram",
+      "value_text": "Operations Department"
+    },
+    {
+      "key_text": "Phone / Ext.",
+      "value_text": "818-555-0199"
+    },
+    {
+      "key_text": "Fax",
+      "value_text": "818-555-0198"
+    },
+    {
+      "key_text": "Email",
+      "value_text": "sjenkins@company.edu"
+    },
+    {
+      "key_text": "Street Address",
+      "value_text": null
+    },
+    {
+      "key_text": "Citv",
+      "value_text": null
+    },
+    {
+      "key_text": "State",
+      "value_text": null
+    },
+    {
+      "key_text": "ZIP Code",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+On October 14, 2023, Sarah Jenkins submitted a business card order form to the Purchasing Department. Sarah, who can be reached at extension 5125, requested 500 cards for a total cost of $28. The order was approved by Marcus Thorne. The expenses are being billed to account 01-4020-A-123456-5001. Sarah requested that the cards display her title as Senior Project Coordinator within the Operations Department, along with her direct phone number 818-555-0199, her fax number 818-555-0198, and her email address, sjenkins@company.edu. Since she is based at the main office, she left the alternative street address fields blank.

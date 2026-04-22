@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0052_chanpin_问题反馈_bug报告",
+    "tenant":  "chanpin",
+    "topic":  "问题反馈",
+    "subtopic":  "bug报告",
+    "source_dir":  "chanpin\\问题反馈\\bug报告",
+    "total_files_in_source_dir":  100,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\问题反馈\\bug报告\\报告_029.txt",
+                      "copied_name":  "报告_029.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  532
+                  },
+                  {
+                      "source_rel":  "chanpin\\问题反馈\\bug报告\\报告_049.txt",
+                      "copied_name":  "报告_049.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  532
+                  },
+                  {
+                      "source_rel":  "chanpin\\问题反馈\\bug报告\\报告_009.txt",
+                      "copied_name":  "报告_009.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  532
+                  },
+                  {
+                      "source_rel":  "chanpin\\问题反馈\\bug报告\\报告_079.txt",
+                      "copied_name":  "报告_079.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  532
+                  },
+                  {
+                      "source_rel":  "chanpin\\问题反馈\\bug报告\\报告_089.txt",
+                      "copied_name":  "报告_089.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  532
+                  }
+              ]
+}

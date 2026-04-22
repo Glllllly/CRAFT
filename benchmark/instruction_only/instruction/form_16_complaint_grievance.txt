@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name (Optional)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID (Optional)",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Customer Operations"
+    },
+    {
+      "key_text": "Date of Submission",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Preferred Contact Method",
+      "value_text": "Email"
+    },
+    {
+      "key_text": "Anonymous Submission Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Category (Harassment / Discrimination / Pay / Safety / Other)",
+      "value_text": "Harassment"
+    },
+    {
+      "key_text": "Date(s) of Incident(s)",
+      "value_text": "2023-10-09 to 2023-10-11"
+    },
+    {
+      "key_text": "Persons Involved",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Detailed Description of Complaint",
+      "value_text": "Repeated inappropriate comments regarding work performance and personal appearance during team meetings."
+    },
+    {
+      "key_text": "Evidence / Documents Attached",
+      "value_text": "Email correspondence and meeting notes."
+    },
+    {
+      "key_text": "Previous Steps Taken to Resolve",
+      "value_text": "Spoke with direct supervisor on 2023-10-10, but no action was taken."
+    },
+    {
+      "key_text": "Desired Outcome / Resolution Sought",
+      "value_text": "Formal investigation and mediation to ensure a respectful work environment."
+    },
+    {
+      "key_text": "HR Business Partner",
+      "value_text": "Alice Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "Employee Relations Manager",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "HR Director",
+      "value_text": "Susan Sterling"
+    },
+    {
+      "key_text": "Date (HRD)",
+      "value_text": "2023-10-14"
+    }
+  ]
+}
+
+Narrative:
+Sarah Jenkins, an employee in the Customer Operations department (ID: EMP-8842), submitted this formal complaint on October 12, 2023. She has opted to be contacted via email and has chosen not to remain anonymous. The complaint is categorized as harassment regarding incidents occurring between October 9 and October 11, 2023, involving Mark Thompson. Sarah provided a detailed description regarding inappropriate comments about her performance and appearance, noting that she previously spoke with her supervisor on October 10 without resolution. She has attached relevant emails and meeting notes as evidence and is seeking a formal investigation and mediation. The form has been processed and signed by HR Business Partner Alice Vance on October 13, Employee Relations Manager Robert Miller on October 13, and HR Director Susan Sterling on October 14, 2023.

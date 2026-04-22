@@ -1,0 +1,71 @@
+{
+  "excel": "case_0201_houqin_设备维护_维修记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "80997"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "评估表_3939"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "评估表"
+    },
+    {
+      "label": "date",
+      "value_cell": "P6:S7",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A10:D11",
+      "value": "2026-02-10T05:30:30.819540"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A16:D17",
+      "value": "刘涛"
+    },
+    {
+      "label": "from",
+      "value_cell": "F16:I17",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K16:N17",
+      "value": "黄欢@company.com"
+    },
+    {
+      "label": "status",
+      "value_cell": "P16:S17",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A20:D21",
+      "value": "低"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A26:D27",
+      "value": "费用统计"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F26:I27",
+      "value": "临时"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "K26:N27",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "1_expense report SAP 8-2000.xlsx",
+    "sheet":  "Short Form",
+    "pairs":  [
+                  {
+                      "label":  "EXP",
+                      "value_cell":  "N2",
+                      "value":  "2206.37"
+                  },
+                  {
+                      "label":  "LAST NAME",
+                      "value_cell":  "A6:D6",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "FIRST NAME, INITIAL",
+                      "value_cell":  "E6:G6",
+                      "value":  "Marcus J."
+                  },
+                  {
+                      "label":  "TITLE",
+                      "value_cell":  "H6:J6",
+                      "value":  "Project Manager"
+                  },
+                  {
+                      "label":  "EMPLOYEE NUMBER",
+                      "value_cell":  "K6:N6",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "COMPANY NUMBER",
+                      "value_cell":  "A8:D8",
+                      "value":  "CO-0060"
+                  },
+                  {
+                      "label":  "OFFICE NUMBER/FIELD LOCATION ",
+                      "value_cell":  "E8:J8",
+                      "value":  "Chicago HQ - Suite 400"
+                  },
+                  {
+                      "label":  "PHONE NUMBER FOR QUESTIONS",
+                      "value_cell":  "K8:N8",
+                      "value":  "312-555-0198"
+                  },
+                  {
+                      "label":  "EMPLOYEE",
+                      "value_cell":  "A58:E58",
+                      "value":  "Marcus J. Henderson"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "F58",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "G58:J58",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "K58",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  " (Print Name)",
+                      "value_cell":  "G60:K60",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "L58:M58",
+                      "value":  "Robert Thorne"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "N58",
+                      "value":  "2023-10-17"
+                  },
+                  {
+                      "label":  " (Print Name)",
+                      "value_cell":  "L60:N60",
+                      "value":  "Robert Thorne"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0298_yunyin_whitepapers",
+    "tenant":  "yunyin",
+    "topic":  "whitepapers",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\whitepapers",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\whitepapers\\whitepaper_33.md",
+                      "copied_name":  "whitepaper_33.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1952
+                  },
+                  {
+                      "source_rel":  "yunyin\\whitepapers\\whitepaper_32.md",
+                      "copied_name":  "whitepaper_32.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1952
+                  },
+                  {
+                      "source_rel":  "yunyin\\whitepapers\\whitepaper_34.md",
+                      "copied_name":  "whitepaper_34.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1952
+                  },
+                  {
+                      "source_rel":  "yunyin\\whitepapers\\whitepaper_36.md",
+                      "copied_name":  "whitepaper_36.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1952
+                  },
+                  {
+                      "source_rel":  "yunyin\\whitepapers\\whitepaper_35.md",
+                      "copied_name":  "whitepaper_35.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1952
+                  }
+              ]
+}

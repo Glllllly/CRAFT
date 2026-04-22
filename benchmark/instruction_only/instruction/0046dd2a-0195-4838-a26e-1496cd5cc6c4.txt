@@ -1,0 +1,154 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "COMPANY",
+      "value_text": "101"
+    },
+    {
+      "key_text": "ASSET NUMBER",
+      "value_text": "00125489"
+    },
+    {
+      "key_text": "FUNCTION",
+      "value_text": "A"
+    },
+    {
+      "key_text": "ACQUISITION DATE",
+      "value_text": "10 15 2023"
+    },
+    {
+      "key_text": "NEW OR USED",
+      "value_text": "N"
+    },
+    {
+      "key_text": "PERSONAL OR REAL",
+      "value_text": "P"
+    },
+    {
+      "key_text": "ACQUISITION CODE",
+      "value_text": "P"
+    },
+    {
+      "key_text": "STATUS CODE",
+      "value_text": "U"
+    },
+    {
+      "key_text": "CONDITION CODE",
+      "value_text": "G"
+    },
+    {
+      "key_text": "OWN CODE",
+      "value_text": "F"
+    },
+    {
+      "key_text": "ASSET DESCRIPTION:",
+      "value_text": "DELL PRECISION 7920 TOWER WORKSTATION"
+    },
+    {
+      "key_text": "DESCR. CODE",
+      "value_text": "4511"
+    },
+    {
+      "key_text": "QUANTITY",
+      "value_text": "1"
+    },
+    {
+      "key_text": "BUDGET CODE",
+      "value_text": "BC-99"
+    },
+    {
+      "key_text": "FUND",
+      "value_text": "1200"
+    },
+    {
+      "key_text": "RCC",
+      "value_text": "450"
+    },
+    {
+      "key_text": "CENTER",
+      "value_text": "7820"
+    },
+    {
+      "key_text": "PROGRAM",
+      "value_text": "301"
+    },
+    {
+      "key_text": "PURCHASE ORDER NO.",
+      "value_text": "PO-887766"
+    },
+    {
+      "key_text": "CHECK/REFERENCE NO.",
+      "value_text": "CK-443322"
+    },
+    {
+      "key_text": "NCAS OBJECT",
+      "value_text": "4522"
+    },
+    {
+      "key_text": "BOOK TYPE",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Millions",
+      "value_text": null
+    },
+    {
+      "key_text": "Thousands",
+      "value_text": "012"
+    },
+    {
+      "key_text": "Hundreds",
+      "value_text": "450"
+    },
+    {
+      "key_text": "Cents",
+      "value_text": "50"
+    },
+    {
+      "key_text": "MANUFACTURER/COUNTY",
+      "value_text": "DELL TECHNOLOGIES"
+    },
+    {
+      "key_text": "MODEL/STATE PROP. NO.",
+      "value_text": "P7920-X1"
+    },
+    {
+      "key_text": "SERIAL NUMBER",
+      "value_text": "SN-XYZ123456789"
+    },
+    {
+      "key_text": "LOCATION",
+      "value_text": "RADIOLOGY DEPT ROOM 402"
+    },
+    {
+      "key_text": "PREPARED BY:",
+      "value_text": "Jane Doe"
+    },
+    {
+      "key_text": "DATE:",
+      "value_text": "10 / 20 / 2023"
+    },
+    {
+      "key_text": "INVOICE NO.",
+      "value_text": "INV-998877"
+    },
+    {
+      "key_text": "VENDOR NO.",
+      "value_text": "V-554433"
+    },
+    {
+      "key_text": "CONTROL GROUP DATE",
+      "value_text": "10 / 21 / 2023"
+    },
+    {
+      "key_text": "BATCH NO.",
+      "value_text": "105"
+    }
+  ]
+}
+
+Narrative:
+This is a Fixed Asset Input Form for the Department of Health and Human Services, documenting the addition of a new asset for Company 101. The asset, assigned number 00125489, is a Dell Precision 7920 Tower Workstation, acquired on October 15, 2023. It is categorized as a new piece of personal property that was purchased and is currently in use and in good condition under federal ownership.
+
+The workstation cost a total of $12,450.50, placing it in Book Type 3 for assets over $5,000. It is linked to budget code BC-99, fund 1200, and cost center 7820. The purchase was made under PO-887766 and paid via check CK-443322. The unit is located in Room 402 of the Radiology Department and has the serial number SN-XYZ123456789. The form was prepared by Jane Doe on October 20, 2023, referencing invoice INV-998877 from vendor V-554433. The entry is part of batch number 105, with a control group date of October 21, 2023.

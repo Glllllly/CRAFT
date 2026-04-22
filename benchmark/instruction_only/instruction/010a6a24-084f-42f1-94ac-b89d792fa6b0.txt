@@ -1,0 +1,96 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "TAXPAYER NAME",
+      "value_text": "Peak Construction Services, LLC"
+    },
+    {
+      "key_text": "MAILING ADDRESS",
+      "value_text": "1240 N. Industrial Way"
+    },
+    {
+      "key_text": "CITY, ST ZIP",
+      "value_text": "Flagstaff, AZ 86001"
+    },
+    {
+      "key_text": "CITY LICENSE NO.",
+      "value_text": "FLG-88293-B"
+    },
+    {
+      "key_text": "REPORT PERIOD",
+      "value_text": "October 2023"
+    },
+    {
+      "key_text": "DELINQUENT IF NOT RECEIVED BY",
+      "value_text": "November 20, 2023"
+    },
+    {
+      "key_text": "BUSINESS DESCRIPTION LINE 1",
+      "value_text": "General Contracting"
+    },
+    {
+      "key_text": "BUSINESS DESCRIPTION LINE 2",
+      "value_text": "Residential Remodeling"
+    },
+    {
+      "key_text": "BUS. CLASS LINE 1",
+      "value_text": "315"
+    },
+    {
+      "key_text": "BUS. CLASS LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "SFX LINE 1",
+      "value_text": "001"
+    },
+    {
+      "key_text": "SFX LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "GROSS CONTRACTING INCOME LINE 1",
+      "value_text": "45000.00"
+    },
+    {
+      "key_text": "GROSS CONTRACTING INCOME LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "DOES THIS INCOME INCLUDE TAX?",
+      "value_text": "NO"
+    },
+    {
+      "key_text": "SUBCONTRACTING DEDUCTION LINE 1",
+      "value_text": "5000.00"
+    },
+    {
+      "key_text": "SUBCONTRACTING DEDUCTION LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "OUT-OF-CITY DEDUCTION LINE 1",
+      "value_text": null
+    },
+    {
+      "key_text": "OUT-OF-CITY DEDUCTION LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "STATE LAND DEDUCTION LINE 1",
+      "value_text": null
+    },
+    {
+      "key_text": "STATE LAND DEDUCTION LINE 2",
+      "value_text": null
+    },
+    {
+      "key_text": "ENTER AMOUNT OF CHECK",
+      "value_text": "3778.40"
+    }
+  ]
+}
+
+Narrative:
+Peak Construction Services, LLC, located at 1240 N. Industrial Way in Flagstaff, AZ 86001, has filed their contracting tax return for the October 2023 report period. The business, identified by license number FLG-88293-B, reported a gross contracting income of $45,000.00 under business class 315, suffix 001. After applying a subcontracting deduction of $5,000.00, and noting that the income does not include tax, the total amount of the check submitted for payment is $3,778.40. This return is considered delinquent if not received by the city by November 20, 2023.

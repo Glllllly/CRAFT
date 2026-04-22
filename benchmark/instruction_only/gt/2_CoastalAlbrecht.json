@@ -1,0 +1,336 @@
+﻿{
+    "excel":  "2_CoastalAlbrecht.xlsx",
+    "sheet":  "Page 1 of 2",
+    "pairs":  [
+                  {
+                      "label":  "REQUESTOR:",
+                      "value_cell":  "C1:F1",
+                      "value":  "Johnathan Miller"
+                  },
+                  {
+                      "label":  "DATE OF REQUEST:",
+                      "value_cell":  "C2:F2",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "DUE DATE:",
+                      "value_cell":  "C3:F3",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "METER/SYSTEM NO:",
+                      "value_cell":  "C4:F4",
+                      "value":  "MTR-8842-X"
+                  },
+                  {
+                      "label":  "CATS PROJECT:",
+                      "value_cell":  "I1:L1",
+                      "value":  "Permian-Expansion-09"
+                  },
+                  {
+                      "label":  "COORDINATOR:",
+                      "value_cell":  "I2:L2",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "ASSIGNED TO:",
+                      "value_cell":  "I3:L3",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "LATEST UPDATE:",
+                      "value_cell":  "I4:L4",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Operator Name:",
+                      "value_cell":  "D10:F10",
+                      "value":  "Apex Energy Corp"
+                  },
+                  {
+                      "label":  "Well Name:",
+                      "value_cell":  "D12:F12",
+                      "value":  "Bluebird Unit #4"
+                  },
+                  {
+                      "label":  "API #:",
+                      "value_cell":  "D14:F14",
+                      "value":  "42-301-22456"
+                  },
+                  {
+                      "label":  "Lateral: (1130)",
+                      "value_cell":  "D16:F16",
+                      "value":  "Lateral A-1"
+                  },
+                  {
+                      "label":  "Work Order Title:",
+                      "value_cell":  "D18:F18",
+                      "value":  "Facility Connection Upgrade"
+                  },
+                  {
+                      "label":  "Field:",
+                      "value_cell":  "D20:F20",
+                      "value":  "Wolfcamp Basin"
+                  },
+                  {
+                      "label":  "County, State:",
+                      "value_cell":  "D22:F22",
+                      "value":  "Midland, TX"
+                  },
+                  {
+                      "label":  "Abstract/Survey:",
+                      "value_cell":  "D24:F24",
+                      "value":  "Survey 402, Block B"
+                  },
+                  {
+                      "label":  "Meter Size:",
+                      "value_cell":  "L12",
+                      "value":  "6 inch"
+                  },
+                  {
+                      "label":  "Well Status:",
+                      "value_cell":  "L16",
+                      "value":  "Active"
+                  },
+                  {
+                      "label":  "Dist to HPLC:",
+                      "value_cell":  "L20",
+                      "value":  "1.2 miles"
+                  },
+                  {
+                      "label":  "Rate Zone:",
+                      "value_cell":  "L24",
+                      "value":  "Zone 4"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "D30:F30",
+                      "value":  "David Thompson"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "D32:F32",
+                      "value":  "432-555-0192"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "D34:F34",
+                      "value":  "432-555-0193"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "D36:F36",
+                      "value":  "432-555-7788"
+                  },
+                  {
+                      "label":  "Physical Address:",
+                      "value_cell":  "D38:F40",
+                      "value":  "1200 Energy Way, Midland, TX 79701"
+                  },
+                  {
+                      "label":  "Email:",
+                      "value_cell":  "D41:F41",
+                      "value":  "d.thompson@apexenergy.com"
+                  },
+                  {
+                      "label":  "Name/RC:",
+                      "value_cell":  "J30:L30",
+                      "value":  "Enron Central Desk"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "J32:L32",
+                      "value":  "713-555-4400"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "J34:L34",
+                      "value":  "713-555-4401"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "J36:L36",
+                      "value":  "713-555-9900"
+                  },
+                  {
+                      "label":  "Pager Number",
+                      "value_cell":  "J38:L38",
+                      "value":  "713-555-0001"
+                  },
+                  {
+                      "label":  "Expected Rate (MCF/D)",
+                      "value_cell":  "J40:L40",
+                      "value":  "4500"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "D47:F47",
+                      "value":  "Marcus Reed"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "D49:F49",
+                      "value":  "432-555-2233"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "D51:F51",
+                      "value":  "432-555-2244"
+                  },
+                  {
+                      "label":  "Pager Number:",
+                      "value_cell":  "D53:F53",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Email or Fax:",
+                      "value_cell":  "D55:F55",
+                      "value":  "m.reed@apexenergy.com"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "J47:L47",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "J49:L49",
+                      "value":  "713-555-8811"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "J51:L51",
+                      "value":  "713-555-8822"
+                  },
+                  {
+                      "label":  "Pager Number",
+                      "value_cell":  "J53:L53",
+                      "value":  "713-555-0002"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "J55:L55",
+                      "value":  "713-555-8833"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "D61:F61",
+                      "value":  "Susan White"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "D63:F63",
+                      "value":  "432-555-3344"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "D65:F65",
+                      "value":  "432-555-3355"
+                  },
+                  {
+                      "label":  "Pager Number:",
+                      "value_cell":  "D67:F67",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Email or Fax:",
+                      "value_cell":  "D69:F69",
+                      "value":  "s.white@landservices.com"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "J61:L61",
+                      "value":  "Kevin Hart"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "J63:L63",
+                      "value":  "713-555-1166"
+                  },
+                  {
+                      "label":  "Mobile Number:",
+                      "value_cell":  "J65:L65",
+                      "value":  "713-555-1177"
+                  },
+                  {
+                      "label":  "Pager Number",
+                      "value_cell":  "J67:L67",
+                      "value":  "713-555-0003"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "J69:L69",
+                      "value":  "713-555-1188"
+                  },
+                  {
+                      "label":  "FIELD MEETING",
+                      "value_cell":  "H75",
+                      "value":  "Completed"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K75:L75",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "PREPARE COST ESTIMATE",
+                      "value_cell":  "H77",
+                      "value":  "Completed"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K77:L77",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "ISSUE W.O.A. FOR APPROVAL",
+                      "value_cell":  "H79",
+                      "value":  "Pending"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K79:L79",
+                      "value":  null
+                  },
+                  {
+                      "label":  "RELEASED TO ORDER MATERIAL / SAP",
+                      "value_cell":  "H81",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K81:L81",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PROJECT RELEASED TO SURVEY",
+                      "value_cell":  "H83",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K83:L83",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PROJ. REL. TO PREPARED DRAWINGS/PLATS",
+                      "value_cell":  "H85",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K85:L85",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PROJECT RELEASED TO CONSTRUCT",
+                      "value_cell":  "H87",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "K87:L87",
+                      "value":  null
+                  }
+              ]
+}

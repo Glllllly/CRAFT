@@ -1,0 +1,204 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "0.pretasks.0.assert.that.0",
+                                   "selected_value":  "service_name is defined",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.pretasks.0.assert.that.1",
+                                   "selected_value":  "service_version is defined",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.ports.0",
+                                   "selected_value":  "{{ service_port }}:{{ service_port }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.0.uri.url",
+                                   "selected_value":  "http://localhost:{{ service_port }}/actuator/health",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.1.debug.msg",
+                                   "selected_value":  "Service {{ service_name }} v{{ service_version }} deployed successfully",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.0.dockerimage.tag",
+                                   "selected_value":  "{{ service_version }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.0.name",
+                                   "selected_value":  "Health check",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.1.name",
+                                   "selected_value":  "Deployment notification",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.1.when",
+                                   "selected_value":  "health_result.status == 200",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.pretasks.0.name",
+                                   "selected_value":  "Validate service configuration",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.0.dockerimage.name",
+                                   "selected_value":  "registry.example.com/{{ service_name }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.0.name",
+                                   "selected_value":  "Pull latest service image",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.1.dockercontainer.name",
+                                   "selected_value":  "{{ service_name }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.1.name",
+                                   "selected_value":  "Stop existing service",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.name",
+                                   "selected_value":  "{{ service_name }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.name",
+                                   "selected_value":  "Start service container",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.3.name",
+                                   "selected_value":  "Verify service is running",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.3.waitfor.host",
+                                   "selected_value":  "localhost",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.3.waitfor.port",
+                                   "selected_value":  "{{ service_port }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.0.dockerimage.state",
+                                   "selected_value":  "present",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.1.dockercontainer.state",
+                                   "selected_value":  "stopped",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.image",
+                                   "selected_value":  "registry.example.com/{{ service_name }}:{{ service_version }}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.state",
+                                   "selected_value":  "started",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.3.waitfor.state",
+                                   "selected_value":  "present",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.become",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.0.uri.method",
+                                   "selected_value":  "GET",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.3.waitfor.timeout",
+                                   "selected_value":  "30",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.0.register",
+                                   "selected_value":  "health_result",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.pretasks.0.assert.failmsg",
+                                   "selected_value":  "Service configuration is invalid",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.env.javaopts",
+                                   "selected_value":  "-Xms256m -Xmx512m",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.1.dockercontainer.forcekill",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.posttasks.0.uri.statuscode",
+                                   "selected_value":  "200",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.remoteuser",
+                                   "selected_value":  "ansible",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.1.ignoreerrors",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "0.tasks.2.dockercontainer.restartpolicy",
+                                   "selected_value":  "always",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "failmsg",
+                                   "selected_value":  "Service configuration is invalid",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "javaopts",
+                                   "selected_value":  "-Xms256m -Xmx512m",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "forcekill",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remoteuser",
+                                   "selected_value":  "ansible",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "statuscode",
+                                   "selected_value":  "200",
+                                   "conflict":  false
+                               }
+                           ]
+}

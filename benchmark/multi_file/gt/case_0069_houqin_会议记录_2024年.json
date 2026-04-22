@@ -1,0 +1,131 @@
+{
+  "excel": "case_0069_houqin_会议记录_2024年__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "70132"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "资产清单_5327"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "资产清单"
+    },
+    {
+      "label": "status",
+      "value_cell": "M9:Q9",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D12:H12",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M12:Q12",
+      "value": "临时"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D15:H15",
+      "value": "2026-02-10T05:30:33.260276"
+    },
+    {
+      "label": "date",
+      "value_cell": "M15:Q15",
+      "value": "Tue, 10 Feb 2026 05:30:33 +0800"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D18:H18",
+      "value": "王五"
+    },
+    {
+      "label": "owner",
+      "value_cell": "M18:Q18",
+      "value": "李主任 (后勤部经理)"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D23:H23",
+      "value": "项目计划"
+    },
+    {
+      "label": "会议地点",
+      "value_cell": "M23:Q23",
+      "value": "会议室A"
+    },
+    {
+      "label": "会议时间",
+      "value_cell": "D26:H26",
+      "value": "2024-09-10 14:00"
+    },
+    {
+      "label": "参会人员",
+      "value_cell": "M26:Q26",
+      "value": "王芳(采购)、李军(库存)、张华(资产)、赵敏(安全)、孙超(宿舍)"
+    },
+    {
+      "label": "会议记录人",
+      "value_cell": "D29:H29",
+      "value": "王芳"
+    },
+    {
+      "label": "下次会议时间",
+      "value_cell": "M29:Q29",
+      "value": "2024-10-10"
+    },
+    {
+      "label": "from",
+      "value_cell": "D32:H32",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M32:Q32",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "库存周转率",
+      "value_cell": "D37:H37",
+      "value": "4.2次"
+    },
+    {
+      "label": "设备故障率",
+      "value_cell": "M37:Q37",
+      "value": "0.3%"
+    },
+    {
+      "label": "采购执行率",
+      "value_cell": "D40:H40",
+      "value": "98%"
+    },
+    {
+      "label": "□张华",
+      "value_cell": "D45:H45",
+      "value": "组织固定资产盘点"
+    },
+    {
+      "label": "□李军",
+      "value_cell": "M45:Q45",
+      "value": "做好库存预警管理"
+    },
+    {
+      "label": "□王芳",
+      "value_cell": "D48:H48",
+      "value": "负责启动新一轮采购计划"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D53:H53",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

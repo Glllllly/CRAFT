@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0204_houqin_车队管理_出车单",
+    "tenant":  "houqin",
+    "topic":  "车队管理",
+    "subtopic":  "出车单",
+    "source_dir":  "houqin\\车队管理\\出车单",
+    "total_files_in_source_dir":  65,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\车队管理\\出车单\\销售统计_8374.json",
+                      "copied_name":  "销售统计_8374.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\出车单\\访问记录_6718.csv",
+                      "copied_name":  "访问记录_6718.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\出车单\\出车单_009.txt",
+                      "copied_name":  "出车单_009.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\出车单\\销售统计_5205.eml",
+                      "copied_name":  "销售统计_5205.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\出车单\\维护计划_5702.csv",
+                      "copied_name":  "维护计划_5702.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1335
+                  }
+              ]
+}

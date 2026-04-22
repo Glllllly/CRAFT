@@ -1,0 +1,171 @@
+﻿{
+    "excel":  "023.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Reporter Full Name",
+                      "value_cell":  "A8:L8",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Employee / Contractor ID",
+                      "value_cell":  "M8:X8",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Team / Department",
+                      "value_cell":  "A10:L10",
+                      "value":  "Customer Success Engineering"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "M10:X10",
+                      "value":  "m.thorne@company.com"
+                  },
+                  {
+                      "label":  "Date of Report",
+                      "value_cell":  "A12:L12",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Time of Report",
+                      "value_cell":  "M12:X12",
+                      "value":  "14:30"
+                  },
+                  {
+                      "label":  "Issue Title (short, descriptive summary)",
+                      "value_cell":  "A17:X17",
+                      "value":  "Payment gateway timeout during checkout process"
+                  },
+                  {
+                      "label":  "Affected System / Application",
+                      "value_cell":  "A21:L21",
+                      "value":  "E-Commerce Payment Portal"
+                  },
+                  {
+                      "label":  "Version / Build Number",
+                      "value_cell":  "M21:X21",
+                      "value":  "v4.2.1-stable"
+                  },
+                  {
+                      "label":  "Environment (Production / Staging / Dev / QA)",
+                      "value_cell":  "A23:L23",
+                      "value":  "Production"
+                  },
+                  {
+                      "label":  "Browser / OS (if applicable)",
+                      "value_cell":  "M23:X23",
+                      "value":  "Chrome 118 / Windows 11"
+                  },
+                  {
+                      "label":  "Date Issue First Observed",
+                      "value_cell":  "A25:L25",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Frequency (always / often / rarely / once)",
+                      "value_cell":  "M25:X25",
+                      "value":  "often"
+                  },
+                  {
+                      "label":  "Step 1",
+                      "value_cell":  "A30:X30",
+                      "value":  "Add items to the shopping cart."
+                  },
+                  {
+                      "label":  "Step 2",
+                      "value_cell":  "A32:X32",
+                      "value":  "Proceed to the checkout page."
+                  },
+                  {
+                      "label":  "Step 3",
+                      "value_cell":  "A34:X34",
+                      "value":  "Enter valid credit card information."
+                  },
+                  {
+                      "label":  "Step 4 (add more on back if needed)",
+                      "value_cell":  "A36:X36",
+                      "value":  "Click the \u0027Complete Purchase\u0027 button."
+                  },
+                  {
+                      "label":  "Expected Behaviour (what should happen?)",
+                      "value_cell":  "A41:X41",
+                      "value":  "The payment should process and redirect to the \u0027Thank You\u0027 confirmation page."
+                  },
+                  {
+                      "label":  "Actual Behaviour  (what actually happened?)",
+                      "value_cell":  "A43:X43",
+                      "value":  "The page hangs for 30 seconds and then displays a gateway timeout error."
+                  },
+                  {
+                      "label":  "Error Message Displayed  (exact text or code)",
+                      "value_cell":  "A45:X45",
+                      "value":  "504 Gateway Timeout: Payment API unresponsive"
+                  },
+                  {
+                      "label":  "Business Impact 鈥?who or what is affected?",
+                      "value_cell":  "A50:X50",
+                      "value":  "Customers cannot complete purchases, leading to direct loss of revenue."
+                  },
+                  {
+                      "label":  "Number of Users Affected  (approx.)",
+                      "value_cell":  "A52:L52",
+                      "value":  "50+"
+                  },
+                  {
+                      "label":  "Workaround Available?  Y / N",
+                      "value_cell":  "M52:X52",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Workaround Description  (if applicable)",
+                      "value_cell":  "A54:X54",
+                      "value":  "Users can use the PayPal express checkout option as an alternative."
+                  },
+                  {
+                      "label":  "Screenshot",
+                      "value_cell":  "G59",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Screen Recording",
+                      "value_cell":  "L59",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Log File",
+                      "value_cell":  "Q59",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "File / Ticket Names",
+                      "value_cell":  "A60:L60",
+                      "value":  "payment_err_log_1012.txt"
+                  },
+                  {
+                      "label":  "Ticket System Reference  (Jira / Azure / other)",
+                      "value_cell":  "M60:X60",
+                      "value":  "Jira-PROD-992"
+                  },
+                  {
+                      "label":  "Reporter Signature",
+                      "value_cell":  "A68:L68",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "QA Lead / Triage Owner",
+                      "value_cell":  "A71:L71",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N71:X71",
+                      "value":  "2023-10-12"
+                  }
+              ]
+}

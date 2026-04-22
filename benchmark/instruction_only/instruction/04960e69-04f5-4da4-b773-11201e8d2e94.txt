@@ -1,0 +1,170 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name of Activity",
+      "value_text": "Summer Youth Camp 2024"
+    },
+    {
+      "key_text": "Last",
+      "value_text": "Smith"
+    },
+    {
+      "key_text": "First",
+      "value_text": "John"
+    },
+    {
+      "key_text": "Middle",
+      "value_text": "Robert"
+    },
+    {
+      "key_text": "Sex",
+      "value_text": "Male"
+    },
+    {
+      "key_text": "Birthday",
+      "value_text": "05/15/2012"
+    },
+    {
+      "key_text": "Age",
+      "value_text": "12"
+    },
+    {
+      "key_text": "Parent or Guardian Name",
+      "value_text": "Sarah Smith"
+    },
+    {
+      "key_text": "Home Address",
+      "value_text": "123 Maple St, Waco, TX 76701"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "(254) 555-0101"
+    },
+    {
+      "key_text": "Business Phone",
+      "value_text": "(254) 555-0102"
+    },
+    {
+      "key_text": "1. Name",
+      "value_text": "Michael Johnson"
+    },
+    {
+      "key_text": "Phone ( )",
+      "value_text": "(254) 555-0199"
+    },
+    {
+      "key_text": "Street Address",
+      "value_text": "456 Oak Ave"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Waco"
+    },
+    {
+      "key_text": "State",
+      "value_text": "TX"
+    },
+    {
+      "key_text": "Zip",
+      "value_text": "76702"
+    },
+    {
+      "key_text": "Does this child have any allergies :",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "List here",
+      "value_text": "Peanuts, Bee stings"
+    },
+    {
+      "key_text": "Other :",
+      "value_text": null
+    },
+    {
+      "key_text": "Yes",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": "X"
+    },
+    {
+      "key_text": "If yes, describe the problems or illnesses",
+      "value_text": null
+    },
+    {
+      "key_text": "State the name, address, medical specialty and phone number of this child's family physician and of any other physician who should be consulted in the event of emergency or medical problems involving this child :",
+      "value_text": "Dr. Emily White, 789 Pine Rd, Waco, TX, Pediatrics, (254) 555-0200"
+    },
+    {
+      "key_text": "State the name, address, and phone number of this child's dentist (and orthodontist if applicable) :",
+      "value_text": "Dr. Alan Green, 321 Elm St, Waco, TX, (254) 555-0300"
+    },
+    {
+      "key_text": "Is there medical or hospitalization insurance which provides benefits for this child?",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Name of Insurance Co.",
+      "value_text": "Blue Cross Blue Shield"
+    },
+    {
+      "key_text": "Address",
+      "value_text": "1000 Victory Way, Dallas, TX"
+    },
+    {
+      "key_text": "Policy No. of Insurance Policy",
+      "value_text": "TX123456789"
+    },
+    {
+      "key_text": "Name of Policy Holder",
+      "value_text": "Sarah Smith"
+    },
+    {
+      "key_text": "Phone No. of Insurance Co.",
+      "value_text": "(800) 555-1234"
+    },
+    {
+      "key_text": "Is this child on any medications?",
+      "value_text": "No"
+    },
+    {
+      "key_text": "If so, please state the medication :",
+      "value_text": null
+    },
+    {
+      "key_text": "If so, will this child be bringing to the Activity the medications that he/she should be taking?",
+      "value_text": null
+    },
+    {
+      "key_text": "Signature",
+      "value_text": "Sarah Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "06/01/2024"
+    },
+    {
+      "key_text": "Print Full Name",
+      "value_text": "Sarah Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "06/01/2024"
+    },
+    {
+      "key_text": "Name (printed)",
+      "value_text": "Sarah Smith"
+    },
+    {
+      "key_text": "Signature",
+      "value_text": "Sarah Smith"
+    }
+  ]
+}
+
+Narrative:
+Sarah Smith has completed a Permission and Medical Consent form for her son, John Robert Smith, so he can participate in the Summer Youth Camp 2024 at Columbus Avenue Baptist Church. John is a 12-year-old boy born on May 15, 2012. The family resides at 123 Maple St in Waco, Texas, and Sarah can be reached at (254) 555-0101 (home) or (254) 555-0102 (business). In an emergency, if Sarah is unavailable, Michael Johnson is the designated contact at (254) 555-0199, located at 456 Oak Ave in Waco.
+
+John has allergies to peanuts and bee stings, but he does not have any chronic medical or health problems that would interfere with his participation. His primary pediatrician is Dr. Emily White at 789 Pine Rd in Waco, and his dentist is Dr. Alan Green at 321 Elm St. John is covered by medical insurance through Blue Cross Blue Shield, policy number TX123456789, under Sarah Smith's name. John is not currently taking any medications. Sarah signed and dated the consent and photo release sections on June 1, 2024.

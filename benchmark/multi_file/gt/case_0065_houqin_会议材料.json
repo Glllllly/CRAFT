@@ -1,0 +1,121 @@
+{
+  "excel": "case_0065_houqin_会议材料__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "42280"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "会议记录_4404"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "会议记录"
+    },
+    {
+      "label": "date",
+      "value_cell": "A11:D12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F11:I12",
+      "value": "2026-02-10T05:30:31.174456"
+    },
+    {
+      "label": "creator",
+      "value_cell": "K11:N12",
+      "value": "张三"
+    },
+    {
+      "label": "status",
+      "value_cell": "A15:D16",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F15:I16",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K15:N16",
+      "value": "临时"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A21:D22",
+      "value": "采购计划"
+    },
+    {
+      "label": "from",
+      "value_cell": "F21:I22",
+      "value": "马腾@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K21:N22",
+      "value": "马腾@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A25:D26",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "操作方式",
+      "value_cell": "A31:D32",
+      "value": "配置中心调整"
+    },
+    {
+      "label": "功能入口",
+      "value_cell": "F31:I32",
+      "value": "内部功能平台入口"
+    },
+    {
+      "label": "演练",
+      "value_cell": "K31:N32",
+      "value": "演练平台"
+    },
+    {
+      "label": "模板反馈点赞点踩接口",
+      "value_cell": "A35:D36",
+      "value": "块反馈接口"
+    },
+    {
+      "label": "每分钟最多15次",
+      "value_cell": "F35:I36",
+      "value": "-"
+    },
+    {
+      "label": "第一次",
+      "value_cell": "A41:D42",
+      "value": "单轮压测报告"
+    },
+    {
+      "label": "第二次",
+      "value_cell": "F41:I42",
+      "value": "二轮压测报告"
+    },
+    {
+      "label": "限流后用户侧表现",
+      "value_cell": "K41:N42",
+      "value": "弹窗提示错误"
+    },
+    {
+      "label": "功能用例",
+      "value_cell": "A47:D48",
+      "value": "功能测试用例文档"
+    },
+    {
+      "label": "问题记录",
+      "value_cell": "F47:I48",
+      "value": "问题跟踪文档"
+    }
+  ]
+}

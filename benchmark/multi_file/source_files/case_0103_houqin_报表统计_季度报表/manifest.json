@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0103_houqin_报表统计_季度报表",
+    "tenant":  "houqin",
+    "topic":  "报表统计",
+    "subtopic":  "季度报表",
+    "source_dir":  "houqin\\报表统计\\季度报表",
+    "total_files_in_source_dir":  39,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\报表统计\\季度报表\\批复单_5903.json",
+                      "copied_name":  "批复单_5903.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  300
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\季度报表\\资产清单_1011.csv",
+                      "copied_name":  "资产清单_1011.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\季度报表\\年报_2928.txt",
+                      "copied_name":  "年报_2928.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  206
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\季度报表\\项目计划_7391.eml",
+                      "copied_name":  "项目计划_7391.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\季度报表\\人数统计_7682.csv",
+                      "copied_name":  "人数统计_7682.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

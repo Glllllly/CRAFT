@@ -1,0 +1,70 @@
+# Copy this file to `config.yaml` for local use.
+# CLI arguments still win over anything in the local config file.
+
+agent:
+  model: ""
+  base_url: ""
+  api_key: ""
+  temperature: 1.0
+  form_context_mode: struct
+  include_rendered_html: false
+  rendered_html_max_chars: 200000
+  skills: ""
+  skills_file: skills.txt
+
+planner:
+  enable: true
+  model: ""
+  base_url: ""
+  api_key: ""
+  temperature: 1.0
+  json_path: ""
+  debug_dir: ""
+
+runtime:
+  save_model_io: false
+  model_io_dump_dir: ""
+  job_dir: ""
+  root_dir: ""
+
+preprocess:
+  dpi: 96
+  ckpt: src/craft/vision/best_segformer.pt
+  backend: html_css
+
+render:
+  canvas_bg: "#f5f5f5"
+  png_scale: 1.0
+  max_rows: 400
+  max_cols: 120
+
+reflect:
+  enable: true
+  plugin_enable: true
+  max_rounds: 1
+  patch_steps: 6
+  checker_model: ""
+  edit_log_jsonl: ""
+  risk_threshold: 1
+  expand_left_cols: 3
+  expand_right_cols: 3
+  expand_top_rows: 1
+  expand_bottom_rows: 1
+  focus_pad_left_cols: 5
+  focus_pad_top_rows: 2
+  focus_pad_right_cols: 3
+  focus_pad_bottom_rows: 2
+
+controller:
+  max_cycles: 2
+
+source:
+  instruction: "Fill the form from the provided source."
+  manifest: ""
+  inline_max_chars: 24000
+  pdf_max_pages: 30
+
+# Flat keys also work if you prefer:
+# agent_model: gemini-3-1-flash-lite-preview
+# agent_base_url: https://example.com/v1
+# agent_api_key: sk-...

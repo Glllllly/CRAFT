@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name:",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Staff ID:",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Email Address:",
+      "value_text": "j.miller@company.com"
+    },
+    {
+      "key_text": "Phone Extension:",
+      "value_text": "412"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Date of Request:",
+      "value_text": "2023-10-24"
+    },
+    {
+      "key_text": "Request Type  (Hardware / Software / Network / Account / Other):",
+      "value_text": "Hardware"
+    },
+    {
+      "key_text": "Priority  (Low / Med / High / Critical):",
+      "value_text": "Med"
+    },
+    {
+      "key_text": "Affected Device / System:",
+      "value_text": "Workstation Monitor"
+    },
+    {
+      "key_text": "Asset Tag No.:",
+      "value_text": "ASSET-99021"
+    },
+    {
+      "key_text": "Description of Issue or Request:",
+      "value_text": "The primary display monitor is flickering intermittently and has developed a vertical dead pixel line."
+    },
+    {
+      "key_text": "Business Impact if Unresolved:",
+      "value_text": "Significantly impairs ability to perform graphic design tasks and video editing projects."
+    },
+    {
+      "key_text": "Preferred Resolution Date:",
+      "value_text": "2023-10-27"
+    },
+    {
+      "key_text": "IT Helpdesk Technician",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "IT Manager",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Department Head (capital purchase)",
+      "value_text": null
+    },
+    {
+      "key_text": "Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Jonathan D. Miller, a staff member in the Marketing department with ID EMP-8842, submitted an IT service request on October 24, 2023. He can be reached via email at j.miller@company.com or at phone extension 412. The request is for hardware assistance regarding a faulty workstation monitor (Asset Tag ASSET-99021), which is experiencing flickering and a dead pixel line. He has marked the priority as medium, noting that the issue hinders his graphic design and video editing work. He would prefer a resolution by October 27, 2023. The request has been signed off by IT technician Sarah Jenkins and IT Manager Marcus Thorne as of October 25, 2023. No department head authorization was required for this request.

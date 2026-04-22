@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0100_houqin_库存管理_盘点报告",
+    "tenant":  "houqin",
+    "topic":  "库存管理",
+    "subtopic":  "盘点报告",
+    "source_dir":  "houqin\\库存管理\\盘点报告",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\库存管理\\盘点报告\\物品清单_1305.json",
+                      "copied_name":  "物品清单_1305.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\盘点报告\\年报_7024.csv",
+                      "copied_name":  "年报_7024.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1344
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\盘点报告\\维修记录_4920.txt",
+                      "copied_name":  "维修记录_4920.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\盘点报告\\物品清单_6833.eml",
+                      "copied_name":  "物品清单_6833.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\库存管理\\盘点报告\\年报_6100.csv",
+                      "copied_name":  "年报_6100.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1344
+                  }
+              ]
+}

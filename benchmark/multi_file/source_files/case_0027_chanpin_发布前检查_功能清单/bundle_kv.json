@@ -1,0 +1,3043 @@
+{
+  "bundle_dir": "case_0027_chanpin_发布前检查_功能清单",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "清单_016.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-07-06",
+          "raw_key": "发布日期",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-07-06",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 49%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 49%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 183MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 183MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 204ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 204ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "7个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：7个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 62/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 62/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "18项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：18项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 14个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 14个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 34%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 34%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 29个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 29个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "1个",
+          "raw_key": "已知问题",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：1个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA1",
+          "raw_key": "检查人",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA1",
+          "raw_key": "检查人签字",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA1",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V3.14",
+          "raw_key": "版本号",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V3.14",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-10-05",
+          "raw_key": "确认时间",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-10-05",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "清单_020.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-04-18",
+          "raw_key": "发布日期",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-04-18",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 42%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 42%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 122MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 122MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 206ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 206ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "7个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：7个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 62/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 62/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "12项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：12项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 12个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 12个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 38%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 38%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 27个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 27个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "0个",
+          "raw_key": "已知问题",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：0个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA5",
+          "raw_key": "检查人",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA5",
+          "raw_key": "检查人签字",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA5",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.11",
+          "raw_key": "版本号",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-12-22",
+          "raw_key": "确认时间",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-12-22",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "清单_021.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-01-26",
+          "raw_key": "发布日期",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-26",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 78%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 78%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 180MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 180MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 262ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 262ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "3个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：3个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 74/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 74/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "14项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：14项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 23个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 23个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 14%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 14%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 49个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 49个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "4个",
+          "raw_key": "已知问题",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：4个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA6",
+          "raw_key": "检查人",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA6",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA6",
+          "raw_key": "检查人签字",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA6",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V1.16",
+          "raw_key": "版本号",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V1.16",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-08-13",
+          "raw_key": "确认时间",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-08-13",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "清单_051.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-01-11",
+          "raw_key": "发布日期",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 52%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 52%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 167MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 167MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 175ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 175ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "6个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：6个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 92/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 92/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "14项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：14项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 27个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 27个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 11%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 11%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 35个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 35个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "1个",
+          "raw_key": "已知问题",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：1个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA4",
+          "raw_key": "检查人",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA4",
+          "raw_key": "检查人签字",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA4",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V4.17",
+          "raw_key": "版本号",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V4.17",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-01-11",
+          "raw_key": "确认时间",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-01-11",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "清单_081.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-01-23",
+          "raw_key": "发布日期",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-23",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 41%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 41%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 156MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 156MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 228ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 228ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "3个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：3个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 64/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 64/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "18项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：18项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 10个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 10个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 14%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 14%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 37个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 37个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "4个",
+          "raw_key": "已知问题",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：4个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA2",
+          "raw_key": "检查人",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA2",
+          "raw_key": "检查人签字",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA2",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.15",
+          "raw_key": "版本号",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.15",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-11-05",
+          "raw_key": "确认时间",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-11-05",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "publish_date",
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-07-06",
+          "raw_key": "发布日期",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-07-06",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-04-18",
+          "raw_key": "发布日期",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-04-18",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-01-26",
+          "raw_key": "发布日期",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-26",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-01-11",
+          "raw_key": "发布日期",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-01-23",
+          "raw_key": "发布日期",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布日期：2024-01-23",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□cpu占用",
+      "candidates": [
+        {
+          "key": "□cpu占用",
+          "value": "< 49%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 49%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 42%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 42%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 78%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 78%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 52%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 52%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□cpu占用",
+          "value": "< 41%",
+          "raw_key": "□ CPU占用",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ CPU占用：< 41%",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□sql注入防护",
+      "candidates": [
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□sql注入防护",
+          "value": "检查通过",
+          "raw_key": "□ SQL注入防护",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ SQL注入防护：检查通过",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□xss防护",
+      "candidates": [
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□xss防护",
+          "value": "检查通过",
+          "raw_key": "□ XSS防护",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ XSS防护：检查通过",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□内存占用",
+      "candidates": [
+        {
+          "key": "□内存占用",
+          "value": "< 183MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 183MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 122MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 122MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 180MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 180MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 167MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 167MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□内存占用",
+          "value": "< 156MB",
+          "raw_key": "□ 内存占用",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 内存占用：< 156MB",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□加载时间",
+      "candidates": [
+        {
+          "key": "□加载时间",
+          "value": "< 204ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 204ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 206ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 206ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 262ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 262ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 175ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 175ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□加载时间",
+          "value": "< 228ms",
+          "raw_key": "□ 加载时间",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 加载时间：< 228ms",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□屏幕分辨率",
+      "candidates": [
+        {
+          "key": "□屏幕分辨率",
+          "value": "7个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：7个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "7个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：7个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "3个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：3个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "6个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：6个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□屏幕分辨率",
+          "value": "3个分辨率已测试",
+          "raw_key": "□ 屏幕分辨率",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 屏幕分辨率：3个分辨率已测试",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□异常处理",
+      "candidates": [
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 62/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 62/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 62/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 62/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 74/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 74/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 92/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 92/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□异常处理",
+          "value": "错误提示清晰度 64/100",
+          "raw_key": "□ 异常处理",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 异常处理：错误提示清晰度 64/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□操作系统",
+      "candidates": [
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□操作系统",
+          "value": "支持 Windows/Mac/Linux)",
+          "raw_key": "□ 操作系统",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 操作系统：支持 Windows/Mac/Linux)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□数据加密",
+      "candidates": [
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□数据加密",
+          "value": "已实现 AES)",
+          "raw_key": "□ 数据加密",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 数据加密：已实现 AES)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□新增功能完整性检查",
+      "candidates": [
+        {
+          "key": "□新增功能完整性检查",
+          "value": "18项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：18项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "12项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：12项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "14项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：14项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "14项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：14项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□新增功能完整性检查",
+          "value": "18项功能已验证",
+          "raw_key": "□ 新增功能完整性检查",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 新增功能完整性检查：18项功能已验证",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□权限控制",
+      "candidates": [
+        {
+          "key": "□权限控制",
+          "value": "验证 14个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 14个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 12个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 12个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 23个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 23个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 27个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 27个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□权限控制",
+          "value": "验证 10个权限点",
+          "raw_key": "□ 权限控制",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 权限控制：验证 10个权限点",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□核心功能兼容性",
+      "candidates": [
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□核心功能兼容性",
+          "value": "支持 iOS) 平台",
+          "raw_key": "□ 核心功能兼容性",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 核心功能兼容性：支持 iOS) 平台",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□浏览器兼容",
+      "candidates": [
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□浏览器兼容",
+          "value": "支持 Chrome)",
+          "raw_key": "□ 浏览器兼容",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 浏览器兼容：支持 Chrome)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□电池消耗",
+      "candidates": [
+        {
+          "key": "□电池消耗",
+          "value": "降低 34%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 34%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 38%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 38%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 14%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 14%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 11%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 11%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□电池消耗",
+          "value": "降低 14%",
+          "raw_key": "□ 电池消耗",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 电池消耗：降低 14%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□网络环境",
+      "candidates": [
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□网络环境",
+          "value": "WiFi) 已测试",
+          "raw_key": "□ 网络环境",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 网络环境：WiFi) 已测试",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "□边界值测试",
+      "candidates": [
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 29个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 29个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 27个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 27个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 49个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 49个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 35个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 35个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "□边界值测试",
+          "value": "已覆盖 37个边界场景",
+          "raw_key": "□ 边界值测试",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "□ 边界值测试：已覆盖 37个边界场景",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布建议",
+      "candidates": [
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布建议",
+          "value": "可发布)",
+          "raw_key": "发布建议",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布建议：可发布)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "已知问题",
+      "candidates": [
+        {
+          "key": "已知问题",
+          "value": "1个",
+          "raw_key": "已知问题",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：1个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "0个",
+          "raw_key": "已知问题",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：0个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "4个",
+          "raw_key": "已知问题",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：4个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "1个",
+          "raw_key": "已知问题",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：1个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已知问题",
+          "value": "4个",
+          "raw_key": "已知问题",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已知问题：4个",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "检查人",
+      "candidates": [
+        {
+          "key": "检查人",
+          "value": "QA1",
+          "raw_key": "检查人",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA5",
+          "raw_key": "检查人",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA5",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA6",
+          "raw_key": "检查人",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA6",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA4",
+          "raw_key": "检查人",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人",
+          "value": "QA2",
+          "raw_key": "检查人",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人：QA2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "检查人签字",
+      "candidates": [
+        {
+          "key": "检查人签字",
+          "value": "QA1",
+          "raw_key": "检查人签字",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA1",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA5",
+          "raw_key": "检查人签字",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA5",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA6",
+          "raw_key": "检查人签字",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA6",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA4",
+          "raw_key": "检查人签字",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA4",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "检查人签字",
+          "value": "QA2",
+          "raw_key": "检查人签字",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "检查人签字：QA2",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "版本号",
+      "candidates": [
+        {
+          "key": "版本号",
+          "value": "V3.14",
+          "raw_key": "版本号",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V3.14",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.11",
+          "raw_key": "版本号",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V1.16",
+          "raw_key": "版本号",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V1.16",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V4.17",
+          "raw_key": "版本号",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V4.17",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.15",
+          "raw_key": "版本号",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.15",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "确认时间",
+      "candidates": [
+        {
+          "key": "确认时间",
+          "value": "2024-10-05",
+          "raw_key": "确认时间",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-10-05",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-12-22",
+          "raw_key": "确认时间",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-12-22",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-08-13",
+          "raw_key": "确认时间",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-08-13",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-01-11",
+          "raw_key": "确认时间",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-01-11",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "确认时间",
+          "value": "2024-11-05",
+          "raw_key": "确认时间",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "确认时间：2024-11-05",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险等级",
+      "candidates": [
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_016.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_020.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_051.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "清单_081.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

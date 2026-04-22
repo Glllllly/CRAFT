@@ -1,0 +1,112 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Driver Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Vehicle Plate Number",
+      "value_text": "FLEET-209"
+    },
+    {
+      "key_text": "Vehicle Make / Model / Year",
+      "value_text": "Ford Transit 2022"
+    },
+    {
+      "key_text": "Odometer Reading (Start)",
+      "value_text": "45,210"
+    },
+    {
+      "key_text": "Odometer Reading (End)",
+      "value_text": "45,355"
+    },
+    {
+      "key_text": "Total Miles Driven",
+      "value_text": "145"
+    },
+    {
+      "key_text": "Trip Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Trip Purpose / Destination",
+      "value_text": "Regional supply delivery to North Warehouse"
+    },
+    {
+      "key_text": "Engine Oil",
+      "value_text": "OK"
+    },
+    {
+      "key_text": "Tyres (all four)",
+      "value_text": "OK"
+    },
+    {
+      "key_text": "Brakes",
+      "value_text": "OK"
+    },
+    {
+      "key_text": "Lights (head, tail, signal)",
+      "value_text": "All OK"
+    },
+    {
+      "key_text": "Windshield / Wipers",
+      "value_text": "OK"
+    },
+    {
+      "key_text": "Fuel Level",
+      "value_text": "Full"
+    },
+    {
+      "key_text": "Horn / Mirrors / Seatbelts",
+      "value_text": "OK"
+    },
+    {
+      "key_text": "Location of Damage",
+      "value_text": null
+    },
+    {
+      "key_text": "Description of Damage",
+      "value_text": null
+    },
+    {
+      "key_text": "Pre-existing Damage Reported to Fleet? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Report Reference #",
+      "value_text": null
+    },
+    {
+      "key_text": "New Damage? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "If yes, describe",
+      "value_text": null
+    },
+    {
+      "key_text": "Fuel Added? Y / N — Litres",
+      "value_text": "Y - 15 Litres"
+    },
+    {
+      "key_text": "Fuel Receipt Attached? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Vehicle Cleaned / Returned to Bay? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Keys Returned To",
+      "value_text": "Security Desk"
+    }
+  ]
+}
+
+Narrative:
+On October 14, 2023, Marcus Thorne (Employee ID: EMP-8842) completed a trip for a regional supply delivery to the North Warehouse using the 2022 Ford Transit, plate number FLEET-209. He started the day with an odometer reading of 45,210 and finished at 45,355, totaling 145 miles. A pre-trip inspection confirmed that the vehicle was in perfect working order, with all systems including the engine oil, brakes, and lights marked as "OK" or "Full." There was no pre-existing or new damage noted during the trip. Upon returning, Marcus added 15 liters of fuel, attached the receipt, cleaned the vehicle, and dropped the keys off at the security desk.

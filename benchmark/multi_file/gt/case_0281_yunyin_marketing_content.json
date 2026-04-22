@@ -1,0 +1,131 @@
+{
+  "excel": "case_0281_yunyin_marketing_content__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "status",
+      "value_cell": "A6:D7",
+      "value": "Active"
+    },
+    {
+      "label": "lastupdated",
+      "value_cell": "F6:I7",
+      "value": "2024-02-10"
+    },
+    {
+      "label": "weeklysummary",
+      "value_cell": "K6:N7",
+      "value": "Key metrics"
+    },
+    {
+      "label": "day7",
+      "value_cell": "A12:D13",
+      "value": "Recap and Planning"
+    },
+    {
+      "label": "day12",
+      "value_cell": "F12:I13",
+      "value": "Educational Content"
+    },
+    {
+      "label": "day34",
+      "value_cell": "K12:N13",
+      "value": "Promotional Content"
+    },
+    {
+      "label": "day56",
+      "value_cell": "P12:S13",
+      "value": "Community Content"
+    },
+    {
+      "label": "blogpost",
+      "value_cell": "A18:D19",
+      "value": "\"Top 10 Tips for Product Usage\""
+    },
+    {
+      "label": "infographic",
+      "value_cell": "F18:I19",
+      "value": "Best practices guide"
+    },
+    {
+      "label": "videotutorial",
+      "value_cell": "K18:N19",
+      "value": "5 minutes walkthrough"
+    },
+    {
+      "label": "productshowcase",
+      "value_cell": "P18:S19",
+      "value": "New feature announcement"
+    },
+    {
+      "label": "customersuccessstory",
+      "value_cell": "A22:D23",
+      "value": "Case study"
+    },
+    {
+      "label": "userspotlight",
+      "value_cell": "F22:I23",
+      "value": "Featured customer"
+    },
+    {
+      "label": "pollsurvey",
+      "value_cell": "K22:N23",
+      "value": "Gather feedback"
+    },
+    {
+      "label": "q&asession",
+      "value_cell": "P22:S23",
+      "value": "Community engagement"
+    },
+    {
+      "label": "limitedtimeoffer",
+      "value_cell": "A26:D27",
+      "value": "Special promotion"
+    },
+    {
+      "label": "blogviews",
+      "value_cell": "A32:D33",
+      "value": "5000+"
+    },
+    {
+      "label": "videoviews",
+      "value_cell": "F32:I33",
+      "value": "3000+"
+    },
+    {
+      "label": "socialshares",
+      "value_cell": "K32:N33",
+      "value": "200+"
+    },
+    {
+      "label": "engagementrate",
+      "value_cell": "P32:S33",
+      "value": "5%+"
+    },
+    {
+      "label": "engagementreport",
+      "value_cell": "A36:D37",
+      "value": "Performance analysis"
+    },
+    {
+      "label": "metadescriptions",
+      "value_cell": "A42:D43",
+      "value": "Optimized"
+    },
+    {
+      "label": "externallinks",
+      "value_cell": "F42:I43",
+      "value": "3+ authoritative sources"
+    },
+    {
+      "label": "internallinks",
+      "value_cell": "K42:N43",
+      "value": "5+ per article"
+    },
+    {
+      "label": "nextweekpreview",
+      "value_cell": "A48:D49",
+      "value": "Content roadmap"
+    }
+  ]
+}

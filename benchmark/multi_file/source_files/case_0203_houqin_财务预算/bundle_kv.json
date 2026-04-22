@@ -1,0 +1,5252 @@
+{
+  "bundle_dir": "case_0203_houqin_财务预算",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+      "source_type": "xls",
+      "candidate_count": 128,
+      "candidates": [
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1978",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1979",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1979 | | | | | | |",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1985",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1986",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1987",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1988",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1989",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1990",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1991",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1992",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1993",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1994",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1995",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1996",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1997",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1998",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1999",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2000",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2001",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2002",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2003",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2004",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Basic Statistics on Center for Disease Control and Prevention , Women and",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Basic Statistics on Center for Disease Control and Prevention , Women and | | | | | | |",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Children Care Agencies (1978-2021)",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Children Care Agencies (1978-2021) | | | | | | |",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Year",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "单位：个、人",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个、人 | | | | | (unit, person) | |",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "年 份",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "148",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "149",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "150",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "151",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "153",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "157",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "158",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "159",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "160",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "175",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Center for Disease Control and Prevention",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Center for Disease Control and Prevention | | Women and Children Care Agencies | | | |",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Institutions",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Number of",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "机 构 数",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "疾病预防控制中心",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "3 604",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "4 931",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5 930",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5083",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5286",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5529",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5737",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 388",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 606",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 782",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 810",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 962",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6146",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 136",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 344",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 390",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 493",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 574",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7125",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7241",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7810",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Employed Persons",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Number of",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "人 员 数",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "140",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "141",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "142",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "143",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "144",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "145",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "146",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "151",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Institutions",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Number of",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Women and Children Care Agencies",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Center for Disease Control and Prevention | | Women and Children Care Agencies | | | |",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "妇幼保健机构",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "机 构 数",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 073",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 244",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 350",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 510",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 657",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 836",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1021",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 024",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 252",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 356",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2588",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3 386",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3174",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3341",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "524",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "712",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "770",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "82",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "841",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "872",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "928",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Beds",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Number of",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "床 位 数",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "(unit, person)",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个、人 | | | | | (unit, person) | |",
+            "location": "row:4,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "1 194",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2 108",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2234",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2401",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2612",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2808",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 001",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 467",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 669",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 869",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3252",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 197",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 270",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 559",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 692",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 822",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5 017",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5 482",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5124",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5624",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5650",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "Employed Persons",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "Number of",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "人 员 数",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+      "source_type": "xls",
+      "candidate_count": 62,
+      "candidates": [
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "Health Care Institutions by Level（2023）",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Health Care Institutions by Level（2023） | | | | | |",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "专科医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "专科疾病防治院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "中医医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "中西医结合医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "单位：个",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个 | | | | | | （unit）",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "妇幼保健院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "综合医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "项目",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "General Hospitals",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hospitals",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hospitals of Traditional Chinese Medicine and Western Medicine",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hosptials Specialized in Traditional Chinese Medicine",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Iem",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Specialized Hosptials",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Specialized Prevention & Treatment Centers",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Women and Children Care Agencies",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "12",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "1245",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "161",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "23",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "443",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "602",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "99",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Total",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "合计",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "105",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "16",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "208",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "36",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "6",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "61",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Thrid-level",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "三级",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "148",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "201",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "4",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "423",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "65",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "7",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "79",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Second-level",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "二级",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "1",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "203",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "320",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "44",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "62",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "7",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "First-level",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "一级",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "119",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "146",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "16",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "294",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "3",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "5",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "Others",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "其他",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "（unit）",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个 | | | | | | （unit）",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "source_file": "备件申请_1950.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "备注",
+          "value": "此申请已按规定流程准备，附件齐全",
+          "raw_key": "备注",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 此申请已按规定流程准备，附件齐全",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "所属部门",
+          "value": "总经理办公室",
+          "raw_key": "所属部门",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "所属部门: 总经理办公室",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "申请事由",
+          "value": "根据公司相关规定提出本申请",
+          "raw_key": "申请事由",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请事由: 根据公司相关规定提出本申请",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "申请人",
+          "value": "王军",
+          "raw_key": "申请人",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请人: 王军",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "申请日期",
+          "value": "2026-02-10",
+          "raw_key": "申请日期",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请日期: 2026-02-10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期结果",
+          "value": "待审批",
+          "raw_key": "预期结果",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期结果: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "访问记录_3423.json",
+      "source_type": "json",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.199258",
+          "raw_key": "create_date",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.199258",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "creator",
+          "value": "周八",
+          "raw_key": "creator",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 周八",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "department",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 人力资源部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "id",
+          "value": "37209",
+          "raw_key": "id",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 37209",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "priority",
+          "value": "中",
+          "raw_key": "priority",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 中",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "已审批",
+          "raw_key": "status",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 已审批",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "title",
+          "value": "访问记录_1057",
+          "raw_key": "title",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 访问记录_1057",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "type",
+          "value": "访问记录",
+          "raw_key": "type",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 访问记录",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "source_file": "费用统计_1544.eml",
+      "source_type": "eml",
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "from",
+          "value": "赵六@company.com",
+          "raw_key": "from",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 赵六@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "subject",
+          "value": "费用统计",
+          "raw_key": "subject",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 费用统计",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "to",
+          "value": "李四@company.com",
+          "raw_key": "to",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 李四@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "0",
+      "candidates": [
+        {
+          "key": "0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+      "candidates": [
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1978",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1979",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1979 | | | | | | |",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1985",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1986",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1987",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1988",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1989",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1990",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1991",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1992",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1993",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1994",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1995",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1996",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1997",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1998",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "1999",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2000",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2001",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2002",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2003",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "2004",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Basic Statistics on Center for Disease Control and Prevention , Women and",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Basic Statistics on Center for Disease Control and Prevention , Women and | | | | | | |",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Children Care Agencies (1978-2021)",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Children Care Agencies (1978-2021) | | | | | | |",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "Year",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "单位：个、人",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个、人 | | | | | (unit, person) | |",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "144疾病预防控制中心、妇幼保健机构情况（19782021年）",
+          "value": "年 份",
+          "raw_key": "14-4 疾病预防控制中心、妇幼保健机构情况（1978-2021年）",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "194分等级医疗卫生机构情况（2023）",
+      "candidates": [
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "Health Care Institutions by Level（2023）",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Health Care Institutions by Level（2023） | | | | | |",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "专科医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "专科疾病防治院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "中医医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "中西医结合医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "单位：个",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个 | | | | | | （unit）",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "妇幼保健院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "综合医院",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "194分等级医疗卫生机构情况（2023）",
+          "value": "项目",
+          "raw_key": "19-4 分等级医疗卫生机构情况（2023）",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col2",
+      "candidates": [
+        {
+          "key": "col2",
+          "value": "148",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "149",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "150",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "151",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "153",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "157",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "158",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "159",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "160",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "175",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Center for Disease Control and Prevention",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Center for Disease Control and Prevention | | Women and Children Care Agencies | | | |",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Institutions",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Number of",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "机 构 数",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "疾病预防控制中心",
+          "raw_key": "col_2",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "General Hospitals",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hospitals",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hospitals of Traditional Chinese Medicine and Western Medicine",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Hosptials Specialized in Traditional Chinese Medicine",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Iem",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Specialized Hosptials",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Specialized Prevention & Treatment Centers",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col2",
+          "value": "Women and Children Care Agencies",
+          "raw_key": "col_2",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col3",
+      "candidates": [
+        {
+          "key": "col3",
+          "value": "3 604",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "4 931",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5 930",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5083",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5286",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5529",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "5737",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 388",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 606",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 782",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 810",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6 962",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "6146",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 136",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 344",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 390",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 493",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7 574",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7125",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7241",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "7810",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Employed Persons",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Number of",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "人 员 数",
+          "raw_key": "col_3",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "12",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "1245",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "161",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "23",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "443",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "602",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "99",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "Total",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col3",
+          "value": "合计",
+          "raw_key": "col_3",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col4",
+      "candidates": [
+        {
+          "key": "col4",
+          "value": "140",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "141",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "142",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "143",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "144",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "145",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "146",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "151",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Institutions",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Number of",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Women and Children Care Agencies",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Center for Disease Control and Prevention | | Women and Children Care Agencies | | | |",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "妇幼保健机构",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "年 份 | 疾病预防控制中心 | | 妇幼保健机构 | | | |",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "机 构 数",
+          "raw_key": "col_4",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "105",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "16",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "208",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "36",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "6",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "61",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "Thrid-level",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col4",
+          "value": "三级",
+          "raw_key": "col_4",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col5",
+      "candidates": [
+        {
+          "key": "col5",
+          "value": "1 073",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 244",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 350",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 510",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 657",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1 836",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "1021",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 024",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 252",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2 356",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "2588",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3 386",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3174",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "3341",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "524",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "712",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "770",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "82",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "841",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "872",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "928",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Beds",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Number of",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "床 位 数",
+          "raw_key": "col_5",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "148",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "201",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "4",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "423",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "65",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "7",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "79",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "Second-level",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col5",
+          "value": "二级",
+          "raw_key": "col_5",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col6",
+      "candidates": [
+        {
+          "key": "col6",
+          "value": "(unit, person)",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个、人 | | | | | (unit, person) | |",
+            "location": "row:4,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "1 194",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1978 | 149 | 3 604 | 142 | 82 | 1 194 | |",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2 108",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1985 | 159 | 4 931 | 145 | 524 | 2 108 | |",
+            "location": "row:12,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2234",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1986 | 159 | 5083 | 145 | 712 | 2234 | |",
+            "location": "row:13,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2401",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1987 | 158 | 5286 | 144 | 770 | 2401 | |",
+            "location": "row:14,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2612",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1988 | 150 | 5529 | 144 | 841 | 2612 | |",
+            "location": "row:15,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "2808",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1989 | 150 | 5737 | 143 | 872 | 2808 | |",
+            "location": "row:16,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 001",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1990 | 150 | 5 930 | 144 | 928 | 3 001 | |",
+            "location": "row:17,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 467",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1992 | 149 | 6 388 | 144 | 1 073 | 3 467 | |",
+            "location": "row:19,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 669",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1993 | 157 | 6 606 | 143 | 1 244 | 3 669 | |",
+            "location": "row:20,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3 869",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1994 | 157 | 6 810 | 143 | 1 350 | 3 869 | |",
+            "location": "row:21,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3252",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1991 | 150 | 6146 | 144 | 1021 | 3252 | |",
+            "location": "row:18,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 197",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1995 | 158 | 6 962 | 145 | 1 510 | 4 197 | |",
+            "location": "row:22,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 270",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1996 | 158 | 7 136 | 142 | 1 657 | 4 270 | |",
+            "location": "row:23,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 559",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1997 | 159 | 7 344 | 142 | 1 836 | 4 559 | |",
+            "location": "row:24,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 692",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1998 | 150 | 7 390 | 141 | 2 024 | 4 692 | |",
+            "location": "row:25,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "4 822",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "1999 | 151 | 7 493 | 140 | 2 252 | 4 822 | |",
+            "location": "row:26,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5 017",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2000 | 160 | 7 574 | 142 | 2 356 | 5 017 | |",
+            "location": "row:27,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5 482",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2004 | 150 | 6 782 | 146 | 3 386 | 5 482 | |",
+            "location": "row:31,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5124",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2001 | 175 | 7810 | 142 | 2588 | 5124 | |",
+            "location": "row:28,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5624",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2002 | 148 | 7125 | 144 | 3174 | 5624 | |",
+            "location": "row:29,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "5650",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "2003 | 153 | 7241 | 151 | 3341 | 5650 | |",
+            "location": "row:30,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "Employed Persons",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Institutions | Employed Persons | Institutions | Beds | Employed Persons | |",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "Number of",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| Number of | Number of | Number of | Number of | Number of | |",
+            "location": "row:8,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "人 员 数",
+          "raw_key": "col_6",
+          "source_file": "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "Year | 机 构 数 | 人 员 数 | 机 构 数 | 床 位 数 | 人 员 数 | |",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "1",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "妇幼保健院 | Women and Children Care Agencies | 99 | 16 | 79 | 1 | 3",
+            "location": "row:11,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "203",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "3",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "320",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "44",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "62",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "7",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "First-level",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col6",
+          "value": "一级",
+          "raw_key": "col_6",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "col7",
+      "candidates": [
+        {
+          "key": "col7",
+          "value": "119",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科医院 | Specialized Hosptials | 443 | 61 | 201 | 62 | 119",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "146",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "综合医院 | General Hospitals | 602 | 105 | 148 | 203 | 146",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "16",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中医医院 | Hosptials Specialized in Traditional Chinese Medicine | 161 | 36 | 65 | 44 | 16",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "294",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "医院 | Hospitals | 1245 | 208 | 423 | 320 | 294",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "3",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "中西医结合医院 | Hospitals of Traditional Chinese Medicine and Western Medicine | 23 | 6 | 7 | 7 | 3",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "5",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "专科疾病防治院 | Specialized Prevention & Treatment Centers | 12 | | 4 | 3 | 5",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "Others",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "| | Total | Thrid-level | Second-level | First-level | Others",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "其他",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "项目 | Iem | 合计 | 三级 | 二级 | 一级 | 其他",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "col7",
+          "value": "（unit）",
+          "raw_key": "col_7",
+          "source_file": "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+          "source_type": "xls",
+          "evidence": {
+            "text": "单位：个 | | | | | | （unit）",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "createdate",
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.199258",
+          "raw_key": "create_date",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.199258",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "creator",
+      "candidates": [
+        {
+          "key": "creator",
+          "value": "周八",
+          "raw_key": "creator",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 周八",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "department",
+      "candidates": [
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "department",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 人力资源部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "from",
+      "candidates": [
+        {
+          "key": "from",
+          "value": "赵六@company.com",
+          "raw_key": "from",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 赵六@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "candidates": [
+        {
+          "key": "id",
+          "value": "37209",
+          "raw_key": "id",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 37209",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "priority",
+      "candidates": [
+        {
+          "key": "priority",
+          "value": "中",
+          "raw_key": "priority",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 中",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "remarks",
+      "candidates": [
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "candidates": [
+        {
+          "key": "status",
+          "value": "已审批",
+          "raw_key": "status",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 已审批",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "subject",
+      "candidates": [
+        {
+          "key": "subject",
+          "value": "费用统计",
+          "raw_key": "subject",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 费用统计",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.0",
+      "candidates": [
+        {
+          "key": "tags.0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "title",
+      "candidates": [
+        {
+          "key": "title",
+          "value": "访问记录_1057",
+          "raw_key": "title",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 访问记录_1057",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "to",
+      "candidates": [
+        {
+          "key": "to",
+          "value": "李四@company.com",
+          "raw_key": "to",
+          "source_file": "费用统计_1544.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 李四@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "type",
+      "candidates": [
+        {
+          "key": "type",
+          "value": "访问记录",
+          "raw_key": "type",
+          "source_file": "访问记录_3423.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 访问记录",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "备注",
+      "candidates": [
+        {
+          "key": "备注",
+          "value": "此申请已按规定流程准备，附件齐全",
+          "raw_key": "备注",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 此申请已按规定流程准备，附件齐全",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "所属部门",
+      "candidates": [
+        {
+          "key": "所属部门",
+          "value": "总经理办公室",
+          "raw_key": "所属部门",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "所属部门: 总经理办公室",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "申请事由",
+      "candidates": [
+        {
+          "key": "申请事由",
+          "value": "根据公司相关规定提出本申请",
+          "raw_key": "申请事由",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请事由: 根据公司相关规定提出本申请",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "申请人",
+      "candidates": [
+        {
+          "key": "申请人",
+          "value": "王军",
+          "raw_key": "申请人",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请人: 王军",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "申请日期",
+      "candidates": [
+        {
+          "key": "申请日期",
+          "value": "2026-02-10",
+          "raw_key": "申请日期",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "申请日期: 2026-02-10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期结果",
+      "candidates": [
+        {
+          "key": "预期结果",
+          "value": "待审批",
+          "raw_key": "预期结果",
+          "source_file": "备件申请_1950.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期结果: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

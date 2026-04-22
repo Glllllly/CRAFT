@@ -1,0 +1,26 @@
+{
+  "excel": "case_0040_chanpin_测试管理_测试用例__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "测试类型",
+      "value_cell": "A7:D8",
+      "value": "功能测试)"
+    },
+    {
+      "label": "严重级别",
+      "value_cell": "F7:I8",
+      "value": "严重)"
+    },
+    {
+      "label": "状态",
+      "value_cell": "A13:D14",
+      "value": "通过)"
+    },
+    {
+      "label": "修复状态",
+      "value_cell": "F13:I14",
+      "value": "待修复)"
+    }
+  ]
+}

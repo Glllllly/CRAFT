@@ -1,0 +1,176 @@
+{
+  "excel": "case_0061_houqin_仓库管理_仓库分布__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "56149"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "维修记录_3258"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "维修记录"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M9:Q9",
+      "value": "库存统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "D12:H12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M12:Q12",
+      "value": "2026-02-10T05:30:31.471813"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D15:H15",
+      "value": "李四"
+    },
+    {
+      "label": "status",
+      "value_cell": "M15:Q15",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D18:H18",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M18:Q18",
+      "value": "紧急"
+    },
+    {
+      "label": "from",
+      "value_cell": "D23:H23",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M23:Q23",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D26:H26",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "位置",
+      "value_cell": "D31:H31",
+      "value": "朝阳区工业园A区10号"
+    },
+    {
+      "label": "总面积",
+      "value_cell": "M31:Q31",
+      "value": "5000平方米"
+    },
+    {
+      "label": "温度控制范围",
+      "value_cell": "D34:H34",
+      "value": "15-25℃"
+    },
+    {
+      "label": "湿度控制范围",
+      "value_cell": "M34:Q34",
+      "value": "40-60%"
+    },
+    {
+      "label": "进仓",
+      "value_cell": "D37:H37",
+      "value": "8:00-11:30, 14:00-17:30"
+    },
+    {
+      "label": "出仓",
+      "value_cell": "M37:Q37",
+      "value": "全天开放"
+    },
+    {
+      "label": "a1",
+      "value_cell": "D42:H42",
+      "value": "纸张类 (A4纸、打印纸)"
+    },
+    {
+      "label": "a2",
+      "value_cell": "M42:Q42",
+      "value": "文具类 (笔、橡皮、订书机)"
+    },
+    {
+      "label": "a3",
+      "value_cell": "D45:H45",
+      "value": "办公家具 (椅子、桌子)"
+    },
+    {
+      "label": "a4",
+      "value_cell": "M45:Q45",
+      "value": "清洁用品"
+    },
+    {
+      "label": "b1",
+      "value_cell": "D48:H48",
+      "value": "计算机及配件"
+    },
+    {
+      "label": "b2",
+      "value_cell": "M48:Q48",
+      "value": "网络设备"
+    },
+    {
+      "label": "b3",
+      "value_cell": "D51:H51",
+      "value": "办公电器"
+    },
+    {
+      "label": "b4",
+      "value_cell": "M51:Q51",
+      "value": "电源及充电器"
+    },
+    {
+      "label": "c1",
+      "value_cell": "D54:H54",
+      "value": "硬件零部件"
+    },
+    {
+      "label": "c2",
+      "value_cell": "M54:Q54",
+      "value": "消耗品"
+    },
+    {
+      "label": "c3",
+      "value_cell": "D57:H57",
+      "value": "维修配件"
+    },
+    {
+      "label": "仓库主任",
+      "value_cell": "D62:H62",
+      "value": "刘建华"
+    },
+    {
+      "label": "仓库员(班)",
+      "value_cell": "M62:Q62",
+      "value": "王军、李红、张峰 (共6人)"
+    },
+    {
+      "label": "安全员",
+      "value_cell": "D65:H65",
+      "value": "赵敏"
+    },
+    {
+      "label": "卫生员",
+      "value_cell": "M65:Q65",
+      "value": "孙超"
+    }
+  ]
+}

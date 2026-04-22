@@ -1,0 +1,79 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "active",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "enabledfeatures.0",
+                                   "selected_value":  "feature_core",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "enabledfeatures.1",
+                                   "selected_value":  "feature_premium",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "enabledfeatures.2",
+                                   "selected_value":  "feature_analytics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "enabledfeatures.3",
+                                   "selected_value":  "feature_integration",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "regions.0",
+                                   "selected_value":  "china",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "regions.1",
+                                   "selected_value":  "asia",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "regions.2",
+                                   "selected_value":  "global",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "important",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.1",
+                                   "selected_value":  "production",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.2",
+                                   "selected_value":  "monitored",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pricing.currency",
+                                   "selected_value":  "CNY",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "sla.supporthours",
+                                   "selected_value":  "24/7",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "supportlevel",
+                                   "selected_value":  "community",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "supporthours",
+                                   "selected_value":  "24/7",
+                                   "conflict":  false
+                               }
+                           ]
+}

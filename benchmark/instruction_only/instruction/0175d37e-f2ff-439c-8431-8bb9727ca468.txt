@@ -1,0 +1,72 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Report Number",
+      "value_text": "2023-CR-102"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/25/2023"
+    },
+    {
+      "key_text": "Project Ref. Number",
+      "value_text": "PRJ-998"
+    },
+    {
+      "key_text": "Project Number",
+      "value_text": "450-88-12"
+    },
+    {
+      "key_text": "Contract Number",
+      "value_text": "DOT-CN-2023-01"
+    },
+    {
+      "key_text": "Project Engineer",
+      "value_text": "Michael Henderson"
+    },
+    {
+      "key_text": "Contractor",
+      "value_text": "Apex Paving & Concrete"
+    },
+    {
+      "key_text": "Region",
+      "value_text": "District 4"
+    },
+    {
+      "key_text": "County",
+      "value_text": "Montgomery"
+    },
+    {
+      "key_text": "Route",
+      "value_text": "Highway 50"
+    },
+    {
+      "key_text": "Test Date",
+      "value_text": "10/24/2023"
+    },
+    {
+      "key_text": "Weather / Temp.",
+      "value_text": "Partly Cloudy / 68°F"
+    },
+    {
+      "key_text": "Test Number",
+      "value_text": "TN-45-B"
+    },
+    {
+      "key_text": "Leave This Blank",
+      "value_text": null
+    },
+    {
+      "key_text": "Standard Spec.",
+      "value_text": "Section 501 - Concrete Pavement"
+    },
+    {
+      "key_text": "Equip. Calib. Date",
+      "value_text": "06/15/2023"
+    }
+  ]
+}
+
+Narrative:
+This Project Information Sheet for concrete ramps, dated October 25, 2023, pertains to report number 2023-CR-102. The project, identified by reference number PRJ-998 and project number 450-88-12, is being managed under contract DOT-CN-2023-01. Michael Henderson is the project engineer overseeing the work by Apex Paving & Concrete. Located in Montgomery County within District 4, the project site is on Highway 50. Testing (test number TN-45-B) was conducted on October 24, 2023, under partly cloudy skies with a temperature of 68°F. The work adheres to standard specification Section 501 for Concrete Pavement, and the equipment used was last calibrated on June 15, 2023. As instructed, the field for "Leave This Blank" remains empty.

@@ -1,0 +1,141 @@
+﻿{
+    "excel":  "ea16931af6064757aaa34f6c32072c28.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Street Address:",
+                      "value_cell":  "H5",
+                      "value":  "123 Industrial Way"
+                  },
+                  {
+                      "label":  "City, State, ZIP:",
+                      "value_cell":  "H6",
+                      "value":  "Austin, TX 78701"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "H7",
+                      "value":  "(512) 555-0198"
+                  },
+                  {
+                      "label":  "E-mail:",
+                      "value_cell":  "H8",
+                      "value":  "contact@skenterprise.com"
+                  },
+                  {
+                      "label":  "INVOICE",
+                      "value_cell":  "N6",
+                      "value":  "INV-2023-001"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "N8",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Invoice Form:",
+                      "value_cell":  "H10",
+                      "value":  "SK Enterprise"
+                  },
+                  {
+                      "label":  "Invoice To:",
+                      "value_cell":  "N10",
+                      "value":  "Global Tech Solutions"
+                  },
+                  {
+                      "label":  "Company Name:",
+                      "value_cell":  "H12",
+                      "value":  "SK Enterprise"
+                  },
+                  {
+                      "label":  "Company Name:",
+                      "value_cell":  "N12",
+                      "value":  "Global Tech Solutions"
+                  },
+                  {
+                      "label":  "Street Address:",
+                      "value_cell":  "H13",
+                      "value":  "123 Industrial Way"
+                  },
+                  {
+                      "label":  "Street Address:",
+                      "value_cell":  "N13",
+                      "value":  "456 Innovation Blvd"
+                  },
+                  {
+                      "label":  "City, State, ZIP:",
+                      "value_cell":  "H14",
+                      "value":  "Austin, TX 78701"
+                  },
+                  {
+                      "label":  "City, State, ZIP:",
+                      "value_cell":  "N14",
+                      "value":  "San Francisco, CA 94105"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "H15",
+                      "value":  "(512) 555-0198"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "N15",
+                      "value":  "(415) 555-7722"
+                  },
+                  {
+                      "label":  "E-mail:",
+                      "value_cell":  "H16",
+                      "value":  "contact@skenterprise.com"
+                  },
+                  {
+                      "label":  "E-mail:",
+                      "value_cell":  "N16",
+                      "value":  "billing@globaltech.com"
+                  },
+                  {
+                      "label":  "Total Invoice",
+                      "value_cell":  "F19",
+                      "value":  "1180.00"
+                  },
+                  {
+                      "label":  "Net Total:",
+                      "value_cell":  "O34",
+                      "value":  "1000.00"
+                  },
+                  {
+                      "label":  "Cach Amount:",
+                      "value_cell":  "H36",
+                      "value":  null
+                  },
+                  {
+                      "label":  "TAX(12%):",
+                      "value_cell":  "O36",
+                      "value":  "120.00"
+                  },
+                  {
+                      "label":  "Chque No:",
+                      "value_cell":  "H37",
+                      "value":  "CHK-998877"
+                  },
+                  {
+                      "label":  "VAT TAX(6%):",
+                      "value_cell":  "O38",
+                      "value":  "60.00"
+                  },
+                  {
+                      "label":  "GRAND TOTAL",
+                      "value_cell":  "O40",
+                      "value":  "1180.00"
+                  },
+                  {
+                      "label":  "Terms \u0026 Condition:",
+                      "value_cell":  "I42",
+                      "value":  "Payment has to be done in 10 days"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "L44",
+                      "value":  "Authorized Signatory"
+                  }
+              ]
+}

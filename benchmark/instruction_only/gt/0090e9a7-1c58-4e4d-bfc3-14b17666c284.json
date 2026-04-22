@@ -1,0 +1,196 @@
+﻿{
+    "excel":  "0090e9a7-1c58-4e4d-bfc3-14b17666c284.xlsx",
+    "sheet":  "Application",
+    "pairs":  [
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "C10:D10",
+                      "value":  "Jonathan"
+                  },
+                  {
+                      "label":  "Middle Initial",
+                      "value_cell":  "E10",
+                      "value":  "A"
+                  },
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "F10:H10",
+                      "value":  "Miller"
+                  },
+                  {
+                      "label":  "Work Phone Number",
+                      "value_cell":  "K10:L10",
+                      "value":  "(509) 527-5555"
+                  },
+                  {
+                      "label":  "Whitman e-mail address",
+                      "value_cell":  "C13",
+                      "value":  "milleja@whitman.edu"
+                  },
+                  {
+                      "label":  "Mother\u0027s maiden name (for security purposes)",
+                      "value_cell":  "I13",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "Cardholder\u0027s Department Name",
+                      "value_cell":  "C16",
+                      "value":  "Biology Department"
+                  },
+                  {
+                      "label":  "Job Title or Position",
+                      "value_cell":  "I16",
+                      "value":  "Laboratory Manager"
+                  },
+                  {
+                      "label":  "Travel Only",
+                      "value_cell":  "F19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Purchase Only",
+                      "value_cell":  "H19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Travel \u0026 Purchase",
+                      "value_cell":  "K19",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "G21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "H21",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Custodian First \u0026 Last Name",
+                      "value_cell":  "C24",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Card Custodian Phone Number",
+                      "value_cell":  "C27",
+                      "value":  "(509) 527-4321"
+                  },
+                  {
+                      "label":  "Custodian E-mail Address",
+                      "value_cell":  "I27",
+                      "value":  "jenkinss@whitman.edu"
+                  },
+                  {
+                      "label":  "Statement Street Address",
+                      "value_cell":  "C30",
+                      "value":  "345 Boyer Avenue"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "G30",
+                      "value":  "Walla Walla"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "J30",
+                      "value":  "WA"
+                  },
+                  {
+                      "label":  "Zip",
+                      "value_cell":  "K30",
+                      "value":  "99362"
+                  },
+                  {
+                      "label":  "Department or Budget Name",
+                      "value_cell":  "C33",
+                      "value":  "Biology Lab Operations"
+                  },
+                  {
+                      "label":  "Department or Budget Code including dashes",
+                      "value_cell":  "I33",
+                      "value":  "BIO-105-44"
+                  },
+                  {
+                      "label":  "Requested Monthly Limit",
+                      "value_cell":  "C36",
+                      "value":  "5000"
+                  },
+                  {
+                      "label":  "Requested Single Trans Limit",
+                      "value_cell":  "G36",
+                      "value":  "2000"
+                  },
+                  {
+                      "label":  "Requested Daily # Limit",
+                      "value_cell":  "K36",
+                      "value":  "5"
+                  },
+                  {
+                      "label":  "Special vendor types or other information",
+                      "value_cell":  "C39",
+                      "value":  "Scientific equipment and lab supply vendors"
+                  },
+                  {
+                      "label":  "Birth Date",
+                      "value_cell":  "C42",
+                      "value":  "05/12/1985"
+                  },
+                  {
+                      "label":  "Last 4 digits of office phone no.",
+                      "value_cell":  "F42",
+                      "value":  "5555"
+                  },
+                  {
+                      "label":  "Home Street Address",
+                      "value_cell":  "C45",
+                      "value":  "123 Maple Street"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "G45",
+                      "value":  "Walla Walla"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "J45",
+                      "value":  "WA"
+                  },
+                  {
+                      "label":  "Zip",
+                      "value_cell":  "K45",
+                      "value":  "99362"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "C48",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Country of Citizenship",
+                      "value_cell":  "I48",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Signature of Employee/Cardholder and Date",
+                      "value_cell":  "C52:F52",
+                      "value":  "Jonathan A. Miller, 10/24/2023"
+                  },
+                  {
+                      "label":  "Signature of Budget Officer / Date",
+                      "value_cell":  "I52:L52",
+                      "value":  "Dr. Susan Thorne, 10/25/2023"
+                  },
+                  {
+                      "label":  "Hierachy Level/Hierarchy ID",
+                      "value_cell":  "C61:F61",
+                      "value":  "Level 2 / 998234"
+                  },
+                  {
+                      "label":  "Program Administrator Signature/Date",
+                      "value_cell":  "H61:L61",
+                      "value":  "Admin Office, 10/26/2023"
+                  }
+              ]
+}

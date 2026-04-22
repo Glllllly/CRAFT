@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "01eccefb-8fbe-4f66-9450-c37e26ac28bd.xlsx",
+    "sheet":  "Munka1",
+    "pairs":  [
+                  {
+                      "label":  "Az iskola neve:",
+                      "value_cell":  "B7:I7",
+                      "value":  "Budapest V. Ker眉leti E枚tv枚s J贸zsef Gimn谩zium"
+                  },
+                  {
+                      "label":  "C铆me:",
+                      "value_cell":  "B8:I8",
+                      "value":  "1053 Budapest, Re谩ltanoda u. 7."
+                  },
+                  {
+                      "label":  "Telefonsz谩ma:",
+                      "value_cell":  "B9:E9",
+                      "value":  "+36 1 317 3133"
+                  },
+                  {
+                      "label":  "Faxsz谩ma:",
+                      "value_cell":  "H9:I9",
+                      "value":  "+36 1 317 3133"
+                  },
+                  {
+                      "label":  "A benevezett oszt谩ly sz谩ma 茅s bet疟jele, vagy a szakk枚r/csoport megnevez茅se:",
+                      "value_cell":  "E10:I10",
+                      "value":  "10.B oszt谩ly"
+                  },
+                  {
+                      "label":  "L茅tsz谩ma:",
+                      "value_cell":  "B11:I11",
+                      "value":  "28 f艖"
+                  },
+                  {
+                      "label":  "A munk谩t ir谩ny铆t贸 tan谩r neve:",
+                      "value_cell":  "D13:I13",
+                      "value":  "Dr. Kov谩cs Istv谩n"
+                  },
+                  {
+                      "label":  "E-mail c铆me:",
+                      "value_cell":  "B14:I14",
+                      "value":  "kovacs.istvan@eotvos-gimn.hu"
+                  },
+                  {
+                      "label":  "Telefonsz谩ma (otthoni vagy mobil):",
+                      "value_cell":  "E15:I15",
+                      "value":  "+36 30 123 4567"
+                  },
+                  {
+                      "label":  "Honnan 茅rtes眉ltek a p谩ly谩zatunkr贸l?",
+                      "value_cell":  "E16:I16",
+                      "value":  "Az iskola hirdet艖t谩bl谩j谩r贸l."
+                  },
+                  {
+                      "label":  "D谩tum:",
+                      "value_cell":  "B19:E19",
+                      "value":  "2023. okt贸ber 12."
+                  },
+                  {
+                      "label":  "Al谩铆r谩s:",
+                      "value_cell":  "G19:I19",
+                      "value":  "Kov谩cs Istv谩n"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0282_yunyin_partnership",
+    "tenant":  "yunyin",
+    "topic":  "partnership",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\partnership",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\partnership\\partner_agreement_31.md",
+                      "copied_name":  "partner_agreement_31.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1636
+                  },
+                  {
+                      "source_rel":  "yunyin\\partnership\\partner_agreement_22.md",
+                      "copied_name":  "partner_agreement_22.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1635
+                  },
+                  {
+                      "source_rel":  "yunyin\\partnership\\partner_agreement_32.md",
+                      "copied_name":  "partner_agreement_32.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1635
+                  },
+                  {
+                      "source_rel":  "yunyin\\partnership\\partner_agreement_26.md",
+                      "copied_name":  "partner_agreement_26.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1635
+                  },
+                  {
+                      "source_rel":  "yunyin\\partnership\\partner_agreement_28.md",
+                      "copied_name":  "partner_agreement_28.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1635
+                  }
+              ]
+}

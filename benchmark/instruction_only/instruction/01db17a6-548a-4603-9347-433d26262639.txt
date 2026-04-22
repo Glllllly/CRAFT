@@ -1,0 +1,64 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Tentative project name",
+      "value_text": "North Star Commons"
+    },
+    {
+      "key_text": "Project sponsor",
+      "value_text": "Portland Housing Development Corp."
+    },
+    {
+      "key_text": "Project address or location",
+      "value_text": "1234 NE Glisan St, Portland, OR 97232"
+    },
+    {
+      "key_text": "River District TIF (Y/N)",
+      "value_text": "N"
+    },
+    {
+      "key_text": "River District TIF ($)",
+      "value_text": null
+    },
+    {
+      "key_text": "Oregon Convention Center TIF (Y/N)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Oregon Convention Center TIF ($)",
+      "value_text": "$1,500,000"
+    },
+    {
+      "key_text": "HOME (Y/N)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "HOME ($)",
+      "value_text": "$500,000"
+    },
+    {
+      "key_text": "\"King Crusher\" site (Y/N)",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Will there be a request for 9% Low Income Housing Tax Credits for the project (Y/N)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Approximate total project cost",
+      "value_text": "$12,500,000"
+    },
+    {
+      "key_text": "Forecast total # of units",
+      "value_text": "65"
+    },
+    {
+      "key_text": "One/two sentence/phrase project description",
+      "value_text": "A mixed-income residential development providing 65 units of affordable housing for families and seniors in the Lloyd District."
+    }
+  ]
+}
+
+Narrative:
+The 2012 NOFA project information form for "North Star Commons" has been completed by the project sponsor, Portland Housing Development Corp. The project is proposed for the location at 1234 NE Glisan St, Portland, OR 97232. Regarding PHB funding sources, the request includes $1,500,000 from the Oregon Convention Center TIF and $500,000 from HOME funds. No funding is being requested from the River District TIF or the "King Crusher" site. The project will also seek 9% Low Income Housing Tax Credits. The approximate total project cost is estimated at $12,500,000, which will result in a forecast total of 65 units. The project is described as a mixed-income residential development providing 65 units of affordable housing for families and seniors in the Lloyd District.

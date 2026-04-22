@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "form_11_vehicle_usage_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Driver Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Marcus J. Thorne"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "I7:P7",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A9:H9",
+                      "value":  "Logistics \u0026 Distribution"
+                  },
+                  {
+                      "label":  "Contact Phone",
+                      "value_cell":  "I9:P9",
+                      "value":  "555-0192"
+                  },
+                  {
+                      "label":  "Driver\u0027s License No.",
+                      "value_cell":  "A11:H11",
+                      "value":  "DL-99384720"
+                  },
+                  {
+                      "label":  "License Expiry Date",
+                      "value_cell":  "I11:P11",
+                      "value":  "2027-11-15"
+                  },
+                  {
+                      "label":  "Purpose of Trip",
+                      "value_cell":  "A15:P15",
+                      "value":  "Client site inspection and equipment delivery"
+                  },
+                  {
+                      "label":  "Destination",
+                      "value_cell":  "A17:P17",
+                      "value":  "North Regional Warehouse, Sector 4"
+                  },
+                  {
+                      "label":  "Departure Date \u0026 Time",
+                      "value_cell":  "A19:H19",
+                      "value":  "2023-10-24 08:00 AM"
+                  },
+                  {
+                      "label":  "Expected Return Date \u0026 Time",
+                      "value_cell":  "I19:P19",
+                      "value":  "2023-10-24 05:30 PM"
+                  },
+                  {
+                      "label":  "Vehicle Requested  (Plate / Type)",
+                      "value_cell":  "A21:H21",
+                      "value":  "TRK-402 / Ford Transit"
+                  },
+                  {
+                      "label":  "Estimated Distance  (km)",
+                      "value_cell":  "I21:P21",
+                      "value":  "145"
+                  },
+                  {
+                      "label":  "Passengers (if any)",
+                      "value_cell":  "A23:H23",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Fuel Card Required  Y / N",
+                      "value_cell":  "I23:P23",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A29:J29",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M29:P29",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Fleet / Facilities Manager",
+                      "value_cell":  "A31:J31",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M31:P31",
+                      "value":  "2023-10-21"
+                  }
+              ]
+}

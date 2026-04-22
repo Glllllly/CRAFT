@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "invoice-template.xlsx",
+    "sheet":  "Invoice",
+    "pairs":  [
+                  {
+                      "label":  "INVOICE #",
+                      "value_cell":  "H7",
+                      "value":  "INV-2023-001"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "H9",
+                      "value":  "October 24, 2023"
+                  },
+                  {
+                      "label":  "Your name",
+                      "value_cell":  "D12",
+                      "value":  "TechGear Solutions"
+                  },
+                  {
+                      "label":  "Address",
+                      "value_cell":  "D13",
+                      "value":  "123 Innovation Drive, Silicon Valley, CA 94025"
+                  },
+                  {
+                      "label":  "Email Address",
+                      "value_cell":  "D14",
+                      "value":  "billing@techgearsolutions.com"
+                  },
+                  {
+                      "label":  "Phone number",
+                      "value_cell":  "D15",
+                      "value":  "(555) 012-3456"
+                  },
+                  {
+                      "label":  "Receivers Name",
+                      "value_cell":  "J12",
+                      "value":  "Global Manufacturing Corp"
+                  },
+                  {
+                      "label":  "Address",
+                      "value_cell":  "J13",
+                      "value":  "88 Industrial Way, Austin, TX 78701"
+                  },
+                  {
+                      "label":  "Email Address",
+                      "value_cell":  "J14",
+                      "value":  "procurement@globalmfg.com"
+                  },
+                  {
+                      "label":  "Phone number",
+                      "value_cell":  "J15",
+                      "value":  "(512) 987-6543"
+                  },
+                  {
+                      "label":  "Payment Instructions",
+                      "value_cell":  "C36",
+                      "value":  "Please remit payment via bank transfer to account 123456789 within 30 days of invoice date."
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "C39",
+                      "value":  "Alex Rivers"
+                  }
+              ]
+}

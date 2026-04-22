@@ -1,0 +1,151 @@
+﻿{
+    "excel":  "9.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "瀛︾敓濮撳悕",
+                      "value_cell":  "C2",
+                      "value":  "寮犲皬鏄?"
+                  },
+                  {
+                      "label":  "鎬у埆",
+                      "value_cell":  "E2",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "鍑虹敓骞存湀",
+                      "value_cell":  "G2",
+                      "value":  "2012骞?5鏈?"
+                  },
+                  {
+                      "label":  "姘戞棌",
+                      "value_cell":  "I2",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "浣忔牎鍚?",
+                      "value_cell":  "K2",
+                      "value":  "鏄?"
+                  },
+                  {
+                      "label":  "骞寸骇",
+                      "value_cell":  "M2",
+                      "value":  "鍏勾绾?"
+                  },
+                  {
+                      "label":  "瀹堕暱濮撳悕",
+                      "value_cell":  "C3",
+                      "value":  "寮犲ぇ灞?"
+                  },
+                  {
+                      "label":  "骞撮緞",
+                      "value_cell":  "E3",
+                      "value":  "42"
+                  },
+                  {
+                      "label":  "鑱屼笟",
+                      "value_cell":  "G3",
+                      "value":  "鍔″啘"
+                  },
+                  {
+                      "label":  "瀹跺涵鍦板潃",
+                      "value_cell":  "I3:M3",
+                      "value":  "绾㈡槦鏉戜笁缁?2鍙?"
+                  },
+                  {
+                      "label":  "鑱旂郴鐢佃瘽",
+                      "value_cell":  "I4:M4",
+                      "value":  "13800138000"
+                  },
+                  {
+                      "label":  "璐洶绫诲埆 A",
+                      "value_cell":  "I6:M6",
+                      "value":  "寤烘。绔嬪崱璐洶鎴?"
+                  },
+                  {
+                      "label":  "璐洶绫诲埆 B",
+                      "value_cell":  "I7:M7",
+                      "value":  null
+                  },
+                  {
+                      "label":  "璐洶绫诲埆 C",
+                      "value_cell":  "I8:M8",
+                      "value":  null
+                  },
+                  {
+                      "label":  "璐洶绫诲埆 D",
+                      "value_cell":  "I9:M9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "鏉戝浼氭垨绀惧尯瀹℃牳鎰忚    锛堢洊绔狅級",
+                      "value_cell":  "C10:G10",
+                      "value":  "鎯呭喌灞炲疄锛屽悓鎰忕敵璇枫€?"
+                  },
+                  {
+                      "label":  "瀹℃牳浜猴細",
+                      "value_cell":  "D11:G11",
+                      "value":  "鏉庢潙闀?"
+                  },
+                  {
+                      "label":  "鏃ユ湡锛?",
+                      "value_cell":  "D12:G12",
+                      "value":  "2023骞?9鏈?0鏃?"
+                  },
+                  {
+                      "label":  "涔℃皯鏀垮姙瀹℃牳鎰忚锛堢洊绔狅級",
+                      "value_cell":  "I10:M10",
+                      "value":  "瀹℃牳閫氳繃銆?"
+                  },
+                  {
+                      "label":  "瀹℃牳浜猴細",
+                      "value_cell":  "J11:M11",
+                      "value":  "鐜嬫皯鏀?"
+                  },
+                  {
+                      "label":  "鏃ユ湡锛?",
+                      "value_cell":  "J12:M12",
+                      "value":  "2023骞?9鏈?2鏃?"
+                  },
+                  {
+                      "label":  "鏉戝浼氭垨绀惧尯瀹℃牳鎰忚    锛堢洊绔狅級",
+                      "value_cell":  "C13:G13",
+                      "value":  "宸插叕绀烘棤寮傝銆?"
+                  },
+                  {
+                      "label":  "瀹℃牳浜猴細",
+                      "value_cell":  "D14:G14",
+                      "value":  "璧电涔?"
+                  },
+                  {
+                      "label":  "鏃ユ湡锛?",
+                      "value_cell":  "D14:G14",
+                      "value":  "2023骞?9鏈?5鏃?"
+                  },
+                  {
+                      "label":  "鏉戝浼氭垨绀惧尯瀹℃牳鎰忚    锛堢洊绔狅級",
+                      "value_cell":  "I14:M14",
+                      "value":  "澶嶆牳鍚堟牸銆?"
+                  },
+                  {
+                      "label":  "瀹℃牳浜猴細",
+                      "value_cell":  "J15:L15",
+                      "value":  "瀛欎富浠?"
+                  },
+                  {
+                      "label":  "鏃ユ湡锛?",
+                      "value_cell":  "J16:L16",
+                      "value":  "2023骞?9鏈?8鏃?"
+                  },
+                  {
+                      "label":  "鍘库€滃姪瀛︽暀鑲插埜鈥濋瀵煎皬缁勬剰瑙?",
+                      "value_cell":  "C16:M16",
+                      "value":  "鍚屾剰鍙戞斁鍔╁鏁欒偛鍒搞€?"
+                  },
+                  {
+                      "label":  "鐢宠浜猴紙璐洶瀛︾敓鐩戞姢浜猴級绛惧悕锛?",
+                      "value_cell":  "E18:H18",
+                      "value":  "寮犲ぇ灞?"
+                  }
+              ]
+}

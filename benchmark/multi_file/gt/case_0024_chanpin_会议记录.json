@@ -1,0 +1,106 @@
+{
+  "excel": "case_0024_chanpin_会议记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "#step1",
+      "value_cell": "A7:D8",
+      "value": "行业场景选择"
+    },
+    {
+      "label": "#step2",
+      "value_cell": "F7:I8",
+      "value": "Base表格评判"
+    },
+    {
+      "label": "主持人a",
+      "value_cell": "A13:D14",
+      "value": "思路清晰、逻辑强，擅长从宏观角度看待项目。"
+    },
+    {
+      "label": "主持人b",
+      "value_cell": "F13:I14",
+      "value": "细节控，擅长技术拆解与举例说明，语气更轻松。"
+    },
+    {
+      "label": "存储治理",
+      "value_cell": "A19:D20",
+      "value": "旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。"
+    },
+    {
+      "label": "容灾优化",
+      "value_cell": "F19:I20",
+      "value": "待启动。"
+    },
+    {
+      "label": "监控看板",
+      "value_cell": "K19:N20",
+      "value": "部分已完成，部分开发中。"
+    },
+    {
+      "label": "模型参数测试",
+      "value_cell": "A25:D26",
+      "value": "验证大语言模型工具调用参数上限"
+    },
+    {
+      "label": "内部文档搜索工具",
+      "value_cell": "F25:I26",
+      "value": "根据查询词检索内部知识库文档"
+    },
+    {
+      "label": "客户详情获取工具",
+      "value_cell": "K25:N26",
+      "value": "通过客户标识查询完整客户信息"
+    },
+    {
+      "label": "探索表格查询能力",
+      "value_cell": "A29:D30",
+      "value": "单表查询上限、多表关联、数据分析"
+    },
+    {
+      "label": "文档格式转换工具",
+      "value_cell": "F29:I30",
+      "value": "将特定格式内容转换为内部协作文档格式"
+    },
+    {
+      "label": "赢单客户筛选工具",
+      "value_cell": "K29:N30",
+      "value": "多条件过滤赢单客户信息"
+    },
+    {
+      "label": "全客户信息搜索工具",
+      "value_cell": "A33:D34",
+      "value": "结合多条件筛选客户数据"
+    },
+    {
+      "label": "客户基础信息查询工具",
+      "value_cell": "F33:I34",
+      "value": "检索客户基础资料"
+    },
+    {
+      "label": "客户跟进记录查询工具",
+      "value_cell": "K33:N34",
+      "value": "根据关键词、客户标识等条件获取跟进数据"
+    },
+    {
+      "label": "赢单客户信息查询工具",
+      "value_cell": "A37:D38",
+      "value": "根据查询词获取赢单客户相关数据"
+    },
+    {
+      "label": "互联网公开信息搜索工具",
+      "value_cell": "F37:I38",
+      "value": "通过多关键词检索公开网络信息"
+    },
+    {
+      "label": "计划支持方式",
+      "value_cell": "A43:D44",
+      "value": "在prompt中增加上下文信息以丰富报告分析维度"
+    },
+    {
+      "label": "复杂格式数据处理需额外工程适配",
+      "value_cell": "F43:I44",
+      "value": "多步任务中间结果需缓存"
+    }
+  ]
+}

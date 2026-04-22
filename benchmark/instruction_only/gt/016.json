@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "016.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Product Owner / Champion Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Department / Business Unit",
+                      "value_cell":  "M12:X12",
+                      "value":  "Digital Transformation"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "A14:L14",
+                      "value":  "e.rodriguez@company.com"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "M14:X14",
+                      "value":  "555-0128"
+                  },
+                  {
+                      "label":  "Submission Date",
+                      "value_cell":  "A16:L16",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Target Launch Date",
+                      "value_cell":  "M16:X16",
+                      "value":  "2024-03-01"
+                  },
+                  {
+                      "label":  "Product / Service Name",
+                      "value_cell":  "A21:X21",
+                      "value":  "EcoTrack AI Analytics Suite"
+                  },
+                  {
+                      "label":  "One-Sentence Description (elevator pitch)",
+                      "value_cell":  "A23:X23",
+                      "value":  "An AI-powered dashboard that optimizes industrial energy consumption in real-time to reduce carbon footprints."
+                  },
+                  {
+                      "label":  "Problem Being Solved / Opportunity Addressed",
+                      "value_cell":  "A26:X26; A27:X27",
+                      "value":  "Manufacturing firms struggle with rising energy costs and lack granular data to meet new ESG reporting requirements."
+                  },
+                  {
+                      "label":  "Proposed Solution / Description of Product or Service",
+                      "value_cell":  "A29:X29; A30:X30",
+                      "value":  "A SaaS platform integrating with existing IoT sensors to provide predictive analytics and automated energy-saving recommendations."
+                  },
+                  {
+                      "label":  "Target Customer Segment",
+                      "value_cell":  "A35:L35",
+                      "value":  "Mid-to-large scale manufacturing plants"
+                  },
+                  {
+                      "label":  "Estimated Total Addressable Market $",
+                      "value_cell":  "M35:X35",
+                      "value":  "450,000,000"
+                  },
+                  {
+                      "label":  "Key Customer Pain Point",
+                      "value_cell":  "A37:L37",
+                      "value":  "High operational overhead due to energy waste"
+                  },
+                  {
+                      "label":  "Evidence / Research Basis",
+                      "value_cell":  "M37:X37",
+                      "value":  "Internal survey of 50 existing clients showing 30% interest in automated sustainability tools."
+                  },
+                  {
+                      "label":  "Key Competitors / Alternatives",
+                      "value_cell":  "A39:X39",
+                      "value":  "EnergyGrid Solutions, Manual audit firms, and legacy building management systems."
+                  },
+                  {
+                      "label":  "Unique Differentiator / Value Proposition",
+                      "value_cell":  "A41:X41",
+                      "value":  "Real-time AI predictive modeling that functions without requiring complete hardware infrastructure overhauls."
+                  },
+                  {
+                      "label":  "Projected Year 1 Revenue  $",
+                      "value_cell":  "A46:L46",
+                      "value":  "1,200,000"
+                  },
+                  {
+                      "label":  "Projected Year 2 Revenue  $",
+                      "value_cell":  "M46:X46",
+                      "value":  "3,500,000"
+                  },
+                  {
+                      "label":  "Development Cost Estimate  $",
+                      "value_cell":  "A48:L48",
+                      "value":  "750,000"
+                  },
+                  {
+                      "label":  "Time to Recover Investment  (months)",
+                      "value_cell":  "M48:X48",
+                      "value":  "18"
+                  },
+                  {
+                      "label":  "Resource Requirements  (headcount / tech / budget)",
+                      "value_cell":  "A50:L50",
+                      "value":  "4 Full-stack devs, 2 Data Scientists, $200k cloud compute budget"
+                  },
+                  {
+                      "label":  "Risk Level  (Low / Med / High)",
+                      "value_cell":  "M50:X50",
+                      "value":  "Med"
+                  },
+                  {
+                      "label":  "Development Complexity  (Low / Med / High)",
+                      "value_cell":  "A55:L55",
+                      "value":  "High"
+                  },
+                  {
+                      "label":  "Regulatory / Compliance Requirements",
+                      "value_cell":  "M55:X55",
+                      "value":  "GDPR, ISO 50001 energy management standards"
+                  },
+                  {
+                      "label":  "Product Owner",
+                      "value_cell":  "A63:L63",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N63:X63",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Head of Product",
+                      "value_cell":  "A66:L66",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N66:X66",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "CFO  (if capex \u003e $100k)",
+                      "value_cell":  "A69:L69",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N69:X69",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "CEO / Board",
+                      "value_cell":  "A72:L72",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N72:X72",
+                      "value":  "2023-10-20"
+                  }
+              ]
+}

@@ -1,0 +1,61 @@
+{
+  "tracking_id": "KPI_TRACK_${i}",
+  "month": "February 2024",
+  "department": "Operations",
+  "kpi_metrics": {
+    "revenue": {
+      "target": 1000000,
+      "actual": 950000,
+      "percentage": 95,
+      "status": "Slightly Below Target",
+      "trend": "downward"
+    },
+    "customer_acquisition": {
+      "target": 500,
+      "actual": 480,
+      "percentage": 96,
+      "status": "On Track",
+      "trend": "stable"
+    },
+    "customer_retention": {
+      "target": 95,
+      "actual": 93,
+      "percentage": 98,
+      "status": "Acceptable",
+      "trend": "downward"
+    },
+    "marketing_roi": {
+      "target": 3.0,
+      "actual": 2.8,
+      "percentage": 93,
+      "status": "Below Target",
+      "trend": "declining"
+    },
+    "brand_awareness": {
+      "target": 70,
+      "actual": 65,
+      "percentage": 93,
+      "status": "Below Target",
+      "trend": "stable"
+    },
+    "customer_satisfaction": {
+      "target": 85,
+      "actual": 82,
+      "percentage": 96,
+      "status": "Acceptable",
+      "trend": "stable"
+    }
+  },
+  "insights": [
+    "Revenue slightly below target due to seasonal variation",
+    "Customer retention declining - need to increase engagement",
+    "Marketing ROI declining - review channel performance",
+    "Brand awareness needs improvement - increase campaign spend"
+  ],
+  "action_items": [
+    "Schedule performance review meeting",
+    "Develop retention improvement plan",
+    "Analyze underperforming marketing channels",
+    "Plan brand awareness campaign"
+  ]
+}

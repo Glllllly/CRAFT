@@ -1,0 +1,46 @@
+{
+  "excel": "case_0293_yunyin_training__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "trainingmodule",
+      "value_cell": "A6:D7",
+      "value": "Marketing Operations Best Practices"
+    },
+    {
+      "label": "format",
+      "value_cell": "F6:I7",
+      "value": "Online interactive course"
+    },
+    {
+      "label": "duration",
+      "value_cell": "K6:N7",
+      "value": "4 hours"
+    },
+    {
+      "label": "lesson1",
+      "value_cell": "A12:D13",
+      "value": "Fundamentals (60 min)"
+    },
+    {
+      "label": "lesson2",
+      "value_cell": "F12:I13",
+      "value": "Process Design (60 min)"
+    },
+    {
+      "label": "lesson3",
+      "value_cell": "K12:N13",
+      "value": "Tools and Technology (60 min)"
+    },
+    {
+      "label": "lesson4",
+      "value_cell": "P12:S13",
+      "value": "Practical Application (60 min)"
+    },
+    {
+      "label": "assessment",
+      "value_cell": "A18:D19",
+      "value": "Quiz and case study"
+    }
+  ]
+}

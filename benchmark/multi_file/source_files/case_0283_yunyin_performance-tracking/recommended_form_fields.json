@@ -1,0 +1,199 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "department",
+                                   "selected_value":  "Operations",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "actionitems.0",
+                                   "selected_value":  "Schedule performance review meeting",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "actionitems.1",
+                                   "selected_value":  "Develop retention improvement plan",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "actionitems.2",
+                                   "selected_value":  "Analyze underperforming marketing channels",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "actionitems.3",
+                                   "selected_value":  "Plan brand awareness campaign",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "insights.0",
+                                   "selected_value":  "Revenue slightly below target due to seasonal variation",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "insights.1",
+                                   "selected_value":  "Customer retention declining - need to increase engagement",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "insights.2",
+                                   "selected_value":  "Marketing ROI declining - review channel performance",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "insights.3",
+                                   "selected_value":  "Brand awareness needs improvement - increase campaign spend",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.brandawareness.trend",
+                                   "selected_value":  "stable",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customeracquisition.trend",
+                                   "selected_value":  "stable",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customerretention.trend",
+                                   "selected_value":  "downward",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customersatisfaction.trend",
+                                   "selected_value":  "stable",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.marketingroi.trend",
+                                   "selected_value":  "declining",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.revenue.trend",
+                                   "selected_value":  "downward",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.brandawareness.actual",
+                                   "selected_value":  "65",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.brandawareness.status",
+                                   "selected_value":  "Below Target",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.brandawareness.target",
+                                   "selected_value":  "70",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customeracquisition.actual",
+                                   "selected_value":  "480",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customeracquisition.status",
+                                   "selected_value":  "On Track",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customeracquisition.target",
+                                   "selected_value":  "500",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customerretention.actual",
+                                   "selected_value":  "93",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customerretention.status",
+                                   "selected_value":  "Acceptable",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customerretention.target",
+                                   "selected_value":  "95",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customersatisfaction.actual",
+                                   "selected_value":  "82",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customersatisfaction.status",
+                                   "selected_value":  "Acceptable",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customersatisfaction.target",
+                                   "selected_value":  "85",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.marketingroi.actual",
+                                   "selected_value":  "2.8",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.marketingroi.status",
+                                   "selected_value":  "Below Target",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.marketingroi.target",
+                                   "selected_value":  "3.0",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.revenue.actual",
+                                   "selected_value":  "950000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.revenue.status",
+                                   "selected_value":  "Slightly Below Target",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.revenue.target",
+                                   "selected_value":  "1000000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.brandawareness.percentage",
+                                   "selected_value":  "93",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customeracquisition.percentage",
+                                   "selected_value":  "96",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customerretention.percentage",
+                                   "selected_value":  "98",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.customersatisfaction.percentage",
+                                   "selected_value":  "96",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.marketingroi.percentage",
+                                   "selected_value":  "93",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "kpimetrics.revenue.percentage",
+                                   "selected_value":  "95",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,196 @@
+﻿{
+    "excel":  "form_12_contract_routing.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Submitted By 鈥?Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department / Unit",
+                      "value_cell":  "M9:X9",
+                      "value":  "Marketing Operations"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A11:H11",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I11:R11",
+                      "value":  "s.jenkins@org.com"
+                  },
+                  {
+                      "label":  "Submission Date",
+                      "value_cell":  "S11:X11",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Contract / Agreement Title",
+                      "value_cell":  "A16:X16",
+                      "value":  "Digital Asset Management Software License"
+                  },
+                  {
+                      "label":  "Counterparty Name",
+                      "value_cell":  "A18:L18",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Counterparty Organization",
+                      "value_cell":  "N18:X18",
+                      "value":  "CreativeFlow Solutions Inc."
+                  },
+                  {
+                      "label":  "Contract Type",
+                      "value_cell":  "A20:L20",
+                      "value":  "Software License Agreement"
+                  },
+                  {
+                      "label":  "Effective Date",
+                      "value_cell":  "I20:N20",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Expiration Date",
+                      "value_cell":  "O20:T20",
+                      "value":  "2024-10-31"
+                  },
+                  {
+                      "label":  "Auto-Renew?  Y / N",
+                      "value_cell":  "U20:AF20",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Contract Value  $",
+                      "value_cell":  "A22:L22",
+                      "value":  "12,500"
+                  },
+                  {
+                      "label":  "Funding Source / Account Code",
+                      "value_cell":  "N22:AF22",
+                      "value":  "MKT-2023-774"
+                  },
+                  {
+                      "label":  "Scope of Services / Purpose",
+                      "value_cell":  "A24:AF24",
+                      "value":  "Subscription for cloud-based digital asset storage and management platform."
+                  },
+                  {
+                      "label":  "Key Obligations \u0026 Deliverables",
+                      "value_cell":  "A26:AF26",
+                      "value":  "Access to platform for 10 users, monthly analytics reports, and technical support."
+                  },
+                  {
+                      "label":  "Special Terms, Conditions, or Exceptions",
+                      "value_cell":  "A28:AF28",
+                      "value":  "30-day notice required for cancellation prior to renewal date."
+                  },
+                  {
+                      "label":  "Statement of Work",
+                      "value_cell":  "F30:G30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Budget",
+                      "value_cell":  "L30:M30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Insurance Certificate",
+                      "value_cell":  "R30:S30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "W-9",
+                      "value_cell":  "X30:Y30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "AD30:AE30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Liability / Indemnification",
+                      "value_cell":  "F34:G34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Insurance Requirements",
+                      "value_cell":  "L34:G34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "IP / Confidentiality",
+                      "value_cell":  "R34:S34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Conflict of Interest",
+                      "value_cell":  "X34:Y34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Data Privacy",
+                      "value_cell":  "AD34:AE34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Conflicts of Interest Disclosed?  Y / N",
+                      "value_cell":  "A35:L35",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Details (if yes)",
+                      "value_cell":  "N35:AF35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dept Manager",
+                      "value_cell":  "A40:H40",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "Legal Counsel",
+                      "value_cell":  "I40:P40",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "CFO / Finance",
+                      "value_cell":  "Q40:AF40",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Signature (Dept)",
+                      "value_cell":  "A42:H42",
+                      "value":  "Signed"
+                  },
+                  {
+                      "label":  "Signature (Legal)",
+                      "value_cell":  "I42:P42",
+                      "value":  "Signed"
+                  },
+                  {
+                      "label":  "Signature (Finance)",
+                      "value_cell":  "Q42:AF42",
+                      "value":  "Signed"
+                  },
+                  {
+                      "label":  "Date (Dept)",
+                      "value_cell":  "A44:H44",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Date (Legal)",
+                      "value_cell":  "I44:P44",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Date (Finance)",
+                      "value_cell":  "Q44:AF44",
+                      "value":  "2023-10-20"
+                  }
+              ]
+}

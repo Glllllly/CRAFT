@@ -1,0 +1,86 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date",
+      "value_text": "October 24, 2023"
+    },
+    {
+      "key_text": "Name",
+      "value_text": "Robert J. Miller"
+    },
+    {
+      "key_text": "Phone/Ext.",
+      "value_text": "512-555-0192 / Ext. 342"
+    },
+    {
+      "key_text": "Signature",
+      "value_text": "Elizabeth Henderson"
+    },
+    {
+      "key_text": "Print/Type Name",
+      "value_text": "Elizabeth Henderson"
+    },
+    {
+      "key_text": "Quantity (250 for $18)",
+      "value_text": null
+    },
+    {
+      "key_text": "Quantity (500 for $28)",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Fund (2)",
+      "value_text": "11"
+    },
+    {
+      "key_text": "Program (4)",
+      "value_text": "2045"
+    },
+    {
+      "key_text": "Sub Program (1)",
+      "value_text": "5"
+    },
+    {
+      "key_text": "TOPS (6)",
+      "value_text": "601002"
+    },
+    {
+      "key_text": "Object (4)",
+      "value_text": "4310"
+    },
+    {
+      "key_text": "Name",
+      "value_text": "Robert J. Miller, Ph.D."
+    },
+    {
+      "key_text": "Title",
+      "value_text": "Senior Research Associate"
+    },
+    {
+      "key_text": "Division/Department/Special Program",
+      "value_text": "Environmental Science Department"
+    },
+    {
+      "key_text": "Phone/Ext.",
+      "value_text": "818-240-1000 Ext. 3420"
+    },
+    {
+      "key_text": "Fax",
+      "value_text": "818-240-1001"
+    },
+    {
+      "key_text": "Email",
+      "value_text": "rmiller@glendale.edu"
+    },
+    {
+      "key_text": "ADDRESS , if different from 1500 North Verdugo Road, Glendale, CA 91208-2894",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This is a Business Card Order Form submitted by Robert J. Miller on October 24, 2023. Robert can be reached internally at 512-555-0192, extension 342. The order was approved by Elizabeth Henderson, the Tops Manager, whose name is both signed and printed on the form. Robert has ordered one set of 500 business cards for $28. The billing for this order is assigned to account number 11-2045-5-601002-4310. 
+
+For the card's design, Robert requested his name to be printed as "Robert J. Miller, Ph.D." with the title "Senior Research Associate" in the "Environmental Science Department." The contact information to be included on the card is the phone number 818-240-1000 Ext. 3420, fax 818-240-1001, and the email address rmiller@glendale.edu. No alternative address was provided, so the standard 1500 North Verdugo Road address will be used.

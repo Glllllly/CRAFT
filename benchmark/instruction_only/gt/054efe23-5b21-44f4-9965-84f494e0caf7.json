@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "054efe23-5b21-44f4-9965-84f494e0caf7.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "B3:F3",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Position:",
+                      "value_cell":  "B4:F4",
+                      "value":  "Senior Education Specialist"
+                  },
+                  {
+                      "label":  "Team Strategic Goal(s)",
+                      "value_cell":  "A14:M15",
+                      "value":  "Improve statewide graduation rates by 5% through enhanced vocational training programs and partnerships with local industries."
+                  },
+                  {
+                      "label":  "Team Strategic Goal(s)",
+                      "value_cell":  "A17:M18",
+                      "value":  "Successfully implement the new digital literacy curriculum in 15 pilot schools by January 2009 and provide training to 50 educators."
+                  },
+                  {
+                      "label":  "Work Performed/Core Responsibilities -- activities, services provided and/or products produced by this position (or attach copy of PDQ):",
+                      "value_cell":  "A20:M22",
+                      "value":  "Oversees curriculum development for CTE programs, manages grant funding for district-level vocational initiatives, and coordinates professional development workshops for secondary school teachers."
+                  },
+                  {
+                      "label":  "Unit/Division:",
+                      "value_cell":  "J4:M4",
+                      "value":  "Career and Technical Education"
+                  },
+                  {
+                      "label":  "EID#:",
+                      "value_cell":  "B5:F5",
+                      "value":  "849201"
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A25:D26",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "F25:F26",
+                      "value":  "15-Jul-09"
+                  },
+                  {
+                      "label":  "Supervisor Signature",
+                      "value_cell":  "H25:K26",
+                      "value":  "David Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M25:M26",
+                      "value":  "16-Jul-09"
+                  },
+                  {
+                      "label":  "Next Higher Management Level Signature",
+                      "value_cell":  "A29:D30",
+                      "value":  "Linda Roberts"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "F29:F30",
+                      "value":  "20-Jul-09"
+                  }
+              ]
+}

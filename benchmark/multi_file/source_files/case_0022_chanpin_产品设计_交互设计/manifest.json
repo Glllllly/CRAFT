@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0022_chanpin_产品设计_交互设计",
+    "tenant":  "chanpin",
+    "topic":  "产品设计",
+    "subtopic":  "交互设计",
+    "source_dir":  "chanpin\\产品设计\\交互设计",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品设计\\交互设计\\交互文档_53.txt",
+                      "copied_name":  "交互文档_53.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  616
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品设计\\交互设计\\交互文档_54.txt",
+                      "copied_name":  "交互文档_54.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  616
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品设计\\交互设计\\交互文档_51.txt",
+                      "copied_name":  "交互文档_51.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  616
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品设计\\交互设计\\交互文档_52.txt",
+                      "copied_name":  "交互文档_52.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  616
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品设计\\交互设计\\交互文档_55.txt",
+                      "copied_name":  "交互文档_55.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  616
+                  }
+              ]
+}

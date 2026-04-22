@@ -1,0 +1,151 @@
+﻿{
+    "excel":  "form_09_ethics_application.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "PI Full Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "Dr. Elena R. Vance"
+                  },
+                  {
+                      "label":  "Faculty / Staff ID",
+                      "value_cell":  "M12:X12",
+                      "value":  "8829301-EV"
+                  },
+                  {
+                      "label":  "Department / School",
+                      "value_cell":  "A14:L14",
+                      "value":  "Department of Behavioral Psychology"
+                  },
+                  {
+                      "label":  "Academic Rank / Title",
+                      "value_cell":  "M14:X14",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "Office Phone",
+                      "value_cell":  "A16:H16",
+                      "value":  "555-012-9988"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I16:P16",
+                      "value":  "555-098-7654"
+                  },
+                  {
+                      "label":  "PI E-mail Address",
+                      "value_cell":  "Q16:X16",
+                      "value":  "e.vance@university.edu"
+                  },
+                  {
+                      "label":  "Institution",
+                      "value_cell":  "A18:L18",
+                      "value":  "State Metropolitan University"
+                  },
+                  {
+                      "label":  "Co-Investigator(s)",
+                      "value_cell":  "M18:X18",
+                      "value":  "Dr. Marcus Thorne, Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Project Title",
+                      "value_cell":  "A23:X23",
+                      "value":  "Longitudinal Analysis of Remote Learning Engagement in Undergraduate Students"
+                  },
+                  {
+                      "label":  "Funding Agency / Sponsor",
+                      "value_cell":  "A25:L25",
+                      "value":  "National Education Research Council"
+                  },
+                  {
+                      "label":  "Grant / Project Number",
+                      "value_cell":  "M25:X25",
+                      "value":  "NERC-2024-889"
+                  },
+                  {
+                      "label":  "Proposed Start Date",
+                      "value_cell":  "A27:H27",
+                      "value":  "2024-09-01"
+                  },
+                  {
+                      "label":  "Proposed End Date",
+                      "value_cell":  "I27:P27",
+                      "value":  "2025-08-31"
+                  },
+                  {
+                      "label":  "Project Duration (months)",
+                      "value_cell":  "Q27:X27",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "Participant Population",
+                      "value_cell":  "A33:L33",
+                      "value":  "Undergraduate students aged 18-24"
+                  },
+                  {
+                      "label":  "Estimated Number of Participants",
+                      "value_cell":  "M33:X33",
+                      "value":  "250"
+                  },
+                  {
+                      "label":  "Data Collection Method",
+                      "value_cell":  "A37:L37",
+                      "value":  "Online surveys and bi-weekly behavioral logs"
+                  },
+                  {
+                      "label":  "Data Storage / Retention Plan",
+                      "value_cell":  "M37:X37",
+                      "value":  "Encrypted cloud server; data deleted after 5 years"
+                  },
+                  {
+                      "label":  "Description of Risks and Mitigation",
+                      "value_cell":  "A43:X43",
+                      "value":  "Minimal risk of data breach; mitigation includes anonymization and secure server access controls."
+                  },
+                  {
+                      "label":  "Consent Form Attached?  Y / N",
+                      "value_cell":  "A46:L46",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Participant Debrief Required?  Y / N",
+                      "value_cell":  "M46:X46",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "I declare this project complies with all relevant regulations.",
+                      "value_cell":  "A51:X51",
+                      "value":  "Signed: Elena R. Vance"
+                  },
+                  {
+                      "label":  "Principal Investigator",
+                      "value_cell":  "A58:M58",
+                      "value":  "Dr. Elena R. Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:X58",
+                      "value":  "2024-07-15"
+                  },
+                  {
+                      "label":  "Department Ethics Representative",
+                      "value_cell":  "A60:M60",
+                      "value":  "Prof. Alan Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q60:X60",
+                      "value":  "2024-07-18"
+                  },
+                  {
+                      "label":  "IRB Chair",
+                      "value_cell":  "A62:M62",
+                      "value":  "Dr. Sarah Whitmore"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q62:X62",
+                      "value":  "2024-07-25"
+                  }
+              ]
+}

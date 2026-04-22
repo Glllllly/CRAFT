@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "046c5e26-1580-41fe-949f-f76155f28e3b.xlsx",
+    "sheet":  "Application form",
+    "pairs":  [
+                  {
+                      "label":  "Candidate ITF online ID Number",
+                      "value_cell":  "D16",
+                      "value":  "45289-UY"
+                  },
+                  {
+                      "label":  "Association",
+                      "value_cell":  "G16:I16",
+                      "value":  "Uruguay Taekwon-Do Association"
+                  },
+                  {
+                      "label":  "one (1) first name only",
+                      "value_cell":  "B20:D20",
+                      "value":  "Lucas"
+                  },
+                  {
+                      "label":  "Surname",
+                      "value_cell":  "F20:H20",
+                      "value":  "Garcia"
+                  },
+                  {
+                      "label":  "Mr/Mrs/Miss",
+                      "value_cell":  "I20",
+                      "value":  "Mr"
+                  },
+                  {
+                      "label":  "street",
+                      "value_cell":  "B23:D23",
+                      "value":  "Avenida Italia"
+                  },
+                  {
+                      "label":  "number",
+                      "value_cell":  "F23",
+                      "value":  "1234"
+                  },
+                  {
+                      "label":  "code",
+                      "value_cell":  "G23",
+                      "value":  "11500"
+                  },
+                  {
+                      "label":  "city",
+                      "value_cell":  "H23:I23",
+                      "value":  "Montevideo"
+                  },
+                  {
+                      "label":  "year",
+                      "value_cell":  "B26",
+                      "value":  "2008"
+                  },
+                  {
+                      "label":  "month",
+                      "value_cell":  "C26",
+                      "value":  "05"
+                  },
+                  {
+                      "label":  "day",
+                      "value_cell":  "D26",
+                      "value":  "15"
+                  },
+                  {
+                      "label":  "Nationality:",
+                      "value_cell":  "G26:I26",
+                      "value":  "Uruguayan"
+                  },
+                  {
+                      "label":  "actual kup or degree:",
+                      "value_cell":  "B29",
+                      "value":  "8th Kup"
+                  },
+                  {
+                      "label":  "e.mail:",
+                      "value_cell":  "B31:F31",
+                      "value":  "lucas.garcia@email.com"
+                  },
+                  {
+                      "label":  "name",
+                      "value_cell":  "B36:D36",
+                      "value":  "Roberto"
+                  },
+                  {
+                      "label":  "surname",
+                      "value_cell":  "F36:H36",
+                      "value":  "Mendez"
+                  },
+                  {
+                      "label":  "e.mail:",
+                      "value_cell":  "B40:F40",
+                      "value":  "r.mendez@uta.org.uy"
+                  },
+                  {
+                      "label":  "year",
+                      "value_cell":  "B42",
+                      "value":  "2014"
+                  },
+                  {
+                      "label":  "month",
+                      "value_cell":  "C42",
+                      "value":  "08"
+                  },
+                  {
+                      "label":  "day",
+                      "value_cell":  "D42",
+                      "value":  "10"
+                  }
+              ]
+}

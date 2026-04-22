@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0203_houqin_财务预算",
+    "tenant":  "houqin",
+    "topic":  "财务预算",
+    "subtopic":  "",
+    "source_dir":  "houqin\\财务预算",
+    "total_files_in_source_dir":  258,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\财务预算\\访问记录_3423.json",
+                      "copied_name":  "访问记录_3423.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\财务预算\\14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+                      "copied_name":  "14-4 疾病预防控制中心妇幼保健机构情况1978-2021年（云南）.xls",
+                      "bucket":  "table",
+                      "ext":  ".xls",
+                      "size":  178688
+                  },
+                  {
+                      "source_rel":  "houqin\\财务预算\\备件申请_1950.txt",
+                      "copied_name":  "备件申请_1950.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  224
+                  },
+                  {
+                      "source_rel":  "houqin\\财务预算\\费用统计_1544.eml",
+                      "copied_name":  "费用统计_1544.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\财务预算\\1904-分等级医疗卫生机构情况（湖北2023）.xls",
+                      "copied_name":  "1904-分等级医疗卫生机构情况（湖北2023）.xls",
+                      "bucket":  "table",
+                      "ext":  ".xls",
+                      "size":  163840
+                  }
+              ]
+}

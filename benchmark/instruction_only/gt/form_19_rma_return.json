@@ -1,0 +1,156 @@
+﻿{
+    "excel":  "form_19_rma_return.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Customer Full Name / Company",
+                      "value_cell":  "E9:L9",
+                      "value":  "TechStream Solutions Inc."
+                  },
+                  {
+                      "label":  "Account / Customer ID",
+                      "value_cell":  "Q9:X9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Billing Address",
+                      "value_cell":  "E11:L11",
+                      "value":  "442 Innovation Drive"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "Q11:X11",
+                      "value":  "Austin, TX 78701"
+                  },
+                  {
+                      "label":  "Phone Number",
+                      "value_cell":  "E13:L13",
+                      "value":  "512-555-0128"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "Q13:X13",
+                      "value":  "procurement@techstream.com"
+                  },
+                  {
+                      "label":  "Contact Name  (if different)",
+                      "value_cell":  "E15:L15",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Contact Phone",
+                      "value_cell":  "Q15:X15",
+                      "value":  "512-555-0993"
+                  },
+                  {
+                      "label":  "Order Number",
+                      "value_cell":  "E20:L20",
+                      "value":  "ORD-99201"
+                  },
+                  {
+                      "label":  "Order Date  mm/dd/yyyy",
+                      "value_cell":  "Q20:X20",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Invoice Number",
+                      "value_cell":  "E22:L22",
+                      "value":  "INV-5502"
+                  },
+                  {
+                      "label":  "Invoice Date",
+                      "value_cell":  "Q22:X22",
+                      "value":  "10/15/2023"
+                  },
+                  {
+                      "label":  "Product Name / Description",
+                      "value_cell":  "E24:L24",
+                      "value":  "UltraView 27-inch Monitor"
+                  },
+                  {
+                      "label":  "SKU / Part Number",
+                      "value_cell":  "Q24:X24",
+                      "value":  "UV-27-BLK"
+                  },
+                  {
+                      "label":  "Quantity to Return",
+                      "value_cell":  "E26:L26",
+                      "value":  "1"
+                  },
+                  {
+                      "label":  "Unit Price  $",
+                      "value_cell":  "Q26:X26",
+                      "value":  "349.99"
+                  },
+                  {
+                      "label":  "Serial Number(s)",
+                      "value_cell":  "A28:L28",
+                      "value":  "SN-9988776655"
+                  },
+                  {
+                      "label":  "Original Condition on Receipt",
+                      "value_cell":  "M28:X28",
+                      "value":  "Damaged screen upon unboxing"
+                  },
+                  {
+                      "label":  "Detailed Description of Issue / Reason",
+                      "value_cell":  "A34:X35",
+                      "value":  "The monitor arrived with a visible crack across the bottom left quadrant of the display panel. It does not power on correctly."
+                  },
+                  {
+                      "label":  "Proof of Purchase Attached?  Y / N",
+                      "value_cell":  "E38:L38",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Product Photo Attached?  Y / N",
+                      "value_cell":  "Q38:X38",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "RMA Number Issued",
+                      "value_cell":  "E43:L34",
+                      "value":  "RMA-2023-1104"
+                  },
+                  {
+                      "label":  "Return Shipping Label Sent?  Y / N",
+                      "value_cell":  "Q43:X43",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Assigned to",
+                      "value_cell":  "E45:L45",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Resolution Target Date",
+                      "value_cell":  "Q45:X45",
+                      "value":  "11/05/2023"
+                  },
+                  {
+                      "label":  "Customer Service Notes / Resolution Details",
+                      "value_cell":  "A48:X48",
+                      "value":  "Replacement unit authorized for expedited shipping upon receipt of damaged item."
+                  },
+                  {
+                      "label":  "Customer Service Rep",
+                      "value_cell":  "A56:M56",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q56:X56",
+                      "value":  "10/28/2023"
+                  },
+                  {
+                      "label":  "Returns Manager",
+                      "value_cell":  "A58:M58",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:X58",
+                      "value":  "10/29/2023"
+                  }
+              ]
+}

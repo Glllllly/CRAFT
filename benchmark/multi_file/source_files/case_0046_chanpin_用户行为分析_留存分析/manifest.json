@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0046_chanpin_用户行为分析_留存分析",
+    "tenant":  "chanpin",
+    "topic":  "用户行为分析",
+    "subtopic":  "留存分析",
+    "source_dir":  "chanpin\\用户行为分析\\留存分析",
+    "total_files_in_source_dir":  90,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\用户行为分析\\留存分析\\分析_40.txt",
+                      "copied_name":  "分析_40.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  807
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户行为分析\\留存分析\\分析_28.txt",
+                      "copied_name":  "分析_28.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  807
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户行为分析\\留存分析\\分析_73.txt",
+                      "copied_name":  "分析_73.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  807
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户行为分析\\留存分析\\分析_26.txt",
+                      "copied_name":  "分析_26.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  807
+                  },
+                  {
+                      "source_rel":  "chanpin\\用户行为分析\\留存分析\\分析_75.txt",
+                      "copied_name":  "分析_75.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  807
+                  }
+              ]
+}

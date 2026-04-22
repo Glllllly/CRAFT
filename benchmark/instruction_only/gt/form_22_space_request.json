@@ -1,0 +1,151 @@
+﻿{
+    "excel":  "form_22_space_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Department Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Department of Computer Science"
+                  },
+                  {
+                      "label":  "Department / Cost Center Code",
+                      "value_cell":  "M9:U9",
+                      "value":  "CS-9942"
+                  },
+                  {
+                      "label":  "Department Chair / Director Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Dr. Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Request Date",
+                      "value_cell":  "M11:U11",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I13:P13",
+                      "value":  "e.rodriguez@university.edu"
+                  },
+                  {
+                      "label":  "Administrative Contact",
+                      "value_cell":  "Q13:U13",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Current Building",
+                      "value_cell":  "A18:H18",
+                      "value":  "Science Hall A"
+                  },
+                  {
+                      "label":  "Current Room Number(s)",
+                      "value_cell":  "I18:P18",
+                      "value":  "102, 104, 105"
+                  },
+                  {
+                      "label":  "Current Sq Ft",
+                      "value_cell":  "Q18:U18",
+                      "value":  "1200"
+                  },
+                  {
+                      "label":  "Current Space Use Description",
+                      "value_cell":  "A20:U20",
+                      "value":  "Faculty offices and small meeting room for research assistants."
+                  },
+                  {
+                      "label":  "Number of Staff Currently Occupying",
+                      "value_cell":  "A22:L22",
+                      "value":  "8"
+                  },
+                  {
+                      "label":  "Number of Workstations / Offices",
+                      "value_cell":  "M22:U22",
+                      "value":  "8"
+                  },
+                  {
+                      "label":  "Preferred Building / Zone",
+                      "value_cell":  "A28:J28",
+                      "value":  "Engineering Complex"
+                  },
+                  {
+                      "label":  "Preferred Floor",
+                      "value_cell":  "K28:N28",
+                      "value":  "2nd Floor"
+                  },
+                  {
+                      "label":  "Sq Ft Requested",
+                      "value_cell":  "O28:R28",
+                      "value":  "1800"
+                  },
+                  {
+                      "label":  "Move-In Date Needed",
+                      "value_cell":  "M28:U28",
+                      "value":  "2024-01-10"
+                  },
+                  {
+                      "label":  "Reason for Space Request / Business Justification",
+                      "value_cell":  "A30:U30",
+                      "value":  "Departmental growth and hiring of three new research faculty members requires additional office space."
+                  },
+                  {
+                      "label":  "Number of Staff to Accommodate",
+                      "value_cell":  "A32:L32",
+                      "value":  "11"
+                  },
+                  {
+                      "label":  "Special Infrastructure Requirements",
+                      "value_cell":  "M32:U32",
+                      "value":  "High-speed fiber optic connection and upgraded HVAC for server rack."
+                  },
+                  {
+                      "label":  "Proposed Timeline for Move / Renovation",
+                      "value_cell":  "A38:U38",
+                      "value":  "December 15, 2023 to January 5, 2024."
+                  },
+                  {
+                      "label":  "Impact on Operations During Transition",
+                      "value_cell":  "A40:U40",
+                      "value":  "Minimal; move scheduled during winter break to avoid disruption to student services."
+                  },
+                  {
+                      "label":  "Coordination Needed with Other Departments",
+                      "value_cell":  "A42:U42",
+                      "value":  "IT Services for network installation and Facilities for furniture removal."
+                  },
+                  {
+                      "label":  "Dept Head Signature",
+                      "value_cell":  "A47:H47",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "VP / Dean Signature",
+                      "value_cell":  "I47:P47",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Facilities Director",
+                      "value_cell":  "Q47:U47",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "A49:H49",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "I49:P49",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q49:U49",
+                      "value":  "2023-10-20"
+                  }
+              ]
+}

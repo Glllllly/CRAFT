@@ -1,0 +1,26 @@
+{
+  "excel": "case_0055_chanpin_项目管理_项目计划__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "目标",
+      "value_cell": "A7:D8",
+      "value": "新产品开发"
+    },
+    {
+      "label": "主要风险",
+      "value_cell": "A13:D14",
+      "value": "人力不足"
+    },
+    {
+      "label": "风险等级",
+      "value_cell": "F13:I14",
+      "value": "低"
+    },
+    {
+      "label": "应对措施",
+      "value_cell": "K13:N14",
+      "value": "建立应急方案"
+    }
+  ]
+}

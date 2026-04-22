@@ -1,0 +1,29 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "复杂度",
+                                   "selected_value":  "简单)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "技术栈",
+                                   "selected_value":  "Java) / React)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "存在问题",
+                                   "selected_value":  "无)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "需要实现",
+                                   "selected_value":  "后端接口开发",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险评级",
+                                   "selected_value":  "低)",
+                                   "conflict":  false
+                               }
+                           ]
+}

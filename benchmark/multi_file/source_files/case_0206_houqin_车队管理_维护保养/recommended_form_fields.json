@@ -1,0 +1,94 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:31 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "报销申请_4645",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "重要",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:31.387221",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "66835",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "李明@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "李四@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "报销申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "周八",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "采购计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "记录人",
+                                   "selected_value":  "马腾",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "事件内容",
+                                   "selected_value":  "按照既定计划进行相关工作",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参与人员",
+                                   "selected_value":  "李四, 吴九",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "处理结果",
+                                   "selected_value":  "已按流程处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "记录日期",
+                                   "selected_value":  "2026-02-10 05:30:31",
+                                   "conflict":  false
+                               }
+                           ]
+}

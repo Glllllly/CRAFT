@@ -1,0 +1,34 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "analytics",
+                                   "selected_value":  "Google Analytics, Mixpanel",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lastupdated",
+                                   "selected_value":  "2024-02-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "socialmedia",
+                                   "selected_value":  "Hootsuite, Buffer",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "communication",
+                                   "selected_value":  "Slack, Microsoft Teams",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "projectmanagement",
+                                   "selected_value":  "Asana, Monday.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketingautomation",
+                                   "selected_value":  "HubSpot",
+                                   "conflict":  false
+                               }
+                           ]
+}

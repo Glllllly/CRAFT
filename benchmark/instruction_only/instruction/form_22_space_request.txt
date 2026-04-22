@@ -1,0 +1,126 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Department Name",
+      "value_text": "Department of Computer Science"
+    },
+    {
+      "key_text": "Department / Cost Center Code",
+      "value_text": "CS-9942"
+    },
+    {
+      "key_text": "Department Chair / Director Name",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "Request Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "e.rodriguez@university.edu"
+    },
+    {
+      "key_text": "Administrative Contact",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Current Building",
+      "value_text": "Science Hall A"
+    },
+    {
+      "key_text": "Current Room Number(s)",
+      "value_text": "102, 104, 105"
+    },
+    {
+      "key_text": "Current Sq Ft",
+      "value_text": "1200"
+    },
+    {
+      "key_text": "Current Space Use Description",
+      "value_text": "Faculty offices and small meeting room for research assistants."
+    },
+    {
+      "key_text": "Number of Staff Currently Occupying",
+      "value_text": "8"
+    },
+    {
+      "key_text": "Number of Workstations / Offices",
+      "value_text": "8"
+    },
+    {
+      "key_text": "Preferred Building / Zone",
+      "value_text": "Engineering Complex"
+    },
+    {
+      "key_text": "Preferred Floor",
+      "value_text": "2nd Floor"
+    },
+    {
+      "key_text": "Sq Ft Requested",
+      "value_text": "1800"
+    },
+    {
+      "key_text": "Move-In Date Needed",
+      "value_text": "2024-01-10"
+    },
+    {
+      "key_text": "Reason for Space Request / Business Justification",
+      "value_text": "Departmental growth and hiring of three new research faculty members requires additional office space."
+    },
+    {
+      "key_text": "Number of Staff to Accommodate",
+      "value_text": "11"
+    },
+    {
+      "key_text": "Special Infrastructure Requirements",
+      "value_text": "High-speed fiber optic connection and upgraded HVAC for server rack."
+    },
+    {
+      "key_text": "Proposed Timeline for Move / Renovation",
+      "value_text": "December 15, 2023 to January 5, 2024."
+    },
+    {
+      "key_text": "Impact on Operations During Transition",
+      "value_text": "Minimal; move scheduled during winter break to avoid disruption to student services."
+    },
+    {
+      "key_text": "Coordination Needed with Other Departments",
+      "value_text": "IT Services for network installation and Facilities for furniture removal."
+    },
+    {
+      "key_text": "Dept Head Signature",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "VP / Dean Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Facilities Director",
+      "value_text": "David Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-20"
+    }
+  ]
+}
+
+Narrative:
+This request is being submitted by Dr. Elena Rodriguez for the Department of Computer Science (Cost Center CS-9942) on October 15, 2023. For any follow-up, please contact Mark Thompson at 555-012-3456 or via email at e.rodriguez@university.edu. The department is currently located in Science Hall A, specifically rooms 102, 104, and 105, occupying 1200 square feet. Currently, eight staff members share eight workstations and offices, which are used for faculty work and research meetings. 
+
+The department is requesting a relocation to the Engineering Complex on the 2nd floor, seeking 1800 square feet of space with a move-in date of January 10, 2024. The justification for this request is the planned hiring of three new research faculty members. To support this, we need to accommodate 11 staff members and require special infrastructure, specifically a high-speed fiber optic connection and upgraded HVAC for a server rack. We propose a move timeline between December 15, 2023, and January 5, 2024. This timing is intentional to ensure minimal impact on operations during the winter break. We will coordinate with IT Services for network needs and Facilities for furniture removal. The form has been signed by Dr. Elena Rodriguez, Dean Sarah Jenkins, and Facilities Director David Miller, with signatures dated October 16, 18, and 20, 2023, respectively.

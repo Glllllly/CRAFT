@@ -1,0 +1,16 @@
+{
+  "excel": "case_0002_chanpin_OKR和目标_目标评审__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "进度滞后原因",
+      "value_cell": "A7:D8",
+      "value": "技术困难"
+    },
+    {
+      "label": "改进措施",
+      "value_cell": "A13:D14",
+      "value": "加强沟通协作、优化流程"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+﻿{
+    "excel":  "013.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Benjamin J. Miller"
+                  },
+                  {
+                      "label":  "Date of Birth mm/dd/yyyy",
+                      "value_cell":  "M9:X9",
+                      "value":  "05/14/2010"
+                  },
+                  {
+                      "label":  "Student ID / Grade / Class",
+                      "value_cell":  "A11:L11",
+                      "value":  "ID: 88429 / Grade 8 / Class 8B"
+                  },
+                  {
+                      "label":  "School / Institution",
+                      "value_cell":  "M11:X11",
+                      "value":  "Riverside Middle School"
+                  },
+                  {
+                      "label":  "Parent / Guardian Name",
+                      "value_cell":  "A13:L13",
+                      "value":  "Sarah L. Miller"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M13:X13",
+                      "value":  "Mother"
+                  },
+                  {
+                      "label":  "Parent Phone (Primary)",
+                      "value_cell":  "A15:L15",
+                      "value":  "(555) 234-8890"
+                  },
+                  {
+                      "label":  "Parent Phone (Secondary)",
+                      "value_cell":  "M15:X15",
+                      "value":  "(555) 987-1234"
+                  },
+                  {
+                      "label":  "Parent E-mail",
+                      "value_cell":  "A17:L17",
+                      "value":  "sarah.miller@email.com"
+                  },
+                  {
+                      "label":  "Home Address",
+                      "value_cell":  "M17:X17",
+                      "value":  "1242 Oakwood Drive, Springfield, IL 62704"
+                  },
+                  {
+                      "label":  "Trip Name / Destination",
+                      "value_cell":  "A22:X22",
+                      "value":  "Science Museum of Natural History Field Trip"
+                  },
+                  {
+                      "label":  "Departure Date \u0026 Time",
+                      "value_cell":  "A24:L24",
+                      "value":  "10/12/2023 08:00 AM"
+                  },
+                  {
+                      "label":  "Return Date \u0026 Time",
+                      "value_cell":  "M24:X24",
+                      "value":  "10/12/2023 04:30 PM"
+                  },
+                  {
+                      "label":  "Itinerary / Programme Summary",
+                      "value_cell":  "A26:X26",
+                      "value":  "Guided tour of the Dinosaur Hall and interactive robotics workshop."
+                  },
+                  {
+                      "label":  "Transportation Mode",
+                      "value_cell":  "A28:L28",
+                      "value":  "Charter School Bus"
+                  },
+                  {
+                      "label":  "Trip Supervisor / Teacher Name",
+                      "value_cell":  "M28:X28",
+                      "value":  "Mr. David Henderson"
+                  },
+                  {
+                      "label":  "Cost to Participant $",
+                      "value_cell":  "A30:L30",
+                      "value":  "25.00"
+                  },
+                  {
+                      "label":  "Payment Due Date",
+                      "value_cell":  "M30:X30",
+                      "value":  "10/05/2023"
+                  },
+                  {
+                      "label":  "Physician Name",
+                      "value_cell":  "A35:L35",
+                      "value":  "Dr. Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Physician Phone",
+                      "value_cell":  "M35:X35",
+                      "value":  "(555) 456-7890"
+                  },
+                  {
+                      "label":  "Insurance Provider",
+                      "value_cell":  "A37:L37",
+                      "value":  "Blue Cross Blue Shield"
+                  },
+                  {
+                      "label":  "Policy Number",
+                      "value_cell":  "M37:X37",
+                      "value":  "BCBS-99887766"
+                  },
+                  {
+                      "label":  "Medical Conditions, Allergies, or Dietary Restrictions",
+                      "value_cell":  "A39:X39",
+                      "value":  "Peanut allergy; requires EpiPen."
+                  },
+                  {
+                      "label":  "Current Medications (name, dosage, timing)",
+                      "value_cell":  "A41:X41",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "H43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "M43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Only if prescribed emergency medication",
+                      "value_cell":  "R43",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Emergency Contact Name",
+                      "value_cell":  "A47:L47",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M47:X47",
+                      "value":  "Father"
+                  },
+                  {
+                      "label":  "Emergency Phone 1",
+                      "value_cell":  "A49:L49",
+                      "value":  "(555) 345-6789"
+                  },
+                  {
+                      "label":  "Emergency Phone 2",
+                      "value_cell":  "M49:X49",
+                      "value":  "(555) 876-5432"
+                  },
+                  {
+                      "label":  "Parent / Guardian Signature",
+                      "value_cell":  "A62:L62",
+                      "value":  "Sarah L. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N62:X62",
+                      "value":  "09/25/2023"
+                  },
+                  {
+                      "label":  "Date Signed",
+                      "value_cell":  "A65:L65",
+                      "value":  "09/25/2023"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N65:X65",
+                      "value":  "09/25/2023"
+                  },
+                  {
+                      "label":  "Trip Coordinator",
+                      "value_cell":  "A68:L68",
+                      "value":  "Mr. David Henderson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  "09/26/2023"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0086_houqin_员工福利_生日礼物",
+    "tenant":  "houqin",
+    "topic":  "员工福利",
+    "subtopic":  "生日礼物",
+    "source_dir":  "houqin\\员工福利\\生日礼物",
+    "total_files_in_source_dir":  32,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\员工福利\\生日礼物\\培训计划_1867.json",
+                      "copied_name":  "培训计划_1867.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\生日礼物\\销售统计_3379.csv",
+                      "copied_name":  "销售统计_3379.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\生日礼物\\项目计划_7641.md",
+                      "copied_name":  "项目计划_7641.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\生日礼物\\物品清单_7437.eml",
+                      "copied_name":  "物品清单_7437.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\生日礼物\\维护计划_6295.csv",
+                      "copied_name":  "维护计划_6295.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

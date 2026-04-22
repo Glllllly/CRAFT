@@ -1,0 +1,168 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Reporter Full Name",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Reporter Role (Physician / Nurse / Pharmacist / Patient / Other)",
+      "value_text": "Physician"
+    },
+    {
+      "key_text": "Institution / Facility Name",
+      "value_text": "City General Hospital"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "United Kingdom"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "+44 20 7946 0123"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "e.vance@citygeneral.nhs.uk"
+    },
+    {
+      "key_text": "Report Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Report Reference Number (Office Use)",
+      "value_text": "UK-2023-8842"
+    },
+    {
+      "key_text": "Patient Initials",
+      "value_text": "J.M."
+    },
+    {
+      "key_text": "Age (years)",
+      "value_text": "45"
+    },
+    {
+      "key_text": "Weight (kg)",
+      "value_text": "78"
+    },
+    {
+      "key_text": "Sex (M / F / Other)",
+      "value_text": "M"
+    },
+    {
+      "key_text": "Relevant Medical History",
+      "value_text": "Hypertension, Type 2 Diabetes"
+    },
+    {
+      "key_text": "Concomitant Medications",
+      "value_text": "Metformin 500mg"
+    },
+    {
+      "key_text": "Relevant Allergies",
+      "value_text": "Penicillin"
+    },
+    {
+      "key_text": "Drug Name (brand and generic)",
+      "value_text": "Lisinopril (Zestril)"
+    },
+    {
+      "key_text": "Manufacturer",
+      "value_text": "AstraZeneca"
+    },
+    {
+      "key_text": "Batch / Lot Number",
+      "value_text": "AZ-998877"
+    },
+    {
+      "key_text": "Indication (reason prescribed)",
+      "value_text": "Hypertension"
+    },
+    {
+      "key_text": "Dose & Frequency",
+      "value_text": "10mg once daily"
+    },
+    {
+      "key_text": "Route of Administration",
+      "value_text": "Oral"
+    },
+    {
+      "key_text": "Therapy Start Date",
+      "value_text": "2023-10-01"
+    },
+    {
+      "key_text": "Therapy End Date (or ongoing)",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Therapy Duration",
+      "value_text": "12 days"
+    },
+    {
+      "key_text": "Description of Adverse Event  (onset, nature, severity)",
+      "value_text": "Patient developed a persistent dry cough and mild angioedema of the lips 10 days after starting therapy. Severity: Moderate."
+    },
+    {
+      "key_text": "Date of Onset",
+      "value_text": "2023-10-11"
+    },
+    {
+      "key_text": "Date of Resolution / Outcome",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Was therapy stopped?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Did event resolve after stopping?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Was therapy restarted?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Did event recur on restart?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Causality Rationale / Additional Clinical Information",
+      "value_text": "Adverse event temporally linked to initiation of ACE inhibitor. Symptoms subsided promptly upon discontinuation."
+    },
+    {
+      "key_text": "Regulatory Authority Notified?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Notification Reference",
+      "value_text": "MHRA-9921"
+    },
+    {
+      "key_text": "Previously Reported?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Prior Report Reference",
+      "value_text": null
+    },
+    {
+      "key_text": "Reporter Signature",
+      "value_text": "Dr. E. Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Medical Officer Review",
+      "value_text": "Dr. A. Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+This adverse event report was submitted by Dr. Elena Vance, a physician at City General Hospital in the United Kingdom, on October 15, 2023 (Reference: UK-2023-8842). The patient, J.M., is a 45-year-old male weighing 78kg with a medical history of hypertension and Type 2 diabetes. He is currently taking Metformin 500mg and has a known allergy to penicillin. The adverse event involves Lisinopril (Zestril), manufactured by AstraZeneca (Batch AZ-998877), which was prescribed for hypertension at a dose of 10mg once daily starting on October 1, 2023. The patient experienced a persistent dry cough and mild lip angioedema starting on October 11, 2023. The therapy was stopped on October 12, 2023, and the event resolved by October 14, 2023. Therapy was not restarted. The causality is linked to the ACE inhibitor. The MHRA has been notified under reference MHRA-9921, and this is a new report. The form was signed by Dr. Vance on October 15, 2023, and reviewed by Dr. A. Smith on October 16, 2023.

@@ -1,0 +1,44 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "姓名", "value_text": "张伟" },
+    { "key_text": "出生年月", "value_text": "1995-05" },
+    { "key_text": "性别", "value_text": "男" },
+    { "key_text": "民族", "value_text": "汉族" },
+    { "key_text": "户籍", "value_text": "北京市朝阳区" },
+    { "key_text": "学历", "value_text": "本科" },
+    { "key_text": "身高", "value_text": "178cm" },
+    { "key_text": "政治面貌", "value_text": "群众" },
+    { "key_text": "婚否", "value_text": "未婚" },
+    { "key_text": "手机号码", "value_text": "13800138000" },
+    { "key_text": "电子邮件", "value_text": "zhangwei@email.com" },
+    { "key_text": "紧急联系人", "value_text": "张强" },
+    { "key_text": "紧急联系电话", "value_text": "13900000000" },
+    { "key_text": "身份证号码", "value_text": "110105199505201234" },
+    { "key_text": "现居住地址", "value_text": "北京市海淀区中关村软件园" },
+    { "key_text": "特长技能", "value_text": "Java开发，数据分析" },
+    { "key_text": "期望薪资", "value_text": "15000元/月" },
+    { "key_text": "起止年月", "value_text": "2018-07至2023-07" },
+    { "key_text": "工作单位", "value_text": "某科技有限公司" },
+    { "key_text": "职位", "value_text": "高级软件工程师" },
+    { "key_text": "月薪", "value_text": "13000元" },
+    { "key_text": "离职原因", "value_text": "个人职业规划" },
+    { "key_text": "起止年月", "value_text": "2014-09至2018-06" },
+    { "key_text": "毕业学校/教育培训机构", "value_text": "北京邮电大学" },
+    { "key_text": "学历/培训项目", "value_text": "计算机科学与技术" },
+    { "key_text": "证书", "value_text": "CET-6, 系统架构师证书" },
+    { "key_text": "姓  名", "value_text": "张强" },
+    { "key_text": "工作单位", "value_text": "某事业单位" },
+    { "key_text": "与本人关系", "value_text": "父亲" },
+    { "key_text": "与本人关系", "value_text": "父亲" },
+    { "key_text": "受过何种奖励或专业训练", "value_text": "年度优秀员工奖" },
+    { "key_text": "能否适应出差", "value_text": "能" },
+    { "key_text": "能否接受工作调动", "value_text": "能" },
+    { "key_text": "入职部门", "value_text": "研发部" },
+    { "key_text": "入职岗位", "value_text": "技术经理" },
+    { "key_text": "入职时间", "value_text": "2023-11-01" }
+  ]
+}
+
+Narrative:
+这位应聘者名为张伟，是一位1995年出生的汉族男性，目前居住在北京市海淀区。他拥有本科学历，身高178cm，政治面貌为群众，处于未婚状态。张伟的联系方式为13800138000，电子邮箱是zhangwei@email.com，并指定张强作为紧急联系人。他拥有扎实的Java开发和数据分析技能，期望薪资为每月15000元。在工作经验方面，他曾于2018年7月至2023年7月在某科技有限公司担任高级软件工程师，月薪13000元，因个人职业规划离职。他的教育背景是北京邮电大学计算机科学与技术专业，持有CET-6证书及系统架构师证书。他的父亲张强在某事业单位工作。张伟表示可以适应出差及工作调动，并曾获得年度优秀员工奖。公司方已确定其入职研发部，担任技术经理一职，入职时间为2023年11月1日。

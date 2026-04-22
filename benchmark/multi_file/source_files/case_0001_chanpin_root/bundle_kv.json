@@ -1,0 +1,5670 @@
+{
+  "bundle_dir": "case_0001_chanpin_root",
+  "file_count": 4,
+  "files": [
+    {
+      "source_file": "README.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "powerpoint(pptx)",
+          "value": "14个文件",
+          "raw_key": "- PowerPoint (PPTX)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PowerPoint (PPTX)：14个文件",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "word文档(docx)",
+          "value": "12个文件",
+          "raw_key": "- Word文档 (DOCX)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- Word文档 (DOCX)：12个文件",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品截图(png)",
+          "value": "23个文件",
+          "raw_key": "- 产品截图 (PNG)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 产品截图 (PNG)：23个文件",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "其他文件",
+          "value": "Shell脚本、日志文件",
+          "raw_key": "- 其他文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 其他文件：Shell脚本、日志文件",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "大小",
+          "value": "11MB",
+          "raw_key": "大小",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "大小：11MB",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "完成日期",
+          "value": "2024-02-10",
+          "raw_key": "完成日期",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "完成日期：2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总数",
+          "value": "2634个文件",
+          "raw_key": "总数",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总数：2634个文件",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据文件",
+          "value": "CSV、SQL格式",
+          "raw_key": "- 数据文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 数据文件：CSV、SQL格式",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文本文件(txt)",
+          "value": "包含在原始2585个文件中",
+          "raw_key": "- 文本文件 (TXT)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文本文件 (TXT)：包含在原始2585个文件中",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档文件",
+          "value": "Markdown、HTML格式",
+          "raw_key": "- 文档文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文档文件：Markdown、HTML格式",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后修改",
+          "value": "2024-02-10",
+          "raw_key": "最后修改",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后修改：2024-02-10",
+            "location": "line:85"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "格式",
+          "value": "13种不同格式",
+          "raw_key": "格式",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "格式：13种不同格式",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "详见",
+          "value": "文件管理系统完成总结.txt",
+          "raw_key": "详见",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "详见：文件管理系统完成总结.txt",
+            "location": "line:88"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "配置文件",
+          "value": "JSON、XML、YAML格式",
+          "raw_key": "- 配置文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 配置文件：JSON、XML、YAML格式",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "产品岗位文件管理系统总结.txt",
+      "source_type": "txt",
+      "candidate_count": 58,
+      "candidates": [
+        {
+          "key": "└─其他文档",
+          "value": "210文件",
+          "raw_key": "└─ 其他文档",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 其他文档：210文件",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "└─数据分析",
+          "value": "100文件（指标分析、数据报告等）",
+          "raw_key": "└─ 数据分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 数据分析：100文件（指标分析、数据报告等）",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "└─测试管理",
+          "value": "150文件（用例、缺陷、测试报告等）",
+          "raw_key": "└─ 测试管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 测试管理：150文件（用例、缺陷、测试报告等）",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "└─版本管理",
+          "value": "80文件（版本规划、发布说明等）",
+          "raw_key": "└─ 版本管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 版本管理：80文件（版本规划、发布说明等）",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "└─竞品分析",
+          "value": "120文件（竞品对标、功能对比等）",
+          "raw_key": "└─ 竞品分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 竞品分析：120文件（竞品对标、功能对比等）",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─产品开发",
+          "value": "120文件（开发任务、技术方案等）",
+          "raw_key": "├─ 产品开发",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品开发：120文件（开发任务、技术方案等）",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─产品文档",
+          "value": "150文件（用户手册、API文档等）",
+          "raw_key": "├─ 产品文档",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品文档：150文件（用户手册、API文档等）",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─产品规划",
+          "value": "120文件（产品战略、路线图、计划等）",
+          "raw_key": "├─ 产品规划",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品规划：120文件（产品战略、路线图、计划等）",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─产品设计",
+          "value": "100文件（原型、交互、UI设计等）",
+          "raw_key": "├─ 产品设计",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品设计：100文件（原型、交互、UI设计等）",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─发布上线",
+          "value": "100文件（发布计划、灰度方案等）",
+          "raw_key": "├─ 发布上线",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 发布上线：100文件（发布计划、灰度方案等）",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─用户研究",
+          "value": "80文件（用户画像、访谈、可用性测试）",
+          "raw_key": "├─ 用户研究",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 用户研究：80文件（用户画像、访谈、可用性测试）",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─问题反馈",
+          "value": "100文件（用户反馈、bug报告等）",
+          "raw_key": "├─ 问题反馈",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 问题反馈：100文件（用户反馈、bug报告等）",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─需求管理",
+          "value": "150文件（PRD、需求分析、优先级评估）",
+          "raw_key": "├─ 需求管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 需求管理：150文件（PRD、需求分析、优先级评估）",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─项目管理",
+          "value": "80文件（项目计划、进度跟踪等）",
+          "raw_key": "├─ 项目管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 项目管理：80文件（项目计划、进度跟踪等）",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓业务相关性",
+          "value": "97%",
+          "raw_key": "✓ 业务相关性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 业务相关性：97%",
+            "location": "line:189"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓内容丰富性",
+          "value": "90%",
+          "raw_key": "✓ 内容丰富性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容丰富性：90%",
+            "location": "line:133"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓内容高度完整",
+          "value": "涵盖产品工作的全方位",
+          "raw_key": "✓ 内容高度完整",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容高度完整：涵盖产品工作的全方位",
+            "location": "line:244"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓功能覆盖全面",
+          "value": "从战略到执行的完整系统",
+          "raw_key": "✓ 功能覆盖全面",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 功能覆盖全面：从战略到执行的完整系统",
+            "location": "line:246"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓多样化的文档类型",
+          "value": "计划、报告、规范、手册等",
+          "raw_key": "✓ 多样化的文档类型",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 多样化的文档类型：计划、报告、规范、手册等",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓完善的评估体系",
+          "value": "包含优先级、风险等级、评分等",
+          "raw_key": "✓ 完善的评估体系",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 完善的评估体系：包含优先级、风险等级、评分等",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓完整的工作流程",
+          "value": "涵盖产品从规划到发布的全过程",
+          "raw_key": "✓ 完整的工作流程",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 完整的工作流程：涵盖产品从规划到发布的全过程",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓工作流完整性",
+          "value": "95%",
+          "raw_key": "✓ 工作流完整性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 工作流完整性：95%",
+            "location": "line:130"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓应用价值显著",
+          "value": "支持多种使用场景",
+          "raw_key": "✓ 应用价值显著",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 应用价值显著：支持多种使用场景",
+            "location": "line:247"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓数据准确性",
+          "value": "98%",
+          "raw_key": "✓ 数据准确性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据准确性：98%",
+            "location": "line:185"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓数据真实性",
+          "value": "100%",
+          "raw_key": "✓ 数据真实性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据真实性：100%",
+            "location": "line:127"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓数据质量优秀",
+          "value": "虚拟数据完全符合真实情况",
+          "raw_key": "✓ 数据质量优秀",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据质量优秀：虚拟数据完全符合真实情况",
+            "location": "line:245"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓文档规范性",
+          "value": "95%",
+          "raw_key": "✓ 文档规范性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 文档规范性：95%",
+            "location": "line:187"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓时间连贯性",
+          "value": "100%",
+          "raw_key": "✓ 时间连贯性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 时间连贯性：100%",
+            "location": "line:136"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓时间逻辑性",
+          "value": "99%",
+          "raw_key": "✓ 时间逻辑性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 时间逻辑性：99%",
+            "location": "line:188"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓流程完整性",
+          "value": "96%",
+          "raw_key": "✓ 流程完整性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 流程完整性：96%",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓真实的业务数据",
+          "value": "包含财务预算、用户数据、性能指标等",
+          "raw_key": "✓ 真实的业务数据",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 真实的业务数据：包含财务预算、用户数据、性能指标等",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓详细的时间信息",
+          "value": "包含日期、版本号、截止日期等",
+          "raw_key": "✓ 详细的时间信息",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 详细的时间信息：包含日期、版本号、截止日期等",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓超额完成目标",
+          "value": "131%完成率",
+          "raw_key": "✓ 超额完成目标",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 超额完成目标：131%完成率",
+            "location": "line:243"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品规划与需求",
+          "value": "270文件（20.6%）",
+          "raw_key": "- 产品规划与需求",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 产品规划与需求：270文件（20.6%）",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级维度",
+          "value": "按重要程度分类",
+          "raw_key": "- 优先级维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 优先级维度：按重要程度分类",
+            "location": "line:197"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "初始需求",
+          "value": "至少1000个文件",
+          "raw_key": "初始需求",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "初始需求：至少1000个文件",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能维度",
+          "value": "按产品工作职能分类",
+          "raw_key": "- 功能维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 功能维度：按产品工作职能分类",
+            "location": "line:194"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布与版本",
+          "value": "180文件（13.7%）",
+          "raw_key": "- 发布与版本",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 发布与版本：180文件（13.7%）",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "完成进度",
+          "value": "131%（超额完成31%）",
+          "raw_key": "完成进度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "完成进度：131%（超额完成31%）",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总文件数",
+          "value": "1310个",
+          "raw_key": "总文件数",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总文件数：1310个",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总目录数",
+          "value": "105个",
+          "raw_key": "总目录数",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总目录数：105个",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文本文件",
+          "value": "1310个（100%）",
+          "raw_key": "文本文件",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文本文件：1310个（100%）",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文档与支撑",
+          "value": "170文件（13.0%）",
+          "raw_key": "- 文档与支撑",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文档与支撑：170文件（13.0%）",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "时间维度",
+          "value": "按计划期限分类",
+          "raw_key": "- 时间维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 时间维度：按计划期限分类",
+            "location": "line:195"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最终成果",
+          "value": "1310个文件 ✓",
+          "raw_key": "最终成果",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最终成果：1310个文件 ✓",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "流程维度",
+          "value": "按工作流程分类",
+          "raw_key": "- 流程维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 流程维度：按工作流程分类",
+            "location": "line:196"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试与质量",
+          "value": "150文件（11.5%）",
+          "raw_key": "- 测试与质量",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试与质量：150文件（11.5%）",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目录深度",
+          "value": "最多3层",
+          "raw_key": "目录深度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目录深度：最多3层",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "研究与分析",
+          "value": "200文件（15.3%）",
+          "raw_key": "- 研究与分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 研究与分析：200文件（15.3%）",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞品分析",
+          "value": "120文件（9.2%）",
+          "raw_key": "- 竞品分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 竞品分析：120文件（9.2%）",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计与开发",
+          "value": "220文件（16.8%）",
+          "raw_key": "- 设计与开发",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计与开发：220文件（16.8%）",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟内容完整",
+          "value": "涵盖产品工作的全方位内容",
+          "raw_key": "🌟 内容完整",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 内容完整 : 涵盖产品工作的全方位内容",
+            "location": "line:142"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟应用价值高",
+          "value": "可用于培训、演示、测试、参考",
+          "raw_key": "🌟 应用价值高",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 应用价值高 : 可用于培训、演示、测试、参考",
+            "location": "line:145"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟扩展性强",
+          "value": "易于增加、修改、完善内容",
+          "raw_key": "🌟 扩展性强",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 扩展性强 : 易于增加、修改、完善内容",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟数据逼真",
+          "value": "完全模拟真实企业产品部门运作",
+          "raw_key": "🌟 数据逼真",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 数据逼真 : 完全模拟真实企业产品部门运作",
+            "location": "line:143"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟易于查找",
+          "value": "多维度分类，清晰的目录结构",
+          "raw_key": "🌟 易于查找",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 易于查找 : 多维度分类，清晰的目录结构",
+            "location": "line:144"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟管理规范",
+          "value": "体现现代互联网企业的最佳实践",
+          "raw_key": "🌟 管理规范",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 管理规范 : 体现现代互联网企业的最佳实践",
+            "location": "line:147"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "🌟规模庞大",
+          "value": "1310个文件，105个目录",
+          "raw_key": "🌟 规模庞大",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 规模庞大 : 1310个文件，105个目录",
+            "location": "line:141"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "文件管理系统完成总结.txt",
+      "source_type": "txt",
+      "candidate_count": 61,
+      "candidates": [
+        {
+          "key": "1.真实度",
+          "value": "所有文件包含虚拟但逼真的产品相关内容",
+          "raw_key": "1. 真实度",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "1. 真实度：所有文件包含虚拟但逼真的产品相关内容",
+            "location": "line:247"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.多样性",
+          "value": "涵盖13种不同文件格式",
+          "raw_key": "2. 多样性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "2. 多样性：涵盖13种不同文件格式",
+            "location": "line:248"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.专业性",
+          "value": "按照产品部门的实际工作流程组织",
+          "raw_key": "3. 专业性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "3. 专业性：按照产品部门的实际工作流程组织",
+            "location": "line:249"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "4.可扩展性",
+          "value": "目录结构清晰，易于添加新文件",
+          "raw_key": "4. 可扩展性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "4. 可扩展性：目录结构清晰，易于添加新文件",
+            "location": "line:250"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "5.完整性",
+          "value": "从策略规划到执行和监控的全流程覆盖",
+          "raw_key": "5. 完整性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "5. 完整性：从策略规划到执行和监控的全流程覆盖",
+            "location": "line:251"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "docx生成",
+          "value": "使用docx库，支持表格、列表、格式化文本",
+          "raw_key": "- DOCX生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- DOCX生成：使用docx库，支持表格、列表、格式化文本",
+            "location": "line:266"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "png生成",
+          "value": "使用Python PIL库，支持自定义尺寸和设计",
+          "raw_key": "- PNG生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PNG生成：使用Python PIL库，支持自定义尺寸和设计",
+            "location": "line:267"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pptx生成",
+          "value": "使用pptxgenjs库，采用模块化设计",
+          "raw_key": "- PPTX生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PPTX生成：使用pptxgenjs库，采用模块化设计",
+            "location": "line:265"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "└─新增png",
+          "value": "23个",
+          "raw_key": "└─ 新增PNG",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 新增PNG：23个",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─原始文件",
+          "value": "2585个",
+          "raw_key": "├─ 原始文件",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 原始文件：2585个",
+            "location": "line:183"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─新增docx",
+          "value": "12个",
+          "raw_key": "├─ 新增DOCX",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 新增DOCX：12个",
+            "location": "line:185"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "├─新增pptx",
+          "value": "14个",
+          "raw_key": "├─ 新增PPTX",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 新增PPTX：14个",
+            "location": "line:184"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "【阶段一",
+          "value": "初始文件生成】",
+          "raw_key": "【阶段一",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "【阶段一：初始文件生成】",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "【阶段二",
+          "value": "异构文件补充】",
+          "raw_key": "【阶段二",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "【阶段二：异构文件补充】",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "任务",
+          "value": "补充多样化文件格式（PPT、DOCX、图片等）",
+          "raw_key": "任务",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务：补充多样化文件格式（PPT、DOCX、图片等）",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品截图/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品截图/",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品文档/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品文档/",
+            "location": "line:110"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品演示/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品演示/",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/sessions/vibrant-nifty-rubin/mnt/bytedance/chanpin/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/sessions/vibrant-nifty-rubin/mnt/bytedance/chanpin/",
+            "location": "line:282"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2024年Q1产品路线图、功能目标、KPI指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2024年Q1产品路线图、功能目标、KPI指标",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2025年产品愿景、战略主题、重大计划",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2025年产品愿景、战略主题、重大计划",
+            "location": "line:105"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档、认证方式、可用端点、速率限制",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档、认证方式、可用端点、速率限制",
+            "location": "line:120"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "OKR目标回顾、完成情况、绩效评估",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：OKR目标回顾、完成情况、绩效评估",
+            "location": "line:78"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q2新功能发布、性能改进、增长指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q2新功能发布、性能改进、增长指标",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品培训计划、模块内容、培训成效",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品培训计划、模块内容、培训成效",
+            "location": "line:87"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品路线图、战略主题、实施时间表",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品路线图、战略主题、实施时间表",
+            "location": "line:135"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "创建基础文件管理系统，包含多个产品相关模块",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：创建基础文件管理系统，包含多个产品相关模块",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "发布流程、风险管理、灰度发布策略",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：发布流程、风险管理、灰度发布策略",
+            "location": "line:81"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "发布说明、新功能、性能改进、已知问题",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：发布说明、新功能、性能改进、已知问题",
+            "location": "line:129"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "国际化扩展计划、目标市场、本地化策略",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：国际化扩展计划、目标市场、本地化策略",
+            "location": "line:93"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规指南、数据加密、合规清单",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规指南、数据加密、合规清单",
+            "location": "line:126"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规框架、数据保护、审计认证",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规框架、数据保护、审计认证",
+            "location": "line:96"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户上线指南、关键里程碑、支持资源",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户上线指南、关键里程碑、支持资源",
+            "location": "line:138"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户成功策略、留存指标、拓展机会",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户成功策略、留存指标、拓展机会",
+            "location": "line:90"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "市场分析、竞争对手对标、竞争优势",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：市场分析、竞争对手对标、竞争优势",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "性能优化计划、技术改进、性能指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：性能优化计划、技术改进、性能指标",
+            "location": "line:99"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "故障排除指南、常见问题、解决方案",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：故障排除指南、常见问题、解决方案",
+            "location": "line:132"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "最佳实践、账户管理、数据管理、团队协作",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：最佳实践、账户管理、数据管理、团队协作",
+            "location": "line:141"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "核心功能产品需求文档、功能规格、开发时间表",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：核心功能产品需求文档、功能规格、开发时间表",
+            "location": "line:114"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户入门指南、账户创建、首次登录、基本功能",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户入门指南、账户创建、首次登录、基本功能",
+            "location": "line:117"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户增长策略、获取渠道、LTV/CAC分析",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户增长策略、获取渠道、LTV/CAC分析",
+            "location": "line:102"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户研究方法、用户洞察、满意度数据",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户研究方法、用户洞察、满意度数据",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计规范、色彩方案、排版指南、间距规范",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计规范、色彩方案、排版指南、间距规范",
+            "location": "line:123"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "财务绩效、产品指标、业务总结",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：财务绩效、产品指标、业务总结",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成指南、支持的集成、集成步骤、集成类型",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成指南、支持的集成、集成步骤、集成类型",
+            "location": "line:144"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "初始文件统计",
+          "value": "2585个",
+          "raw_key": "初始文件统计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "初始文件统计：2585个",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "可用性",
+          "value": "立即可用，无需后续处理",
+          "raw_key": "可用性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "可用性：立即可用，无需后续处理",
+            "location": "line:285"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "增长率",
+          "value": "+49个文件 (+1.9%)",
+          "raw_key": "增长率",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "增长率：+49个文件 (+1.9%)",
+            "location": "line:188"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "12个DOCX文件，共99KB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：12个DOCX文件，共99KB",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "14个PPTX文件，共1.1MB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：14个PPTX文件，共1.1MB",
+            "location": "line:107"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "23个PNG文件，共220KB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：23个PNG文件，共220KB",
+            "location": "line:176"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总大小",
+          "value": "约50-60MB (包括各类文档和图片)",
+          "raw_key": "总大小",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总大小：约50-60MB (包括各类文档和图片)",
+            "location": "line:284"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总文件数",
+          "value": "2634个",
+          "raw_key": "总文件数",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总文件数：2634个",
+            "location": "line:283"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总计",
+          "value": "13种不同文件格式",
+          "raw_key": "总计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总计：13种不同文件格式",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告生成时间",
+          "value": "2024-02-10",
+          "raw_key": "报告生成时间",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告生成时间：2024-02-10",
+            "location": "line:288"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文件名称",
+          "value": "使用英文和中文命名规范",
+          "raw_key": "- 文件名称",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文件名称：使用英文和中文命名规范",
+            "location": "line:268"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文件总数",
+          "value": "2634个",
+          "raw_key": "文件总数",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文件总数：2634个",
+            "location": "line:182"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "时间",
+          "value": "2024年2月10日",
+          "raw_key": "时间",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "时间：2024年2月10日",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目录结构",
+          "value": "多层级文件夹组织，模拟真实企业结构",
+          "raw_key": "- 目录结构",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 目录结构：多层级文件夹组织，模拟真实企业结构",
+            "location": "line:270"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "系统状态",
+          "value": "✓ 完成",
+          "raw_key": "系统状态",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统状态：✓ 完成",
+            "location": "line:289"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "虚拟数据",
+          "value": "随机生成逼真的业务数据",
+          "raw_key": "- 虚拟数据",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 虚拟数据：随机生成逼真的业务数据",
+            "location": "line:269"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "新增文件清单.txt",
+      "source_type": "txt",
+      "candidate_count": 78,
+      "candidates": [
+        {
+          "key": "powerpoint(pptx)",
+          "value": "14个",
+          "raw_key": "PowerPoint (PPTX)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "PowerPoint (PPTX)：14个",
+            "location": "line:199"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "word文档(docx)",
+          "value": "11个",
+          "raw_key": "Word文档 (DOCX)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Word文档 (DOCX)：11个",
+            "location": "line:200"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓内容相关性",
+          "value": "100%",
+          "raw_key": "✓ 内容相关性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容相关性：100%",
+            "location": "line:217"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓文件完整性",
+          "value": "100%",
+          "raw_key": "✓ 文件完整性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 文件完整性：100%",
+            "location": "line:215"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓格式有效性",
+          "value": "100%",
+          "raw_key": "✓ 格式有效性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 格式有效性：100%",
+            "location": "line:216"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "✓目录组织",
+          "value": "清晰有序",
+          "raw_key": "✓ 目录组织",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 目录组织：清晰有序",
+            "location": "line:218"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品截图(png)",
+          "value": "21个",
+          "raw_key": "产品截图 (PNG)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品截图 (PNG)：21个",
+            "location": "line:201"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品截图/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品截图/",
+            "location": "line:127"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品文档/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品文档/",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品演示/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品演示/",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2024年OKR回顾、目标完成情况、绩效指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2024年OKR回顾、目标完成情况、绩效指标",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2025年产品愿景、战略主题、重大计划",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2025年产品愿景、战略主题、重大计划",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档",
+            "location": "line:87"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档界面，包含代码块",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档界面，包含代码块",
+            "location": "line:152"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q1 2024产品路线图、功能目标、关键指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q1 2024产品路线图、功能目标、关键指标",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q1版本发布说明",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q1版本发布说明",
+            "location": "line:99"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q2新功能发布、性能改进、增长指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q2新功能发布、性能改进、增长指标",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q3财务绩效、产品指标、业务总结",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q3财务绩效、产品指标、业务总结",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "UI图标集合，包含12个彩色图标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：UI图标集合，包含12个彩色图标",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品主仪表板，包含多个数据卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品主仪表板，包含多个数据卡片",
+            "location": "line:131"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品发布策略、灰度部署、风险管理",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品发布策略、灰度部署、风险管理",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品培训计划、模块内容、培训成效",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品培训计划、模块内容、培训成效",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品路线图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品路线图",
+            "location": "line:107"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "入职流程图，包含步骤和箭头",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：入职流程图，包含步骤和箭头",
+            "location": "line:168"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "分析和图表界面，包含柱状图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：分析和图表界面，包含柱状图",
+            "location": "line:134"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "功能对比表，包含对比数据",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：功能对比表，包含对比数据",
+            "location": "line:161"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "国际化扩展计划、目标市场、本地化策略",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：国际化扩展计划、目标市场、本地化策略",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规指南",
+            "location": "line:95"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规框架、数据保护、认证证书",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规框架、数据保护、认证证书",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "定价页面，包含定价卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：定价页面，包含定价卡片",
+            "location": "line:171"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户上线指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户上线指南",
+            "location": "line:111"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户成功战略、留存率、扩展机会",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户成功战略、留存率、扩展机会",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "工作流程图，包含流程框和箭头",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：工作流程图，包含流程框和箭头",
+            "location": "line:158"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "性能优化计划、技术改进、性能指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：性能优化计划、技术改进、性能指标",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机主屏幕设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机主屏幕设计",
+            "location": "line:180"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机应用界面，包含导航和内容区",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机应用界面，包含导航和内容区",
+            "location": "line:155"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机设置屏幕设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机设置屏幕设计",
+            "location": "line:183"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "报告概览，包含多个报告卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：报告概览，包含多个报告卡片",
+            "location": "line:143"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "故障排除指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：故障排除指南",
+            "location": "line:103"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "数据可视化，包含折线图和饼图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：数据可视化，包含折线图和饼图",
+            "location": "line:174"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "最佳实践指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：最佳实践指南",
+            "location": "line:115"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "核心功能产品需求文档",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：核心功能产品需求文档",
+            "location": "line:79"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户入门指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户入门指南",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户增长策略、获取渠道、LTV/CAC分析",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户增长策略、获取渠道、LTV/CAC分析",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户研究方法、用户洞察、满意度评分",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户研究方法、用户洞察、满意度评分",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户管理界面，包含表格和用户列表",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户管理界面，包含表格和用户列表",
+            "location": "line:137"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "登录屏幕设计，包含品牌和表单",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：登录屏幕设计，包含品牌和表单",
+            "location": "line:165"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "竞争对手分析、市场概览、竞争优势",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：竞争对手分析、市场概览、竞争优势",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设置面板，包含菜单项和配置区域",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设置面板，包含菜单项和配置区域",
+            "location": "line:140"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计系统参考，包含色彩和组件",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计系统参考，包含色彩和组件",
+            "location": "line:192"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计规范和UI指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计规范和UI指南",
+            "location": "line:91"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "通知界面，包含通知列表",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：通知界面，包含通知列表",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "邮件模板设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：邮件模板设计",
+            "location": "line:177"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成指南",
+            "location": "line:119"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成界面，包含集成应用磁贴",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成界面，包含集成应用磁贴",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "页面线框图，包含布局结构",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：页面线框图，包含布局结构",
+            "location": "line:189"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "11个DOCX文件，总大小91KB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：11个DOCX文件，总大小91KB",
+            "location": "line:122"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "14个PPTX文件，总大小1.1MB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：14个PPTX文件，总大小1.1MB",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "21个PNG文件，总大小200KB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：21个PNG文件，总大小200KB",
+            "location": "line:194"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "幻灯片数",
+          "value": "4张",
+          "raw_key": "幻灯片数",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "幻灯片数：4张",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总计",
+          "value": "46个新增文件",
+          "raw_key": "总计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总计：46个新增文件",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增文件总大小",
+          "value": "1.4MB",
+          "raw_key": "新增文件总大小",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增文件总大小：1.4MB",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增文件总数",
+          "value": "48个",
+          "raw_key": "新增文件总数",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增文件总数：48个",
+            "location": "line:204"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "清单生成时间",
+          "value": "2024-02-10",
+          "raw_key": "清单生成时间",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "清单生成时间：2024-02-10",
+            "location": "line:221"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：完成",
+            "location": "line:222"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "生成时间",
+          "value": "2024-02-10",
+          "raw_key": "生成时间",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生成时间：2024-02-10",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "安全标准、数据加密、合规清单",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：安全标准、数据加密、合规清单",
+            "location": "line:96"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "常见问题、解决方案、集成问题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：常见问题、解决方案、集成问题",
+            "location": "line:104"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "战略愿景、Q1-Q4计划、2025主题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：战略愿景、Q1-Q4计划、2025主题",
+            "location": "line:108"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "执行摘要、功能概览、功能规范、时间表",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：执行摘要、功能概览、功能规范、时间表",
+            "location": "line:80"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、支持的集成、集成步骤、集成类型",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、支持的集成、集成步骤、集成类型",
+            "location": "line:120"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、新功能、性能改进、已知问题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、新功能、性能改进、已知问题",
+            "location": "line:100"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、认证、可用端点、速率限制",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、认证、可用端点、速率限制",
+            "location": "line:88"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "欢迎、上线时间表、关键里程碑、支持资源",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：欢迎、上线时间表、关键里程碑、支持资源",
+            "location": "line:112"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "欢迎、账户创建、首次登录、关键功能",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：欢迎、账户创建、首次登录、关键功能",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "设计理念、色彩方案、排版、间距",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：设计理念、色彩方案、排版、间距",
+            "location": "line:92"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "账户管理、数据管理、团队协作、安全实践",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：账户管理、数据管理、团队协作、安全实践",
+            "location": "line:116"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明文档(txt)",
+          "value": "2个",
+          "raw_key": "说明文档 (TXT)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明文档 (TXT)：2个",
+            "location": "line:202"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "1.真实度",
+      "candidates": [
+        {
+          "key": "1.真实度",
+          "value": "所有文件包含虚拟但逼真的产品相关内容",
+          "raw_key": "1. 真实度",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "1. 真实度：所有文件包含虚拟但逼真的产品相关内容",
+            "location": "line:247"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.多样性",
+      "candidates": [
+        {
+          "key": "2.多样性",
+          "value": "涵盖13种不同文件格式",
+          "raw_key": "2. 多样性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "2. 多样性：涵盖13种不同文件格式",
+            "location": "line:248"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.专业性",
+      "candidates": [
+        {
+          "key": "3.专业性",
+          "value": "按照产品部门的实际工作流程组织",
+          "raw_key": "3. 专业性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "3. 专业性：按照产品部门的实际工作流程组织",
+            "location": "line:249"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "4.可扩展性",
+      "candidates": [
+        {
+          "key": "4.可扩展性",
+          "value": "目录结构清晰，易于添加新文件",
+          "raw_key": "4. 可扩展性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "4. 可扩展性：目录结构清晰，易于添加新文件",
+            "location": "line:250"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "5.完整性",
+      "candidates": [
+        {
+          "key": "5.完整性",
+          "value": "从策略规划到执行和监控的全流程覆盖",
+          "raw_key": "5. 完整性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "5. 完整性：从策略规划到执行和监控的全流程覆盖",
+            "location": "line:251"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "docx生成",
+      "candidates": [
+        {
+          "key": "docx生成",
+          "value": "使用docx库，支持表格、列表、格式化文本",
+          "raw_key": "- DOCX生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- DOCX生成：使用docx库，支持表格、列表、格式化文本",
+            "location": "line:266"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "png生成",
+      "candidates": [
+        {
+          "key": "png生成",
+          "value": "使用Python PIL库，支持自定义尺寸和设计",
+          "raw_key": "- PNG生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PNG生成：使用Python PIL库，支持自定义尺寸和设计",
+            "location": "line:267"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "powerpoint(pptx)",
+      "candidates": [
+        {
+          "key": "powerpoint(pptx)",
+          "value": "14个文件",
+          "raw_key": "- PowerPoint (PPTX)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PowerPoint (PPTX)：14个文件",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "powerpoint(pptx)",
+          "value": "14个",
+          "raw_key": "PowerPoint (PPTX)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "PowerPoint (PPTX)：14个",
+            "location": "line:199"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "pptx生成",
+      "candidates": [
+        {
+          "key": "pptx生成",
+          "value": "使用pptxgenjs库，采用模块化设计",
+          "raw_key": "- PPTX生成",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- PPTX生成：使用pptxgenjs库，采用模块化设计",
+            "location": "line:265"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "word文档(docx)",
+      "candidates": [
+        {
+          "key": "word文档(docx)",
+          "value": "12个文件",
+          "raw_key": "- Word文档 (DOCX)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- Word文档 (DOCX)：12个文件",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "word文档(docx)",
+          "value": "11个",
+          "raw_key": "Word文档 (DOCX)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Word文档 (DOCX)：11个",
+            "location": "line:200"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─其他文档",
+      "candidates": [
+        {
+          "key": "└─其他文档",
+          "value": "210文件",
+          "raw_key": "└─ 其他文档",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 其他文档：210文件",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─数据分析",
+      "candidates": [
+        {
+          "key": "└─数据分析",
+          "value": "100文件（指标分析、数据报告等）",
+          "raw_key": "└─ 数据分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 数据分析：100文件（指标分析、数据报告等）",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─新增png",
+      "candidates": [
+        {
+          "key": "└─新增png",
+          "value": "23个",
+          "raw_key": "└─ 新增PNG",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 新增PNG：23个",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─测试管理",
+      "candidates": [
+        {
+          "key": "└─测试管理",
+          "value": "150文件（用例、缺陷、测试报告等）",
+          "raw_key": "└─ 测试管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 测试管理：150文件（用例、缺陷、测试报告等）",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─版本管理",
+      "candidates": [
+        {
+          "key": "└─版本管理",
+          "value": "80文件（版本规划、发布说明等）",
+          "raw_key": "└─ 版本管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 版本管理：80文件（版本规划、发布说明等）",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "└─竞品分析",
+      "candidates": [
+        {
+          "key": "└─竞品分析",
+          "value": "120文件（竞品对标、功能对比等）",
+          "raw_key": "└─ 竞品分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "└─ 竞品分析：120文件（竞品对标、功能对比等）",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─产品开发",
+      "candidates": [
+        {
+          "key": "├─产品开发",
+          "value": "120文件（开发任务、技术方案等）",
+          "raw_key": "├─ 产品开发",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品开发：120文件（开发任务、技术方案等）",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─产品文档",
+      "candidates": [
+        {
+          "key": "├─产品文档",
+          "value": "150文件（用户手册、API文档等）",
+          "raw_key": "├─ 产品文档",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品文档：150文件（用户手册、API文档等）",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─产品规划",
+      "candidates": [
+        {
+          "key": "├─产品规划",
+          "value": "120文件（产品战略、路线图、计划等）",
+          "raw_key": "├─ 产品规划",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品规划：120文件（产品战略、路线图、计划等）",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─产品设计",
+      "candidates": [
+        {
+          "key": "├─产品设计",
+          "value": "100文件（原型、交互、UI设计等）",
+          "raw_key": "├─ 产品设计",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 产品设计：100文件（原型、交互、UI设计等）",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─原始文件",
+      "candidates": [
+        {
+          "key": "├─原始文件",
+          "value": "2585个",
+          "raw_key": "├─ 原始文件",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 原始文件：2585个",
+            "location": "line:183"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─发布上线",
+      "candidates": [
+        {
+          "key": "├─发布上线",
+          "value": "100文件（发布计划、灰度方案等）",
+          "raw_key": "├─ 发布上线",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 发布上线：100文件（发布计划、灰度方案等）",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─新增docx",
+      "candidates": [
+        {
+          "key": "├─新增docx",
+          "value": "12个",
+          "raw_key": "├─ 新增DOCX",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 新增DOCX：12个",
+            "location": "line:185"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─新增pptx",
+      "candidates": [
+        {
+          "key": "├─新增pptx",
+          "value": "14个",
+          "raw_key": "├─ 新增PPTX",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 新增PPTX：14个",
+            "location": "line:184"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─用户研究",
+      "candidates": [
+        {
+          "key": "├─用户研究",
+          "value": "80文件（用户画像、访谈、可用性测试）",
+          "raw_key": "├─ 用户研究",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 用户研究：80文件（用户画像、访谈、可用性测试）",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─问题反馈",
+      "candidates": [
+        {
+          "key": "├─问题反馈",
+          "value": "100文件（用户反馈、bug报告等）",
+          "raw_key": "├─ 问题反馈",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 问题反馈：100文件（用户反馈、bug报告等）",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─需求管理",
+      "candidates": [
+        {
+          "key": "├─需求管理",
+          "value": "150文件（PRD、需求分析、优先级评估）",
+          "raw_key": "├─ 需求管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 需求管理：150文件（PRD、需求分析、优先级评估）",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "├─项目管理",
+      "candidates": [
+        {
+          "key": "├─项目管理",
+          "value": "80文件（项目计划、进度跟踪等）",
+          "raw_key": "├─ 项目管理",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "├─ 项目管理：80文件（项目计划、进度跟踪等）",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓业务相关性",
+      "candidates": [
+        {
+          "key": "✓业务相关性",
+          "value": "97%",
+          "raw_key": "✓ 业务相关性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 业务相关性：97%",
+            "location": "line:189"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓内容丰富性",
+      "candidates": [
+        {
+          "key": "✓内容丰富性",
+          "value": "90%",
+          "raw_key": "✓ 内容丰富性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容丰富性：90%",
+            "location": "line:133"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓内容相关性",
+      "candidates": [
+        {
+          "key": "✓内容相关性",
+          "value": "100%",
+          "raw_key": "✓ 内容相关性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容相关性：100%",
+            "location": "line:217"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓内容高度完整",
+      "candidates": [
+        {
+          "key": "✓内容高度完整",
+          "value": "涵盖产品工作的全方位",
+          "raw_key": "✓ 内容高度完整",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 内容高度完整：涵盖产品工作的全方位",
+            "location": "line:244"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓功能覆盖全面",
+      "candidates": [
+        {
+          "key": "✓功能覆盖全面",
+          "value": "从战略到执行的完整系统",
+          "raw_key": "✓ 功能覆盖全面",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 功能覆盖全面：从战略到执行的完整系统",
+            "location": "line:246"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓多样化的文档类型",
+      "candidates": [
+        {
+          "key": "✓多样化的文档类型",
+          "value": "计划、报告、规范、手册等",
+          "raw_key": "✓ 多样化的文档类型",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 多样化的文档类型：计划、报告、规范、手册等",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓完善的评估体系",
+      "candidates": [
+        {
+          "key": "✓完善的评估体系",
+          "value": "包含优先级、风险等级、评分等",
+          "raw_key": "✓ 完善的评估体系",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 完善的评估体系：包含优先级、风险等级、评分等",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓完整的工作流程",
+      "candidates": [
+        {
+          "key": "✓完整的工作流程",
+          "value": "涵盖产品从规划到发布的全过程",
+          "raw_key": "✓ 完整的工作流程",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 完整的工作流程：涵盖产品从规划到发布的全过程",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓工作流完整性",
+      "candidates": [
+        {
+          "key": "✓工作流完整性",
+          "value": "95%",
+          "raw_key": "✓ 工作流完整性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 工作流完整性：95%",
+            "location": "line:130"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓应用价值显著",
+      "candidates": [
+        {
+          "key": "✓应用价值显著",
+          "value": "支持多种使用场景",
+          "raw_key": "✓ 应用价值显著",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 应用价值显著：支持多种使用场景",
+            "location": "line:247"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓数据准确性",
+      "candidates": [
+        {
+          "key": "✓数据准确性",
+          "value": "98%",
+          "raw_key": "✓ 数据准确性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据准确性：98%",
+            "location": "line:185"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓数据真实性",
+      "candidates": [
+        {
+          "key": "✓数据真实性",
+          "value": "100%",
+          "raw_key": "✓ 数据真实性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据真实性：100%",
+            "location": "line:127"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓数据质量优秀",
+      "candidates": [
+        {
+          "key": "✓数据质量优秀",
+          "value": "虚拟数据完全符合真实情况",
+          "raw_key": "✓ 数据质量优秀",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 数据质量优秀：虚拟数据完全符合真实情况",
+            "location": "line:245"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓文件完整性",
+      "candidates": [
+        {
+          "key": "✓文件完整性",
+          "value": "100%",
+          "raw_key": "✓ 文件完整性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 文件完整性：100%",
+            "location": "line:215"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓文档规范性",
+      "candidates": [
+        {
+          "key": "✓文档规范性",
+          "value": "95%",
+          "raw_key": "✓ 文档规范性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 文档规范性：95%",
+            "location": "line:187"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓时间连贯性",
+      "candidates": [
+        {
+          "key": "✓时间连贯性",
+          "value": "100%",
+          "raw_key": "✓ 时间连贯性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 时间连贯性：100%",
+            "location": "line:136"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓时间逻辑性",
+      "candidates": [
+        {
+          "key": "✓时间逻辑性",
+          "value": "99%",
+          "raw_key": "✓ 时间逻辑性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 时间逻辑性：99%",
+            "location": "line:188"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓格式有效性",
+      "candidates": [
+        {
+          "key": "✓格式有效性",
+          "value": "100%",
+          "raw_key": "✓ 格式有效性",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 格式有效性：100%",
+            "location": "line:216"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓流程完整性",
+      "candidates": [
+        {
+          "key": "✓流程完整性",
+          "value": "96%",
+          "raw_key": "✓ 流程完整性",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 流程完整性：96%",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓目录组织",
+      "candidates": [
+        {
+          "key": "✓目录组织",
+          "value": "清晰有序",
+          "raw_key": "✓ 目录组织",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 目录组织：清晰有序",
+            "location": "line:218"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓真实的业务数据",
+      "candidates": [
+        {
+          "key": "✓真实的业务数据",
+          "value": "包含财务预算、用户数据、性能指标等",
+          "raw_key": "✓ 真实的业务数据",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 真实的业务数据：包含财务预算、用户数据、性能指标等",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓详细的时间信息",
+      "candidates": [
+        {
+          "key": "✓详细的时间信息",
+          "value": "包含日期、版本号、截止日期等",
+          "raw_key": "✓ 详细的时间信息",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 详细的时间信息：包含日期、版本号、截止日期等",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "✓超额完成目标",
+      "candidates": [
+        {
+          "key": "✓超额完成目标",
+          "value": "131%完成率",
+          "raw_key": "✓ 超额完成目标",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "✓ 超额完成目标：131%完成率",
+            "location": "line:243"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "【阶段一",
+      "candidates": [
+        {
+          "key": "【阶段一",
+          "value": "初始文件生成】",
+          "raw_key": "【阶段一",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "【阶段一：初始文件生成】",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "【阶段二",
+      "candidates": [
+        {
+          "key": "【阶段二",
+          "value": "异构文件补充】",
+          "raw_key": "【阶段二",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "【阶段二：异构文件补充】",
+            "location": "line:53"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "产品截图(png)",
+      "candidates": [
+        {
+          "key": "产品截图(png)",
+          "value": "23个文件",
+          "raw_key": "- 产品截图 (PNG)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 产品截图 (PNG)：23个文件",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品截图(png)",
+          "value": "21个",
+          "raw_key": "产品截图 (PNG)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品截图 (PNG)：21个",
+            "location": "line:201"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "产品规划与需求",
+      "candidates": [
+        {
+          "key": "产品规划与需求",
+          "value": "270文件（20.6%）",
+          "raw_key": "- 产品规划与需求",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 产品规划与需求：270文件（20.6%）",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "任务",
+      "candidates": [
+        {
+          "key": "任务",
+          "value": "补充多样化文件格式（PPT、DOCX、图片等）",
+          "raw_key": "任务",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务：补充多样化文件格式（PPT、DOCX、图片等）",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优先级维度",
+      "candidates": [
+        {
+          "key": "优先级维度",
+          "value": "按重要程度分类",
+          "raw_key": "- 优先级维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 优先级维度：按重要程度分类",
+            "location": "line:197"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "位置",
+      "candidates": [
+        {
+          "key": "位置",
+          "value": "/chanpin/产品截图/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品截图/",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品文档/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品文档/",
+            "location": "line:110"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品演示/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品演示/",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/sessions/vibrant-nifty-rubin/mnt/bytedance/chanpin/",
+          "raw_key": "位置",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/sessions/vibrant-nifty-rubin/mnt/bytedance/chanpin/",
+            "location": "line:282"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品截图/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品截图/",
+            "location": "line:127"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品文档/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品文档/",
+            "location": "line:76"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "位置",
+          "value": "/chanpin/产品演示/",
+          "raw_key": "位置",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "位置：/chanpin/产品演示/",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "其他文件",
+      "candidates": [
+        {
+          "key": "其他文件",
+          "value": "Shell脚本、日志文件",
+          "raw_key": "- 其他文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 其他文件：Shell脚本、日志文件",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内容",
+      "candidates": [
+        {
+          "key": "内容",
+          "value": "2024年Q1产品路线图、功能目标、KPI指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2024年Q1产品路线图、功能目标、KPI指标",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2025年产品愿景、战略主题、重大计划",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2025年产品愿景、战略主题、重大计划",
+            "location": "line:105"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档、认证方式、可用端点、速率限制",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档、认证方式、可用端点、速率限制",
+            "location": "line:120"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "OKR目标回顾、完成情况、绩效评估",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：OKR目标回顾、完成情况、绩效评估",
+            "location": "line:78"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q2新功能发布、性能改进、增长指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q2新功能发布、性能改进、增长指标",
+            "location": "line:69"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品培训计划、模块内容、培训成效",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品培训计划、模块内容、培训成效",
+            "location": "line:87"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品路线图、战略主题、实施时间表",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品路线图、战略主题、实施时间表",
+            "location": "line:135"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "创建基础文件管理系统，包含多个产品相关模块",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：创建基础文件管理系统，包含多个产品相关模块",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "发布流程、风险管理、灰度发布策略",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：发布流程、风险管理、灰度发布策略",
+            "location": "line:81"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "发布说明、新功能、性能改进、已知问题",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：发布说明、新功能、性能改进、已知问题",
+            "location": "line:129"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "国际化扩展计划、目标市场、本地化策略",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：国际化扩展计划、目标市场、本地化策略",
+            "location": "line:93"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规指南、数据加密、合规清单",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规指南、数据加密、合规清单",
+            "location": "line:126"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规框架、数据保护、审计认证",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规框架、数据保护、审计认证",
+            "location": "line:96"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户上线指南、关键里程碑、支持资源",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户上线指南、关键里程碑、支持资源",
+            "location": "line:138"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户成功策略、留存指标、拓展机会",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户成功策略、留存指标、拓展机会",
+            "location": "line:90"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "市场分析、竞争对手对标、竞争优势",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：市场分析、竞争对手对标、竞争优势",
+            "location": "line:75"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "性能优化计划、技术改进、性能指标",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：性能优化计划、技术改进、性能指标",
+            "location": "line:99"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "故障排除指南、常见问题、解决方案",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：故障排除指南、常见问题、解决方案",
+            "location": "line:132"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "最佳实践、账户管理、数据管理、团队协作",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：最佳实践、账户管理、数据管理、团队协作",
+            "location": "line:141"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "核心功能产品需求文档、功能规格、开发时间表",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：核心功能产品需求文档、功能规格、开发时间表",
+            "location": "line:114"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户入门指南、账户创建、首次登录、基本功能",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户入门指南、账户创建、首次登录、基本功能",
+            "location": "line:117"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户增长策略、获取渠道、LTV/CAC分析",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户增长策略、获取渠道、LTV/CAC分析",
+            "location": "line:102"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户研究方法、用户洞察、满意度数据",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户研究方法、用户洞察、满意度数据",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计规范、色彩方案、排版指南、间距规范",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计规范、色彩方案、排版指南、间距规范",
+            "location": "line:123"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "财务绩效、产品指标、业务总结",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：财务绩效、产品指标、业务总结",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成指南、支持的集成、集成步骤、集成类型",
+          "raw_key": "内容",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成指南、支持的集成、集成步骤、集成类型",
+            "location": "line:144"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2024年OKR回顾、目标完成情况、绩效指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2024年OKR回顾、目标完成情况、绩效指标",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "2025年产品愿景、战略主题、重大计划",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：2025年产品愿景、战略主题、重大计划",
+            "location": "line:68"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档",
+            "location": "line:87"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "API文档界面，包含代码块",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：API文档界面，包含代码块",
+            "location": "line:152"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q1 2024产品路线图、功能目标、关键指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q1 2024产品路线图、功能目标、关键指标",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q1版本发布说明",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q1版本发布说明",
+            "location": "line:99"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q2新功能发布、性能改进、增长指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q2新功能发布、性能改进、增长指标",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "Q3财务绩效、产品指标、业务总结",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：Q3财务绩效、产品指标、业务总结",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "UI图标集合，包含12个彩色图标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：UI图标集合，包含12个彩色图标",
+            "location": "line:186"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品主仪表板，包含多个数据卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品主仪表板，包含多个数据卡片",
+            "location": "line:131"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品发布策略、灰度部署、风险管理",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品发布策略、灰度部署、风险管理",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品培训计划、模块内容、培训成效",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品培训计划、模块内容、培训成效",
+            "location": "line:44"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "产品路线图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：产品路线图",
+            "location": "line:107"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "入职流程图，包含步骤和箭头",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：入职流程图，包含步骤和箭头",
+            "location": "line:168"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "分析和图表界面，包含柱状图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：分析和图表界面，包含柱状图",
+            "location": "line:134"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "功能对比表，包含对比数据",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：功能对比表，包含对比数据",
+            "location": "line:161"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "国际化扩展计划、目标市场、本地化策略",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：国际化扩展计划、目标市场、本地化策略",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规指南",
+            "location": "line:95"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "安全合规框架、数据保护、认证证书",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：安全合规框架、数据保护、认证证书",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "定价页面，包含定价卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：定价页面，包含定价卡片",
+            "location": "line:171"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户上线指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户上线指南",
+            "location": "line:111"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "客户成功战略、留存率、扩展机会",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：客户成功战略、留存率、扩展机会",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "工作流程图，包含流程框和箭头",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：工作流程图，包含流程框和箭头",
+            "location": "line:158"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "性能优化计划、技术改进、性能指标",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：性能优化计划、技术改进、性能指标",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机主屏幕设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机主屏幕设计",
+            "location": "line:180"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机应用界面，包含导航和内容区",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机应用界面，包含导航和内容区",
+            "location": "line:155"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "手机设置屏幕设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：手机设置屏幕设计",
+            "location": "line:183"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "报告概览，包含多个报告卡片",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：报告概览，包含多个报告卡片",
+            "location": "line:143"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "故障排除指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：故障排除指南",
+            "location": "line:103"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "数据可视化，包含折线图和饼图",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：数据可视化，包含折线图和饼图",
+            "location": "line:174"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "最佳实践指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：最佳实践指南",
+            "location": "line:115"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "核心功能产品需求文档",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：核心功能产品需求文档",
+            "location": "line:79"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户入门指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户入门指南",
+            "location": "line:83"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户增长策略、获取渠道、LTV/CAC分析",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户增长策略、获取渠道、LTV/CAC分析",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户研究方法、用户洞察、满意度评分",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户研究方法、用户洞察、满意度评分",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "用户管理界面，包含表格和用户列表",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：用户管理界面，包含表格和用户列表",
+            "location": "line:137"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "登录屏幕设计，包含品牌和表单",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：登录屏幕设计，包含品牌和表单",
+            "location": "line:165"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "竞争对手分析、市场概览、竞争优势",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：竞争对手分析、市场概览、竞争优势",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设置面板，包含菜单项和配置区域",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设置面板，包含菜单项和配置区域",
+            "location": "line:140"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计系统参考，包含色彩和组件",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计系统参考，包含色彩和组件",
+            "location": "line:192"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "设计规范和UI指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：设计规范和UI指南",
+            "location": "line:91"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "通知界面，包含通知列表",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：通知界面，包含通知列表",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "邮件模板设计",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：邮件模板设计",
+            "location": "line:177"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成指南",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成指南",
+            "location": "line:119"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "集成界面，包含集成应用磁贴",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：集成界面，包含集成应用磁贴",
+            "location": "line:149"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容",
+          "value": "页面线框图，包含布局结构",
+          "raw_key": "内容",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内容：页面线框图，包含布局结构",
+            "location": "line:189"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "初始文件统计",
+      "candidates": [
+        {
+          "key": "初始文件统计",
+          "value": "2585个",
+          "raw_key": "初始文件统计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "初始文件统计：2585个",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "初始需求",
+      "candidates": [
+        {
+          "key": "初始需求",
+          "value": "至少1000个文件",
+          "raw_key": "初始需求",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "初始需求：至少1000个文件",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能维度",
+      "candidates": [
+        {
+          "key": "功能维度",
+          "value": "按产品工作职能分类",
+          "raw_key": "- 功能维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 功能维度：按产品工作职能分类",
+            "location": "line:194"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布与版本",
+      "candidates": [
+        {
+          "key": "发布与版本",
+          "value": "180文件（13.7%）",
+          "raw_key": "- 发布与版本",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 发布与版本：180文件（13.7%）",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "可用性",
+      "candidates": [
+        {
+          "key": "可用性",
+          "value": "立即可用，无需后续处理",
+          "raw_key": "可用性",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "可用性：立即可用，无需后续处理",
+            "location": "line:285"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "增长率",
+      "candidates": [
+        {
+          "key": "增长率",
+          "value": "+49个文件 (+1.9%)",
+          "raw_key": "增长率",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "增长率：+49个文件 (+1.9%)",
+            "location": "line:188"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "大小",
+      "candidates": [
+        {
+          "key": "大小",
+          "value": "11MB",
+          "raw_key": "大小",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "大小：11MB",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "完成日期",
+      "candidates": [
+        {
+          "key": "完成日期",
+          "value": "2024-02-10",
+          "raw_key": "完成日期",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "完成日期：2024-02-10",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "完成进度",
+      "candidates": [
+        {
+          "key": "完成进度",
+          "value": "131%（超额完成31%）",
+          "raw_key": "完成进度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "完成进度：131%（超额完成31%）",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "小计",
+      "candidates": [
+        {
+          "key": "小计",
+          "value": "12个DOCX文件，共99KB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：12个DOCX文件，共99KB",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "14个PPTX文件，共1.1MB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：14个PPTX文件，共1.1MB",
+            "location": "line:107"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "23个PNG文件，共220KB",
+          "raw_key": "小计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：23个PNG文件，共220KB",
+            "location": "line:176"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "11个DOCX文件，总大小91KB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：11个DOCX文件，总大小91KB",
+            "location": "line:122"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "14个PPTX文件，总大小1.1MB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：14个PPTX文件，总大小1.1MB",
+            "location": "line:71"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "小计",
+          "value": "21个PNG文件，总大小200KB",
+          "raw_key": "小计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "小计：21个PNG文件，总大小200KB",
+            "location": "line:194"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "幻灯片数",
+      "candidates": [
+        {
+          "key": "幻灯片数",
+          "value": "4张",
+          "raw_key": "幻灯片数",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "幻灯片数：4张",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总大小",
+      "candidates": [
+        {
+          "key": "总大小",
+          "value": "约50-60MB (包括各类文档和图片)",
+          "raw_key": "总大小",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总大小：约50-60MB (包括各类文档和图片)",
+            "location": "line:284"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总数",
+      "candidates": [
+        {
+          "key": "总数",
+          "value": "2634个文件",
+          "raw_key": "总数",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总数：2634个文件",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总文件数",
+      "candidates": [
+        {
+          "key": "总文件数",
+          "value": "1310个",
+          "raw_key": "总文件数",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总文件数：1310个",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总文件数",
+          "value": "2634个",
+          "raw_key": "总文件数",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总文件数：2634个",
+            "location": "line:283"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总目录数",
+      "candidates": [
+        {
+          "key": "总目录数",
+          "value": "105个",
+          "raw_key": "总目录数",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总目录数：105个",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总计",
+      "candidates": [
+        {
+          "key": "总计",
+          "value": "13种不同文件格式",
+          "raw_key": "总计",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总计：13种不同文件格式",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总计",
+          "value": "46个新增文件",
+          "raw_key": "总计",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总计：46个新增文件",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告生成时间",
+      "candidates": [
+        {
+          "key": "报告生成时间",
+          "value": "2024-02-10",
+          "raw_key": "报告生成时间",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告生成时间：2024-02-10",
+            "location": "line:288"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "数据文件",
+      "candidates": [
+        {
+          "key": "数据文件",
+          "value": "CSV、SQL格式",
+          "raw_key": "- 数据文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 数据文件：CSV、SQL格式",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文件名称",
+      "candidates": [
+        {
+          "key": "文件名称",
+          "value": "使用英文和中文命名规范",
+          "raw_key": "- 文件名称",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文件名称：使用英文和中文命名规范",
+            "location": "line:268"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文件总数",
+      "candidates": [
+        {
+          "key": "文件总数",
+          "value": "2634个",
+          "raw_key": "文件总数",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文件总数：2634个",
+            "location": "line:182"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文本文件",
+      "candidates": [
+        {
+          "key": "文本文件",
+          "value": "1310个（100%）",
+          "raw_key": "文本文件",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "文本文件：1310个（100%）",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文本文件(txt)",
+      "candidates": [
+        {
+          "key": "文本文件(txt)",
+          "value": "包含在原始2585个文件中",
+          "raw_key": "- 文本文件 (TXT)",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文本文件 (TXT)：包含在原始2585个文件中",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档与支撑",
+      "candidates": [
+        {
+          "key": "文档与支撑",
+          "value": "170文件（13.0%）",
+          "raw_key": "- 文档与支撑",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文档与支撑：170文件（13.0%）",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文档文件",
+      "candidates": [
+        {
+          "key": "文档文件",
+          "value": "Markdown、HTML格式",
+          "raw_key": "- 文档文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 文档文件：Markdown、HTML格式",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "新增文件总大小",
+      "candidates": [
+        {
+          "key": "新增文件总大小",
+          "value": "1.4MB",
+          "raw_key": "新增文件总大小",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增文件总大小：1.4MB",
+            "location": "line:205"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "新增文件总数",
+      "candidates": [
+        {
+          "key": "新增文件总数",
+          "value": "48个",
+          "raw_key": "新增文件总数",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增文件总数：48个",
+            "location": "line:204"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "时间",
+      "candidates": [
+        {
+          "key": "时间",
+          "value": "2024年2月10日",
+          "raw_key": "时间",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "时间：2024年2月10日",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "时间维度",
+      "candidates": [
+        {
+          "key": "时间维度",
+          "value": "按计划期限分类",
+          "raw_key": "- 时间维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 时间维度：按计划期限分类",
+            "location": "line:195"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "最后修改",
+      "candidates": [
+        {
+          "key": "最后修改",
+          "value": "2024-02-10",
+          "raw_key": "最后修改",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后修改：2024-02-10",
+            "location": "line:85"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "最终成果",
+      "candidates": [
+        {
+          "key": "最终成果",
+          "value": "1310个文件 ✓",
+          "raw_key": "最终成果",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最终成果：1310个文件 ✓",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "格式",
+      "candidates": [
+        {
+          "key": "格式",
+          "value": "13种不同格式",
+          "raw_key": "格式",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "格式：13种不同格式",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "流程维度",
+      "candidates": [
+        {
+          "key": "流程维度",
+          "value": "按工作流程分类",
+          "raw_key": "- 流程维度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 流程维度：按工作流程分类",
+            "location": "line:196"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "测试与质量",
+      "candidates": [
+        {
+          "key": "测试与质量",
+          "value": "150文件（11.5%）",
+          "raw_key": "- 测试与质量",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试与质量：150文件（11.5%）",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "清单生成时间",
+      "candidates": [
+        {
+          "key": "清单生成时间",
+          "value": "2024-02-10",
+          "raw_key": "清单生成时间",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "清单生成时间：2024-02-10",
+            "location": "line:221"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：完成",
+            "location": "line:222"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "生成时间",
+      "candidates": [
+        {
+          "key": "生成时间",
+          "value": "2024-02-10",
+          "raw_key": "生成时间",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "生成时间：2024-02-10",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "目录深度",
+      "candidates": [
+        {
+          "key": "目录深度",
+          "value": "最多3层",
+          "raw_key": "目录深度",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目录深度：最多3层",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "目录结构",
+      "candidates": [
+        {
+          "key": "目录结构",
+          "value": "多层级文件夹组织，模拟真实企业结构",
+          "raw_key": "- 目录结构",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 目录结构：多层级文件夹组织，模拟真实企业结构",
+            "location": "line:270"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "研究与分析",
+      "candidates": [
+        {
+          "key": "研究与分析",
+          "value": "200文件（15.3%）",
+          "raw_key": "- 研究与分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 研究与分析：200文件（15.3%）",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "竞品分析",
+      "candidates": [
+        {
+          "key": "竞品分析",
+          "value": "120文件（9.2%）",
+          "raw_key": "- 竞品分析",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 竞品分析：120文件（9.2%）",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "章节",
+      "candidates": [
+        {
+          "key": "章节",
+          "value": "安全标准、数据加密、合规清单",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：安全标准、数据加密、合规清单",
+            "location": "line:96"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "常见问题、解决方案、集成问题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：常见问题、解决方案、集成问题",
+            "location": "line:104"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "战略愿景、Q1-Q4计划、2025主题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：战略愿景、Q1-Q4计划、2025主题",
+            "location": "line:108"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "执行摘要、功能概览、功能规范、时间表",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：执行摘要、功能概览、功能规范、时间表",
+            "location": "line:80"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、支持的集成、集成步骤、集成类型",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、支持的集成、集成步骤、集成类型",
+            "location": "line:120"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、新功能、性能改进、已知问题",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、新功能、性能改进、已知问题",
+            "location": "line:100"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "概览、认证、可用端点、速率限制",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：概览、认证、可用端点、速率限制",
+            "location": "line:88"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "欢迎、上线时间表、关键里程碑、支持资源",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：欢迎、上线时间表、关键里程碑、支持资源",
+            "location": "line:112"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "欢迎、账户创建、首次登录、关键功能",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：欢迎、账户创建、首次登录、关键功能",
+            "location": "line:84"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "设计理念、色彩方案、排版、间距",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：设计理念、色彩方案、排版、间距",
+            "location": "line:92"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "章节",
+          "value": "账户管理、数据管理、团队协作、安全实践",
+          "raw_key": "章节",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "章节：账户管理、数据管理、团队协作、安全实践",
+            "location": "line:116"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "系统状态",
+      "candidates": [
+        {
+          "key": "系统状态",
+          "value": "✓ 完成",
+          "raw_key": "系统状态",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "系统状态：✓ 完成",
+            "location": "line:289"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "虚拟数据",
+      "candidates": [
+        {
+          "key": "虚拟数据",
+          "value": "随机生成逼真的业务数据",
+          "raw_key": "- 虚拟数据",
+          "source_file": "文件管理系统完成总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 虚拟数据：随机生成逼真的业务数据",
+            "location": "line:269"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计与开发",
+      "candidates": [
+        {
+          "key": "设计与开发",
+          "value": "220文件（16.8%）",
+          "raw_key": "- 设计与开发",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计与开发：220文件（16.8%）",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "详见",
+      "candidates": [
+        {
+          "key": "详见",
+          "value": "文件管理系统完成总结.txt",
+          "raw_key": "详见",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "详见：文件管理系统完成总结.txt",
+            "location": "line:88"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "说明文档(txt)",
+      "candidates": [
+        {
+          "key": "说明文档(txt)",
+          "value": "2个",
+          "raw_key": "说明文档 (TXT)",
+          "source_file": "新增文件清单.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明文档 (TXT)：2个",
+            "location": "line:202"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "配置文件",
+      "candidates": [
+        {
+          "key": "配置文件",
+          "value": "JSON、XML、YAML格式",
+          "raw_key": "- 配置文件",
+          "source_file": "README.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 配置文件：JSON、XML、YAML格式",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟内容完整",
+      "candidates": [
+        {
+          "key": "🌟内容完整",
+          "value": "涵盖产品工作的全方位内容",
+          "raw_key": "🌟 内容完整",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 内容完整 : 涵盖产品工作的全方位内容",
+            "location": "line:142"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟应用价值高",
+      "candidates": [
+        {
+          "key": "🌟应用价值高",
+          "value": "可用于培训、演示、测试、参考",
+          "raw_key": "🌟 应用价值高",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 应用价值高 : 可用于培训、演示、测试、参考",
+            "location": "line:145"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟扩展性强",
+      "candidates": [
+        {
+          "key": "🌟扩展性强",
+          "value": "易于增加、修改、完善内容",
+          "raw_key": "🌟 扩展性强",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 扩展性强 : 易于增加、修改、完善内容",
+            "location": "line:146"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟数据逼真",
+      "candidates": [
+        {
+          "key": "🌟数据逼真",
+          "value": "完全模拟真实企业产品部门运作",
+          "raw_key": "🌟 数据逼真",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 数据逼真 : 完全模拟真实企业产品部门运作",
+            "location": "line:143"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟易于查找",
+      "candidates": [
+        {
+          "key": "🌟易于查找",
+          "value": "多维度分类，清晰的目录结构",
+          "raw_key": "🌟 易于查找",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 易于查找 : 多维度分类，清晰的目录结构",
+            "location": "line:144"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟管理规范",
+      "candidates": [
+        {
+          "key": "🌟管理规范",
+          "value": "体现现代互联网企业的最佳实践",
+          "raw_key": "🌟 管理规范",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 管理规范 : 体现现代互联网企业的最佳实践",
+            "location": "line:147"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "🌟规模庞大",
+      "candidates": [
+        {
+          "key": "🌟规模庞大",
+          "value": "1310个文件，105个目录",
+          "raw_key": "🌟 规模庞大",
+          "source_file": "产品岗位文件管理系统总结.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "🌟 规模庞大 : 1310个文件，105个目录",
+            "location": "line:141"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

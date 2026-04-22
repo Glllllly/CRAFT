@@ -1,0 +1,174 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Job Title / Position",
+      "value_text": "Senior Data Analyst"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Business Intelligence"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Work E-mail",
+      "value_text": "s.jenkins@company.com"
+    },
+    {
+      "key_text": "Work Phone",
+      "value_text": "555-012-9988"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Manager E-mail",
+      "value_text": "m.thorne@company.com"
+    },
+    {
+      "key_text": "Event / Workshop Name",
+      "value_text": "Advanced Predictive Modeling Workshop"
+    },
+    {
+      "key_text": "Date(s)",
+      "value_text": "November 12-14, 2023"
+    },
+    {
+      "key_text": "Time (Start – End)",
+      "value_text": "09:00 AM – 04:30 PM"
+    },
+    {
+      "key_text": "Venue / Location (or \"Online\")",
+      "value_text": "Tech Hub Conference Center"
+    },
+    {
+      "key_text": "Platform / Room Number",
+      "value_text": "Room 4B"
+    },
+    {
+      "key_text": "Facilitator / Trainer Name",
+      "value_text": "Dr. Elena Rossi"
+    },
+    {
+      "key_text": "Organising Department / Provider",
+      "value_text": "Data Science Institute"
+    },
+    {
+      "key_text": "Registration Fee $",
+      "value_text": "850.00"
+    },
+    {
+      "key_text": "Cost Centre Code",
+      "value_text": "CC-990-BI"
+    },
+    {
+      "key_text": "Registration Type: Required / Mandatory",
+      "value_text": null
+    },
+    {
+      "key_text": "Registration Type: Manager-Recommended",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Registration Type: Self-Initiated",
+      "value_text": null
+    },
+    {
+      "key_text": "How does this event support your current role or development plan?",
+      "value_text": "Enhances my ability to build predictive sales models for the upcoming fiscal year."
+    },
+    {
+      "key_text": "Key Learning Objectives You Expect to Achieve",
+      "value_text": "Mastering R-based forecasting algorithms and improving model accuracy metrics."
+    },
+    {
+      "key_text": "Attendance Mode: In-Person",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Attendance Mode: Virtual",
+      "value_text": null
+    },
+    {
+      "key_text": "Attendance Mode: Hybrid — specify below",
+      "value_text": null
+    },
+    {
+      "key_text": "Hybrid or Accessibility Requirements",
+      "value_text": "N/A"
+    },
+    {
+      "key_text": "Printed Materials",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Laptop",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Parking",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Dietary Requirements  (if catering)",
+      "value_text": "Vegetarian"
+    },
+    {
+      "key_text": "Accessibility / Accessibility Needs",
+      "value_text": "None"
+    },
+    {
+      "key_text": "How will you share learnings with your team after attending?",
+      "value_text": "I will host a 30-minute knowledge-sharing session during our next team meeting."
+    },
+    {
+      "key_text": "Follow-up Action Plan Agreed with Manager?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Review Date",
+      "value_text": "2023-12-01"
+    },
+    {
+      "key_text": "Participant Signature",
+      "value_text": "Signed: Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Manager Approval",
+      "value_text": "Approved: Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "L&D Coordinator",
+      "value_text": "Pending"
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Sarah Jenkins, a Senior Data Analyst in the Business Intelligence department (Employee ID EMP-8842), is registering for the "Advanced Predictive Modeling Workshop" hosted by the Data Science Institute. The workshop will take place from November 12th to 14th, 2023, at the Tech Hub Conference Center in Room 4B, facilitated by Dr. Elena Rossi. The registration fee is $850.00, to be charged to cost centre CC-990-BI. 
+
+This is a manager-recommended training, supported by Sarah's manager, Marcus Thorne, to help her improve her predictive sales modeling skills. Sarah plans to attend in-person and requires printed materials, a laptop, and parking. She has noted a vegetarian dietary requirement. Following the event, she has agreed to present her learnings to her team, with a follow-up review scheduled with her manager for December 1st, 2023. The form has been signed by Sarah and approved by Marcus Thorne, and is currently awaiting processing by the L&D Coordinator.

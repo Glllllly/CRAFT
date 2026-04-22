@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "0483e3d4-3a25-40d0-82c3-d681a4cd27b0.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "(Cadet\u0027s Name)",
+                      "value_cell":  "A19:F19",
+                      "value":  "Alexander J. Thompson"
+                  },
+                  {
+                      "label":  "(Name of School)",
+                      "value_cell":  "E22:J22",
+                      "value":  "University of Virginia"
+                  },
+                  {
+                      "label":  "(Name of Parents)",
+                      "value_cell":  "A27:I27",
+                      "value":  "Robert and Martha Thompson"
+                  },
+                  {
+                      "label":  "Signature of Cadet",
+                      "value_cell":  "A36:F36",
+                      "value":  "Alexander J. Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "H36:J36",
+                      "value":  "September 12, 2023"
+                  },
+                  {
+                      "label":  "(Name of School)",
+                      "value_cell":  "A45:G45",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Signature of Cadet",
+                      "value_cell":  "A55:F55",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "H55:J55",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,170 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan B. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-884291"
+    },
+    {
+      "key_text": "Current Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Developer"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Current Work Location (City, Site)",
+      "value_text": "Austin, TX - North Campus"
+    },
+    {
+      "key_text": "New Work Location (City, Site)",
+      "value_text": "Seattle, WA - HQ"
+    },
+    {
+      "key_text": "Current Home Address",
+      "value_text": "123 Maple St, Austin, TX 78701"
+    },
+    {
+      "key_text": "Target Address / City",
+      "value_text": "456 Pine Ave, Seattle, WA 98101"
+    },
+    {
+      "key_text": "Proposed Relocation Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Latest Acceptable Date",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "Domestic",
+      "value_text": "X"
+    },
+    {
+      "key_text": "International",
+      "value_text": null
+    },
+    {
+      "key_text": "Temporary Assignment",
+      "value_text": null
+    },
+    {
+      "key_text": "Distance of Relocation (miles / km)",
+      "value_text": "2,100 miles"
+    },
+    {
+      "key_text": "Estimated Travel Time to New Site",
+      "value_text": "5 hours flight"
+    },
+    {
+      "key_text": "Business Need",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Promotion / New Role",
+      "value_text": null
+    },
+    {
+      "key_text": "Employee Request",
+      "value_text": null
+    },
+    {
+      "key_text": "Additional Context / Business Justification",
+      "value_text": "Transfer required to support the Cloud Infrastructure team expansion at HQ."
+    },
+    {
+      "key_text": "Marital / Partnership Status",
+      "value_text": "Married"
+    },
+    {
+      "key_text": "Number of Dependants Moving",
+      "value_text": "2"
+    },
+    {
+      "key_text": "School Search",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Spousal Job Assistance",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Home Sale Support",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Relocation Package Tier (A / B / C)",
+      "value_text": "Tier A"
+    },
+    {
+      "key_text": "Approved Budget $",
+      "value_text": "15,000"
+    },
+    {
+      "key_text": "Lump Sum Payment $",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "Actual Cost Estimate $",
+      "value_text": "14,200"
+    },
+    {
+      "key_text": "Itemised Major Cost Components",
+      "value_text": "Moving services, temporary housing, flight expenses, realtor fees."
+    },
+    {
+      "key_text": "Tax Gross-Up Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Payroll Briefing Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan B. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-01"
+    },
+    {
+      "key_text": "HR Business Partner",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-03"
+    },
+    {
+      "key_text": "Finance / Budget Owner",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-04"
+    },
+    {
+      "key_text": "VP / Approving Executive",
+      "value_text": "Susan V. Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-05"
+    }
+  ]
+}
+
+Narrative:
+This relocation form details the transfer of Jonathan B. Miller (ID: EMP-884291), a Senior Developer from the Software Engineering department, managed by Sarah Jenkins. Jonathan is moving from the North Campus in Austin, TX, to the company headquarters in Seattle, WA. The move is classified as a domestic relocation driven by business needs, specifically to support the expansion of the Cloud Infrastructure team. The relocation is scheduled to occur between November 1st and November 15th, 2023.
+
+Jonathan is married with two dependents and has requested support for school searching, spousal job assistance, and home sale services. He has been assigned a Tier A relocation package with an approved budget of $15,000, including a $5,000 lump sum payment. The total estimated cost is $14,200, covering moving services, temporary housing, travel, and real estate fees. Tax gross-up is required, and the payroll briefing is scheduled for October 15, 2023. The document was signed by Jonathan on October 1st and received approvals from HR, Finance, and the VP between October 3rd and October 5th, 2023.

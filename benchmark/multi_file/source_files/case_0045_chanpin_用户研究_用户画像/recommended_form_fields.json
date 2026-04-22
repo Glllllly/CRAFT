@@ -1,0 +1,34 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "地域",
+                                   "selected_value":  "一线城市",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "学历",
+                                   "selected_value":  "本科",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "性别",
+                                   "selected_value":  "男",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "主要痛点",
+                                   "selected_value":  "易用性不足",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "使用频率",
+                                   "selected_value":  "高频",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "建议新增功能",
+                                   "selected_value":  "功能X，功能Y",
+                                   "conflict":  false
+                               }
+                           ]
+}

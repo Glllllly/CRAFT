@@ -1,0 +1,140 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name",
+      "value_text": "Elena Marie Rodriguez"
+    },
+    {
+      "key_text": "Date of Birth mm/dd/yyyy",
+      "value_text": "05/14/1992"
+    },
+    {
+      "key_text": "Address",
+      "value_text": "452 Oakwood Avenue"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Portland, OR 97205"
+    },
+    {
+      "key_text": "Phone Number",
+      "value_text": "(503) 555-0182"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "elena.rodriguez@email.com"
+    },
+    {
+      "key_text": "Organisation / School / Employer Affiliation (if applicable)",
+      "value_text": "Portland Creative Collective"
+    },
+    {
+      "key_text": "Description of Photo / Video Session or Event",
+      "value_text": "Promotional campaign for local art gallery exhibit"
+    },
+    {
+      "key_text": "Date of Session / Event",
+      "value_text": "10/12/2023"
+    },
+    {
+      "key_text": "Location",
+      "value_text": "Gallery 42, Portland"
+    },
+    {
+      "key_text": "Photographer / Videographer Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Organisation Requesting Release",
+      "value_text": "Portland Creative Collective"
+    },
+    {
+      "key_text": "Website",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Social Media",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Print Materials",
+      "value_text": null
+    },
+    {
+      "key_text": "Instagram",
+      "value_text": "X"
+    },
+    {
+      "key_text": "LinkedIn",
+      "value_text": null
+    },
+    {
+      "key_text": "Facebook",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Unpaid / Voluntary",
+      "value_text": null
+    },
+    {
+      "key_text": "Paid — Amount:",
+      "value_text": "$250.00"
+    },
+    {
+      "key_text": "In-Kind (specify below)",
+      "value_text": null
+    },
+    {
+      "key_text": "Compensation Detail (if paid or in-kind)",
+      "value_text": "Payment for half-day session fee"
+    },
+    {
+      "key_text": "Any Restrictions on Use",
+      "value_text": "Not to be used for political advertisements"
+    },
+    {
+      "key_text": "Expiry Date of Consent (leave blank for perpetual)",
+      "value_text": null
+    },
+    {
+      "key_text": "Territory (leave blank for worldwide)",
+      "value_text": null
+    },
+    {
+      "key_text": "Parent / Guardian Full Name",
+      "value_text": null
+    },
+    {
+      "key_text": "Relationship to Minor",
+      "value_text": null
+    },
+    {
+      "key_text": "Parent / Guardian Signature",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Subject Signature (or Guardian if minor)",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/12/2023"
+    },
+    {
+      "key_text": "Authorised Representative",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/12/2023"
+    }
+  ]
+}
+
+Narrative:
+This photo and video release form is filled out for Elena Marie Rodriguez, born on May 14, 1992. Elena resides at 452 Oakwood Avenue in Portland, OR 97205, and can be reached at (503) 555-0182 or elena.rodriguez@email.com. She is affiliated with the Portland Creative Collective. The release covers a promotional campaign for a local art gallery exhibit that took place on October 12, 2023, at Gallery 42 in Portland, captured by photographer Marcus Thorne for the Portland Creative Collective. The authorized usage includes the organization's website and social media platforms, specifically Instagram and Facebook. Elena received a payment of $250.00 for her participation in the half-day session. There is a restriction stating the images cannot be used for political advertisements, and the consent is otherwise perpetual and worldwide. As Elena is an adult, the minor consent section is left blank. The form is signed by Elena Rodriguez on October 12, 2023, and countersigned by authorized representative Sarah Jenkins on the same date.

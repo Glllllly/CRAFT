@@ -1,0 +1,206 @@
+{
+  "excel": "case_0296_yunyin_vendor-management__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "vendorid",
+      "value_cell": "D6:H6",
+      "value": "VEND_${i}"
+    },
+    {
+      "label": "vendorname",
+      "value_cell": "M6:Q6",
+      "value": "Vendor Company ${i}"
+    },
+    {
+      "label": "vendortype",
+      "value_cell": "D9:H9",
+      "value": "Software / Service / Hardware"
+    },
+    {
+      "label": "contactinfo.primarycontact",
+      "value_cell": "M9:Q9",
+      "value": "John Smith"
+    },
+    {
+      "label": "contactinfo.email",
+      "value_cell": "D12:H12",
+      "value": "contact@vendor${i}.com"
+    },
+    {
+      "label": "contactinfo.phone",
+      "value_cell": "M12:Q12",
+      "value": "+1-555-0100"
+    },
+    {
+      "label": "contactinfo.address",
+      "value_cell": "D15:H15",
+      "value": "123 Tech Street, City, State"
+    },
+    {
+      "label": "servicedetails.servicetype",
+      "value_cell": "D20:H20",
+      "value": "Marketing Automation"
+    },
+    {
+      "label": "servicetype",
+      "value_cell": "M20:Q20",
+      "value": "Marketing Automation"
+    },
+    {
+      "label": "servicedetails.servicelevel",
+      "value_cell": "D23:H23",
+      "value": "Standard"
+    },
+    {
+      "label": "servicelevel",
+      "value_cell": "M23:Q23",
+      "value": "Standard"
+    },
+    {
+      "label": "servicedetails.supporthours",
+      "value_cell": "D26:H26",
+      "value": "24/7"
+    },
+    {
+      "label": "servicedetails.uptimeguarantee",
+      "value_cell": "M26:Q26",
+      "value": "99.9%"
+    },
+    {
+      "label": "contractdetails.startdate",
+      "value_cell": "D31:H31",
+      "value": "2024-02-01"
+    },
+    {
+      "label": "startdate",
+      "value_cell": "M31:Q31",
+      "value": "2024-02-01"
+    },
+    {
+      "label": "contractdetails.enddate",
+      "value_cell": "D34:H34",
+      "value": "2025-01-31"
+    },
+    {
+      "label": "enddate",
+      "value_cell": "M34:Q34",
+      "value": "2025-01-31"
+    },
+    {
+      "label": "contractdetails.autorenew",
+      "value_cell": "D37:H37",
+      "value": "True"
+    },
+    {
+      "label": "autorenew",
+      "value_cell": "M37:Q37",
+      "value": "True"
+    },
+    {
+      "label": "contractdetails.renewalnotice",
+      "value_cell": "D40:H40",
+      "value": "60 days"
+    },
+    {
+      "label": "contractdetails.terminationclause",
+      "value_cell": "M40:Q40",
+      "value": "30 days notice"
+    },
+    {
+      "label": "pricing.contractterm",
+      "value_cell": "D43:H43",
+      "value": "12 months"
+    },
+    {
+      "label": "contractterm",
+      "value_cell": "M43:Q43",
+      "value": "12 months"
+    },
+    {
+      "label": "pricing.setupfee",
+      "value_cell": "D48:H48",
+      "value": "1000"
+    },
+    {
+      "label": "setupfee",
+      "value_cell": "M48:Q48",
+      "value": "1000"
+    },
+    {
+      "label": "pricing.monthlycost",
+      "value_cell": "D51:H51",
+      "value": "5000"
+    },
+    {
+      "label": "monthlycost",
+      "value_cell": "M51:Q51",
+      "value": "5000"
+    },
+    {
+      "label": "pricing.annualcost",
+      "value_cell": "D54:H54",
+      "value": "50000"
+    },
+    {
+      "label": "annualcost",
+      "value_cell": "M54:Q54",
+      "value": "50000"
+    },
+    {
+      "label": "performance.overallrating",
+      "value_cell": "D59:H59",
+      "value": "4.5"
+    },
+    {
+      "label": "performance.uptimeactual",
+      "value_cell": "M59:Q59",
+      "value": "99.95%"
+    },
+    {
+      "label": "performance.responsetime",
+      "value_cell": "D62:H62",
+      "value": "2 hours"
+    },
+    {
+      "label": "responsetime",
+      "value_cell": "M62:Q62",
+      "value": "2 hours"
+    },
+    {
+      "label": "performance.issueresolution",
+      "value_cell": "D65:H65",
+      "value": "85% same day"
+    },
+    {
+      "label": "relationship.accountmanager",
+      "value_cell": "D70:H70",
+      "value": "Jane Doe"
+    },
+    {
+      "label": "relationship.satisfaction",
+      "value_cell": "M70:Q70",
+      "value": "High"
+    },
+    {
+      "label": "relationship.lastreview",
+      "value_cell": "D73:H73",
+      "value": "2024-02-01"
+    },
+    {
+      "label": "lastreview",
+      "value_cell": "M73:Q73",
+      "value": "2024-02-01"
+    },
+    {
+      "label": "relationship.nextreview",
+      "value_cell": "D76:H76",
+      "value": "2024-05-01"
+    },
+    {
+      "label": "nextreview",
+      "value_cell": "M76:Q76",
+      "value": "2024-05-01"
+    }
+  ]
+}

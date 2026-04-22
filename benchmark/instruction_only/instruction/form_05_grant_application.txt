@@ -1,0 +1,148 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "PI Full Name",
+      "value_text": "Dr. Elena R. Vance"
+    },
+    {
+      "key_text": "Faculty / Staff ID",
+      "value_text": "FA-8829401"
+    },
+    {
+      "key_text": "Department / School",
+      "value_text": "Department of Biomedical Engineering"
+    },
+    {
+      "key_text": "Academic Rank / Title",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "Office Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "PI E-mail Address",
+      "value_text": "e.vance@university.edu"
+    },
+    {
+      "key_text": "Co-Investigator(s)",
+      "value_text": "Dr. Marcus Thorne"
+    },
+    {
+      "key_text": "Co-I Department(s)",
+      "value_text": "Department of Computer Science"
+    },
+    {
+      "key_text": "Project / Grant Title",
+      "value_text": "AI-Driven Predictive Modeling for Early Neural Degeneration Detection"
+    },
+    {
+      "key_text": "Funding Agency / Sponsor",
+      "value_text": "National Science Foundation"
+    },
+    {
+      "key_text": "Program / Mechanism",
+      "value_text": "Smart Health Initiative"
+    },
+    {
+      "key_text": "Proposed Start Date",
+      "value_text": "09/01/2024"
+    },
+    {
+      "key_text": "Proposed End Date",
+      "value_text": "08/31/2026"
+    },
+    {
+      "key_text": "Project Duration (months)",
+      "value_text": "24"
+    },
+    {
+      "key_text": "Total Amount Requested  $",
+      "value_text": "450,000"
+    },
+    {
+      "key_text": "Indirect Cost Rate  %",
+      "value_text": "52.5"
+    },
+    {
+      "key_text": "Personnel (Salaries & Benefits)",
+      "value_text": "280,000"
+    },
+    {
+      "key_text": "Consultant / Subcontract Costs",
+      "value_text": "20,000"
+    },
+    {
+      "key_text": "Materials & Supplies",
+      "value_text": "50,000"
+    },
+    {
+      "key_text": "Travel",
+      "value_text": "15,000"
+    },
+    {
+      "key_text": "Other Direct Costs",
+      "value_text": "85,000"
+    },
+    {
+      "key_text": "Total Direct Costs",
+      "value_text": "450,000"
+    },
+    {
+      "key_text": "Total Budget",
+      "value_text": "686,250"
+    },
+    {
+      "key_text": "Lay Summary (250 words max) — describe aims, methods, and impact",
+      "value_text": "This project aims to develop a machine learning framework to identify early biomarkers of neural degeneration using longitudinal imaging data. By applying deep learning algorithms to multi-modal datasets, we seek to improve diagnostic accuracy. The impact will be a more efficient screening process, allowing for earlier clinical intervention and improved patient outcomes."
+    },
+    {
+      "key_text": "Human Subjects",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Animal Use",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Hazardous Materials",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Export Controls",
+      "value_text": "No"
+    },
+    {
+      "key_text": "IRB / IACUC Protocol Number (if applicable)",
+      "value_text": "IRB-2024-0512"
+    },
+    {
+      "key_text": "Approval Date",
+      "value_text": "07/15/2024"
+    },
+    {
+      "key_text": "PI Signature",
+      "value_text": "Elena R. Vance"
+    },
+    {
+      "key_text": "Department Chair Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/01/2024"
+    }
+  ]
+}
+
+Narrative:
+This grant application is submitted by Dr. Elena R. Vance, an Associate Professor in the Department of Biomedical Engineering, with Faculty ID FA-8829401. She can be reached at 555-012-3456 or by email at e.vance@university.edu. Dr. Marcus Thorne from the Department of Computer Science is listed as the Co-Investigator. 
+
+The project, titled "AI-Driven Predictive Modeling for Early Neural Degeneration Detection," is seeking $450,000 in total requested funding from the National Science Foundation under their Smart Health Initiative. The proposed work is scheduled to run for 24 months, starting on September 1, 2024, and concluding on August 31, 2026. The budget includes $280,000 for personnel, $20,000 for consultants, $50,000 for materials, $15,000 for travel, and $85,000 in other direct costs, totaling $450,000 in direct costs with an indirect cost rate of 52.5%, resulting in a total budget of $686,250.
+
+The lay summary highlights the project's focus on using machine learning for early neural degeneration detection to improve patient outcomes. Regarding compliance, the project involves human subjects (IRB-2024-0512, approved July 15, 2024) but does not involve animal use, hazardous materials, or export controls. The form was signed by Dr. Vance and Department Chair Sarah Jenkins on August 1, 2024.

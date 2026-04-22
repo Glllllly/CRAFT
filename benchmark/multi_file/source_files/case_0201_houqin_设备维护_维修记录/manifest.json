@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0201_houqin_设备维护_维修记录",
+    "tenant":  "houqin",
+    "topic":  "设备维护",
+    "subtopic":  "维修记录",
+    "source_dir":  "houqin\\设备维护\\维修记录",
+    "total_files_in_source_dir":  49,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\设备维护\\维修记录\\评估表_2646.json",
+                      "copied_name":  "评估表_2646.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  300
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\维修记录\\会议记录_3854.csv",
+                      "copied_name":  "会议记录_3854.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1386
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\维修记录\\维修日志_2024.txt",
+                      "copied_name":  "维修日志_2024.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  5565
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\维修记录\\费用统计_1185.eml",
+                      "copied_name":  "费用统计_1185.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\维修记录\\审核单_5291.csv",
+                      "copied_name":  "审核单_5291.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  }
+              ]
+}

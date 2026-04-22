@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0197_houqin_维修记录",
+    "tenant":  "houqin",
+    "topic":  "维修记录",
+    "subtopic":  "",
+    "source_dir":  "houqin\\维修记录",
+    "total_files_in_source_dir":  37,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\维修记录\\人员清单_9889.json",
+                      "copied_name":  "人员清单_9889.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\维修记录\\分析报告_5856.csv",
+                      "copied_name":  "分析报告_5856.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\维修记录\\维修记录_7821.txt",
+                      "copied_name":  "维修记录_7821.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\维修记录\\物品清单_4883.eml",
+                      "copied_name":  "物品清单_4883.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\维修记录\\周报_4790.csv",
+                      "copied_name":  "周报_4790.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

@@ -1,0 +1,181 @@
+﻿{
+    "excel":  "028.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Policy Number",
+                      "value_cell":  "A10:L10",
+                      "value":  "POL-8849201-X"
+                  },
+                  {
+                      "label":  "Claim Reference (if known)",
+                      "value_cell":  "M10:X10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Policyholder Full Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "M12:X12",
+                      "value":  "1978-05-14"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A14:L14",
+                      "value":  "555-012-9834"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "M14:X14",
+                      "value":  "j.miller@email.com"
+                  },
+                  {
+                      "label":  "Property Address",
+                      "value_cell":  "A16:L16",
+                      "value":  "42 Oakwood Terrace"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M16:X16",
+                      "value":  "Springfield, IL, 62704"
+                  },
+                  {
+                      "label":  "Insured Property Type (home / commercial / vehicle / other)",
+                      "value_cell":  "A18:L18",
+                      "value":  "home"
+                  },
+                  {
+                      "label":  "Property Value at Time of Loss $",
+                      "value_cell":  "M18:X18",
+                      "value":  "350,000"
+                  },
+                  {
+                      "label":  "Date of Loss / Damage",
+                      "value_cell":  "A23:L23",
+                      "value":  "2023-11-12"
+                  },
+                  {
+                      "label":  "Time (approx.)",
+                      "value_cell":  "M23:X23",
+                      "value":  "03:45 AM"
+                  },
+                  {
+                      "label":  "Location of Damage (specific area of property)",
+                      "value_cell":  "A25:L25",
+                      "value":  "Kitchen and living room flooring"
+                  },
+                  {
+                      "label":  "Property Occupied at Time? Y / N",
+                      "value_cell":  "M25:X25",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Detailed Description of Incident",
+                      "value_cell":  "A28:X28; A29:X29",
+                      "value":  "A pipe burst in the wall behind the refrigerator during the night, causing significant water damage to the kitchen floor and adjacent living room hardwood."
+                  },
+                  {
+                      "label":  "Was property / system functioning normally before loss? Y / N",
+                      "value_cell":  "A31:L31",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Maintenance record up to date? Y / N",
+                      "value_cell":  "M31:X31",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Items / Areas Damaged (list each item and approximate value)",
+                      "value_cell":  "A36:X36",
+                      "value":  "Hardwood floors ($8,500), Kitchen cabinetry ($3,200), Baseboards ($800)"
+                  },
+                  {
+                      "label":  "Total Estimated Loss $",
+                      "value_cell":  "A38:L38",
+                      "value":  "12,500"
+                  },
+                  {
+                      "label":  "Structural Damage? Y / N",
+                      "value_cell":  "M38:X38",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Contents Damaged? Y / N",
+                      "value_cell":  "A40:L40",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Contents Estimated Value $",
+                      "value_cell":  "M40:X40",
+                      "value":  "2,000"
+                  },
+                  {
+                      "label":  "Deductible Amount  $",
+                      "value_cell":  "A46:L46",
+                      "value":  "1,000"
+                  },
+                  {
+                      "label":  "Other Insurance Policy?  Y / N",
+                      "value_cell":  "M46:X46",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Other Insurer Name \u0026 Policy #",
+                      "value_cell":  "A48:L48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Claim Lodged with Other Insurer?  Y / N",
+                      "value_cell":  "M48:X48",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Prior Claims in Last 5 Years?  Y / N",
+                      "value_cell":  "A50:L50",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Prior Claim Reference",
+                      "value_cell":  "M50:X50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Contractor / Repairer Name",
+                      "value_cell":  "A56:L56",
+                      "value":  "Reliable Home Restorations LLC"
+                  },
+                  {
+                      "label":  "Repair Cost (actual or estimate)  $",
+                      "value_cell":  "N56:X56",
+                      "value":  "12,500"
+                  },
+                  {
+                      "label":  "Repair Description",
+                      "value_cell":  "A58:X58",
+                      "value":  "Removal of water-damaged flooring and subfloor drying, followed by installation of new hardwood and cabinet base repair."
+                  },
+                  {
+                      "label":  "Claimant Signature",
+                      "value_cell":  "A65:L65",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Repair Cost (actual or estimate)  $",
+                      "value_cell":  "N65:X65",
+                      "value":  "12,500"
+                  },
+                  {
+                      "label":  "Loss Adjuster / Assessor",
+                      "value_cell":  "A68:L68",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  "2023-11-15"
+                  }
+              ]
+}

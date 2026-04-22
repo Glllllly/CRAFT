@@ -1,0 +1,36 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Term:  ",
+      "value_text": "October 1, 2023"
+    },
+    {
+      "key_text": "  to  ",
+      "value_text": "October 31, 2023"
+    },
+    {
+      "key_text": "Delivery Points:",
+      "value_text": "Cheyenne Hub"
+    },
+    {
+      "key_text": "EXCEPTIONS:",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Volumes requested:",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "'Our target is :",
+      "value_text": "150,000"
+    },
+    {
+      "key_text": "'Proposal Deadline: 11:00 a.m., Mountain Time: ",
+      "value_text": "September 25, 2023"
+    }
+  ]
+}
+
+Narrative:
+For this gas proposal request, the contract term is set from October 1, 2023, to October 31, 2023. The designated delivery point is the Cheyenne Hub, with no exceptions noted. The request specifies a volume of 5,000 MMBTU/DAY, with a monthly target of 150,000 MMBTU. All proposals must be submitted by the deadline of 11:00 a.m. Mountain Time on September 25, 2023.

@@ -1,0 +1,176 @@
+{
+  "excel": "case_0056_houqin_root__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "目录深度",
+      "value_cell": "A6:D7",
+      "value": "最多4层"
+    },
+    {
+      "label": "✓可用性",
+      "value_cell": "F6:I7",
+      "value": "可用于培训、演示、测试等多种场景"
+    },
+    {
+      "label": "✓复杂性",
+      "value_cell": "K6:N7",
+      "value": "多层次目录结构，模拟真实工作场景"
+    },
+    {
+      "label": "✓多样化",
+      "value_cell": "P6:S7",
+      "value": "包含文本、表格、数据等多种文件类型"
+    },
+    {
+      "label": "✓多样性",
+      "value_cell": "A10:D11",
+      "value": "包含各种类型的业务文档和统计表格"
+    },
+    {
+      "label": "✓扩展性",
+      "value_cell": "F10:I11",
+      "value": "可根据需要增加或修改文件内容"
+    },
+    {
+      "label": "✓杂乱性",
+      "value_cell": "K10:N11",
+      "value": "不同状态、不同时期的文件混合存放"
+    },
+    {
+      "label": "✓真实性",
+      "value_cell": "P10:S11",
+      "value": "虚拟内容但遵循真实业务逻辑"
+    },
+    {
+      "label": "✓虚拟性",
+      "value_cell": "A14:D15",
+      "value": "所有数据均为系统生成，不涉及真实敏感信息"
+    },
+    {
+      "label": "✓逼真性",
+      "value_cell": "F14:I15",
+      "value": "内容遵循真实企业工作流程和数据格式"
+    },
+    {
+      "label": "单据类",
+      "value_cell": "A20:D21",
+      "value": "采购单、出差单、申请单等"
+    },
+    {
+      "label": "报表类",
+      "value_cell": "F20:I21",
+      "value": "月度报表、分析报告、统计表等"
+    },
+    {
+      "label": "日志类",
+      "value_cell": "K20:N21",
+      "value": "工作日志、维修日志、加油日志等"
+    },
+    {
+      "label": "档案类",
+      "value_cell": "P20:S21",
+      "value": "员工档案、供应商档案、资产档案等"
+    },
+    {
+      "label": "管理类",
+      "value_cell": "A24:D25",
+      "value": "规章制度、培训资料、检查清单等"
+    },
+    {
+      "label": "•出车单",
+      "value_cell": "A30:D31",
+      "value": "驾驶人、目的地、用油量、事由"
+    },
+    {
+      "label": "•结算单",
+      "value_cell": "F30:I31",
+      "value": "采购总额、已付金额、本次结算、结算方式"
+    },
+    {
+      "label": "•采购单",
+      "value_cell": "K30:N31",
+      "value": "包含采购编号、日期、供应商、物品、金额、状态"
+    },
+    {
+      "label": "•临时单据",
+      "value_cell": "P30:S31",
+      "value": "物品领取、加班申请、工作交接等杂项事务"
+    },
+    {
+      "label": "•仓库说明",
+      "value_cell": "A34:D35",
+      "value": "仓库分布、库位分配、管理制度"
+    },
+    {
+      "label": "•会议纪要",
+      "value_cell": "F34:I35",
+      "value": "时间、地点、议题、决议、下次会议时间"
+    },
+    {
+      "label": "•体检计划",
+      "value_cell": "K34:N35",
+      "value": "时间安排、体检医院、套餐价格、参加人员"
+    },
+    {
+      "label": "•保养计划",
+      "value_cell": "P34:S35",
+      "value": "设备编号、保养日期、保养周期、责任人"
+    },
+    {
+      "label": "•出差总结",
+      "value_cell": "A38:D39",
+      "value": "出差成果、费用明细、出行日记"
+    },
+    {
+      "label": "•出差申请",
+      "value_cell": "F38:I39",
+      "value": "申请人、目的地、日期、交通方式、预算"
+    },
+    {
+      "label": "•加油日志",
+      "value_cell": "K38:N39",
+      "value": "车牌、加油日期、加油量、费用"
+    },
+    {
+      "label": "出车单",
+      "value_cell": "A44:D45",
+      "value": "车辆使用和出车记录"
+    },
+    {
+      "label": "申请单",
+      "value_cell": "F44:I45",
+      "value": "员工办公用品申请单"
+    },
+    {
+      "label": "已发放",
+      "value_cell": "K44:N45",
+      "value": "已发放的物资"
+    },
+    {
+      "label": "已审阅",
+      "value_cell": "P44:S45",
+      "value": "已经审阅的临时文件"
+    },
+    {
+      "label": "已批准",
+      "value_cell": "A48:D49",
+      "value": "已审批的申请单"
+    },
+    {
+      "label": "待处理",
+      "value_cell": "F48:I49",
+      "value": "临时性待处理单据"
+    },
+    {
+      "label": "待审批",
+      "value_cell": "K48:N49",
+      "value": "等待审批的物资申请"
+    },
+    {
+      "label": "需存档",
+      "value_cell": "P48:S49",
+      "value": "等待分类存档的文件"
+    }
+  ]
+}

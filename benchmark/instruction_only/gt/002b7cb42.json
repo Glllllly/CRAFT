@@ -1,0 +1,61 @@
+﻿{
+    "excel":  "002b7cb42.xlsx",
+    "sheet":  "Other U.O.",
+    "pairs":  [
+                  {
+                      "label":  "Director Requesting Additional Stipend",
+                      "value_cell":  "D6:F6",
+                      "value":  "Dr. Sarah Miller"
+                  },
+                  {
+                      "label":  "Name of Person to receive the stipend",
+                      "value_cell":  "D8:F8",
+                      "value":  "James Wilson"
+                  },
+                  {
+                      "label":  "Department of person receiving stipend",
+                      "value_cell":  "E10:F10,C11:F11",
+                      "value":  "Department of Biological Sciences"
+                  },
+                  {
+                      "label":  "Purpose for Stipend",
+                      "value_cell":  "C13:F16",
+                      "value":  "Supervision of additional undergraduate research projects during the summer semester and coordination of laboratory equipment upgrades."
+                  },
+                  {
+                      "label":  "Time period for stipend",
+                      "value_cell":  "C17:F17",
+                      "value":  "June 1, 2024 - August 15, 2024"
+                  },
+                  {
+                      "label":  "Amount of stipend",
+                      "value_cell":  "C19:F19",
+                      "value":  "$2,500.00"
+                  },
+                  {
+                      "label":  "Source of Funding for unbudgeted stipend",
+                      "value_cell":  "E21:F21",
+                      "value":  "Grant #BIO-2024-089-RESEARCH"
+                  },
+                  {
+                      "label":  "University Officer",
+                      "value_cell":  "C25:E25",
+                      "value":  "Dr. Robert Henderson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "F25",
+                      "value":  "05/15/2024"
+                  },
+                  {
+                      "label":  "Budgets",
+                      "value_cell":  "C27:E27",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "F27",
+                      "value":  "05/18/2024"
+                  }
+              ]
+}

@@ -1,0 +1,164 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By — Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Department / Tenant",
+      "value_text": "Marketing & Creative Services"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "m.thorne@corp-example.com"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Building Name",
+      "value_text": "Apex Corporate Plaza"
+    },
+    {
+      "key_text": "Floor / Suite / Unit",
+      "value_text": "Floor 4, Suite 402"
+    },
+    {
+      "key_text": "Detailed Description of Proposed Work",
+      "value_text": "Installation of new glass partition wall to create a private conference room and minor electrical outlet adjustments."
+    },
+    {
+      "key_text": "Cosmetic / Painting",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Partition / Wall",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Electrical",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Estimated Start Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Estimated Completion Date",
+      "value_text": "2023-11-05"
+    },
+    {
+      "key_text": "Working Hours Proposed",
+      "value_text": "08:00 AM - 05:00 PM"
+    },
+    {
+      "key_text": "Weekend / After-Hours Work? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Contractor / Trades Company Name & Contact",
+      "value_text": "Elite Interiors & Electrical, Contact: Sarah Jenkins (555-987-6543)"
+    },
+    {
+      "key_text": "Areas / Tenants Affected",
+      "value_text": "Suite 402 and adjacent hallway"
+    },
+    {
+      "key_text": "Noise / Dust / Odour Expected? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Utilities Shutdown Required? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Shutdown Duration & Scope",
+      "value_text": null
+    },
+    {
+      "key_text": "Access to Other Floors / Units Required? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Approval from Affected Parties?",
+      "value_text": "N/A"
+    },
+    {
+      "key_text": "Building Permit",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Fire Safety Review",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Health & Safety",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Estimated Total Cost  $",
+      "value_text": "4,500.00"
+    },
+    {
+      "key_text": "Cost Borne By",
+      "value_text": "Marketing Department Budget"
+    },
+    {
+      "key_text": "Contractor Insurance Certificate Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Policy Expiry Date",
+      "value_text": "2024-12-31"
+    },
+    {
+      "key_text": "Contractor Licence Number",
+      "value_text": "ELITE-998877-CON"
+    },
+    {
+      "key_text": "Licence Expiry Date",
+      "value_text": "2024-06-30"
+    },
+    {
+      "key_text": "Requester",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Building Manager",
+      "value_text": "Robert Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-17"
+    },
+    {
+      "key_text": "Facilities Director",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Safety Officer",
+      "value_text": "Kevin Park"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-19"
+    }
+  ]
+}
+
+Narrative:
+This construction and renovation form was submitted by Marcus Thorne from the Marketing & Creative Services department on October 15, 2023. He can be reached at 555-012-3456 or via email at m.thorne@corp-example.com. The work is scheduled for the Apex Corporate Plaza, specifically floor 4, suite 402. The project involves installing a glass partition wall and making minor electrical adjustments. The work is categorized under cosmetic/painting, partition/wall, and electrical. The project is expected to run from November 1 to November 5, 2023, during standard business hours from 8:00 AM to 5:00 PM, with no weekend or after-hours work required. Elite Interiors & Electrical, led by Sarah Jenkins, will perform the work. While some noise and dust are expected, no utility shutdowns or access to other units are needed. The project has undergone a fire safety review, health and safety check, and requires a building permit. The estimated total cost is $4,500.00, which will be covered by the Marketing Department budget. The contractor has provided their insurance certificate, which expires on December 31, 2024, and their licence number is ELITE-998877-CON, expiring on June 30, 2024. The form has been signed by the requester, the building manager Robert Vance, the facilities director Elena Rodriguez, and the safety officer Kevin Park between October 15 and October 19, 2023.

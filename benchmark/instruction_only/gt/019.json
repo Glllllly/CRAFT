@@ -1,0 +1,156 @@
+﻿{
+    "excel":  "019.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A8:L8",
+                      "value":  "Sarah Jane Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M8:X8",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A10:H10",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "I10:P10",
+                      "value":  "Senior Brand Manager"
+                  },
+                  {
+                      "label":  "Hire Date",
+                      "value_cell":  "Q10:X10",
+                      "value":  "2018-05-14"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "David Thompson"
+                  },
+                  {
+                      "label":  "Manager E-mail / Phone",
+                      "value_cell":  "M12:X12",
+                      "value":  "d.thompson@company.com / 555-0128"
+                  },
+                  {
+                      "label":  "Length of Service (years)",
+                      "value_cell":  "A14:L14",
+                      "value":  "6"
+                  },
+                  {
+                      "label":  "Employment Type (Full / Part-Time)",
+                      "value_cell":  "M14:X14",
+                      "value":  "Full-Time"
+                  },
+                  {
+                      "label":  "Placement Date (actual or expected)",
+                      "value_cell":  "A19:L19",
+                      "value":  "2024-11-01"
+                  },
+                  {
+                      "label":  "Child\u0027s Date of Birth (if known)",
+                      "value_cell":  "M19:X19",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "Child\u0027s Age at Placement",
+                      "value_cell":  "A21:L21",
+                      "value":  "5 months"
+                  },
+                  {
+                      "label":  "Number of Children Being Adopted",
+                      "value_cell":  "M21:X21",
+                      "value":  "1"
+                  },
+                  {
+                      "label":  "Adoption Agency / Authority Name",
+                      "value_cell":  "A24:L24",
+                      "value":  "Beacon Family Services"
+                  },
+                  {
+                      "label":  "Case Worker Name \u0026 Phone",
+                      "value_cell":  "M24:X24",
+                      "value":  "Elena Rodriguez / 555-9876"
+                  },
+                  {
+                      "label":  "Requested Leave Start Date",
+                      "value_cell":  "A29:L29",
+                      "value":  "2024-11-01"
+                  },
+                  {
+                      "label":  "Requested Return-to-Work Date",
+                      "value_cell":  "M29:X29",
+                      "value":  "2025-02-07"
+                  },
+                  {
+                      "label":  "Total Leave Duration Requested",
+                      "value_cell":  "A31:L31",
+                      "value":  "14 weeks"
+                  },
+                  {
+                      "label":  "Continuous or Intermittent?",
+                      "value_cell":  "M31:X31",
+                      "value":  "Continuous"
+                  },
+                  {
+                      "label":  "PTO / Annual Leave to Be Used (days)",
+                      "value_cell":  "A34:L34",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "STD / LTD Applicable? Y / N",
+                      "value_cell":  "M34:X34",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Phased Return Details (hours, schedule, duration)",
+                      "value_cell":  "A40:X40",
+                      "value":  "Returning 3 days/week for the first month post-leave."
+                  },
+                  {
+                      "label":  "Any other leave or flexible work arrangement requested?",
+                      "value_cell":  "A42:X42",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Notes / Other Documentation Details",
+                      "value_cell":  "A48:X48",
+                      "value":  "Adoption order to be provided upon finalization."
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A56:L56",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N56:X56",
+                      "value":  "2024-09-15"
+                  },
+                  {
+                      "label":  "Manager Acknowledgement",
+                      "value_cell":  "A59:L59",
+                      "value":  "David Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N59:X59",
+                      "value":  "2024-09-16"
+                  },
+                  {
+                      "label":  "HR Director",
+                      "value_cell":  "A62:L62",
+                      "value":  "Rebecca Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N62:X62",
+                      "value":  "2024-09-17"
+                  }
+              ]
+}

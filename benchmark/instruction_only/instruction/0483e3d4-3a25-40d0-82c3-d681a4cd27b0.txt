@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "(Cadet's Name)",
+      "value_text": "Alexander J. Thompson"
+    },
+    {
+      "key_text": "(Name of School)",
+      "value_text": "University of Virginia"
+    },
+    {
+      "key_text": "(Name of Parents)",
+      "value_text": "Robert and Martha Thompson"
+    },
+    {
+      "key_text": "Signature of Cadet",
+      "value_text": "Alexander J. Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "September 12, 2023"
+    },
+    {
+      "key_text": "(Name of School)",
+      "value_text": null
+    },
+    {
+      "key_text": "Signature of Cadet",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Cadet Alexander J. Thompson filled out an authorization form for access to his student records on September 12, 2023. In Part I of the document, he authorized the University of Virginia's ROTC Department to release his official records to the Department of Defense and his parents, Robert and Martha Thompson. He signed and dated this section to confirm the authorization. Since he chose to grant access, Part II of the form, which is for declining parental access, was left entirely blank.

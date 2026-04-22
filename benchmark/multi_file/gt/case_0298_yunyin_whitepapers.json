@@ -1,0 +1,56 @@
+{
+  "excel": "case_0298_yunyin_whitepapers__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "phase1",
+      "value_cell": "A6:D7",
+      "value": "Assessment"
+    },
+    {
+      "label": "phase2",
+      "value_cell": "F6:I7",
+      "value": "Planning"
+    },
+    {
+      "label": "phase3",
+      "value_cell": "K6:N7",
+      "value": "Execution"
+    },
+    {
+      "label": "phase4",
+      "value_cell": "P6:S7",
+      "value": "Optimization"
+    },
+    {
+      "label": "whitepaper",
+      "value_cell": "A12:D13",
+      "value": "Industry Trends and Best Practices"
+    },
+    {
+      "label": "marketingroi",
+      "value_cell": "A18:D19",
+      "value": "3:1 or higher"
+    },
+    {
+      "label": "lifetimevalue",
+      "value_cell": "F18:I19",
+      "value": ">$500"
+    },
+    {
+      "label": "retentionrate",
+      "value_cell": "K18:N19",
+      "value": ">90%"
+    },
+    {
+      "label": "brandawareness",
+      "value_cell": "P18:S19",
+      "value": ">70%"
+    },
+    {
+      "label": "customeracquisitioncost",
+      "value_cell": "A22:D23",
+      "value": "<$50"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿{
+    "excel":  "form_15_change_management.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requested By 鈥?Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Department / Team",
+                      "value_cell":  "M9:AK9",
+                      "value":  "IT Infrastructure Operations"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A11:I11",
+                      "value":  "555-012-8843"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "J11:Q11",
+                      "value":  "m.thorne@enterprise.com"
+                  },
+                  {
+                      "label":  "Request Date",
+                      "value_cell":  "R11:AK11",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Change Title / Summary",
+                      "value_cell":  "A17:AK17",
+                      "value":  "Core Database Server Patching and Firmware Update"
+                  },
+                  {
+                      "label":  "Planned Start Date \u0026 Time",
+                      "value_cell":  "A20:L20",
+                      "value":  "2023-10-21 22:00"
+                  },
+                  {
+                      "label":  "Planned End Date \u0026 Time",
+                      "value_cell":  "M20:AK20",
+                      "value":  "2023-10-22 04:00"
+                  },
+                  {
+                      "label":  "Business Justification / Reason for Change",
+                      "value_cell":  "A22:AK23",
+                      "value":  "Address critical security vulnerabilities identified in the Q4 internal audit and improve database I/O performance."
+                  },
+                  {
+                      "label":  "Detailed Description of Change (step-by-step plan)",
+                      "value_cell":  "A25:X27",
+                      "value":  "1. Perform full system backup. 2. Stop database services. 3. Apply firmware updates. 4. Install OS security patches. 5. Restart services and verify connectivity."
+                  },
+                  {
+                      "label":  "Rollback / Back-Out Plan",
+                      "value_cell":  "A29:X30",
+                      "value":  "Restore from the pre-patch system snapshot taken at 21:00 on 2023-10-21 if post-patch verification fails."
+                  },
+                  {
+                      "label":  "Estimated Downtime Duration",
+                      "value_cell":  "A36:L36",
+                      "value":  "6 hours"
+                  },
+                  {
+                      "label":  "Services / Users Affected",
+                      "value_cell":  "M36:X36",
+                      "value":  "Customer Billing Portal, ERP System"
+                  },
+                  {
+                      "label":  "Risk Description \u0026 Mitigations",
+                      "value_cell":  "A38:X38",
+                      "value":  "Risk of extended downtime; mitigated by off-peak scheduling and pre-verified backup restoration."
+                  },
+                  {
+                      "label":  "Test Plan Summary",
+                      "value_cell":  "A43:X43",
+                      "value":  "End-to-end connectivity check and SQL query latency testing in the staging environment."
+                  },
+                  {
+                      "label":  "Test Environment",
+                      "value_cell":  "A45:L45",
+                      "value":  "Staging Cluster B"
+                  },
+                  {
+                      "label":  "Test Completion Date",
+                      "value_cell":  "M45:X45",
+                      "value":  "2023-10-19"
+                  },
+                  {
+                      "label":  "CAB Chair",
+                      "value_cell":  "A51:H51",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "CAB Decision",
+                      "value_cell":  "I51:P51",
+                      "value":  "Approved"
+                  },
+                  {
+                      "label":  "CAB Meeting Date",
+                      "value_cell":  "Q51:AK51",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Implementer Signature",
+                      "value_cell":  "A58:H58",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Manager Approval",
+                      "value_cell":  "I58:P58",
+                      "value":  "David Vane"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:AK58",
+                      "value":  "2023-10-20"
+                  }
+              ]
+}

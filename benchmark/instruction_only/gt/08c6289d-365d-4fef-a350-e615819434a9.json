@@ -1,0 +1,41 @@
+﻿{
+    "excel":  "08c6289d-365d-4fef-a350-e615819434a9.xlsx",
+    "sheet":  "Manning\u0027s n",
+    "pairs":  [
+                  {
+                      "label":  "Designed By:",
+                      "value_cell":  "B13:C13",
+                      "value":  "John Doe"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "E13",
+                      "value":  "2023-10-27"
+                  },
+                  {
+                      "label":  "Checked By:",
+                      "value_cell":  "B14:C14",
+                      "value":  "Jane Smith"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "E14",
+                      "value":  "2023-10-28"
+                  },
+                  {
+                      "label":  "Company:",
+                      "value_cell":  "B15:C15",
+                      "value":  "Eco-Eng Solutions"
+                  },
+                  {
+                      "label":  "Project Name:",
+                      "value_cell":  "B16:C16",
+                      "value":  "Oak Creek Restoration"
+                  },
+                  {
+                      "label":  "Project No.:",
+                      "value_cell":  "B17:C17",
+                      "value":  "2023-456"
+                  }
+              ]
+}

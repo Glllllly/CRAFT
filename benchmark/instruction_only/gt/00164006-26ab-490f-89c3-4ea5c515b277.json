@@ -1,0 +1,61 @@
+﻿{
+    "excel":  "00164006-26ab-490f-89c3-4ea5c515b277.xlsx",
+    "sheet":  "Calculator",
+    "pairs":  [
+                  {
+                      "label":  "1. What is your average balance per month?",
+                      "value_cell":  "B3",
+                      "value":  "$15,000.00"
+                  },
+                  {
+                      "label":  "2. How many deposit items do you have per month?",
+                      "value_cell":  "B4",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "3. How many ACH credits do you have per month?",
+                      "value_cell":  "B5",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "4. How many ACH debits do you have per month?",
+                      "value_cell":  "B6",
+                      "value":  "25"
+                  },
+                  {
+                      "label":  "5. How many deposits do you make per month?",
+                      "value_cell":  "B7",
+                      "value":  "8"
+                  },
+                  {
+                      "label":  "6. How many checks do you write per month?",
+                      "value_cell":  "B8",
+                      "value":  "15"
+                  },
+                  {
+                      "label":  "7. Do you have any existing loans @ QNB",
+                      "value_cell":  "B9",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Please answer question 8 if you answered Yes to question 7",
+                      "value_cell":  "B10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "8. What is the total QNB loan balance?",
+                      "value_cell":  "B11",
+                      "value":  "$50,000.00"
+                  },
+                  {
+                      "label":  "9. Would you like to make deposits from your office?",
+                      "value_cell":  "B12",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Total Fees",
+                      "value_cell":  "B14",
+                      "value":  "$35.50"
+                  }
+              ]
+}

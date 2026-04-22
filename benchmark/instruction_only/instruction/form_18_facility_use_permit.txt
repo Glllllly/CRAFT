@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Organization / Group Name",
+      "value_text": "Riverside Community Youth Foundation"
+    },
+    {
+      "key_text": "Organization Type  (Nonprofit / Business / Individual)",
+      "value_text": "Nonprofit"
+    },
+    {
+      "key_text": "Primary Contact Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Title / Role in Organization",
+      "value_text": "Program Director"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "Cell",
+      "value_text": "555-098-7654"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@rcyf.org"
+    },
+    {
+      "key_text": "Mailing Address",
+      "value_text": "123 Maple Street, Riverside, CA 92501"
+    },
+    {
+      "key_text": "Tax-Exempt Status  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Tax Exempt ID Number (if applicable)",
+      "value_text": "12-3456789"
+    },
+    {
+      "key_text": "Facility / Park Name & Specific Area Requested",
+      "value_text": "Oakwood Park, Main Pavilion"
+    },
+    {
+      "key_text": "Event Date",
+      "value_text": "09/15/2024"
+    },
+    {
+      "key_text": "Start Time",
+      "value_text": "10:00 AM"
+    },
+    {
+      "key_text": "End Time",
+      "value_text": "04:00 PM"
+    },
+    {
+      "key_text": "Setup Time Needed (hrs)",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Estimated Attendance",
+      "value_text": "150"
+    },
+    {
+      "key_text": "Is Admission Being Charged?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Description of Event / Activity",
+      "value_text": "Annual Summer Community Picnic and Volunteer Appreciation Day"
+    },
+    {
+      "key_text": "Food / Alcohol Served?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Alcohol Permit Number (if applicable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Insurance Provider Name",
+      "value_text": "Community Shield Insurance"
+    },
+    {
+      "key_text": "Policy Number",
+      "value_text": "CS-99887766"
+    },
+    {
+      "key_text": "Coverage Amount  $",
+      "value_text": "1,000,000"
+    },
+    {
+      "key_text": "Policy Expiry Date",
+      "value_text": "12/31/2024"
+    },
+    {
+      "key_text": "Certificate Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Additional Information or Special Requests",
+      "value_text": "Requesting access to park electricity for sound system."
+    },
+    {
+      "key_text": "Facility Rental Fee  $",
+      "value_text": "250.00"
+    },
+    {
+      "key_text": "Deposit Required  $",
+      "value_text": "100.00"
+    },
+    {
+      "key_text": "Total Due  $",
+      "value_text": "350.00"
+    },
+    {
+      "key_text": "Applicant Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Applicant)",
+      "value_text": "08/01/2024"
+    },
+    {
+      "key_text": "Permit Number (Office Use)",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+The Riverside Community Youth Foundation, a nonprofit organization, is applying for a permit to host their Annual Summer Community Picnic and Volunteer Appreciation Day at the Oakwood Park Main Pavilion on September 15, 2024. The event will run from 10:00 AM to 4:00 PM, with 2 hours needed for setup, and they expect approximately 150 attendees. No admission fee will be charged, but food will be served. The primary contact for the event is Program Director Sarah Jenkins, who can be reached at 555-012-3456 or via email at s.jenkins@rcyf.org. Their mailing address is 123 Maple Street, Riverside, CA 92501. The organization is tax-exempt with ID 12-3456789. They have provided proof of insurance from Community Shield Insurance (Policy #CS-99887766, $1,000,000 coverage, expiring 12/31/2024) and have attached the certificate. They have also requested access to park electricity. The total fees for the rental and deposit come to $350.00. Sarah Jenkins signed the application on August 1, 2024.

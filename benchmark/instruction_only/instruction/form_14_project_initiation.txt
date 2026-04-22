@@ -1,0 +1,100 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Sponsor Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Customer Experience"
+    },
+    {
+      "key_text": "Project Manager (Proposed)",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date of Submission",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Target Start Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Target End Date",
+      "value_text": "2024-04-30"
+    },
+    {
+      "key_text": "Project Name",
+      "value_text": "Omni-Channel Support Integration"
+    },
+    {
+      "key_text": "Category  (IT / Ops / HR / Finance / Other)",
+      "value_text": "IT"
+    },
+    {
+      "key_text": "Project Objective / Problem Statement",
+      "value_text": "Integrate disparate support ticketing systems into a single dashboard to reduce response times by 30%."
+    },
+    {
+      "key_text": "Scope  (In-Scope / Out-of-Scope)",
+      "value_text": "In-Scope: API development, staff training. Out-of-Scope: Hardware replacement."
+    },
+    {
+      "key_text": "Key Deliverables",
+      "value_text": "Unified API gateway, centralized dashboard, staff training manual."
+    },
+    {
+      "key_text": "Estimated Budget  $",
+      "value_text": "45,000"
+    },
+    {
+      "key_text": "Funding Source",
+      "value_text": "Operational Improvement Fund"
+    },
+    {
+      "key_text": "Key Risks",
+      "value_text": "Data migration errors and potential downtime during system cutover."
+    },
+    {
+      "key_text": "Key Stakeholders",
+      "value_text": "Support Team Leads, IT Infrastructure Team, Head of Operations."
+    },
+    {
+      "key_text": "Project Sponsor",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Sponsor)",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "PMO Director",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date (PMO)",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "CFO (budget > $25,000)",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (CFO)",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Executive Committee",
+      "value_text": "Board Approval Pending"
+    },
+    {
+      "key_text": "Date (Executive)",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This project initiation request is submitted by Sarah Jenkins from the Customer Experience department, with David Chen proposed as the project manager. The submission, dated October 15, 2023, outlines an IT project titled "Omni-Channel Support Integration," which is scheduled to run from November 1, 2023, to April 30, 2024. The primary objective is to integrate various support ticketing systems to improve response times by 30%. The project includes API development and staff training, while excluding hardware replacement. Key deliverables consist of a unified API gateway, a centralized dashboard, and training materials. The estimated budget is $45,000, funded by the Operational Improvement Fund, with identified risks including data migration errors and system downtime. Key stakeholders include the Support Team Leads, the IT Infrastructure Team, and the Head of Operations. The form has been approved by Project Sponsor Sarah Jenkins, PMO Director Marcus Thorne, and CFO Elena Rodriguez. The Executive Committee review is still pending, so no date has been provided for that section.

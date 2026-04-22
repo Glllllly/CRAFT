@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "1_Frito-LayCA2ndRoundBidForm1.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "NYMEX Fixed Basis Bid (+/- $/MMBtu) PG\u0026E",
+                      "value_cell":  "C7",
+                      "value":  "+0.12"
+                  },
+                  {
+                      "label":  "NYMEX Fixed Basis Bid (+/- $/MMBtu) SoCal",
+                      "value_cell":  "E7",
+                      "value":  "+0.08"
+                  },
+                  {
+                      "label":  "Adjustment to Gas Daily Index (+/- $/MMBtu) PG\u0026E",
+                      "value_cell":  "C9",
+                      "value":  "-0.05"
+                  },
+                  {
+                      "label":  "Adjustment to Gas Daily Index (+/- $/MMBtu) SoCal",
+                      "value_cell":  "E9",
+                      "value":  "-0.02"
+                  },
+                  {
+                      "label":  "Market Based Interstate Transportation Mgmt. Fee ($/MMBtu) PG\u0026E",
+                      "value_cell":  "C15",
+                      "value":  "0.25"
+                  },
+                  {
+                      "label":  "Market Based Interstate Transportation Mgmt. Fee ($/MMBtu) SoCal",
+                      "value_cell":  "E15",
+                      "value":  "0.30"
+                  },
+                  {
+                      "label":  "Company Name:",
+                      "value_cell":  "C21:E21",
+                      "value":  "Pacific Energy Solutions, Inc."
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "C22:E22",
+                      "value":  "415-555-0198"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "C23:E23",
+                      "value":  "415-555-0199"
+                  },
+                  {
+                      "label":  "Email:",
+                      "value_cell":  "C24:E24",
+                      "value":  "j.thompson@pacificenergy.com"
+                  },
+                  {
+                      "label":  "Contact Name",
+                      "value_cell":  "C25:E25",
+                      "value":  "James Thompson"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "C26:D26",
+                      "value":  "James Thompson"
+                  },
+                  {
+                      "label":  "Title:",
+                      "value_cell":  "C27:D27",
+                      "value":  "Director of Trading"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0214_houqin_采购管理_已完成",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "已完成",
+    "source_dir":  "houqin\\采购管理\\已完成",
+    "total_files_in_source_dir":  35,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\已完成\\物资申请_4539.json",
+                      "copied_name":  "物资申请_4539.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\已完成\\休假申请_1365.csv",
+                      "copied_name":  "休假申请_1365.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\已完成\\物资申请_5542.txt",
+                      "copied_name":  "物资申请_5542.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  221
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\已完成\\工作计划_6296.eml",
+                      "copied_name":  "工作计划_6296.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\已完成\\工作计划_6086.csv",
+                      "copied_name":  "工作计划_6086.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

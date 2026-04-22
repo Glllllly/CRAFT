@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "0540309b-fe5d-48ab-a550-f32fb63180d2.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B4",
+                      "value":  "October 15, 2023"
+                  },
+                  {
+                      "label":  "Print Name \u0026 Dept",
+                      "value_cell":  "C5",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Authorized signature",
+                      "value_cell":  "C7",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "BILL TO NAME",
+                      "value_cell":  "C11",
+                      "value":  "Pacific Logistics Corp"
+                  },
+                  {
+                      "label":  "CONTACT NAME",
+                      "value_cell":  "C12",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "ADDRESS",
+                      "value_cell":  "C13",
+                      "value":  "4500 Maritime Way"
+                  },
+                  {
+                      "label":  "CITY, STATE, ZIP",
+                      "value_cell":  "C14",
+                      "value":  "Vallejo, CA 94590"
+                  },
+                  {
+                      "label":  "PHONE",
+                      "value_cell":  "C15",
+                      "value":  "(707) 555-0123"
+                  },
+                  {
+                      "label":  "E-MAIL",
+                      "value_cell":  "C16",
+                      "value":  "rchen@paclogisticscorp.com"
+                  },
+                  {
+                      "label":  "INVOICE PURPOSE",
+                      "value_cell":  "C20:C23",
+                      "value":  "Reimbursement for specialized bridge simulator training sessions provided to staff on October 10-12, 2023."
+                  },
+                  {
+                      "label":  "AMOUNT TO BE INVOICED (specify line item amounts \u0026 description)",
+                      "value_cell":  "C26:C28",
+                      "value":  "3 days Simulator Training @ $1,500/day: $4,500.00; Training Materials \u0026 Certifications: $350.00; Total: $4,850.00"
+                  },
+                  {
+                      "label":  "ACCOUNT - FUND - DEPTID - CLASS (if applicable)",
+                      "value_cell":  "C31",
+                      "value":  "660003 - 485 - 20010 - 100"
+                  },
+                  {
+                      "label":  "ACCOUNT - FUND - DEPTID - CLASS (if applicable)",
+                      "value_cell":  "C33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "ACCOUNT - FUND - DEPTID - CLASS (if applicable)",
+                      "value_cell":  "C35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Invoice #",
+                      "value_cell":  "B39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Invoice Date:",
+                      "value_cell":  "B40",
+                      "value":  null
+                  }
+              ]
+}

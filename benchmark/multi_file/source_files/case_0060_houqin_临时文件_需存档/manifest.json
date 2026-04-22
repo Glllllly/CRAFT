@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0060_houqin_临时文件_需存档",
+    "tenant":  "houqin",
+    "topic":  "临时文件",
+    "subtopic":  "需存档",
+    "source_dir":  "houqin\\临时文件\\需存档",
+    "total_files_in_source_dir":  35,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\临时文件\\需存档\\工作计划_7503.json",
+                      "copied_name":  "工作计划_7503.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\需存档\\数据统计_1354.csv",
+                      "copied_name":  "数据统计_1354.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\需存档\\购置申请_6203.txt",
+                      "copied_name":  "购置申请_6203.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  221
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\需存档\\数据统计_2113.eml",
+                      "copied_name":  "数据统计_2113.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\需存档\\购置申请_8054.csv",
+                      "copied_name":  "购置申请_8054.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  }
+              ]
+}

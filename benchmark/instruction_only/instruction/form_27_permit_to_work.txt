@@ -1,0 +1,172 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "PTW Number:",
+      "value_text": "2023-EL-884"
+    },
+    {
+      "key_text": "Issue Date:",
+      "value_text": "2023-10-24"
+    },
+    {
+      "key_text": "Valid Until:",
+      "value_text": "2023-10-24"
+    },
+    {
+      "key_text": "Shift:",
+      "value_text": "Day Shift"
+    },
+    {
+      "key_text": "Location / Area:",
+      "value_cell": "Zone B - Main Floor"
+    },
+    {
+      "key_text": "Building / Plant:",
+      "value_text": "Plant 4"
+    },
+    {
+      "key_text": "Equipment / System:",
+      "value_text": "HVAC Control Unit"
+    },
+    {
+      "key_text": "Description of Work to be Performed:",
+      "value_text": "Replacement of faulty circuit breaker and wiring inspection."
+    },
+    {
+      "key_text": "Estimated Duration  (hours):",
+      "value_text": "6"
+    },
+    {
+      "key_text": "No. of Workers:",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Electrical",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Stored Energy",
+      "value_text": null
+    },
+    {
+      "key_text": "Moving Parts",
+      "value_text": null
+    },
+    {
+      "key_text": "LOTO Applied",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Isolation Certificate No.:",
+      "value_text": "ISO-9921"
+    },
+    {
+      "key_text": "Verified By",
+      "value_text": "J. Miller"
+    },
+    {
+      "key_text": "Hard Hat",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Safety Glasses",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Gloves",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Yes — Results Attached",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Gas Test Reading  (if applicable):",
+      "value_text": "N/A"
+    },
+    {
+      "key_text": "Yes",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Assembly Point:",
+      "value_text": "Parking Lot A"
+    },
+    {
+      "key_text": "Emergency Contact:",
+      "value_text": "Site Security - Ext 911"
+    },
+    {
+      "key_text": "Rescue Plan / Emergency Procedure Reference:",
+      "value_text": "SOP-SAF-004: Electrical Emergency Response"
+    },
+    {
+      "key_text": "Work Supervisor:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "S. Jenkins"
+    },
+    {
+      "key_text": "Date / Time:",
+      "value_text": "2023-10-24 08:00"
+    },
+    {
+      "key_text": "Area Manager:",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "D. Chen"
+    },
+    {
+      "key_text": "Date / Time:",
+      "value_text": "2023-10-24 08:15"
+    },
+    {
+      "key_text": "EHS Officer:",
+      "value_text": "Maria Rodriguez"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "M. Rodriguez"
+    },
+    {
+      "key_text": "Date / Time:",
+      "value_text": "2023-10-24 08:30"
+    },
+    {
+      "key_text": "Work Completed?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Area Left Safe?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Close-Out Date/Time:",
+      "value_text": "2023-10-24 14:30"
+    },
+    {
+      "key_text": "Close-Out Comments:",
+      "value_text": "Work completed successfully; power restored and tested."
+    }
+  ]
+}
+
+Narrative:
+This Permit to Work (PTW Number: 2023-EL-884) was issued on October 24, 2023, for the Day Shift, and is valid until the same day. The work is scheduled to take place in Zone B - Main Floor of Plant 4, focusing on the HVAC Control Unit. The work involves the replacement of a faulty circuit breaker and a wiring inspection, requiring two workers for an estimated 6 hours.
+
+The identified hazard for this task is Electrical. Control measures include applying LOTO (Isolation Certificate No. ISO-9921, verified by J. Miller) and requiring mandatory PPE including a hard hat, safety glasses, and gloves. Gas testing is not applicable for this task. In the event of an emergency, the team is to report to Parking Lot A, with Site Security (ext 911) as the emergency contact, following the SOP-SAF-004 procedure.
+
+The permit has been authorized by Work Supervisor Sarah Jenkins, Area Manager David Chen, and EHS Officer Maria Rodriguez, with all signatures and timestamps recorded on the morning of October 24. Upon completion, the work was marked as finished and the area left safe at 14:30. The final comment confirms that the work was successful and power has been restored.

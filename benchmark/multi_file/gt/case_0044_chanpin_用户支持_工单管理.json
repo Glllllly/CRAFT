@@ -1,0 +1,51 @@
+{
+  "excel": "case_0044_chanpin_用户支持_工单管理__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "用户遇到问题",
+      "value_cell": "A7:D8",
+      "value": "无法登录"
+    },
+    {
+      "label": "问题类型",
+      "value_cell": "F7:I8",
+      "value": "功能问题"
+    },
+    {
+      "label": "影响范围",
+      "value_cell": "K7:N8",
+      "value": "单用户"
+    },
+    {
+      "label": "联系方式",
+      "value_cell": "A11:D12",
+      "value": "用户邮箱或电话"
+    },
+    {
+      "label": "重现步骤",
+      "value_cell": "A17:D18",
+      "value": "已记录"
+    },
+    {
+      "label": "处理方法",
+      "value_cell": "F17:I18",
+      "value": "远程协助"
+    },
+    {
+      "label": "处理状态",
+      "value_cell": "A23:D24",
+      "value": "待处理"
+    },
+    {
+      "label": "是否解决",
+      "value_cell": "F23:I24",
+      "value": "已解决"
+    },
+    {
+      "label": "内部备注",
+      "value_cell": "K23:N24",
+      "value": "持续跟踪"
+    }
+  ]
+}

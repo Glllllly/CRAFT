@@ -1,0 +1,206 @@
+﻿{
+    "excel":  "form_27_permit_to_work.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "PTW Number:",
+                      "value_cell":  "E8:F8",
+                      "value":  "2023-EL-884"
+                  },
+                  {
+                      "label":  "Issue Date:",
+                      "value_cell":  "K8:L8",
+                      "value":  "2023-10-24"
+                  },
+                  {
+                      "label":  "Valid Until:",
+                      "value_cell":  "R8",
+                      "value":  "2023-10-24"
+                  },
+                  {
+                      "label":  "Shift:",
+                      "value_cell":  "V8:X8",
+                      "value":  "Day Shift"
+                  },
+                  {
+                      "label":  "Location / Area:",
+                      "value_cell":  "G9:J9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Building / Plant:",
+                      "value_cell":  "Q9:R9",
+                      "value":  "Plant 4"
+                  },
+                  {
+                      "label":  "Equipment / System:",
+                      "value_cell":  "W9:X9",
+                      "value":  "HVAC Control Unit"
+                  },
+                  {
+                      "label":  "Description of Work to be Performed:",
+                      "value_cell":  "N13:X13",
+                      "value":  "Replacement of faulty circuit breaker and wiring inspection."
+                  },
+                  {
+                      "label":  "Estimated Duration  (hours):",
+                      "value_cell":  "J16",
+                      "value":  "6"
+                  },
+                  {
+                      "label":  "No. of Workers:",
+                      "value_cell":  "P16",
+                      "value":  "2"
+                  },
+                  {
+                      "label":  "Electrical",
+                      "value_cell":  "H20:I20",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Stored Energy",
+                      "value_cell":  "N20:O20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Moving Parts",
+                      "value_cell":  "T20:U20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "LOTO Applied",
+                      "value_cell":  "H25:I25",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Isolation Certificate No.:",
+                      "value_cell":  "N25:O25",
+                      "value":  "ISO-9921"
+                  },
+                  {
+                      "label":  "Verified By",
+                      "value_cell":  "T25:U25",
+                      "value":  "J. Miller"
+                  },
+                  {
+                      "label":  "Hard Hat",
+                      "value_cell":  "H26:I26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Safety Glasses",
+                      "value_cell":  "N26:O26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Gloves",
+                      "value_cell":  "T26:U26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Yes 鈥?Results Attached",
+                      "value_cell":  "H27:I27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "N27:O27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Gas Test Reading  (if applicable):",
+                      "value_cell":  "N28:X28",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "H29:I29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "N29:O29",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Assembly Point:",
+                      "value_cell":  "F33:J33",
+                      "value":  "Parking Lot A"
+                  },
+                  {
+                      "label":  "Emergency Contact:",
+                      "value_cell":  "Q33:X33",
+                      "value":  "Site Security - Ext 911"
+                  },
+                  {
+                      "label":  "Rescue Plan / Emergency Procedure Reference:",
+                      "value_cell":  "N34:X34",
+                      "value":  "SOP-SAF-004: Electrical Emergency Response"
+                  },
+                  {
+                      "label":  "Work Supervisor:",
+                      "value_cell":  "G38:J38",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "O38:I38",
+                      "value":  "S. Jenkins"
+                  },
+                  {
+                      "label":  "Date / Time:",
+                      "value_cell":  "X38",
+                      "value":  "2023-10-24 08:00"
+                  },
+                  {
+                      "label":  "Area Manager:",
+                      "value_cell":  "F39:J39",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "O39:I39",
+                      "value":  "D. Chen"
+                  },
+                  {
+                      "label":  "Date / Time:",
+                      "value_cell":  "X39",
+                      "value":  "2023-10-24 08:15"
+                  },
+                  {
+                      "label":  "EHS Officer:",
+                      "value_cell":  "F40:J40",
+                      "value":  "Maria Rodriguez"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "O40:I40",
+                      "value":  "M. Rodriguez"
+                  },
+                  {
+                      "label":  "Date / Time:",
+                      "value_cell":  "X40",
+                      "value":  "2023-10-24 08:30"
+                  },
+                  {
+                      "label":  "Work Completed?  Y / N:",
+                      "value_cell":  "H44:I44",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Area Left Safe?  Y / N:",
+                      "value_cell":  "R44:T44",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Close-Out Date/Time:",
+                      "value_cell":  null,
+                      "value":  "2023-10-24 14:30"
+                  },
+                  {
+                      "label":  "Close-Out Comments:",
+                      "value_cell":  "L45:X45",
+                      "value":  "Work completed successfully; power restored and tested."
+                  }
+              ]
+}

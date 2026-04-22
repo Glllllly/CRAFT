@@ -1,0 +1,80 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Driver Name",
+      "value_text": "Marcus J. Thorne"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Logistics & Distribution"
+    },
+    {
+      "key_text": "Contact Phone",
+      "value_text": "555-0192"
+    },
+    {
+      "key_text": "Driver's License No.",
+      "value_text": "DL-99384720"
+    },
+    {
+      "key_text": "License Expiry Date",
+      "value_text": "2027-11-15"
+    },
+    {
+      "key_text": "Purpose of Trip",
+      "value_text": "Client site inspection and equipment delivery"
+    },
+    {
+      "key_text": "Destination",
+      "value_text": "North Regional Warehouse, Sector 4"
+    },
+    {
+      "key_text": "Departure Date & Time",
+      "value_text": "2023-10-24 08:00 AM"
+    },
+    {
+      "key_text": "Expected Return Date & Time",
+      "value_text": "2023-10-24 05:30 PM"
+    },
+    {
+      "key_text": "Vehicle Requested  (Plate / Type)",
+      "value_text": "TRK-402 / Ford Transit"
+    },
+    {
+      "key_text": "Estimated Distance  (km)",
+      "value_text": "145"
+    },
+    {
+      "key_text": "Passengers (if any)",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Fuel Card Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Line Manager",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Fleet / Facilities Manager",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-21"
+    }
+  ]
+}
+
+Narrative:
+This vehicle request form is submitted by Marcus J. Thorne, employee ID EMP-8842, from the Logistics & Distribution department. He can be reached at 555-0192. His driver's license number is DL-99384720, which expires on November 15, 2027. Marcus is planning a trip for a client site inspection and equipment delivery at the North Regional Warehouse in Sector 4. The departure is scheduled for October 24, 2023, at 8:00 AM, with an expected return by 5:30 PM the same day. He has requested a Ford Transit van (plate TRK-402) for the 145 km trip and will be accompanied by passenger Sarah Jenkins. A fuel card is required for this journey. The request has been authorized by his line manager, Elena Rodriguez, on October 20, 2023, and approved by the Fleet Manager, David Chen, on October 21, 2023.

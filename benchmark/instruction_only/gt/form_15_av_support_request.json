@@ -1,0 +1,176 @@
+﻿{
+    "excel":  "form_15_av_support_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Event Name / Meeting Title:",
+                      "value_cell":  "L9:X9",
+                      "value":  "Annual Strategic Planning Summit"
+                  },
+                  {
+                      "label":  "Event Date:",
+                      "value_cell":  "E10:H10",
+                      "value":  "October 24, 2023"
+                  },
+                  {
+                      "label":  "Start Time:",
+                      "value_cell":  "I11:N11",
+                      "value":  "09:00 AM"
+                  },
+                  {
+                      "label":  "End Time:",
+                      "value_cell":  "M10:N10",
+                      "value":  "04:00 PM"
+                  },
+                  {
+                      "label":  "Setup Time Needed:",
+                      "value_cell":  "S10:T10",
+                      "value":  "08:00 AM"
+                  },
+                  {
+                      "label":  "Location / Room / Building:",
+                      "value_cell":  "L11:X11",
+                      "value":  "Grand Hall, Science Center"
+                  },
+                  {
+                      "label":  "Organiser Name:",
+                      "value_cell":  "F12:J12",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Dept:",
+                      "value_cell":  "N12:P12",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "T12:X12",
+                      "value":  "555-0128"
+                  },
+                  {
+                      "label":  "Organiser E-mail:",
+                      "value_cell":  "L13:X13",
+                      "value":  "s.jenkins@campus.edu"
+                  },
+                  {
+                      "label":  "Expected Attendance:",
+                      "value_cell":  "H14",
+                      "value":  "75"
+                  },
+                  {
+                      "label":  "VIP / Exec in Attendance?  Y / N:",
+                      "value_cell":  "S14:X14",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Projector",
+                      "value_cell":  "H18:I18",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Large LED Screen",
+                      "value_cell":  "N18:O18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dual Screen",
+                      "value_cell":  "T18:U18",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Lapel Mic",
+                      "value_cell":  "H19:I19",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Handheld Mic",
+                      "value_cell":  "N19:O19",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Podium Mic",
+                      "value_cell":  "T19:U19",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Zoom",
+                      "value_cell":  "H20:I20",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Teams",
+                      "value_cell":  "N20:O20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "WebEx",
+                      "value_cell":  "T20:U20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Recording",
+                      "value_cell":  "H21:I21",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Live Streaming",
+                      "value_cell":  "N21:O21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Laptop Loan",
+                      "value_cell":  "T21:U21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Special AV Requirements (describe):",
+                      "value_cell":  "N22:X22",
+                      "value":  "Need external audio input for video playback."
+                  },
+                  {
+                      "label":  "Presenter will bring own laptop?  Y / N:",
+                      "value_cell":  "M26:P26",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "File format of presentation  (PPT / PDF / Keynote / Other):",
+                      "value_cell":  "P27:X27",
+                      "value":  "PPT"
+                  },
+                  {
+                      "label":  "Slide count (approx.):",
+                      "value_cell":  "J28:X28",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "AV Tech Assigned:",
+                      "value_cell":  "G33:L33",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Confirmed Date:",
+                      "value_cell":  "R33:X33",
+                      "value":  "October 20, 2023"
+                  },
+                  {
+                      "label":  "Organiser Signature",
+                      "value_cell":  "A40:M40",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q40:X40",
+                      "value":  "October 15, 2023"
+                  },
+                  {
+                      "label":  "AV Services Coordinator",
+                      "value_cell":  "A42:M42",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q42:X42",
+                      "value":  "October 16, 2023"
+                  }
+              ]
+}

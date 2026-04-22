@@ -1,0 +1,76 @@
+{
+  "excel": "case_0037_chanpin_文档_API文档__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "\"createdat\"",
+      "value_cell": "A6:D7",
+      "value": "\"2024-01-01T00:00:00Z\""
+    },
+    {
+      "label": "`page`(可选)",
+      "value_cell": "A12:D13",
+      "value": "页码，默认1"
+    },
+    {
+      "label": "`limit`(可选)",
+      "value_cell": "F12:I13",
+      "value": "每页数量，默认20"
+    },
+    {
+      "label": "`status`(可选)",
+      "value_cell": "K12:N13",
+      "value": "产品状态过滤"
+    },
+    {
+      "label": "\"id\"",
+      "value_cell": "A18:D19",
+      "value": "1,"
+    },
+    {
+      "label": "\"code\"",
+      "value_cell": "F18:I19",
+      "value": "0,"
+    },
+    {
+      "label": "\"message\"",
+      "value_cell": "K18:N19",
+      "value": "\"success\","
+    },
+    {
+      "label": "\"status\"",
+      "value_cell": "P18:S19",
+      "value": "\"active\","
+    },
+    {
+      "label": "\"total\"",
+      "value_cell": "A22:D23",
+      "value": "100,"
+    },
+    {
+      "label": "\"page\"",
+      "value_cell": "F22:I23",
+      "value": "1,"
+    },
+    {
+      "label": "\"data\"",
+      "value_cell": "A28:D29",
+      "value": "{"
+    },
+    {
+      "label": "\"list\"",
+      "value_cell": "F28:I29",
+      "value": "["
+    },
+    {
+      "label": "\"category\"",
+      "value_cell": "K28:N29",
+      "value": "\"category_name\""
+    },
+    {
+      "label": "\"description\"",
+      "value_cell": "P28:S29",
+      "value": "\"产品描述\","
+    }
+  ]
+}

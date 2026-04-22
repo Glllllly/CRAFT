@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date required:",
+      "value_text": "10/15/23"
+    },
+    {
+      "key_text": "Payee Name",
+      "value_text": "Dr. Alice Smith"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Biological Sciences"
+    },
+    {
+      "key_text": "Address",
+      "value_text": "1812 Sir Isaac Brock Way, St. Catharines, ON"
+    },
+    {
+      "key_text": "Postal Code",
+      "value_text": "L2S 3A1"
+    },
+    {
+      "key_text": "Mail to depart",
+      "value_text": null
+    },
+    {
+      "key_text": "Mail to Payee in department",
+      "value_text": null
+    },
+    {
+      "key_text": "Mail to address shown",
+      "value_text": null
+    },
+    {
+      "key_text": "Will pick up from finance",
+      "value_text": "Checked"
+    },
+    {
+      "key_text": "call",
+      "value_text": "905-688-5550"
+    },
+    {
+      "key_text": "ext",
+      "value_text": "1234"
+    },
+    {
+      "key_text": "Advance amount required (111-006-018)",
+      "value_text": "1,200.00"
+    },
+    {
+      "key_text": "Cdn $",
+      "value_text": "Checked"
+    },
+    {
+      "key_text": "US $",
+      "value_text": null
+    },
+    {
+      "key_text": "Date of conference/trip",
+      "value_text": "10/25/23"
+    },
+    {
+      "key_text": "Purpose of Advance (attach supporting documentation to form, e.g. conference advertising/itinerary)",
+      "value_text": "Attendance and presentation at the International Biology Symposium in Toronto."
+    },
+    {
+      "key_text": "Account xxx-xxx-xxx",
+      "value_text": "101-202-303"
+    },
+    {
+      "key_text": "Department (if different than above)",
+      "value_text": "Biological Sciences"
+    },
+    {
+      "key_text": "PAYMENT REQUESTOR (if different from payee) Print Name:",
+      "value_text": null
+    },
+    {
+      "key_text": "PAYMENT REQUESTOR (if different from payee) Title:",
+      "value_text": null
+    },
+    {
+      "key_text": "PAYMENT REQUESTOR (if different from payee) Signature:",
+      "value_text": null
+    },
+    {
+      "key_text": "PAYMENT REQUESTOR (if different from payee) Date:",
+      "value_text": null
+    },
+    {
+      "key_text": "PAYEE Print Name:",
+      "value_text": "Dr. Alice Smith"
+    },
+    {
+      "key_text": "PAYEE Title:",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "PAYEE Signature:",
+      "value_text": "Alice Smith"
+    },
+    {
+      "key_text": "PAYEE Date:",
+      "value_text": "10/05/23"
+    },
+    {
+      "key_text": "IMMEDIATE SUPERVISOR Print Name:",
+      "value_text": "Dr. Bob Johnson"
+    },
+    {
+      "key_text": "IMMEDIATE SUPERVISOR Title:",
+      "value_text": "Department Chair"
+    },
+    {
+      "key_text": "IMMEDIATE SUPERVISOR Signature:",
+      "value_text": "Bob Johnson"
+    },
+    {
+      "key_text": "IMMEDIATE SUPERVISOR Date:",
+      "value_text": "10/06/23"
+    },
+    {
+      "key_text": "Verified by:",
+      "value_text": null
+    },
+    {
+      "key_text": "Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This is a travel advance request for Dr. Alice Smith from the Biological Sciences department at Brock University. She is requesting an advance of $1,200.00 Canadian dollars for a trip to Toronto to attend the International Biology Symposium, which begins on October 25, 2023. The funds are required by October 15, 2023. Dr. Smith will pick up the payment from the finance office herself; she can be reached at 905-688-5550 extension 1234 to coordinate the pickup. The expenses for this trip will be billed to account 101-202-303 under the Biological Sciences department. Dr. Smith signed the request on October 5, and it was approved by her supervisor, Department Chair Dr. Bob Johnson, on October 6.

@@ -1,0 +1,51 @@
+﻿{
+    "excel":  "1_Asset Marketing WIP Report.xlsx",
+    "sheet":  "Americas",
+    "pairs":  [
+                  {
+                      "label":  "Project Name:",
+                      "value_cell":  "A7",
+                      "value":  "Project Meridian"
+                  },
+                  {
+                      "label":  "ENE Banker:",
+                      "value_cell":  "A9",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "ENE O/S Legal:",
+                      "value_cell":  "A11",
+                      "value":  "Davis Polk \u0026 Wardwell"
+                  },
+                  {
+                      "label":  "Counterparty Banker:",
+                      "value_cell":  "A13",
+                      "value":  "Mark Sterling"
+                  },
+                  {
+                      "label":  "Counterparty O/S Legal:",
+                      "value_cell":  "A15:A18",
+                      "value":  "Sullivan \u0026 Cromwell LLP"
+                  },
+                  {
+                      "label":  "Overview:",
+                      "value_cell":  "B7",
+                      "value":  "Strategic acquisition of regional logistics assets to expand operational footprint."
+                  },
+                  {
+                      "label":  "Action Items:",
+                      "value_cell":  "B9:B18",
+                      "value":  "Finalize due diligence report; schedule board approval meeting; draft definitive purchase agreement."
+                  },
+                  {
+                      "label":  "Size ($MM)",
+                      "value_cell":  "C6:C18",
+                      "value":  "450"
+                  },
+                  {
+                      "label":  "Working Group",
+                      "value_cell":  "D6:D18",
+                      "value":  "Internal M\u0026A Team, Legal Counsel, Financial Advisors"
+                  }
+              ]
+}

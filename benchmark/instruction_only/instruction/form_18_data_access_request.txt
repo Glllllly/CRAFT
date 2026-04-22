@@ -1,0 +1,64 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID:",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Financial Planning"
+    },
+    {
+      "key_text": "Job Title:",
+      "value_text": "Senior Analyst"
+    },
+    {
+      "key_text": "Manager Name:",
+      "value_text": "David Thorne"
+    },
+    {
+      "key_text": "Date of Request:",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "System / Application Name:",
+      "value_text": "Oracle ERP Cloud"
+    },
+    {
+      "key_text": "Access Level (Read / Write / Admin):",
+      "value_text": "Write"
+    },
+    {
+      "key_text": "Internal / Confidential / Restricted):",
+      "value_text": "Confidential"
+    },
+    {
+      "key_text": "Access Start Date:",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Access End Date (if temporary):",
+      "value_text": null
+    },
+    {
+      "key_text": "Data Owner Contact:",
+      "value_text": "Marcus Vane"
+    },
+    {
+      "key_text": "Business Justification:",
+      "value_text": "Required for Q4 budget reconciliation and reporting."
+    },
+    {
+      "key_text": "Previous Access Level (if upgrade):",
+      "value_text": "Read"
+    }
+  ]
+}
+
+Narrative:
+Sarah Jenkins, a Senior Analyst in the Financial Planning department (Employee ID: EMP-8842), submitted a data access request on October 12, 2023, which was approved by her manager, David Thorne. She is requesting "Write" level access to the Oracle ERP Cloud system, which is classified as Confidential. This is an upgrade from her previous "Read" access, and the business justification is that she requires it for Q4 budget reconciliation and reporting. The access is set to begin on October 15, 2023, with no specific end date requested. Marcus Vane is listed as the Data Owner contact for this request.

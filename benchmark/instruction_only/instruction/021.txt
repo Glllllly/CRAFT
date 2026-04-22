@@ -1,0 +1,42 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Employee Full Name", "value_text": "Sarah J. Miller" },
+    { "key_text": "Employee ID", "value_text": "EMP-88492" },
+    { "key_text": "Current Department", "value_text": "Customer Success" },
+    { "key_text": "Current Job Title", "value_text": "Senior Account Manager" },
+    { "key_text": "Current Manager Name", "value_text": "David Thorne" },
+    { "key_text": "Current Manager E-mail", "value_text": "d.thorne@company.com" },
+    { "key_text": "Date of Hire", "value_text": "2021-03-15" },
+    { "key_text": "Current Salary / Grade Band", "value_text": "Grade 6" },
+    { "key_text": "Length of Time in Current Role", "value_text": "2.5 years" },
+    { "key_text": "Last Performance Rating", "value_text": "Exceeds Expectations" },
+    { "key_text": "Job Title / Position Applied For", "value_text": "Product Marketing Manager" },
+    { "key_text": "Hiring Department", "value_text": "Marketing" },
+    { "key_text": "Hiring Manager Name", "value_text": "Elena Rodriguez" },
+    { "key_text": "Job Requisition Number (if posted)", "value_text": "REQ-2023-441" },
+    { "key_text": "Expected Start Date", "value_text": "2023-11-01" },
+    { "key_text": "Lateral Move", "value_text": "X" },
+    { "key_text": "Promotion", "value_text": null },
+    { "key_text": "Demotion (voluntary)", "value_text": null },
+    { "key_text": "Why are you applying for this transfer?", "value_text": "I am looking to pivot my career toward product strategy and feel my deep understanding of customer pain points will be an asset to the marketing team." },
+    { "key_text": "How do your skills and experience match the new role?", "value_text": "My experience managing high-value accounts has given me direct insight into user needs, which is critical for developing effective product messaging and go-to-market strategies." },
+    { "key_text": "Have you discussed this with your current manager? Y / N", "value_text": "Y" },
+    { "key_text": "Current manager supportive? Y / N", "value_text": "Y" },
+    { "key_text": "Any concerns or constraints to flag (e.g., project commitments)", "value_text": "I am currently finalizing the Q3 client renewal cycle, which will be completed by October 20th." },
+    { "key_text": "Training or upskilling required? Y / N", "value_text": "Y" },
+    { "key_text": "Specific training identified?", "value_text": "Product Marketing Certification (Pragmatic Institute)" },
+    { "key_text": "Career goal this transfer supports", "value_text": "Transitioning into a strategic Product Marketing role to influence long-term product roadmaps." },
+    { "key_text": "Employee Signature", "value_text": "Sarah J. Miller" },
+    { "key_text": "Date", "value_text": "2023-09-25" },
+    { "key_text": "Current Manager  (release approval)", "value_text": "David Thorne" },
+    { "key_text": "Date", "value_text": "2023-09-26" },
+    { "key_text": "Hiring Manager  (acceptance)", "value_text": "Elena Rodriguez" },
+    { "key_text": "Date", "value_text": "2023-09-27" },
+    { "key_text": "HR BP", "value_text": "Marcus Vane" },
+    { "key_text": "Date", "value_text": "2023-09-28" }
+  ]
+}
+
+Narrative:
+Sarah J. Miller, an employee with ID EMP-88492, is requesting a transfer from her current role as a Senior Account Manager in the Customer Success department. She has been with the company since March 2021 and is currently reporting to David Thorne. Sarah is applying for a lateral move into a Product Marketing Manager position within the Marketing department, overseen by hiring manager Elena Rodriguez. The requisition number for the position is REQ-2023-441, with an expected start date of November 1, 2023. Sarah explains that she wants to pivot toward product strategy and believes her direct experience with customer pain points will be highly valuable for the marketing team. She has already discussed this move with her manager, David Thorne, who is supportive. Sarah notes that she will finish her Q3 client renewals before transitioning and is interested in pursuing a Product Marketing Certification to support her career goal of influencing product roadmaps. The form has been signed by Sarah and approved by her current manager, the hiring manager, and the HR Business Partner, Marcus Vane.

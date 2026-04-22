@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0040_chanpin_测试管理_测试用例",
+    "tenant":  "chanpin",
+    "topic":  "测试管理",
+    "subtopic":  "测试用例",
+    "source_dir":  "chanpin\\测试管理\\测试用例",
+    "total_files_in_source_dir":  150,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\测试管理\\测试用例\\用例_0119.txt",
+                      "copied_name":  "用例_0119.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\测试管理\\测试用例\\用例_0021.txt",
+                      "copied_name":  "用例_0021.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\测试管理\\测试用例\\用例_0106.txt",
+                      "copied_name":  "用例_0106.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\测试管理\\测试用例\\用例_0129.txt",
+                      "copied_name":  "用例_0129.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\测试管理\\测试用例\\用例_0033.txt",
+                      "copied_name":  "用例_0033.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  578
+                  }
+              ]
+}

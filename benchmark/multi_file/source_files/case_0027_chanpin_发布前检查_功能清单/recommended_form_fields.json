@@ -1,0 +1,49 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "□操作系统",
+                                   "selected_value":  "支持 Windows/Mac/Linux)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□数据加密",
+                                   "selected_value":  "已实现 AES)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□网络环境",
+                                   "selected_value":  "WiFi) 已测试",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□xss防护",
+                                   "selected_value":  "检查通过",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□浏览器兼容",
+                                   "selected_value":  "支持 Chrome)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□sql注入防护",
+                                   "selected_value":  "检查通过",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□核心功能兼容性",
+                                   "selected_value":  "支持 iOS) 平台",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "发布建议",
+                                   "selected_value":  "可发布)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险等级",
+                                   "selected_value":  "低)",
+                                   "conflict":  false
+                               }
+                           ]
+}

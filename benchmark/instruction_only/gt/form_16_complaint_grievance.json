@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "form_16_complaint_grievance.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Name (Optional)",
+                      "value_cell":  "E6:H6",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Employee ID (Optional)",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "E7:H7",
+                      "value":  "Customer Operations"
+                  },
+                  {
+                      "label":  "Date of Submission",
+                      "value_cell":  "M7:P7",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Preferred Contact Method",
+                      "value_cell":  "E8:H8",
+                      "value":  "Email"
+                  },
+                  {
+                      "label":  "Anonymous Submission Y / N",
+                      "value_cell":  "M8:P8",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Category (Harassment / Discrimination / Pay / Safety / Other)",
+                      "value_cell":  "E11:P11",
+                      "value":  "Harassment"
+                  },
+                  {
+                      "label":  "Date(s) of Incident(s)",
+                      "value_cell":  "E12:H12",
+                      "value":  "2023-10-09 to 2023-10-11"
+                  },
+                  {
+                      "label":  "Persons Involved",
+                      "value_cell":  "M12:P12",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Detailed Description of Complaint",
+                      "value_cell":  "E13:P13",
+                      "value":  "Repeated inappropriate comments regarding work performance and personal appearance during team meetings."
+                  },
+                  {
+                      "label":  "Evidence / Documents Attached",
+                      "value_cell":  "E14:P14",
+                      "value":  "Email correspondence and meeting notes."
+                  },
+                  {
+                      "label":  "Previous Steps Taken to Resolve",
+                      "value_cell":  "E15:P15",
+                      "value":  "Spoke with direct supervisor on 2023-10-10, but no action was taken."
+                  },
+                  {
+                      "label":  "Desired Outcome / Resolution Sought",
+                      "value_cell":  "E16:P16",
+                      "value":  "Formal investigation and mediation to ensure a respectful work environment."
+                  },
+                  {
+                      "label":  "HR Business Partner",
+                      "value_cell":  "A22:J22",
+                      "value":  "Alice Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "Employee Relations Manager",
+                      "value_cell":  "A24:J24",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "HR Director",
+                      "value_cell":  "A26:J26",
+                      "value":  "Susan Sterling"
+                  },
+                  {
+                      "label":  "Date (HRD)",
+                      "value_cell":  "M26:P26",
+                      "value":  "2023-10-14"
+                  }
+              ]
+}

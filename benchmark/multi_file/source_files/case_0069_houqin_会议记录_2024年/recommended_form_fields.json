@@ -1,0 +1,129 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:33 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "资产清单_5327",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "待审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "owner",
+                                   "selected_value":  "李主任 (后勤部经理)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:33.260276",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "70132",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "陈芳@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "张丽@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "资产清单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "王五",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "项目计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "低",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□张华",
+                                   "selected_value":  "组织固定资产盘点",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□李军",
+                                   "selected_value":  "做好库存预警管理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "□王芳",
+                                   "selected_value":  "负责启动新一轮采购计划",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "库存周转率",
+                                   "selected_value":  "4.2次",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "设备故障率",
+                                   "selected_value":  "0.3%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购执行率",
+                                   "selected_value":  "98%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "会议地点",
+                                   "selected_value":  "会议室A",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "会议时间",
+                                   "selected_value":  "2024-09-10 14:00",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参会人员",
+                                   "selected_value":  "王芳(采购)、李军(库存)、张华(资产)、赵敏(安全)、孙超(宿舍)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "会议记录人",
+                                   "selected_value":  "王芳",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "下次会议时间",
+                                   "selected_value":  "2024-10-10",
+                                   "conflict":  false
+                               }
+                           ]
+}

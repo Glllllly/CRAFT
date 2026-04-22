@@ -1,0 +1,91 @@
+﻿{
+    "excel":  "002b7cb4-8388-4790-ae80-20849ebdf0b9.xlsx",
+    "sheet":  "VPAA",
+    "pairs":  [
+                  {
+                      "label":  "Name of Person Requesting Stipend:",
+                      "value_cell":  "D2:H2",
+                      "value":  "Dr. Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Name of Person to Receive the Stipend:",
+                      "value_cell":  "D4:H4",
+                      "value":  "Michael Thorne"
+                  },
+                  {
+                      "label":  "Position Name / Title of Position:",
+                      "value_cell":  "D6:H6",
+                      "value":  "Graduate Research Assistant"
+                  },
+                  {
+                      "label":  "School/Dept of Person Receiving Stipend:",
+                      "value_cell":  "D8:H8,C9:H9",
+                      "value":  "School of Health Professions / Dept. of Nursing"
+                  },
+                  {
+                      "label":  "Purpose for Stipend:",
+                      "value_cell":  "C11:H13",
+                      "value":  "To provide support for the \u0027Urban Health Outreach Project,\u0027 involving data collection and community engagement during the summer term."
+                  },
+                  {
+                      "label":  "Time Period for Stipend:",
+                      "value_cell":  "C14:H14",
+                      "value":  "June 1, 2024 - August 15, 2024"
+                  },
+                  {
+                      "label":  "Amount of Stipend:",
+                      "value_cell":  "C16:H16",
+                      "value":  "$2,500.00"
+                  },
+                  {
+                      "label":  "Chartfield #",
+                      "value_cell":  "F18:H18",
+                      "value":  "10-450-22-8901"
+                  },
+                  {
+                      "label":  "Account Name",
+                      "value_cell":  "F19:H19",
+                      "value":  "Summer Research Grant - Nursing"
+                  },
+                  {
+                      "label":  "Requestor:",
+                      "value_cell":  "C23:F23",
+                      "value":  "Dr. Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "G23:H23",
+                      "value":  "05/10/2024"
+                  },
+                  {
+                      "label":  "Dean:",
+                      "value_cell":  "C25:F25",
+                      "value":  "Dr. Robert Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "G25:H25",
+                      "value":  "05/12/2024"
+                  },
+                  {
+                      "label":  "Deputy VPAA:",
+                      "value_cell":  "C27:F27",
+                      "value":  "Dr. Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "G27:H27",
+                      "value":  "05/15/2024"
+                  },
+                  {
+                      "label":  "AA Budgets:",
+                      "value_cell":  "C29:F29",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "G29:H29",
+                      "value":  "05/18/2024"
+                  }
+              ]
+}

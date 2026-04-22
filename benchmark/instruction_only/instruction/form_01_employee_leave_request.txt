@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Jonathan P. Sterling"
+    },
+    {
+      "key_text": "Employee ID / Staff No.",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Copywriter"
+    },
+    {
+      "key_text": "Supervisor Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Contact Email",
+      "value_text": "j.sterling@company.com"
+    },
+    {
+      "key_text": "Leave Type  (Sick / Vacation / Personal / Other)",
+      "value_text": "Vacation"
+    },
+    {
+      "key_text": "Priority Level",
+      "value_text": "Medium"
+    },
+    {
+      "key_text": "Start Date",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "End Date",
+      "value_text": "2023-11-20"
+    },
+    {
+      "key_text": "Total Days Requested",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Backup Coverage Arranged?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Reason / Description",
+      "value_text": "Family trip to visit relatives out of state."
+    },
+    {
+      "key_text": "Direct Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "HR Representative",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-26"
+    },
+    {
+      "key_text": "Department Head",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-27"
+    }
+  ]
+}
+
+Narrative:
+Jonathan P. Sterling, a Senior Copywriter in the Marketing department (Employee ID: EMP-8842), is requesting a 4-day vacation from November 15th to November 20th, 2023. He has arranged for backup coverage and indicated a medium priority level for his absence, which is for a family trip. His supervisor is Sarah Jenkins. The leave request has been signed by his direct manager, Sarah Jenkins, on October 25th, 2023, followed by HR Representative Marcus Thorne on October 26th, and finally approved by Department Head Elena Rodriguez on October 27th, 2023.

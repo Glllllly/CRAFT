@@ -1,0 +1,168 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Student Full Name",
+      "value_text": "Elena R. Vance"
+    },
+    {
+      "key_text": "Student ID",
+      "value_text": "88293041"
+    },
+    {
+      "key_text": "Programme / Major",
+      "value_text": "Computer Science"
+    },
+    {
+      "key_text": "Academic Year / Level",
+      "value_text": "Junior / Year 3"
+    },
+    {
+      "key_text": "GPA",
+      "value_text": "3.85"
+    },
+    {
+      "key_text": "University E-mail",
+      "value_text": "evance@university.edu"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-012-9988"
+    },
+    {
+      "key_text": "Faculty Advisor Name",
+      "value_text": "Dr. Marcus Thorne"
+    },
+    {
+      "key_text": "Advisor E-mail & Phone",
+      "value_text": "m.thorne@university.edu / 555-443-2211"
+    },
+    {
+      "key_text": "Organisation Name",
+      "value_text": "TechFlow Solutions Inc."
+    },
+    {
+      "key_text": "Industry / Sector",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Site Supervisor Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Supervisor Title",
+      "value_text": "Senior Engineering Manager"
+    },
+    {
+      "key_text": "Supervisor Phone",
+      "value_text": "555-889-4455"
+    },
+    {
+      "key_text": "Supervisor E-mail",
+      "value_text": "s.jenkins@techflow.com"
+    },
+    {
+      "key_text": "Organisation Website",
+      "value_text": "www.techflowsolutions.com"
+    },
+    {
+      "key_text": "Organisation Address",
+      "value_text": "442 Innovation Way, Suite 100, Silicon Valley, CA 94025"
+    },
+    {
+      "key_text": "Internship Title / Role",
+      "value_text": "Software Development Intern"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Cloud Infrastructure"
+    },
+    {
+      "key_text": "Start Date",
+      "value_text": "2024-06-03"
+    },
+    {
+      "key_text": "End Date",
+      "value_text": "2024-08-23"
+    },
+    {
+      "key_text": "Total Hours Required",
+      "value_text": "360"
+    },
+    {
+      "key_text": "Hours per Week",
+      "value_text": "30"
+    },
+    {
+      "key_text": "Days / Schedule  (e.g., Mon–Fri 9–5)",
+      "value_text": "Mon–Thu 9:00 AM – 4:30 PM"
+    },
+    {
+      "key_text": "Compensation / Stipend  $",
+      "value_text": "4500"
+    },
+    {
+      "key_text": "Unpaid?  Y / N  (attach justification if unpaid)",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Learning Goal 1",
+      "value_text": "Gain proficiency in deploying microservices to cloud environments."
+    },
+    {
+      "key_text": "Learning Goal 2",
+      "value_text": "Collaborate effectively within an Agile software development team."
+    },
+    {
+      "key_text": "Learning Goal 3",
+      "value_text": "Improve technical documentation skills for internal API frameworks."
+    },
+    {
+      "key_text": "Evaluation Method / Deliverables (midpoint & final review)",
+      "value_text": "Bi-weekly performance reviews and a final capstone project presentation."
+    },
+    {
+      "key_text": "Academic Credits to be Awarded",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Credit Registration Course Code",
+      "value_text": "CS-499"
+    },
+    {
+      "key_text": "Student Signature",
+      "value_text": "Elena R. Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "Site Supervisor Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-16"
+    },
+    {
+      "key_text": "Faculty Advisor",
+      "value_text": "Dr. Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-05-18"
+    },
+    {
+      "key_text": "Career Services",
+      "value_text": "Jane Doe"
+    },
+    {
+      "key_text": "Date (Career)",
+      "value_text": "2024-05-20"
+    }
+  ]
+}
+
+Narrative:
+Elena R. Vance, a Junior Computer Science student (ID: 88293041) with a 3.85 GPA, is embarking on a Software Development internship at TechFlow Solutions Inc. Her faculty advisor is Dr. Marcus Thorne. The internship takes place in the Cloud Infrastructure department under the supervision of Sarah Jenkins, the Senior Engineering Manager. Elena will work 30 hours per week from June 3, 2024, to August 23, 2024, totaling 360 hours, with a schedule of Monday through Thursday, 9:00 AM to 4:30 PM. She will receive a $4,500 stipend. Her learning goals focus on cloud microservices, Agile collaboration, and technical documentation. Her performance will be evaluated through bi-weekly reviews and a final project. She is receiving 3 academic credits for course CS-499. The form was signed by Elena on May 15, 2024, followed by her supervisor, advisor, and Career Services representative in the subsequent days.

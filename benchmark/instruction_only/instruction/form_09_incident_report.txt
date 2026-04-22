@@ -1,0 +1,94 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name of Reporter:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Employee ID:",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Warehouse Operations"
+    },
+    {
+      "key_text": "Date of Report:",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Supervisor Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Contact Phone:",
+      "value_text": "555-012-9984"
+    },
+    {
+      "key_text": "Date of Incident:",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Time of Incident:",
+      "value_text": "09:15 AM"
+    },
+    {
+      "key_text": "Location of Incident:",
+      "value_text": "Loading Dock B"
+    },
+    {
+      "key_text": "Type  (Injury / Near Miss / Damage / Other):",
+      "value_text": "Injury"
+    },
+    {
+      "key_text": "Persons Involved / Injured:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Description of Incident:",
+      "value_text": "Tripped over an unsecured pallet jack handle while moving inventory."
+    },
+    {
+      "key_text": "Immediate Actions Taken:",
+      "value_text": "Applied first aid to scraped knee, cleared debris, and reported to floor manager."
+    },
+    {
+      "key_text": "Witnesses  (Name & Contact):",
+      "value_text": "David Miller (555-019-3321)"
+    },
+    {
+      "key_text": "Medical Treatment Required  Y / N:",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Reporting Supervisor",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Supervisor)",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Safety Officer / EHS Manager",
+      "value_text": "Robert Vance"
+    },
+    {
+      "key_text": "Date (Safety Officer)",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "HR Director",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (HR)",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+This report was filed by Marcus Thorne (Employee ID: EMP-8842), who works in the Warehouse Operations department. He submitted the report on October 14, 2023, regarding an incident that occurred earlier that same day at 9:15 AM on Loading Dock B. His supervisor, Sarah Jenkins, was notified and reached at 555-012-9984.
+
+The incident was classified as an injury involving Marcus himself. He described the event as tripping over an unsecured pallet jack handle while moving inventory. Immediate actions included applying first aid to a scraped knee, clearing the tripping hazard, and notifying the floor manager. David Miller (555-019-3321) witnessed the event. No further medical treatment was required. The form has been signed off by supervisor Sarah Jenkins on October 14, Safety Officer Robert Vance on October 15, and HR Director Elena Rodriguez on October 16, 2023.

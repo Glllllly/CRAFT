@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0209_houqin_邮件记录",
+    "tenant":  "houqin",
+    "topic":  "邮件记录",
+    "subtopic":  "",
+    "source_dir":  "houqin\\邮件记录",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\邮件记录\\访问记录_5267.json",
+                      "copied_name":  "访问记录_5267.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\邮件记录\\调查表_8894.csv",
+                      "copied_name":  "调查表_8894.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\邮件记录\\月报_8697.txt",
+                      "copied_name":  "月报_8697.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  212
+                  },
+                  {
+                      "source_rel":  "houqin\\邮件记录\\销售统计_8689.eml",
+                      "copied_name":  "销售统计_8689.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\邮件记录\\绩效表_7323.csv",
+                      "copied_name":  "绩效表_7323.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1338
+                  }
+              ]
+}

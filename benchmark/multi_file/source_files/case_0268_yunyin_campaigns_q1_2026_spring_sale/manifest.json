@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0268_yunyin_campaigns_q1_2026_spring_sale",
+    "tenant":  "yunyin",
+    "topic":  "campaigns",
+    "subtopic":  "q1_2026_spring_sale",
+    "source_dir":  "yunyin\\campaigns\\q1_2026_spring_sale",
+    "total_files_in_source_dir":  5,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\campaigns\\q1_2026_spring_sale\\campaign_brief.md",
+                      "copied_name":  "campaign_brief.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1381
+                  },
+                  {
+                      "source_rel":  "yunyin\\campaigns\\q1_2026_spring_sale\\creative_assets_specs.md",
+                      "copied_name":  "creative_assets_specs.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1342
+                  },
+                  {
+                      "source_rel":  "yunyin\\campaigns\\q1_2026_spring_sale\\post_campaign_analysis.md",
+                      "copied_name":  "post_campaign_analysis.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1198
+                  },
+                  {
+                      "source_rel":  "yunyin\\campaigns\\q1_2026_spring_sale\\performance_tracking_daily.md",
+                      "copied_name":  "performance_tracking_daily.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1174
+                  },
+                  {
+                      "source_rel":  "yunyin\\campaigns\\q1_2026_spring_sale\\risk_management_plan.md",
+                      "copied_name":  "risk_management_plan.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  955
+                  }
+              ]
+}

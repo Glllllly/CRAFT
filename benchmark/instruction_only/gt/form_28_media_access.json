@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_28_media_access.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Reporter / Journalist Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Title / Role",
+                      "value_cell":  "M9:X9",
+                      "value":  "Senior Technology Correspondent"
+                  },
+                  {
+                      "label":  "Media Organization / Publication",
+                      "value_cell":  "A11:L11",
+                      "value":  "Global Tech Daily"
+                  },
+                  {
+                      "label":  "Type (Print / Broadcast / Online / Podcast / Other)",
+                      "value_cell":  "M11:X11",
+                      "value":  "Online"
+                  },
+                  {
+                      "label":  "Office Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "212-555-0198"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I13:P13",
+                      "value":  "917-555-0432"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "Q13:X13",
+                      "value":  "e.rodriguez@globaltechdaily.com"
+                  },
+                  {
+                      "label":  "Organization Mailing Address",
+                      "value_cell":  "A15:X15",
+                      "value":  "1200 Innovation Way, Suite 400, New York, NY 10001"
+                  },
+                  {
+                      "label":  "Website / Publication URL",
+                      "value_cell":  "A17:L17",
+                      "value":  "www.globaltechdaily.com"
+                  },
+                  {
+                      "label":  "Social Media Handle(s)",
+                      "value_cell":  "M17:X17",
+                      "value":  "@erodriguez_tech"
+                  },
+                  {
+                      "label":  "Event Name / Story Being Covered",
+                      "value_cell":  "A22:X22",
+                      "value":  "Annual Robotics Innovation Expo"
+                  },
+                  {
+                      "label":  "Event Date(s)",
+                      "value_cell":  "A24:J24",
+                      "value":  "October 15-17, 2023"
+                  },
+                  {
+                      "label":  "Event Location",
+                      "value_cell":  "K24:X24",
+                      "value":  "Convention Center Hall B, San Francisco, CA"
+                  },
+                  {
+                      "label":  "Press Conference",
+                      "value_cell":  "F26:G26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Facility Tour",
+                      "value_cell":  "L26:M26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Interview Only",
+                      "value_cell":  "R26:S26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Photographer / Video Crew",
+                      "value_cell":  "X26:Y26",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Embedded Coverage",
+                      "value_cell":  "AD26:AE26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Names \u0026 Roles of All Attending Media Personnel",
+                      "value_cell":  "A27:X27",
+                      "value":  "Elena Rodriguez (Reporter), Marcus Thorne (Videographer)"
+                  },
+                  {
+                      "label":  "Equipment to be Brought On-Site  (cameras, lights, recorders, etc.)",
+                      "value_cell":  "A29:X29",
+                      "value":  "Sony FX6 camera, LED light panel, boom microphone, stabilizer gimbal"
+                  },
+                  {
+                      "label":  "Requested Interview Subject(s)",
+                      "value_cell":  "A34:L34",
+                      "value":  "Dr. Aris Thorne, Lead Engineer"
+                  },
+                  {
+                      "label":  "Proposed Interview Topics / Questions",
+                      "value_cell":  "M34:X34",
+                      "value":  "Advancements in autonomous navigation and ethical AI implementation."
+                  },
+                  {
+                      "label":  "Preferred Interview Format  (In-Person / Phone / Video)",
+                      "value_cell":  "A36:L36",
+                      "value":  "In-Person"
+                  },
+                  {
+                      "label":  "Preferred Date \u0026 Time Window",
+                      "value_cell":  "M36:X36",
+                      "value":  "October 16, 2023, 10:00 AM - 12:00 PM"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "G41:H41",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "L41:M41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "NDA Required?  Y / N",
+                      "value_cell":  "A42:L42",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Embargo Agreement Required?  Y / N",
+                      "value_cell":  "M42:X42",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Special Conditions or Restrictions on Coverage",
+                      "value_cell":  "A44:X44",
+                      "value":  "No filming in restricted R\u0026D zones labeled with red signage."
+                  },
+                  {
+                      "label":  "Approved By 鈥?Communications Dir.",
+                      "value_cell":  "A46:N46",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "O46:T46",
+                      "value":  "2023-09-28"
+                  },
+                  {
+                      "label":  "Credential #",
+                      "value_cell":  "U46:X46",
+                      "value":  "GTD-2023-998"
+                  }
+              ]
+}

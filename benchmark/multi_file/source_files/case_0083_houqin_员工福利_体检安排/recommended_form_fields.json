@@ -1,0 +1,119 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "备件申请_6996",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "进行中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "重要",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.430361",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "35750",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "赵六@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "李四@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "备件申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "王军",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "维修记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第一批",
+                                   "selected_value":  "2024年2月15日-2月20日 (财务部、人力资源部)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第三批",
+                                   "selected_value":  "2024年4月5日-4月10日 (技术部、运营部)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "第二批",
+                                   "selected_value":  "2024年3月10日-3月15日 (销售部、市场部)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "体检医院",
+                                   "selected_value":  "三甲医院体检中心",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "体检套餐",
+                                   "selected_value":  "高级健康体检套餐 (¥2500/人)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "体检项目",
+                                   "selected_value":  "血液检查、心电图、B超、胸片、血压测量、身体测量、医生咨询",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "参加人数",
+                                   "selected_value":  "150人",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "注意事项",
+                                   "selected_value":  "体检前一天晚22点后禁食禁水",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "预计费用",
+                                   "selected_value":  "¥375,000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "体检医院联系电话",
+                                   "selected_value":  "010-5866-xxxx",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,92 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8829"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "IT Operations"
+    },
+    {
+      "key_text": "Cost Center",
+      "value_text": "CC-402"
+    },
+    {
+      "key_text": "Date Required By",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Item / Service Description",
+      "value_text": "Ergonomic Office Chairs (Model X)"
+    },
+    {
+      "key_text": "Quantity",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Estimated Unit Price  $",
+      "value_text": "250.00"
+    },
+    {
+      "key_text": "Total Estimated Cost  $",
+      "value_text": "2,500.00"
+    },
+    {
+      "key_text": "Preferred Vendor (if known)",
+      "value_text": "Office Depot Pro"
+    },
+    {
+      "key_text": "Budget Account Code",
+      "value_text": "EQUIP-2023"
+    },
+    {
+      "key_text": "Justification for Purchase",
+      "value_text": "Replacement of damaged chairs for the new IT support team members."
+    },
+    {
+      "key_text": "Requesting Manager",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-26"
+    },
+    {
+      "key_text": "Budget Officer",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-27"
+    },
+    {
+      "key_text": "Procurement Officer",
+      "value_text": "David Wu"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-28"
+    },
+    {
+      "key_text": "CFO (orders > $10,000)",
+      "value_text": null
+    },
+    {
+      "key_text": "Date:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This purchase requisition was submitted by Sarah Jenkins (Employee ID EMP-8829) from the IT Operations department under cost center CC-402. The request, dated October 25, 2023, is for 10 Ergonomic Office Chairs (Model X) at an estimated unit price of $250.00, bringing the total estimated cost to $2,500.00. The items are needed by November 15, 2023, from the preferred vendor Office Depot Pro, and are coded under budget account EQUIP-2023. The justification provided for the purchase is the replacement of damaged chairs for new IT support team members. The form has been approved by requesting manager Marcus Thorne on October 26, 2023, budget officer Elena Rodriguez on October 27, 2023, and procurement officer David Wu on October 28, 2023. Since the total cost is under $10,000, the CFO section remains blank.

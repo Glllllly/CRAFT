@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0265_yunyin_admin",
+    "tenant":  "yunyin",
+    "topic":  "admin",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\admin",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\admin\\meeting_minutes_20.md",
+                      "copied_name":  "meeting_minutes_20.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1247
+                  },
+                  {
+                      "source_rel":  "yunyin\\admin\\meeting_minutes_42.md",
+                      "copied_name":  "meeting_minutes_42.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1247
+                  },
+                  {
+                      "source_rel":  "yunyin\\admin\\meeting_minutes_25.md",
+                      "copied_name":  "meeting_minutes_25.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1247
+                  },
+                  {
+                      "source_rel":  "yunyin\\admin\\meeting_minutes_21.md",
+                      "copied_name":  "meeting_minutes_21.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1247
+                  },
+                  {
+                      "source_rel":  "yunyin\\admin\\meeting_minutes_26.md",
+                      "copied_name":  "meeting_minutes_26.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1247
+                  }
+              ]
+}

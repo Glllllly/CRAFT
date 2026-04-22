@@ -1,0 +1,120 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Designed By:",
+      "value_text": "John Doe"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-27"
+    },
+    {
+      "key_text": "Checked By:",
+      "value_text": "Jane Smith"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-28"
+    },
+    {
+      "key_text": "Company:",
+      "value_text": "Eco-Eng Solutions"
+    },
+    {
+      "key_text": "Project Name:",
+      "value_text": "Oak Creek Restoration"
+    },
+    {
+      "key_text": "Project No.:",
+      "value_text": "2023-456"
+    },
+    {
+      "key_text": "Site Location (City/Town)",
+      "value_text": "Austin"
+    },
+    {
+      "key_text": "Site Id.",
+      "value_text": "AC-04"
+    },
+    {
+      "key_text": "Basic n value",
+      "value_text": "Channels cut into rock (n=0.025)"
+    },
+    {
+      "key_text": "Basic n value",
+      "value_text": "0.025"
+    },
+    {
+      "key_text": "Modifying value: channel surface irregularity",
+      "value_text": "Minor (0.005)"
+    },
+    {
+      "key_text": "Modifying value: channel surface irregularity",
+      "value_text": "0.005"
+    },
+    {
+      "key_text": "Modifying value: channel cross section",
+      "value_text": "Gradual (0.000)"
+    },
+    {
+      "key_text": "Modifying value: channel cross section",
+      "value_text": "0.000"
+    },
+    {
+      "key_text": "Modifying value: effect of obstructions",
+      "value_text": "Negligible (0.000-0.004)"
+    },
+    {
+      "key_text": "Modifying value: effect of obstructions",
+      "value_text": "0.002"
+    },
+    {
+      "key_text": "Modifying value: vegetation",
+      "value_text": "Low (0.005-0.010)"
+    },
+    {
+      "key_text": "Modifying value: vegetation",
+      "value_text": "0.008"
+    },
+    {
+      "key_text": "Straight channel subtotal, n_s",
+      "value_text": "0.040"
+    },
+    {
+      "key_text": "Length of meandering channel (ft)",
+      "value_text": "500"
+    },
+    {
+      "key_text": "Length of straight line (ft)",
+      "value_text": "400"
+    },
+    {
+      "key_text": "Meander ratio (ft/ft)",
+      "value_text": "1.25"
+    },
+    {
+      "key_text": "Modifying value: meandering of channel",
+      "value_text": "Appreciable (0.15*ns)"
+    },
+    {
+      "key_text": "Modifying value: meandering of channel",
+      "value_text": "0.15"
+    },
+    {
+      "key_text": "Meandering modification",
+      "value_text": "0.006"
+    },
+    {
+      "key_text": "Final roughness coefficient, n",
+      "value_text": "0.046"
+    }
+  ]
+}
+
+Narrative:
+This document is a Manning's n calculation worksheet for the Oak Creek Restoration project (Project No. 2023-456) located at site AC-04 in Austin. The assessment was performed by John Doe on October 27, 2023, and subsequently verified by Jane Smith on October 28, 2023, representing the firm Eco-Eng Solutions.
+
+The calculation begins with a basic n value of 0.025, corresponding to a channel cut into rock. To this, several modifying values were applied: 0.005 for minor surface irregularity, 0.000 for a gradual cross-section, 0.002 for negligible obstructions, and 0.008 for low vegetation. These adjustments result in a straight channel subtotal (ns) of 0.040.
+
+Regarding the meander of the reach, the channel measures 500 feet along its path compared to a 400-foot straight-line distance, yielding a meander ratio of 1.25. This qualifies as an 'appreciable' meander, adding a modification factor of 0.15 times the subtotal, which equals 0.006. Summing these values, the final roughness coefficient (n) for the channel reach is determined to be 0.046.

@@ -1,0 +1,56 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Counterparty Name:",
+      "value_text": "Pacific Gas & Electric"
+    },
+    {
+      "key_text": "Originator:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Deal Start Date:",
+      "value_text": "01/01/2024"
+    },
+    {
+      "key_text": "Deal End Date:",
+      "value_text": "12/31/2024"
+    },
+    {
+      "key_text": "Term Duration (months):",
+      "value_text": "12"
+    },
+    {
+      "key_text": "Fuel Rate %:",
+      "value_text": "0%"
+    },
+    {
+      "key_text": "Deal Date:",
+      "value_text": "12/15/2023"
+    },
+    {
+      "key_text": "Deal ID #:",
+      "value_text": "EN-99482-X"
+    },
+    {
+      "key_text": "Unit of Measure:",
+      "value_text": "MWH"
+    },
+    {
+      "key_text": "Volume (Monthly/Daily):",
+      "value_text": "Monthly"
+    },
+    {
+      "key_text": "Price:",
+      "value_text": "$42.50"
+    },
+    {
+      "key_text": "Buy/Sell:",
+      "value_text": "Buy"
+    }
+  ]
+}
+
+Narrative:
+This Enron Direct Deal Sheet documents a transaction with Pacific Gas & Electric, initiated by Sarah Jenkins on December 15, 2023. The deal, identified as EN-99482-X, is a twelve-month agreement starting on January 1, 2024, and ending on December 31, 2024. The contract involves a "Buy" order for electricity measured in MWH, with volumes tracked on a monthly basis at a price of $42.50 per unit. The fuel rate for this transaction is set at 0%.

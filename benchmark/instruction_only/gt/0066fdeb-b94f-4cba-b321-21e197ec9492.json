@@ -1,0 +1,126 @@
+﻿{
+    "excel":  "0066fdeb-b94f-4cba-b321-21e197ec9492.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "**Commodity Name:",
+                      "value_cell":  "B10:D10",
+                      "value":  "Frozen Whole Kernel Corn"
+                  },
+                  {
+                      "label":  "Commodity Code:",
+                      "value_cell":  "G10",
+                      "value":  "110601"
+                  },
+                  {
+                      "label":  "Complainant Name:",
+                      "value_cell":  "B13:D13",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Telephone:",
+                      "value_cell":  "B14:D14",
+                      "value":  "435-123-4567"
+                  },
+                  {
+                      "label":  "Complainant e-mail:",
+                      "value_cell":  "B15:D15",
+                      "value":  "smiller@centralutahschools.org"
+                  },
+                  {
+                      "label":  "Recipient Agency:",
+                      "value_cell":  "B16:D16",
+                      "value":  "Central Utah School District"
+                  },
+                  {
+                      "label":  "Address:",
+                      "value_cell":  "B17:D17",
+                      "value":  "456 Granite Street"
+                  },
+                  {
+                      "label":  "City, State, Zip:",
+                      "value_cell":  "B18:D18",
+                      "value":  "Richfield, UT 84701"
+                  },
+                  {
+                      "label":  "Complainant Title",
+                      "value_cell":  "G13",
+                      "value":  "Kitchen Manager"
+                  },
+                  {
+                      "label":  "Fax:",
+                      "value_cell":  "G14",
+                      "value":  "435-123-4568"
+                  },
+                  {
+                      "label":  "Incident Date:",
+                      "value_cell":  "B20:C20",
+                      "value":  "11/12/2023"
+                  },
+                  {
+                      "label":  "Date of Receipt:",
+                      "value_cell":  "B21:C21",
+                      "value":  "11/05/2023"
+                  },
+                  {
+                      "label":  "Amount Received:",
+                      "value_cell":  "B22:C22",
+                      "value":  "100 cases"
+                  },
+                  {
+                      "label":  "Amount Remaining:",
+                      "value_cell":  "B23:C23",
+                      "value":  "88 cases"
+                  },
+                  {
+                      "label":  "Street address of              remaining product:",
+                      "value_cell":  "B24:F24",
+                      "value":  "456 Granite Street, Richfield, UT 84701"
+                  },
+                  {
+                      "label":  "Amount affected:",
+                      "value_cell":  "G22",
+                      "value":  "12 cases"
+                  },
+                  {
+                      "label":  "Vendor:",
+                      "value_cell":  "B28:F28",
+                      "value":  "Lakeside Foods Inc."
+                  },
+                  {
+                      "label":  "Contract #:",
+                      "value_cell":  "B29:F29",
+                      "value":  "12-3J14-23-C-0892"
+                  },
+                  {
+                      "label":  "DO #:",
+                      "value_cell":  "B30:F30",
+                      "value":  "4000021432"
+                  },
+                  {
+                      "label":  "N/D #:",
+                      "value_cell":  "B31:F31",
+                      "value":  "5000011223"
+                  },
+                  {
+                      "label":  "Pack Date:",
+                      "value_cell":  "B32:F32",
+                      "value":  "09/15/2023"
+                  },
+                  {
+                      "label":  "Box #:",
+                      "value_cell":  "B33:F33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Lot #:",
+                      "value_cell":  "B34:F34",
+                      "value":  "2583CL"
+                  },
+                  {
+                      "label":  "Can Codes:",
+                      "value_cell":  "B35:F35",
+                      "value":  null
+                  }
+              ]
+}

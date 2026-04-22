@@ -1,0 +1,53 @@
+﻿{
+    "case_id":  "case_0065_houqin_会议材料",
+    "tenant":  "houqin",
+    "topic":  "会议材料",
+    "subtopic":  "",
+    "source_dir":  "houqin\\会议材料",
+    "total_files_in_source_dir":  1056,
+    "picked_count":  6,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\会议材料\\会议记录_8827.json",
+                      "copied_name":  "会议记录_8827.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\会议材料\\考勤表_1916.csv",
+                      "copied_name":  "考勤表_1916.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\会议材料\\会议分析功能.md",
+                      "copied_name":  "会议分析功能.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18448
+                  },
+                  {
+                      "source_rel":  "houqin\\会议材料\\采购计划_7686.eml",
+                      "copied_name":  "采购计划_7686.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\会议材料\\Venice_OS_5.pptx",
+                      "copied_name":  "Venice_OS_5.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  317209819
+                  },
+                  {
+                      "source_rel":  "houqin\\会议材料\\2127.jpg",
+                      "copied_name":  "2127.jpg",
+                      "bucket":  "image",
+                      "ext":  ".jpg",
+                      "size":  2162512
+                  }
+              ]
+}

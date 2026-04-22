@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0089_houqin_固定资产_盘点记录",
+    "tenant":  "houqin",
+    "topic":  "固定资产",
+    "subtopic":  "盘点记录",
+    "source_dir":  "houqin\\固定资产\\盘点记录",
+    "total_files_in_source_dir":  37,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\固定资产\\盘点记录\\反馈表_1124.json",
+                      "copied_name":  "反馈表_1124.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  300
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\盘点记录\\评估表_2202.csv",
+                      "copied_name":  "评估表_2202.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\盘点记录\\采购申请_7766.txt",
+                      "copied_name":  "采购申请_7766.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  224
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\盘点记录\\工作计划_3400.eml",
+                      "copied_name":  "工作计划_3400.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\盘点记录\\备件申请_8862.csv",
+                      "copied_name":  "备件申请_8862.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

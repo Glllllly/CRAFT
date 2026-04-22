@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_09_incident_report.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Name of Reporter:",
+                      "value_cell":  "F6:I6",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Employee ID:",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "F7:I7",
+                      "value":  "Warehouse Operations"
+                  },
+                  {
+                      "label":  "Date of Report:",
+                      "value_cell":  "M7:P7",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Supervisor Name:",
+                      "value_cell":  "F8:I8",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Contact Phone:",
+                      "value_cell":  "M8:P8",
+                      "value":  "555-012-9984"
+                  },
+                  {
+                      "label":  "Date of Incident:",
+                      "value_cell":  "F11:I11",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Time of Incident:",
+                      "value_cell":  "M11:P11",
+                      "value":  "09:15 AM"
+                  },
+                  {
+                      "label":  "Location of Incident:",
+                      "value_cell":  "F12:I12",
+                      "value":  "Loading Dock B"
+                  },
+                  {
+                      "label":  "Type  (Injury / Near Miss / Damage / Other):",
+                      "value_cell":  "M12:P12",
+                      "value":  "Injury"
+                  },
+                  {
+                      "label":  "Persons Involved / Injured:",
+                      "value_cell":  "F13:P13",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Description of Incident:",
+                      "value_cell":  "F14:P14",
+                      "value":  "Tripped over an unsecured pallet jack handle while moving inventory."
+                  },
+                  {
+                      "label":  "Immediate Actions Taken:",
+                      "value_cell":  "F15:P15",
+                      "value":  "Applied first aid to scraped knee, cleared debris, and reported to floor manager."
+                  },
+                  {
+                      "label":  "Witnesses  (Name \u0026 Contact):",
+                      "value_cell":  "F16:P16",
+                      "value":  "David Miller (555-019-3321)"
+                  },
+                  {
+                      "label":  "Medical Treatment Required  Y / N:",
+                      "value_cell":  "F17:P17",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Reporting Supervisor",
+                      "value_cell":  "A23:J23",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Supervisor)",
+                      "value_cell":  "M23:P23",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Safety Officer / EHS Manager",
+                      "value_cell":  "A25:J25",
+                      "value":  "Robert Vance"
+                  },
+                  {
+                      "label":  "Date (Safety Officer)",
+                      "value_cell":  "M25:P25",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "HR Director",
+                      "value_cell":  "A27:J27",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date (HR)",
+                      "value_cell":  "M27:P27",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

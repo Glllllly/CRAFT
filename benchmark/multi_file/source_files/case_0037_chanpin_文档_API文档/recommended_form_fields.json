@@ -1,0 +1,74 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "\"createdat\"",
+                                   "selected_value":  "\"2024-01-01T00:00:00Z\"",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "`page`(可选)",
+                                   "selected_value":  "页码，默认1",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "`limit`(可选)",
+                                   "selected_value":  "每页数量，默认20",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "`status`(可选)",
+                                   "selected_value":  "产品状态过滤",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"id\"",
+                                   "selected_value":  "1,",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"code\"",
+                                   "selected_value":  "0,",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"data\"",
+                                   "selected_value":  "{",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"list\"",
+                                   "selected_value":  "[",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"page\"",
+                                   "selected_value":  "1,",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"total\"",
+                                   "selected_value":  "100,",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"status\"",
+                                   "selected_value":  "\"active\",",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"message\"",
+                                   "selected_value":  "\"success\",",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"category\"",
+                                   "selected_value":  "\"category_name\"",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "\"description\"",
+                                   "selected_value":  "\"产品描述\",",
+                                   "conflict":  false
+                               }
+                           ]
+}

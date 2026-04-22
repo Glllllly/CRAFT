@@ -1,0 +1,130 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Sarah Jane Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Brand Manager"
+    },
+    {
+      "key_text": "Hire Date",
+      "value_text": "2018-05-14"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "David Thompson"
+    },
+    {
+      "key_text": "Manager E-mail / Phone",
+      "value_text": "d.thompson@company.com / 555-0128"
+    },
+    {
+      "key_text": "Length of Service (years)",
+      "value_text": "6"
+    },
+    {
+      "key_text": "Employment Type (Full / Part-Time)",
+      "value_text": "Full-Time"
+    },
+    {
+      "key_text": "Placement Date (actual or expected)",
+      "value_text": "2024-11-01"
+    },
+    {
+      "key_text": "Child's Date of Birth (if known)",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "Child's Age at Placement",
+      "value_text": "5 months"
+    },
+    {
+      "key_text": "Number of Children Being Adopted",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Adoption Agency / Authority Name",
+      "value_text": "Beacon Family Services"
+    },
+    {
+      "key_text": "Case Worker Name & Phone",
+      "value_text": "Elena Rodriguez / 555-9876"
+    },
+    {
+      "key_text": "Requested Leave Start Date",
+      "value_text": "2024-11-01"
+    },
+    {
+      "key_text": "Requested Return-to-Work Date",
+      "value_text": "2025-02-07"
+    },
+    {
+      "key_text": "Total Leave Duration Requested",
+      "value_text": "14 weeks"
+    },
+    {
+      "key_text": "Continuous or Intermittent?",
+      "value_text": "Continuous"
+    },
+    {
+      "key_text": "PTO / Annual Leave to Be Used (days)",
+      "value_text": "10"
+    },
+    {
+      "key_text": "STD / LTD Applicable? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Phased Return Details (hours, schedule, duration)",
+      "value_text": "Returning 3 days/week for the first month post-leave."
+    },
+    {
+      "key_text": "Any other leave or flexible work arrangement requested?",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Notes / Other Documentation Details",
+      "value_text": "Adoption order to be provided upon finalization."
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-09-15"
+    },
+    {
+      "key_text": "Manager Acknowledgement",
+      "value_text": "David Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-09-16"
+    },
+    {
+      "key_text": "HR Director",
+      "value_text": "Rebecca Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-09-17"
+    }
+  ]
+}
+
+Narrative:
+This adoption leave request is for Sarah Jane Miller (Employee ID: EMP-88429), a Senior Brand Manager in the Marketing department who has been with the company for 6 years since May 14, 2018. Her manager, David Thompson, has acknowledged the request. Sarah is planning for a placement date of November 1, 2024, involving one child born on May 15, 2024, who will be 5 months old at the time of placement. The adoption is being handled by Beacon Family Services, with case worker Elena Rodriguez. 
+
+Sarah is requesting 14 weeks of continuous leave starting on November 1, 2024, with a return-to-work date of February 7, 2025. She plans to use 10 days of PTO, and STD/LTD is not applicable. Regarding her return, she has requested a phased schedule of 3 days per week for the first month. She noted that the formal adoption order will be submitted once finalized. The form was signed by Sarah on September 15, 2024, acknowledged by her manager on September 16, 2024, and processed by HR Director Rebecca Vance on September 17, 2024.

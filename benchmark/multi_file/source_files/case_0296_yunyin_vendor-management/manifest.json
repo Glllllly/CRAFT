@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0296_yunyin_vendor-management",
+    "tenant":  "yunyin",
+    "topic":  "vendor-management",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\vendor-management",
+    "total_files_in_source_dir":  30,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\vendor-management\\vendor_27.json",
+                      "copied_name":  "vendor_27.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1087
+                  },
+                  {
+                      "source_rel":  "yunyin\\vendor-management\\vendor_28.json",
+                      "copied_name":  "vendor_28.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1087
+                  },
+                  {
+                      "source_rel":  "yunyin\\vendor-management\\vendor_29.json",
+                      "copied_name":  "vendor_29.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1087
+                  },
+                  {
+                      "source_rel":  "yunyin\\vendor-management\\vendor_26.json",
+                      "copied_name":  "vendor_26.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1087
+                  },
+                  {
+                      "source_rel":  "yunyin\\vendor-management\\vendor_23.json",
+                      "copied_name":  "vendor_23.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  1087
+                  }
+              ]
+}

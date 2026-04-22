@@ -1,0 +1,126 @@
+{
+  "excel": "case_0204_houqin_车队管理_出车单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "46915"
+    },
+    {
+      "label": "出车编号",
+      "value_cell": "M6:Q6",
+      "value": "TRIP-009"
+    },
+    {
+      "label": "出车日期",
+      "value_cell": "D9:H9",
+      "value": "2024-01-15"
+    },
+    {
+      "label": "date",
+      "value_cell": "M9:Q9",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:31.303176"
+    },
+    {
+      "label": "creator",
+      "value_cell": "M12:Q12",
+      "value": "周八"
+    },
+    {
+      "label": "车牌号",
+      "value_cell": "D17:H17",
+      "value": "京A·K1235"
+    },
+    {
+      "label": "驾驶人",
+      "value_cell": "M17:Q17",
+      "value": "司机10"
+    },
+    {
+      "label": "出发地",
+      "value_cell": "D20:H20",
+      "value": "公司总部"
+    },
+    {
+      "label": "目的地",
+      "value_cell": "M20:Q20",
+      "value": "地点10"
+    },
+    {
+      "label": "里程数",
+      "value_cell": "D23:H23",
+      "value": "起始132km 终止651km"
+    },
+    {
+      "label": "用油量",
+      "value_cell": "M23:Q23",
+      "value": "34升"
+    },
+    {
+      "label": "随行人员",
+      "value_cell": "D26:H26",
+      "value": "2人"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D31:H31",
+      "value": "销售统计"
+    },
+    {
+      "label": "type",
+      "value_cell": "M31:Q31",
+      "value": "销售统计"
+    },
+    {
+      "label": "事由",
+      "value_cell": "D34:H34",
+      "value": "会议出席"
+    },
+    {
+      "label": "费用",
+      "value_cell": "M34:Q34",
+      "value": "¥599"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D37:H37",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "status",
+      "value_cell": "D42:H42",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M42:Q42",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D45:H45",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "M45:Q45",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D48:H48",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "title",
+      "value_cell": "M48:Q48",
+      "value": "销售统计_1976"
+    }
+  ]
+}

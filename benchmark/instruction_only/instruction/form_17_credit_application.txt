@@ -1,0 +1,62 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Company / Legal Business Name", "value_text": "Summit Peak Solutions LLC" },
+    { "key_text": "Trade Name / DBA (if different)", "value_text": "Summit Peak Tech" },
+    { "key_text": "Type of Business (LLC / Corp / Sole Proprietor / etc.)", "value_text": "LLC" },
+    { "key_text": "Federal Tax ID / EIN", "value_text": "88-1234567" },
+    { "key_text": "Years in Business", "value_text": "7" },
+    { "key_text": "Annual Revenue $", "value_text": "1,250,000" },
+    { "key_text": "No. of Employees", "value_text": "24" },
+    { "key_text": "Business Address", "value_text": "452 Industrial Parkway, Suite 200" },
+    { "key_text": "City", "value_text": "Denver" },
+    { "key_text": "State", "value_text": "CO" },
+    { "key_text": "ZIP", "value_text": "80202" },
+    { "key_text": "Country", "value_text": "USA" },
+    { "key_text": "Business Phone", "value_text": "303-555-0199" },
+    { "key_text": "Business Fax", "value_text": "303-555-0198" },
+    { "key_text": "Primary Business E-mail", "value_text": "admin@summitpeak.com" },
+    { "key_text": "Primary Contact Name", "value_text": "Sarah Jenkins" },
+    { "key_text": "Title / Position", "value_text": "Operations Manager" },
+    { "key_text": "Direct Phone", "value_text": "303-555-0122" },
+    { "key_text": "Cell Phone", "value_text": "720-555-0988" },
+    { "key_text": "Contact E-mail", "value_text": "s.jenkins@summitpeak.com" },
+    { "key_text": "Accounts Payable Contact Name", "value_text": "Marcus Thorne" },
+    { "key_text": "A/P E-mail & Phone", "value_text": "ap@summitpeak.com / 303-555-0144" },
+    { "key_text": "Credit Limit Requested $", "value_text": "50,000" },
+    { "key_text": "Payment Terms Requested", "value_text": "Net 30" },
+    { "key_text": "Currency", "value_text": "USD" },
+    { "key_text": "Intended Use of Credit / Products Sought", "value_text": "Server Hardware" },
+    { "key_text": "Estimated Monthly Purchase Volume $", "value_text": "15,000" },
+    { "key_text": "Bank Name", "value_text": "First National Bank of Denver" },
+    { "key_text": "Branch / Location", "value_text": "Downtown Branch" },
+    { "key_text": "Account Number (last 4)", "value_text": "9942" },
+    { "key_text": "Account Type", "value_text": "Business Checking" },
+    { "key_text": "Loan Officer Name", "value_text": "Robert Miller" },
+    { "key_text": "Bank Phone", "value_text": "303-555-7700" },
+    { "key_text": "Reference 1 — Company Name", "value_text": "CloudScale Logistics" },
+    { "key_text": "Contact Name (Ref 1)", "value_text": "Elena Rossi" },
+    { "key_text": "Phone (Ref 1)", "value_text": "303-555-2233" },
+    { "key_text": "Reference 2 — Company Name", "value_text": "Vertex Networking" },
+    { "key_text": "Contact Name (Ref 2)", "value_text": "David Chen" },
+    { "key_text": "Phone (Ref 2)", "value_text": "303-555-4455" },
+    { "key_text": "Reference 3 — Company Name", "value_text": "DataCore Systems" },
+    { "key_text": "Contact Name (Ref 3)", "value_text": "Lisa Wong" },
+    { "key_text": "Phone (Ref 3)", "value_text": "303-555-6677" },
+    { "key_text": "By signing below, applicant certifies the information provided is accurate and authorizes credit", "value_text": "Authorized" },
+    { "key_text": "Authorized Signature", "value_text": "Sarah Jenkins" },
+    { "key_text": "Date (Signature)", "value_text": "2023-10-15" },
+    { "key_text": "Print Name", "value_text": "Sarah Jenkins" },
+    { "key_text": "Title", "value_text": "Operations Manager" },
+    { "key_text": "Date (Print)", "value_text": "2023-10-15" }
+  ]
+}
+
+Narrative:
+This credit application is for Summit Peak Solutions LLC, which also operates under the trade name Summit Peak Tech. The business is an LLC that has been operating for 7 years, generating an annual revenue of $1,250,000 with 24 employees. Their federal tax ID is 88-1234567. They are located at 452 Industrial Parkway, Suite 200, Denver, CO, 80202, USA. For business inquiries, they can be reached at 303-555-0199 or via fax at 303-555-0198, with the primary contact email being admin@summitpeak.com.
+
+The primary point of contact for this application is Sarah Jenkins, the Operations Manager, who can be reached at 303-555-0122 or via cell at 720-555-0988, and by email at s.jenkins@summitpeak.com. Marcus Thorne is designated as the Accounts Payable contact, reachable at ap@summitpeak.com or 303-555-0144.
+
+Summit Peak Solutions is requesting a credit limit of $50,000 with Net 30 payment terms in USD. They intend to use this credit to purchase server hardware, with an estimated monthly purchase volume of $15,000. Their banking is handled by the First National Bank of Denver (Downtown Branch) under account ending in 9942, which is a business checking account managed by loan officer Robert Miller (303-555-7700).
+
+For credit references, they have listed CloudScale Logistics (Elena Rossi, 303-555-2233), Vertex Networking (David Chen, 303-555-4455), and DataCore Systems (Lisa Wong, 303-555-6677). The form is signed and authorized by Sarah Jenkins, Operations Manager, on October 15, 2023.

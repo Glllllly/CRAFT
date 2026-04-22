@@ -1,0 +1,71 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Last Name", "value_text": "Henderson" },
+    { "key_text": "First Name", "value_text": "Alex" },
+    { "key_text": "Preferred Name", "value_text": "Alex" },
+    { "key_text": "Student / Employee ID", "value_text": "88293012" },
+    { "key_text": "Date of Birth", "value_text": "05/12/2002" },
+    { "key_text": "Age", "value_text": "21" },
+    { "key_text": "Gender Identity", "value_text": "Non-binary" },
+    { "key_text": "Pronouns", "value_text": "they/them" },
+    { "key_text": "Racial / Ethnic Identity  (optional, for service improvement)", "value_text": "Hispanic/Latinx" },
+    { "key_text": "Cell Phone", "value_text": "555-012-3456" },
+    { "key_text": "Campus E-mail", "value_text": "ah123@university.edu" },
+    { "key_text": "Home / Alternate E-mail", "value_text": "alexh@email.com" },
+    { "key_text": "Local Address", "value_text": "123 Oak St, Apt 4B" },
+    { "key_text": "Permanent Home Address", "value_text": "456 Maple Ave, Springfield, IL" },
+    { "key_text": "Academic Level / Year", "value_text": "Junior" },
+    { "key_text": "Major / Department", "value_text": "Psychology" },
+    { "key_text": "Emergency Contact Name", "value_text": "Jordan Henderson" },
+    { "key_text": "Relationship", "value_text": "Parent" },
+    { "key_text": "Phone", "value_text": "555-987-6543" },
+    { "key_text": "Insurance Provider", "value_text": "BlueCross BlueShield" },
+    { "key_text": "Member / Policy ID", "value_text": "BCBS99887766" },
+    { "key_text": "Student Health Insurance", "value_text": null },
+    { "key_text": "Parent's Plan", "value_text": "X" },
+    { "key_text": "Employer Plan", "value_text": null },
+    { "key_text": "Medicaid", "value_text": null },
+    { "key_text": "Self-Pay", "value_text": null },
+    { "key_text": "Primary Concern / Reason for Appointment", "value_text": "High levels of academic stress and difficulty managing anxiety regarding upcoming finals." },
+    { "key_text": "How long have you been experiencing this concern?", "value_text": "3 months" },
+    { "key_text": "How did you hear about our services?", "value_text": "Academic Advisor" },
+    { "key_text": "Yes — same issue", "value_text": null },
+    { "key_text": "Yes — different issue", "value_text": "X" },
+    { "key_text": "No", "value_text": null },
+    { "key_text": "If yes, when and where, and was it helpful?", "value_text": "High school counselor, 2019; it was helpful for transition support." },
+    { "key_text": "Anxiety", "value_text": "X" },
+    { "key_text": "Depression", "value_text": null },
+    { "key_text": "Trauma / PTSD", "value_text": null },
+    { "key_text": "Relationship Issues", "value_text": null },
+    { "key_text": "Academic Stress", "value_text": "X" },
+    { "key_text": "Grief", "value_text": null },
+    { "key_text": "Substance Use Concerns", "value_text": null },
+    { "key_text": "Identity / Diversity Issues", "value_text": null },
+    { "key_text": "Sleep Problems", "value_text": "X" },
+    { "key_text": "Other", "value_text": null },
+    { "key_text": "Please describe your current stressors or challenges in your own words", "value_text": "Feeling overwhelmed by heavy course load and lack of sleep leading to burnout." },
+    { "key_text": "Current Medications  (psychiatric or relevant)", "value_text": "None" },
+    { "key_text": "Prescribing Provider", "value_text": "N/A" },
+    { "key_text": "Current or past substance use  (alcohol, cannabis, other — type, frequency)", "value_text": "Occasional social alcohol use." },
+    { "key_text": "Significant Medical Conditions", "value_text": "None" },
+    { "key_text": "Current Primary Care Provider", "value_text": "Dr. Sarah Miller" },
+    { "key_text": "Thoughts of harming yourself", "value_text": null },
+    { "key_text": "Thoughts of harming others", "value_text": null },
+    { "key_text": "Neither", "value_text": "X" },
+    { "key_text": "If yes, please describe (current plan, intent, or protective factors)", "value_text": null },
+    { "key_text": "I consent to receive counseling services and understand the limits of confidentiality.", "value_text": "Signed" },
+    { "key_text": "Client Signature", "value_text": "Alex Henderson" },
+    { "key_text": "Date", "value_text": "10/24/2023" },
+    { "key_text": "Clinician / Staff Signature", "value_text": "Dr. R. Smith" }
+  ]
+}
+
+Narrative:
+The intake form belongs to Alex Henderson, a 21-year-old non-binary junior majoring in Psychology (Student ID: 88293012). Alex, who was born on May 12, 2002, uses they/them pronouns and identifies as Hispanic/Latinx. They currently reside at 123 Oak St, Apt 4B, and can be reached via their campus email at ah123@university.edu or their phone at 555-012-3456. Their permanent home is in Springfield, IL.
+
+For emergency situations, Alex has listed their parent, Jordan Henderson, reachable at 555-987-6543. Their insurance is covered under a Parent's Plan with BlueCross BlueShield (ID: BCBS99887766).
+
+Alex is seeking counseling primarily due to high levels of academic stress and anxiety related to upcoming finals, a concern that has persisted for about three months. They heard about these services through their academic advisor. While they have received counseling before in high school, this is a different issue. They are currently experiencing anxiety, academic stress, and sleep problems, describing their situation as feeling overwhelmed and burned out. Alex is not currently taking psychiatric medications, reports no significant medical conditions, and notes only occasional social alcohol use. They listed Dr. Sarah Miller as their primary care provider.
+
+Regarding safety, Alex marked "Neither" for thoughts of harming themselves or others. They have signed the consent form on October 24, 2023, which was also signed by Dr. R. Smith.

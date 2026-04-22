@@ -1,0 +1,156 @@
+﻿{
+    "excel":  "form_12_research_funding.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "PI Full Name",
+                      "value_cell":  "E8:L8",
+                      "value":  "Dr. Elena R. Vance"
+                  },
+                  {
+                      "label":  "Faculty ID",
+                      "value_cell":  "Q8:X8",
+                      "value":  "FA-889201"
+                  },
+                  {
+                      "label":  "Department / School",
+                      "value_cell":  "E10:L10",
+                      "value":  "Department of Environmental Science"
+                  },
+                  {
+                      "label":  "Academic Rank",
+                      "value_cell":  "Q10:X10",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "Office Phone",
+                      "value_cell":  "E12:L12",
+                      "value":  "555-012-3489"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "Q12:X12",
+                      "value":  "e.vance@university.edu"
+                  },
+                  {
+                      "label":  "Project Title",
+                      "value_cell":  "A17:X17",
+                      "value":  "Microplastic Accumulation Patterns in Urban Watersheds"
+                  },
+                  {
+                      "label":  "Funding Category  (Seed / Bridge / Innovation / Travel)",
+                      "value_cell":  "E19:L19",
+                      "value":  "Seed"
+                  },
+                  {
+                      "label":  "Amount Requested  $",
+                      "value_cell":  "Q19:X19",
+                      "value":  "15,000"
+                  },
+                  {
+                      "label":  "Proposed Start Date",
+                      "value_cell":  "E21:L21",
+                      "value":  "2024-09-01"
+                  },
+                  {
+                      "label":  "Proposed End Date",
+                      "value_cell":  "Q21:X21",
+                      "value":  "2025-08-31"
+                  },
+                  {
+                      "label":  "Project Abstract  (150 words max)",
+                      "value_cell":  "A23:X23; A24:X24; A25:X25",
+                      "value":  "This project investigates the distribution and concentration of microplastics within urban river systems. By analyzing water samples from three major metropolitan sites, we aim to establish a baseline for pollution levels and identify primary source points for local remediation strategies."
+                  },
+                  {
+                      "label":  "Specific Aims / Research Questions",
+                      "value_cell":  "A27:X27; A28:X28",
+                      "value":  "1. Quantify microplastic density per liter. 2. Determine the polymer composition of collected samples. 3. Assess correlation with storm-water runoff events."
+                  },
+                  {
+                      "label":  "Methodology / Approach",
+                      "value_cell":  "A30:X30; A31:X31",
+                      "value":  "Utilizing field collection via plankton nets followed by laboratory analysis using Fourier-transform infrared spectroscopy (FTIR) to identify synthetic polymer types."
+                  },
+                  {
+                      "label":  "Personnel / Stipends  $",
+                      "value_cell":  "G36:P36",
+                      "value":  "8,000"
+                  },
+                  {
+                      "label":  "Equipment / Materials  $",
+                      "value_cell":  "G38:P38",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "Travel  $",
+                      "value_cell":  "G40:P40",
+                      "value":  "2,000"
+                  },
+                  {
+                      "label":  "Indirect Costs  $",
+                      "value_cell":  "G42:P42",
+                      "value":  "0"
+                  },
+                  {
+                      "label":  "TOTAL  $",
+                      "value_cell":  "G44:P44",
+                      "value":  "15,000"
+                  },
+                  {
+                      "label":  "Budget Justification",
+                      "value_cell":  "A46:X46",
+                      "value":  "Funds cover two graduate student stipends, field sampling equipment, and travel expenses for site visits."
+                  },
+                  {
+                      "label":  "Expected Outcomes and Contribution to Field",
+                      "value_cell":  "A51:X51",
+                      "value":  "The study will produce a comprehensive dataset on urban microplastic pollution, contributing to regional environmental policy development."
+                  },
+                  {
+                      "label":  "Plan for External Funding After Seed Period",
+                      "value_cell":  "A53:X53",
+                      "value":  "Findings will be used to support a formal application for NSF Environmental Engineering grant funding in late 2025."
+                  },
+                  {
+                      "label":  "PI Signature",
+                      "value_cell":  "A61:M61",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Department Chair",
+                      "value_cell":  "A63:M63",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Dean of Research",
+                      "value_cell":  "A65:M65",
+                      "value":  "Dr. Sarah Jenkins"
+                  },
+                  {
+                      "label":  "VP Research",
+                      "value_cell":  "A67:M67",
+                      "value":  "Dr. Alan Grant"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q61:X61",
+                      "value":  "2024-08-15"
+                  },
+                  {
+                      "label":  "Date (Chair)",
+                      "value_cell":  "Q63:X63",
+                      "value":  "2024-08-16"
+                  },
+                  {
+                      "label":  "Date (Dean)",
+                      "value_cell":  "Q65:X65",
+                      "value":  "2024-08-18"
+                  },
+                  {
+                      "label":  "Date (VP)",
+                      "value_cell":  "Q67:X67",
+                      "value":  "2024-08-20"
+                  }
+              ]
+}

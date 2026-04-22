@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_04_purchase_requisition.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requested By",
+                      "value_cell":  "E6:H6",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8829"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "E7:H7",
+                      "value":  "IT Operations"
+                  },
+                  {
+                      "label":  "Cost Center",
+                      "value_cell":  "M7:P7",
+                      "value":  "CC-402"
+                  },
+                  {
+                      "label":  "Date Required By",
+                      "value_cell":  "E8:H8",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "M8:P8",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Item / Service Description",
+                      "value_cell":  "E11:H11",
+                      "value":  "Ergonomic Office Chairs (Model X)"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "M11:P11",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Estimated Unit Price  $",
+                      "value_cell":  "E12:H12",
+                      "value":  "250.00"
+                  },
+                  {
+                      "label":  "Total Estimated Cost  $",
+                      "value_cell":  "M12:P12",
+                      "value":  "2,500.00"
+                  },
+                  {
+                      "label":  "Preferred Vendor (if known)",
+                      "value_cell":  "E13:H13",
+                      "value":  "Office Depot Pro"
+                  },
+                  {
+                      "label":  "Budget Account Code",
+                      "value_cell":  "M13:P13",
+                      "value":  "EQUIP-2023"
+                  },
+                  {
+                      "label":  "Justification for Purchase",
+                      "value_cell":  "E14:P14",
+                      "value":  "Replacement of damaged chairs for the new IT support team members."
+                  },
+                  {
+                      "label":  "Requesting Manager",
+                      "value_cell":  "A20:J20",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M20:P20",
+                      "value":  "2023-10-26"
+                  },
+                  {
+                      "label":  "Budget Officer",
+                      "value_cell":  "A22:J22",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-27"
+                  },
+                  {
+                      "label":  "Procurement Officer",
+                      "value_cell":  "A24:J24",
+                      "value":  "David Wu"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-28"
+                  },
+                  {
+                      "label":  "CFO (orders \u003e $10,000)",
+                      "value_cell":  "A26:J26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M26:P26",
+                      "value":  null
+                  }
+              ]
+}

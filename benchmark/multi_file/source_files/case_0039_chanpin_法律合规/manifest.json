@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0039_chanpin_法律合规",
+    "tenant":  "chanpin",
+    "topic":  "法律合规",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\法律合规",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\法律合规\\合规文档_33.txt",
+                      "copied_name":  "合规文档_33.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\法律合规\\合规文档_32.txt",
+                      "copied_name":  "合规文档_32.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\法律合规\\合规文档_34.txt",
+                      "copied_name":  "合规文档_34.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\法律合规\\合规文档_36.txt",
+                      "copied_name":  "合规文档_36.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  },
+                  {
+                      "source_rel":  "chanpin\\法律合规\\合规文档_35.txt",
+                      "copied_name":  "合规文档_35.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  579
+                  }
+              ]
+}

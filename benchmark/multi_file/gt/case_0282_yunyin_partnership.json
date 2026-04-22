@@ -1,0 +1,51 @@
+{
+  "excel": "case_0282_yunyin_partnership__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "date",
+      "value_cell": "A6:D7",
+      "value": "2024-02-10"
+    },
+    {
+      "label": "status",
+      "value_cell": "F6:I7",
+      "value": "Pending Signature"
+    },
+    {
+      "label": "authorizedby",
+      "value_cell": "K6:N7",
+      "value": "General Manager"
+    },
+    {
+      "label": "paymentterms",
+      "value_cell": "A12:D13",
+      "value": "Net 30"
+    },
+    {
+      "label": "payoutfrequency",
+      "value_cell": "F12:I13",
+      "value": "Monthly"
+    },
+    {
+      "label": "marketingsupport",
+      "value_cell": "A18:D19",
+      "value": "Digital materials provided"
+    },
+    {
+      "label": "transitionperiod",
+      "value_cell": "F18:I19",
+      "value": "60 days"
+    },
+    {
+      "label": "disputeresolution",
+      "value_cell": "A24:D25",
+      "value": "Arbitration"
+    },
+    {
+      "label": "renewalconditions",
+      "value_cell": "F24:I25",
+      "value": "Automatic unless terminated"
+    }
+  ]
+}

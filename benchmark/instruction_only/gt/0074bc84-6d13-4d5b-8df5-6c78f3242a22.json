@@ -1,0 +1,146 @@
+﻿{
+    "excel":  "0074bc84-6d13-4d5b-8df5-6c78f3242a22.xlsx",
+    "sheet":  "PAGE-1",
+    "pairs":  [
+                  {
+                      "label":  "Date of Appointment, Candidacy, Election, or Nomination (Month, Day, Year)",
+                      "value_cell":  "A7:C8",
+                      "value":  "May 15, 2023"
+                  },
+                  {
+                      "label":  "Incumbent",
+                      "value_cell":  "F6",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Calendar Year Covered by Report",
+                      "value_cell":  "H7:H8",
+                      "value":  "2022"
+                  },
+                  {
+                      "label":  "New Entrant, Nominee, or Candidate",
+                      "value_cell":  "N6",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Termination Filer",
+                      "value_cell":  "R6",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Termination Date (If Applicable) (Month,Day,Year)",
+                      "value_cell":  "U7:V8",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "D10:R11",
+                      "value":  "Miller"
+                  },
+                  {
+                      "label":  "First Name and Middle Initial",
+                      "value_cell":  "L10:W11",
+                      "value":  "Sarah J."
+                  },
+                  {
+                      "label":  "Title of Position",
+                      "value_cell":  "D13:R14",
+                      "value":  "Deputy Assistant Secretary"
+                  },
+                  {
+                      "label":  "Department or Agency (If Applicable)",
+                      "value_cell":  "L13:W14",
+                      "value":  "Department of Energy"
+                  },
+                  {
+                      "label":  "Address (Number, Street, City, State, and ZIP Code)",
+                      "value_cell":  "D16:O18",
+                      "value":  "1000 Independence Ave SW, Washington, DC 20585"
+                  },
+                  {
+                      "label":  "Telephone No. (Include Area Code)",
+                      "value_cell":  "P16:W18",
+                      "value":  "(202) 586-5000"
+                  },
+                  {
+                      "label":  "Title of Position(s) and Date(s) Held",
+                      "value_cell":  "D20:W22",
+                      "value":  "Senior Advisor, Department of Energy, Jan 2022 - May 2023"
+                  },
+                  {
+                      "label":  "Name of Congressional Committee Considering Nomination",
+                      "value_cell":  "D25:K28",
+                      "value":  "Senate Committee on Energy and Natural Resources"
+                  },
+                  {
+                      "label":  "Yes",
+                      "value_cell":  "N26:N27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "S26:S27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Signature of Reporting Individual",
+                      "value_cell":  "D31:O35",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date (Month, Day, Year)",
+                      "value_cell":  "P31:W35",
+                      "value":  "June 10, 2023"
+                  },
+                  {
+                      "label":  "Signature of Other Reviewer",
+                      "value_cell":  "D37:O40",
+                      "value":  "Robert Smith"
+                  },
+                  {
+                      "label":  "Date (Month, Day, Year)",
+                      "value_cell":  "P37:W40",
+                      "value":  "June 15, 2023"
+                  },
+                  {
+                      "label":  "Signature of Designated Agency Ethics Official/Reviewing Official",
+                      "value_cell":  "D42:O46",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date (Month, Day, Year)",
+                      "value_cell":  "P42:W46",
+                      "value":  "June 20, 2023"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "D48:O51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date (Month, Day, Year)",
+                      "value_cell":  "P48:W51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "(Check box if filing extension granted \u0026 indicate number of days _________ )",
+                      "value_cell":  "V54",
+                      "value":  null
+                  },
+                  {
+                      "label":  "(Check box if comments are continued on the reverse side)",
+                      "value_cell":  "V63",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Agency Use Only",
+                      "value_cell":  "X60:X61",
+                      "value":  null
+                  },
+                  {
+                      "label":  "OGE Use Only",
+                      "value_cell":  "X63:X64",
+                      "value":  null
+                  }
+              ]
+}

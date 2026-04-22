@@ -1,0 +1,1898 @@
+{
+  "bundle_dir": "case_0010_chanpin_产品文档_用户手册",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "手册_076.txt",
+      "source_type": "txt",
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能17",
+          "raw_key": "功能名称",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0076",
+          "raw_key": "手册编号",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0076",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率15%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率15%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-11-27",
+          "raw_key": "最后更新",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-11-27",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "手册_078.txt",
+      "source_type": "txt",
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能19",
+          "raw_key": "功能名称",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能19",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0078",
+          "raw_key": "手册编号",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0078",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率29%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率29%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-08-13",
+          "raw_key": "最后更新",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-08-13",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "手册_079.txt",
+      "source_type": "txt",
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能20",
+          "raw_key": "功能名称",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能20",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0079",
+          "raw_key": "手册编号",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0079",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率65%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率65%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-05-08",
+          "raw_key": "最后更新",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-05-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "手册_089.txt",
+      "source_type": "txt",
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能10",
+          "raw_key": "功能名称",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0089",
+          "raw_key": "手册编号",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0089",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率57%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率57%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-10-04",
+          "raw_key": "最后更新",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-10-04",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "手册_150.txt",
+      "source_type": "txt",
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能11",
+          "raw_key": "功能名称",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0150",
+          "raw_key": "手册编号",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0150",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率53%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率53%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-04-22",
+          "raw_key": "最后更新",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-04-22",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4",
+          "raw_key": "版本",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "a",
+      "candidates": [
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "点击登录页面\"忘记密码\"，按提示操作",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 点击登录页面\"忘记密码\"，按提示操作",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "自动每日备份，支持手动导出",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 自动每日备份，支持手动导出",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "a",
+          "value": "页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+          "raw_key": "A",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "A: 页面右下角\"在线客服\"，或拨打400-XXXX-XXXX",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q",
+      "candidates": [
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何获取帮助？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何获取帮助？",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "如何重置密码？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 如何重置密码？",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q",
+          "value": "数据怎样备份？",
+          "raw_key": "Q",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "Q: 数据怎样备份？",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "使用高级搜索",
+      "candidates": [
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "使用高级搜索",
+          "value": "支持多条件组合查询",
+          "raw_key": "- 使用高级搜索",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 使用高级搜索：支持多条件组合查询",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能名称",
+      "candidates": [
+        {
+          "key": "功能名称",
+          "value": "功能17",
+          "raw_key": "功能名称",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能19",
+          "raw_key": "功能名称",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能19",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能20",
+          "raw_key": "功能名称",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能20",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能10",
+          "raw_key": "功能名称",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能名称",
+          "value": "功能11",
+          "raw_key": "功能名称",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能名称：功能11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "导出数据",
+      "candidates": [
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "导出数据",
+          "value": "支持Excel、PDF等格式",
+          "raw_key": "- 导出数据",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 导出数据：支持Excel、PDF等格式",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "手册编号",
+      "candidates": [
+        {
+          "key": "手册编号",
+          "value": "MAN-0076",
+          "raw_key": "手册编号",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0076",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0078",
+          "raw_key": "手册编号",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0078",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0079",
+          "raw_key": "手册编号",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0079",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0089",
+          "raw_key": "手册编号",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0089",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "手册编号",
+          "value": "MAN-0150",
+          "raw_key": "手册编号",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "手册编号：MAN-0150",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "批量操作",
+      "candidates": [
+        {
+          "key": "批量操作",
+          "value": "提高工作效率15%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率15%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率29%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率29%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率65%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率65%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率57%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率57%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批量操作",
+          "value": "提高工作效率53%",
+          "raw_key": "- 批量操作",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 批量操作：提高工作效率53%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "最后更新",
+      "candidates": [
+        {
+          "key": "最后更新",
+          "value": "2024-11-27",
+          "raw_key": "最后更新",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-11-27",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-08-13",
+          "raw_key": "最后更新",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-08-13",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-05-08",
+          "raw_key": "最后更新",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-05-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-10-04",
+          "raw_key": "最后更新",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-10-04",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "最后更新",
+          "value": "2024-04-22",
+          "raw_key": "最后更新",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "最后更新：2024-04-22",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "版本",
+      "candidates": [
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V2",
+          "raw_key": "版本",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本",
+          "value": "V4",
+          "raw_key": "版本",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本：V4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "自定义设置",
+      "candidates": [
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "自定义设置",
+          "value": "个性化配置",
+          "raw_key": "- 自定义设置",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 自定义设置：个性化配置",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "适用场景",
+      "candidates": [
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_076.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_078.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_079.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_089.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "适用场景",
+          "value": "日常工作)",
+          "raw_key": "适用场景",
+          "source_file": "手册_150.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "适用场景：日常工作)",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

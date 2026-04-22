@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name",
+      "value_text": "Jonathan David Miller"
+    },
+    {
+      "key_text": "Date of Birth  mm/dd/yyyy",
+      "value_text": "05/14/1988"
+    },
+    {
+      "key_text": "Current Address",
+      "value_text": "452 Oakwood Avenue, Springfield, IL 62704"
+    },
+    {
+      "key_text": "How long at current address?",
+      "value_text": "3 years"
+    },
+    {
+      "key_text": "Current Landlord / Agent Name & Phone",
+      "value_text": "Sarah Jenkins, 217-555-0198"
+    },
+    {
+      "key_text": "Reason for Leaving",
+      "value_text": "Relocating for work"
+    },
+    {
+      "key_text": "National ID / Passport Number",
+      "value_text": "A12345678"
+    },
+    {
+      "key_text": "Nationality",
+      "value_text": "United States"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "217-555-9922"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "j.miller88@email.com"
+    },
+    {
+      "key_text": "Employer / Organisation Name",
+      "value_text": "TechSolutions Inc."
+    },
+    {
+      "key_text": "Position / Job Title",
+      "value_text": "Senior Systems Analyst"
+    },
+    {
+      "key_text": "Employer Address",
+      "value_text": "880 Industrial Way, Springfield, IL 62703"
+    },
+    {
+      "key_text": "Employment Start Date",
+      "value_text": "03/10/2020"
+    },
+    {
+      "key_text": "Gross Annual Income  $",
+      "value_text": "85,000"
+    },
+    {
+      "key_text": "HR / Manager Contact Name & Phone",
+      "value_text": "Marcus Thorne, 217-555-0441"
+    },
+    {
+      "key_text": "Additional Income Source",
+      "value_text": "Freelance Consulting"
+    },
+    {
+      "key_text": "Additional Income Amount  $",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "Property Address",
+      "value_text": "122 Riverside Drive, Springfield, IL 62702"
+    },
+    {
+      "key_text": "Unit / Apartment Number",
+      "value_text": "4B"
+    },
+    {
+      "key_text": "Requested Lease Start Date",
+      "value_text": "09/01/2023"
+    },
+    {
+      "key_text": "Lease Duration Sought",
+      "value_text": "12 months"
+    },
+    {
+      "key_text": "Number of Occupants",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Pets?  Y / N  — describe",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Vehicles?  Y / N  — Plate(s)",
+      "value_text": "Y - IL-998877"
+    },
+    {
+      "key_text": "Parking Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Reference 1 — Name & Relationship",
+      "value_text": "Robert Miller, Father"
+    },
+    {
+      "key_text": "Reference 1 — Phone & E-mail",
+      "value_text": "312-555-7766, rmiller@provider.net"
+    },
+    {
+      "key_text": "Reference 2 — Name & Relationship",
+      "value_text": "Elena Rodriguez, Former Colleague"
+    },
+    {
+      "key_text": "Reference 2 — Phone & E-mail",
+      "value_text": "217-555-3344, erodriguez@workmail.com"
+    },
+    {
+      "key_text": "I declare all information provided is true and authorise reference checks and credit enquiry.",
+      "value_text": "Confirmed"
+    },
+    {
+      "key_text": "Applicant Signature",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date (Applicant)",
+      "value_text": "08/15/2023"
+    },
+    {
+      "key_text": "Agent / Property Manager",
+      "value_text": "Susan Vane"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/16/2023"
+    }
+  ]
+}
+
+Narrative:
+The application is submitted by Jonathan David Miller, born on May 14, 1988. He currently resides at 452 Oakwood Avenue, Springfield, IL, where he has lived for the past three years. His current landlord is Sarah Jenkins (217-555-0198), and he is moving to relocate for work. Jonathan holds passport number A12345678 and is a United States national. He can be reached at 217-555-9922 or via email at j.miller88@email.com. 
+
+Professionally, he works as a Senior Systems Analyst for TechSolutions Inc. located at 880 Industrial Way, having started there on March 10, 2020. His gross annual income is $85,000, with an additional $5,000 coming from freelance consulting. His manager, Marcus Thorne, can be contacted at 217-555-0441. 
+
+For the requested property at 122 Riverside Drive, Unit 4B, he is seeking a 12-month lease starting September 1, 2023. He will be the sole occupant, has no pets, owns one vehicle (plate IL-998877), and requires parking. His references include his father, Robert Miller (312-555-7766), and a former colleague, Elena Rodriguez (217-555-3344). Jonathan has signed the declaration on August 15, 2023, and the agent, Susan Vane, acknowledged it on August 16, 2023.

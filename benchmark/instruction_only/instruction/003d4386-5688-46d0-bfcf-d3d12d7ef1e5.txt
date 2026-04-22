@@ -1,0 +1,68 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Account Type (Select One)",
+      "value_text": "Checking (attach voided check)"
+    },
+    {
+      "key_text": "Name (Last)",
+      "value_text": "Doe"
+    },
+    {
+      "key_text": "(First)",
+      "value_text": "Jane"
+    },
+    {
+      "key_text": "EMPL ID",
+      "value_text": "87654321"
+    },
+    {
+      "key_text": "Department Name",
+      "value_text": "Office of Information Technology"
+    },
+    {
+      "key_text": "Campus Phone",
+      "value_text": "214-768-0000"
+    },
+    {
+      "key_text": "Campus e-mail",
+      "value_text": "janedoe@smu.edu"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "Jane Doe"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "11/05/2023"
+    },
+    {
+      "key_text": "CANCELLATION",
+      "value_text": null
+    },
+    {
+      "key_text": "Name of Financial Institution:",
+      "value_text": "Bank of America"
+    },
+    {
+      "key_text": "Transit/ABA Number:",
+      "value_text": "111000025"
+    },
+    {
+      "key_text": "Account Number:",
+      "value_text": "00987654321"
+    },
+    {
+      "key_text": "Entered By:",
+      "value_text": "Mark Stevens"
+    },
+    {
+      "key_text": "Date Entered:",
+      "value_text": "11/07/2023"
+    }
+  ]
+}
+
+Narrative:
+This is a Direct Deposit Authorization form for Southern Methodist University, specifically for Accounts Payable transactions like travel reimbursements. Jane Doe, an employee with ID 87654321 from the Office of Information Technology department, filled out the form. Her campus contact information is listed as 214-768-0000 and janedoe@smu.edu. She chose to have funds deposited into a Checking account and signed the authorization on November 5, 2023. The banking information provided includes Bank of America as the financial institution, with a Transit/ABA number of 111000025 and account number 00987654321. The form was processed and entered by Mark Stevens on November 7, 2023. The cancellation section was left blank, indicating this is a new or updated authorization rather than a termination of service.

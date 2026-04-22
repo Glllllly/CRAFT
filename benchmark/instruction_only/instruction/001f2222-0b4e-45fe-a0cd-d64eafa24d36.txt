@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Traveler's Name:",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Destination:",
+      "value_text": "Chicago, IL"
+    },
+    {
+      "key_text": "Leave Date:",
+      "value_text": "10/12/2023"
+    },
+    {
+      "key_text": "Return Date:",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "Leave Time:",
+      "value_text": "08:30 AM"
+    },
+    {
+      "key_text": "Return Time:",
+      "value_text": "09:45 PM"
+    },
+    {
+      "key_text": "Airfare Itinerary",
+      "value_text": "$450.00"
+    },
+    {
+      "key_text": "Lodging Receipts",
+      "value_text": "$875.50"
+    },
+    {
+      "key_text": "Airport Parking",
+      "value_text": "$60.00"
+    },
+    {
+      "key_text": "Registration Fee Receipt",
+      "value_text": "$350.00"
+    },
+    {
+      "key_text": "Rental Car Receipt",
+      "value_text": null
+    },
+    {
+      "key_text": "Taxi Shuttle Receipts",
+      "value_text": "$45.00"
+    },
+    {
+      "key_text": "Toll Receipts",
+      "value_text": null
+    },
+    {
+      "key_text": "Other Mileage",
+      "value_text": null
+    },
+    {
+      "key_text": "Were any meals provided with the registration fee?",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Breakfasts?",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Lunch?",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Dinner?",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Did you incur any other expenses? Please specify:",
+      "value_text": "In-flight Wi-Fi for business emails ($20.00)."
+    }
+  ]
+}
+
+Narrative:
+Jonathan Miller traveled to Chicago, IL, departing on October 12, 2023, at 8:30 AM and returning on October 15, 2023, at 9:45 PM. His travel expenses include $450.00 for airfare, $875.50 for lodging, $60.00 for airport parking, and a $350.00 registration fee. He also spent $45.00 on taxi and shuttle services, but did not have any rental car, toll, or extra mileage costs. The conference registration fee covered several meals, specifically 2 breakfasts, 3 lunches, and 1 dinner. Additionally, he incurred a $20.00 expense for in-flight Wi-Fi to handle business emails during the trip.

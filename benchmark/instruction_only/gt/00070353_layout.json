@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "00070353_layout.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Registration No",
+                      "value_cell":  "C5:K5",
+                      "value":  "TS-2023-8842"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N5:Q5",
+                      "value":  "October 14, 2023"
+                  },
+                  {
+                      "label":  "AUTHORS",
+                      "value_cell":  "C6:Q6",
+                      "value":  "Dr. Elena Vance, Marcus Thorne"
+                  },
+                  {
+                      "label":  "TITLE",
+                      "value_cell":  "C8:Q8",
+                      "value":  "Analysis of Soil Nitrogen Levels in Tobacco Cultivation"
+                  },
+                  {
+                      "label":  "REVIEW COMPLETED",
+                      "value_cell":  "H9",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "APPROVE IN ITS",
+                      "value_cell":  "N9",
+                      "value":  null
+                  },
+                  {
+                      "label":  "NOT APPROVE",
+                      "value_cell":  "G10:H10",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SUGGESTED REVISIONS",
+                      "value_cell":  "B12:P15",
+                      "value":  "1. Expand the methodology section to include specific soil sampling depth. 2. Clarify the statistical significance of the yield variations. 3. Update references to include recent 2022-2023 studies."
+                  }
+              ]
+}

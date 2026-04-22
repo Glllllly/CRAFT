@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0055_chanpin_项目管理_项目计划",
+    "tenant":  "chanpin",
+    "topic":  "项目管理",
+    "subtopic":  "项目计划",
+    "source_dir":  "chanpin\\项目管理\\项目计划",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\项目管理\\项目计划\\计划_61.txt",
+                      "copied_name":  "计划_61.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  710
+                  },
+                  {
+                      "source_rel":  "chanpin\\项目管理\\项目计划\\计划_59.txt",
+                      "copied_name":  "计划_59.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  710
+                  },
+                  {
+                      "source_rel":  "chanpin\\项目管理\\项目计划\\计划_69.txt",
+                      "copied_name":  "计划_69.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  710
+                  },
+                  {
+                      "source_rel":  "chanpin\\项目管理\\项目计划\\计划_49.txt",
+                      "copied_name":  "计划_49.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  710
+                  },
+                  {
+                      "source_rel":  "chanpin\\项目管理\\项目计划\\计划_37.txt",
+                      "copied_name":  "计划_37.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  710
+                  }
+              ]
+}

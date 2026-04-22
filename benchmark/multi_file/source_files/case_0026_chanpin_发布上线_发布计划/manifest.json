@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0026_chanpin_发布上线_发布计划",
+    "tenant":  "chanpin",
+    "topic":  "发布上线",
+    "subtopic":  "发布计划",
+    "source_dir":  "chanpin\\发布上线\\发布计划",
+    "total_files_in_source_dir":  100,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\发布上线\\发布计划\\发布计划_77.txt",
+                      "copied_name":  "发布计划_77.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布上线\\发布计划\\发布计划_57.txt",
+                      "copied_name":  "发布计划_57.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布上线\\发布计划\\发布计划_55.txt",
+                      "copied_name":  "发布计划_55.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布上线\\发布计划\\发布计划_8.txt",
+                      "copied_name":  "发布计划_8.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\发布上线\\发布计划\\发布计划_75.txt",
+                      "copied_name":  "发布计划_75.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  }
+              ]
+}

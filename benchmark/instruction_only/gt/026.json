@@ -1,0 +1,216 @@
+﻿{
+    "excel":  "026.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Alexander J. Sterling"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "88492015"
+                  },
+                  {
+                      "label":  "Date of Birth mm/dd/yyyy",
+                      "value_cell":  "A11:L11",
+                      "value":  "05/12/2002"
+                  },
+                  {
+                      "label":  "Programme / Degree",
+                      "value_cell":  "M11:X11",
+                      "value":  "B.Sc. Computer Science"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "A13:L13",
+                      "value":  "aj.sterling@university.edu"
+                  },
+                  {
+                      "label":  "Phone Number",
+                      "value_cell":  "M13:X13",
+                      "value":  "555-019-8823"
+                  },
+                  {
+                      "label":  "Academic Advisor Name",
+                      "value_cell":  "A15:L15",
+                      "value":  "Dr. Helena Vance"
+                  },
+                  {
+                      "label":  "Advisor E-mail",
+                      "value_cell":  "M15:X15",
+                      "value":  "h.vance@university.edu"
+                  },
+                  {
+                      "label":  "Term / Semester",
+                      "value_cell":  "A20:L20",
+                      "value":  "Fall 2023"
+                  },
+                  {
+                      "label":  "Academic Year",
+                      "value_cell":  "M20:X20",
+                      "value":  "2023-2024"
+                  },
+                  {
+                      "label":  "Course Title (1) to Withdraw From",
+                      "value_cell":  "A22:X22",
+                      "value":  "Advanced Data Structures"
+                  },
+                  {
+                      "label":  "Course Code",
+                      "value_cell":  "A24:L24",
+                      "value":  "CS301"
+                  },
+                  {
+                      "label":  "Section / CRN",
+                      "value_cell":  "M24:X24",
+                      "value":  "A1 / 44920"
+                  },
+                  {
+                      "label":  "Credit Hours",
+                      "value_cell":  "A26:L26",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Instructor Name",
+                      "value_cell":  "M26:X26",
+                      "value":  "Prof. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Course Title (2)",
+                      "value_cell":  "A28:X28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Course Code (2)",
+                      "value_cell":  "A30:L30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Section / CRN (2)",
+                      "value_cell":  "M30:X30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Partial (some courses only)",
+                      "value_cell":  "H31",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Total (all courses this term)",
+                      "value_cell":  "M31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Medical Withdrawal",
+                      "value_cell":  "R31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Medical / Health",
+                      "value_cell":  "H35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Financial",
+                      "value_cell":  "M35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Family Emergency",
+                      "value_cell":  "R35",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Explanation / Additional Context",
+                      "value_cell":  "A37:X37",
+                      "value":  "Unexpected family crisis requiring my immediate presence at home out of state."
+                  },
+                  {
+                      "label":  "Supporting Documentation Attached? Y / N",
+                      "value_cell":  "A40:L40",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Document Type",
+                      "value_cell":  "M40:X40",
+                      "value":  "Family Medical Certification"
+                  },
+                  {
+                      "label":  "Withdrawal Date  (determines refund)",
+                      "value_cell":  "A45:L45",
+                      "value":  "10/15/2023"
+                  },
+                  {
+                      "label":  "Refund Percentage  (Registrar Use)",
+                      "value_cell":  "M45:X45",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Scholarship / Aid Affected?  Y / N",
+                      "value_cell":  "A47:L47",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Financial Aid Counsellor Consulted?  Y / N",
+                      "value_cell":  "M47:X47",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Academic Standing Before Withdrawal",
+                      "value_cell":  "A49:L49",
+                      "value":  "Good Standing"
+                  },
+                  {
+                      "label":  "Expected Standing After Withdrawal",
+                      "value_cell":  "M49:X49",
+                      "value":  "Good Standing"
+                  },
+                  {
+                      "label":  "Next Term",
+                      "value_cell":  "H50",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Following Academic Year",
+                      "value_cell":  "M50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Undecided",
+                      "value_cell":  "R50",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Student Signature",
+                      "value_cell":  "A62:L62",
+                      "value":  "Alexander J. Sterling"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N62:X62",
+                      "value":  "10/16/2023"
+                  },
+                  {
+                      "label":  "Academic Advisor",
+                      "value_cell":  "A65:L65",
+                      "value":  "Helena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N65:X65",
+                      "value":  "10/17/2023"
+                  },
+                  {
+                      "label":  "Registrar Officer",
+                      "value_cell":  "A68:L68",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  null
+                  }
+              ]
+}

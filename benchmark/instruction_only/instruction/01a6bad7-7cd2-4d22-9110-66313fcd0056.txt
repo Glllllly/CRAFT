@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Vendor Name",
+      "value_text": "City Cab Services"
+    },
+    {
+      "key_text": "Service Provided",
+      "value_text": "Airport Transfer (JFK to Manhattan)"
+    },
+    {
+      "key_text": "Date Provided",
+      "value_text": "October 14, 2023"
+    },
+    {
+      "key_text": "Amount",
+      "value_text": "$75.00"
+    },
+    {
+      "key_text": "Check Number",
+      "value_text": "1024"
+    },
+    {
+      "key_text": "Purchase Order #",
+      "value_text": "PO-8821"
+    },
+    {
+      "key_text": "Vendor Signature",
+      "value_text": "J. Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/14/2023"
+    }
+  ]
+}
+
+Narrative:
+This receipt of payment confirms that City Cab Services provided an airport transfer from JFK to Manhattan on October 14, 2023. The total amount for the service was $75.00, which was paid using check number 1024. The transaction is associated with purchase order number PO-8821. The document was signed by J. Smith on the same day the service was rendered.

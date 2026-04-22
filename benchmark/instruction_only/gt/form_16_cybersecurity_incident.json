@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_16_cybersecurity_incident.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Reporter Full Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "Jonathan D. Sterling"
+                  },
+                  {
+                      "label":  "Employee / Contractor ID",
+                      "value_cell":  "N12:X12",
+                      "value":  "EMP-99284"
+                  },
+                  {
+                      "label":  "Department / Team",
+                      "value_cell":  "A14:L14",
+                      "value":  "Information Technology - Infrastructure"
+                  },
+                  {
+                      "label":  "Role / Position",
+                      "value_cell":  "M14:X14",
+                      "value":  "Senior Systems Administrator"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A16:H16",
+                      "value":  "555-012-8843"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I16:P16",
+                      "value":  "j.sterling@company.com"
+                  },
+                  {
+                      "label":  "Reporting Date \u0026 Time",
+                      "value_cell":  "M16:X16",
+                      "value":  "2023-10-14 09:15 AM"
+                  },
+                  {
+                      "label":  "Date \u0026 Time Incident Discovered",
+                      "value_cell":  "A21:L21",
+                      "value":  "2023-10-14 08:30 AM"
+                  },
+                  {
+                      "label":  "Date \u0026 Time Incident Occurred (if known)",
+                      "value_cell":  "M21:X21",
+                      "value":  "2023-10-14 03:00 AM"
+                  },
+                  {
+                      "label":  "Systems / Applications Affected",
+                      "value_cell":  "A23:L23",
+                      "value":  "Primary Customer Database (SQL-01)"
+                  },
+                  {
+                      "label":  "Location (on-site / remote / cloud)",
+                      "value_cell":  "M23:X23",
+                      "value":  "Cloud (AWS US-East)"
+                  },
+                  {
+                      "label":  "Brief Description of Incident",
+                      "value_cell":  "A26:X26",
+                      "value":  "Unauthorized database access and potential data exfiltration attempt."
+                  },
+                  {
+                      "label":  "Detailed Description 鈥?what was observed, sequence of events",
+                      "value_cell":  "A27:X29",
+                      "value":  "At 08:30 AM, system alerts triggered for high outbound traffic on the SQL-01 instance. Investigation revealed an unauthorized login from an unknown IP address at 03:00 AM. The attacker successfully queried the user_profile table before being blocked by the automated firewall rule."
+                  },
+                  {
+                      "label":  "Data Potentially Compromised?  Y / N",
+                      "value_cell":  "A32:L32",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Type of Data Involved",
+                      "value_cell":  "M32:X32",
+                      "value":  "Customer contact information and hashed passwords"
+                  },
+                  {
+                      "label":  "Number of Records Potentially Affected",
+                      "value_cell":  "A34:L34",
+                      "value":  "1,250"
+                  },
+                  {
+                      "label":  "Personal Data Involved?  Y / N",
+                      "value_cell":  "M34:X34",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Actions Description",
+                      "value_cell":  "A40:X40",
+                      "value":  "Revoked compromised API keys, rotated DB credentials, and initiated forensic log analysis."
+                  },
+                  {
+                      "label":  "IP Addresses / URLs / Domains Involved",
+                      "value_cell":  "A45:L45",
+                      "value":  "192.0.2.45"
+                  },
+                  {
+                      "label":  "Log Files Preserved?  Y / N",
+                      "value_cell":  "M45:X45",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Screenshots Taken?  Y / N",
+                      "value_cell":  "A47:L47",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "E-mail Headers Saved?  Y / M",
+                      "value_cell":  "M47:X47",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Incident Ticket Number",
+                      "value_cell":  "A52:L52",
+                      "value":  "INC-20231014-001"
+                  },
+                  {
+                      "label":  "Assigned Analyst",
+                      "value_cell":  "M52:X52",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Escalation Required?  Y / N",
+                      "value_cell":  "A55:L55",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Regulatory Notification Required?  Y / N",
+                      "value_cell":  "M55:X55",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Reporter Signature",
+                      "value_cell":  "A62:M62",
+                      "value":  "Jonathan D. Sterling"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q62:X62",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Security Analyst",
+                      "value_cell":  "A64:M64",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q64:X64",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "CISO / Security Manager",
+                      "value_cell":  "A66:M66",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q66:X66",
+                      "value":  "2023-10-15"
+                  }
+              ]
+}

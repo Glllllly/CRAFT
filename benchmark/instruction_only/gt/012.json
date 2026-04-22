@@ -1,0 +1,161 @@
+﻿{
+    "excel":  "012.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:H11",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "I11:P11",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q11:X11",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Work E-mail",
+                      "value_cell":  "A13:L13",
+                      "value":  "s.miller@company.com"
+                  },
+                  {
+                      "label":  "Phone Extension",
+                      "value_cell":  "M13:X13",
+                      "value":  "412"
+                  },
+                  {
+                      "label":  "Platform / Service Name (exact)",
+                      "value_cell":  "A18:X18",
+                      "value":  "Adobe Creative Cloud"
+                  },
+                  {
+                      "label":  "Service URL / Website",
+                      "value_cell":  "A20:L20",
+                      "value":  "https://www.adobe.com"
+                  },
+                  {
+                      "label":  "Vendor / Publisher Name",
+                      "value_cell":  "M20:X20",
+                      "value":  "Adobe Inc."
+                  },
+                  {
+                      "label":  "Plan / Tier Name",
+                      "value_cell":  "A23:L23",
+                      "value":  "All Apps Plan"
+                  },
+                  {
+                      "label":  "Monthly Cost $",
+                      "value_cell":  "M23:X23",
+                      "value":  "84.99"
+                  },
+                  {
+                      "label":  "Annual Cost $",
+                      "value_cell":  "A25:L25",
+                      "value":  "1019.88"
+                  },
+                  {
+                      "label":  "Renewal Date",
+                      "value_cell":  "M25:X25",
+                      "value":  "2024-10-12"
+                  },
+                  {
+                      "label":  "Business Purpose 鈥?how will this be used?",
+                      "value_cell":  "A31:X31; A32:X32",
+                      "value":  "Used for graphic design, video editing for social media campaigns, and brand asset management."
+                  },
+                  {
+                      "label":  "Existing Tool Evaluated? Y / N",
+                      "value_cell":  "A34:L34",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Why existing tools are insufficient",
+                      "value_cell":  "M34:X34",
+                      "value":  "Current tools lack advanced video editing and vector illustration capabilities required for high-res output."
+                  },
+                  {
+                      "label":  "Security / Privacy Review Completed? Y / N",
+                      "value_cell":  "A37:L37",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Review Reference Number",
+                      "value_cell":  "M37:X37",
+                      "value":  "SEC-2023-991"
+                  },
+                  {
+                      "label":  "Budget Code / Cost Centre",
+                      "value_cell":  "A42:L42",
+                      "value":  "MKT-DEPT-500"
+                  },
+                  {
+                      "label":  "Budget Available? Y / N",
+                      "value_cell":  "M42:X42",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Access Required From  (date)",
+                      "value_cell":  "A45:L45",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Auto-Renewal?  Y / N",
+                      "value_cell":  "M45:X45",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Requester",
+                      "value_cell":  "A52:L52",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N52:X52",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Manager Approval",
+                      "value_cell":  "A55:L55",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N55:X55",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "IT Asset Owner",
+                      "value_cell":  "A58:L58",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N58:X58",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Finance (if \u003e $500/yr)",
+                      "value_cell":  "A61:L61",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N61:X61",
+                      "value":  "2023-10-14"
+                  }
+              ]
+}

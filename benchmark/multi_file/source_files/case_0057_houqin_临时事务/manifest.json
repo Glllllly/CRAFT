@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0057_houqin_临时事务",
+    "tenant":  "houqin",
+    "topic":  "临时事务",
+    "subtopic":  "",
+    "source_dir":  "houqin\\临时事务",
+    "total_files_in_source_dir":  67,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\临时事务\\销售统计_8297.json",
+                      "copied_name":  "销售统计_8297.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\临时事务\\验收单_4809.csv",
+                      "copied_name":  "验收单_4809.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1377
+                  },
+                  {
+                      "source_rel":  "houqin\\临时事务\\临时工作单_021.txt",
+                      "copied_name":  "临时工作单_021.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  662
+                  },
+                  {
+                      "source_rel":  "houqin\\临时事务\\库存统计_7367.eml",
+                      "copied_name":  "库存统计_7367.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\临时事务\\名单_3836.csv",
+                      "copied_name":  "名单_3836.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1377
+                  }
+              ]
+}

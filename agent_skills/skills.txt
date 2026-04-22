@@ -1,0 +1,2 @@
+Prefer precise, evidence-grounded filling.
+If the source is ambiguous, leave the field blank instead of guessing.

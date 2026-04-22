@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_30_event_budget.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Event Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Annual Tech Innovation Summit"
+                  },
+                  {
+                      "label":  "Event Date(s)",
+                      "value_cell":  "M9:X9",
+                      "value":  "October 12-14, 2023"
+                  },
+                  {
+                      "label":  "Venue / Location",
+                      "value_cell":  "A11:L11",
+                      "value":  "Grand Convention Center, San Francisco"
+                  },
+                  {
+                      "label":  "Expected Attendance",
+                      "value_cell":  "M11:X11",
+                      "value":  "500"
+                  },
+                  {
+                      "label":  "Event Manager",
+                      "value_cell":  "A13:H13",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department / Client",
+                      "value_cell":  "I13:P13",
+                      "value":  "Marketing Operations"
+                  },
+                  {
+                      "label":  "Budget Code / PO",
+                      "value_cell":  "Q13:X13",
+                      "value":  "MKT-2023-8842"
+                  },
+                  {
+                      "label":  "Total Approved Budget $",
+                      "value_cell":  "A15:L15",
+                      "value":  "50,000.00"
+                  },
+                  {
+                      "label":  "Contingency Reserve $",
+                      "value_cell":  "M15:X15",
+                      "value":  "5,000.00"
+                  },
+                  {
+                      "label":  "Total Budgeted  $",
+                      "value_cell":  "A40:H40",
+                      "value":  "55,000.00"
+                  },
+                  {
+                      "label":  "Total Actual Spend  $",
+                      "value_cell":  "I40:P40",
+                      "value":  "53,250.00"
+                  },
+                  {
+                      "label":  "Total Variance  $  (Over/Under)",
+                      "value_cell":  "Q40:X40",
+                      "value":  "1,750.00 (Under)"
+                  },
+                  {
+                      "label":  "Budget Utilisation  %",
+                      "value_cell":  "A42:L42",
+                      "value":  "96.8%"
+                  },
+                  {
+                      "label":  "Final Financial Status  (On Budget / Over / Under)",
+                      "value_cell":  "M42:X42",
+                      "value":  "Under"
+                  },
+                  {
+                      "label":  "Notes / Explanations for Significant Variances",
+                      "value_cell":  "A44:X44",
+                      "value":  "Savings achieved on AV equipment rental and reduced catering headcounts compared to initial projections."
+                  },
+                  {
+                      "label":  "Event Manager",
+                      "value_cell":  "A52:M52",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q52:X52",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Finance Controller",
+                      "value_cell":  "A54:M54",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q54:X54",
+                      "value":  "2023-10-22"
+                  },
+                  {
+                      "label":  "Authorising Director",
+                      "value_cell":  "A56:M56",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q56:X56",
+                      "value":  "2023-10-25"
+                  }
+              ]
+}

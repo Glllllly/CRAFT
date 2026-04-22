@@ -1,0 +1,34 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "发布方式",
+                                   "selected_value":  "全量发布)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "安全检查",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "应急方案",
+                                   "selected_value":  "已准备",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "数据迁移",
+                                   "selected_value":  "无",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险等级",
+                                   "selected_value":  "低",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "破坏性变更",
+                                   "selected_value":  "无",
+                                   "conflict":  false
+                               }
+                           ]
+}

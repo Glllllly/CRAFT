@@ -1,0 +1,84 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Customer:",
+      "value_text": "Peak Energy Solutions"
+    },
+    {
+      "key_text": "Supplier: ",
+      "value_text": "Northern Gas Pipeline Co."
+    },
+    {
+      "key_text": "Gas Control Contact:",
+      "value_text": "Dispatch Operations Center"
+    },
+    {
+      "key_text": "Phone Number:",
+      "value_text": "800-555-0123"
+    },
+    {
+      "key_text": "Cell Phone Number:",
+      "value_text": "800-555-9876"
+    },
+    {
+      "key_text": "Fax Number:",
+      "value_text": "800-555-4567"
+    },
+    {
+      "key_text": "Contact Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "555-0101"
+    },
+    {
+      "key_text": "Cell:",
+      "value_text": "555-0102"
+    },
+    {
+      "key_text": "Fax:",
+      "value_text": "555-0103"
+    },
+    {
+      "key_text": "Contact Name:",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "555-0201"
+    },
+    {
+      "key_text": "Cell:",
+      "value_text": "555-0202"
+    },
+    {
+      "key_text": "Fax:",
+      "value_text": "555-0203"
+    },
+    {
+      "key_text": "Timely or Intraday",
+      "value_text": "Timely"
+    },
+    {
+      "key_text": "Effective Gas Cycle:",
+      "value_text": "Cycle 1"
+    },
+    {
+      "key_text": "Beginning Gas Day (8:00 AM):",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Ending Gas Day (8:00 AM):",
+      "value_text": "2023-11-30"
+    },
+    {
+      "key_text": "Until further notice",
+      "value_text": "No"
+    }
+  ]
+}
+
+Narrative:
+This form documents a gas supply arrangement between Peak Energy Solutions as the customer and Northern Gas Pipeline Co. as the supplier. Communication is routed through the Dispatch Operations Center, reachable at 800-555-0123, with cell and fax alternatives provided. Two primary contacts are listed: Sarah Jenkins, who can be reached at 555-0101, and Marcus Thorne, reachable at 555-0201, both with their respective mobile and fax numbers included. Regarding the scheduling, the request is set for the "Timely" cycle, specifically for Gas Cycle 1. The service window begins on November 1, 2023, and ends on November 30, 2023, with the "Until further notice" option marked as no.

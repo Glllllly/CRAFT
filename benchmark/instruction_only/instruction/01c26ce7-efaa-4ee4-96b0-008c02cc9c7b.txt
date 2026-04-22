@@ -1,0 +1,60 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Member Association:",
+      "value_text": "Badminton England"
+    },
+    {
+      "key_text": "E-mail address:",
+      "value_text": "info@badmintonengland.co.uk"
+    },
+    {
+      "key_text": "Approximate number of players entering Team Event: Male",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Approximate number of players entering Team Event: Female",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Approximate number of players entering Team Event: Total",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Approximate number of officials entering Team Event: Male",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Approximate number of officials entering Team Event: Female",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Approximate number of officials entering Team Event: Total",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Likely date of Arrival:",
+      "value_text": "21 October 2013"
+    },
+    {
+      "key_text": "Signed:",
+      "value_text": "John Smith"
+    },
+    {
+      "key_text": "Print Name:",
+      "value_text": "John Smith"
+    },
+    {
+      "key_text": "Position:",
+      "value_text": "National Teams Manager"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "15 July 2013"
+    }
+  ]
+}
+
+Narrative:
+This is the official entry form for Badminton England to participate in the 11th BWF World Junior Mixed Team Championships. The association's contact email is info@badmintonengland.co.uk. They have registered a total of 10 players for the team event, split equally with 5 males and 5 females. They are also bringing 3 officials, comprising 2 males and 1 female. The team is scheduled to arrive on 21 October 2013. The form was signed and submitted by John Smith, the National Teams Manager, on 15 July 2013.

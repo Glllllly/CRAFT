@@ -1,0 +1,64 @@
+---
+- name: Deploy Service 20
+  hosts: "prod-servers-20"
+  remote_user: ansible
+  become: yes
+
+  vars:
+    service_name: "product-service-20"
+    service_version: "1.0.20"
+    service_port: 8020
+
+  pre_tasks:
+    - name: Validate service configuration
+      assert:
+        that:
+          - service_name is defined
+          - service_version is defined
+        fail_msg: "Service configuration is invalid"
+
+  tasks:
+    - name: Pull latest service image
+      docker_image:
+        name: "registry.example.com/{{ service_name }}"
+        tag: "{{ service_version }}"
+        state: present
+
+    - name: Stop existing service
+      docker_container:
+        name: "{{ service_name }}"
+        state: stopped
+        force_kill: yes
+      ignore_errors: yes
+
+    - name: Start service container
+      docker_container:
+        name: "{{ service_name }}"
+        image: "registry.example.com/{{ service_name }}:{{ service_version }}"
+        state: started
+        restart_policy: always
+        ports:
+          - "{{ service_port }}:{{ service_port }}"
+        env:
+          DATABASE_URL: "jdbc:mysql://mysql:3306/product_20"
+          JAVA_OPTS: "-Xms256m -Xmx512m"
+
+    - name: Verify service is running
+      wait_for:
+        host: localhost
+        port: "{{ service_port }}"
+        state: present
+        timeout: 30
+
+  post_tasks:
+    - name: Health check
+      uri:
+        url: "http://localhost:{{ service_port }}/actuator/health"
+        method: GET
+        status_code: 200
+      register: health_result
+
+    - name: Deployment notification
+      debug:
+        msg: "Service {{ service_name }} v{{ service_version }} deployed successfully"
+      when: health_result.status == 200

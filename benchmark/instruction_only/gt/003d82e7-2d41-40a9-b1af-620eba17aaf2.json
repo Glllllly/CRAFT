@@ -1,0 +1,26 @@
+﻿{
+    "excel":  "003d82e7-2d41-40a9-b1af-620eba17aaf2.xlsx",
+    "sheet":  "Horizontal",
+    "pairs":  [
+                  {
+                      "label":  "Date of Assignment",
+                      "value_cell":  "E5",
+                      "value":  "05/10/2023"
+                  },
+                  {
+                      "label":  "Days Late",
+                      "value_cell":  "G6",
+                      "value":  "97"
+                  },
+                  {
+                      "label":  "Date current owner applied for title",
+                      "value_cell":  "E6",
+                      "value":  "08/15/2023"
+                  },
+                  {
+                      "label":  "Transaction Type:",
+                      "value_cell":  "E9:E10",
+                      "value":  "Standard Sale"
+                  }
+              ]
+}

@@ -1,0 +1,204 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "version",
+                                   "selected_value":  "1.0",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.metrics.0",
+                                   "selected_value":  "impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.metrics.1",
+                                   "selected_value":  "clicks",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.metrics.2",
+                                   "selected_value":  "conversions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.metrics.3",
+                                   "selected_value":  "spend",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.sources.0",
+                                   "selected_value":  "google_analytics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.sources.1",
+                                   "selected_value":  "facebook_ads",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.config.sources.2",
+                                   "selected_value":  "hubspot",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.config.sections.0",
+                                   "selected_value":  "summary",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.config.sections.1",
+                                   "selected_value":  "metrics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.config.sections.2",
+                                   "selected_value":  "insights",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.config.sections.3",
+                                   "selected_value":  "recommendations",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.3.config.recipients.0",
+                                   "selected_value":  "marketing_team@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.3.config.recipients.1",
+                                   "selected_value":  "leadership@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.id",
+                                   "selected_value":  "collect_metrics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.id",
+                                   "selected_value":  "process_data",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.id",
+                                   "selected_value":  "generate_report",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.3.id",
+                                   "selected_value":  "send_notification",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.4.id",
+                                   "selected_value":  "update_dashboard",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "notifications.onfailure.0.type",
+                                   "selected_value":  "email",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "notifications.onfailure.1.type",
+                                   "selected_value":  "slack",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "notifications.onsuccess.0.type",
+                                   "selected_value":  "email",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.config.calculations.0.name",
+                                   "selected_value":  "ROI",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.config.calculations.1.name",
+                                   "selected_value":  "ROAS",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.config.calculations.2.name",
+                                   "selected_value":  "CTR",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "triggers.0.cron",
+                                   "selected_value":  "0 9 * * 1",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "triggers.0.type",
+                                   "selected_value":  "schedule",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "triggers.1.type",
+                                   "selected_value":  "manual",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.input",
+                                   "selected_value":  "collect_metrics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.input",
+                                   "selected_value":  "process_data",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.3.input",
+                                   "selected_value":  "generate_report",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.4.input",
+                                   "selected_value":  "process_data",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.0.action",
+                                   "selected_value":  "fetch_analytics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.1.action",
+                                   "selected_value":  "transform",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.action",
+                                   "selected_value":  "create_report",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.2.config.format",
+                                   "selected_value":  "pdf",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.3.action",
+                                   "selected_value":  "send_email",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "steps.4.action",
+                                   "selected_value":  "update_dashboard",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "notifications.onfailure.0.message",
+                                   "selected_value":  "Workflow failed",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "notifications.onfailure.1.channel",
+                                   "selected_value":  "#operations-alerts",
+                                   "conflict":  false
+                               }
+                           ]
+}

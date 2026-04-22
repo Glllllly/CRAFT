@@ -1,0 +1,39 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "q12024",
+                                   "selected_value":  "Feature A release",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q22024",
+                                   "selected_value":  "Feature B release",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q32024",
+                                   "selected_value":  "Platform upgrade",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q42024",
+                                   "selected_value":  "AI integration",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "initiative1",
+                                   "selected_value":  "Product Roadmap",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "initiative2",
+                                   "selected_value":  "Market Expansion",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "initiative3",
+                                   "selected_value":  "Customer Success",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,131 @@
+{
+  "excel": "case_0217_houqin_问题处理__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "60498"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "项目计划_7575"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K6:N7",
+      "value": "库存清单"
+    },
+    {
+      "label": "type",
+      "value_cell": "P6:S7",
+      "value": "项目计划"
+    },
+    {
+      "label": "status",
+      "value_cell": "A10:D11",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F10:I11",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K10:N11",
+      "value": "紧急"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A16:D17",
+      "value": "周八"
+    },
+    {
+      "label": "from",
+      "value_cell": "F16:I17",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "K16:N17",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "date",
+      "value_cell": "P16:S17",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A20:D21",
+      "value": "2026-02-10T05:30:31.233663"
+    },
+    {
+      "label": "问题编号",
+      "value_cell": "A26:D27",
+      "value": "ISSUE-015"
+    },
+    {
+      "label": "问题级别",
+      "value_cell": "F26:I27",
+      "value": "严重"
+    },
+    {
+      "label": "影响范围",
+      "value_cell": "K26:N27",
+      "value": "库存不足)"
+    },
+    {
+      "label": "涉及金额",
+      "value_cell": "P26:S27",
+      "value": "¥115850"
+    },
+    {
+      "label": "发现日期",
+      "value_cell": "A30:D31",
+      "value": "2024-02-03"
+    },
+    {
+      "label": "完成日期",
+      "value_cell": "F30:I31",
+      "value": "2024-02-03"
+    },
+    {
+      "label": "1.发现时间",
+      "value_cell": "A36:D37",
+      "value": "2024-02-05 13:03"
+    },
+    {
+      "label": "2.上报部门",
+      "value_cell": "F36:I37",
+      "value": "采购部"
+    },
+    {
+      "label": "3.处理时间",
+      "value_cell": "K36:N37",
+      "value": "7天"
+    },
+    {
+      "label": "4.处理方式",
+      "value_cell": "P36:S37",
+      "value": "沟通协调)"
+    },
+    {
+      "label": "5.处理结果",
+      "value_cell": "A40:D41",
+      "value": "已解决)"
+    },
+    {
+      "label": "处理人",
+      "value_cell": "F40:I41",
+      "value": "员工13"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A46:D47",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

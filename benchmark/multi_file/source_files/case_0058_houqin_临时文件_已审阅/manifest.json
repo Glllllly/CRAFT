@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0058_houqin_临时文件_已审阅",
+    "tenant":  "houqin",
+    "topic":  "临时文件",
+    "subtopic":  "已审阅",
+    "source_dir":  "houqin\\临时文件\\已审阅",
+    "total_files_in_source_dir":  31,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\临时文件\\已审阅\\人员清单_3097.json",
+                      "copied_name":  "人员清单_3097.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\已审阅\\项目计划_1673.csv",
+                      "copied_name":  "项目计划_1673.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1380
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\已审阅\\购置申请_6062.txt",
+                      "copied_name":  "购置申请_6062.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\已审阅\\工作报告_8445.eml",
+                      "copied_name":  "工作报告_8445.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\已审阅\\年报_6617.csv",
+                      "copied_name":  "年报_6617.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  }
+              ]
+}

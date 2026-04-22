@@ -1,0 +1,136 @@
+﻿{
+    "excel":  "041573e2-839b-439f-b1a1-b6796a3e364b.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Wire Amount: $",
+                      "value_cell":  "F8:I8",
+                      "value":  "5,240.50"
+                  },
+                  {
+                      "label":  "Foreign Currency Amount:",
+                      "value_cell":  "T8:U8",
+                      "value":  "4,850.00 EUR"
+                  },
+                  {
+                      "label":  "Name on Bank Account:",
+                      "value_cell":  "I11:U11",
+                      "value":  "Precision Lab Instruments GmbH"
+                  },
+                  {
+                      "label":  "Vendor Address:",
+                      "value_cell":  "G12:U12",
+                      "value":  "123 Rheinstrasse"
+                  },
+                  {
+                      "label":  "City, State, Country, ZIP:",
+                      "value_cell":  "I13:U13",
+                      "value":  "Frankfurt, Hesse, Germany, 60311"
+                  },
+                  {
+                      "label":  "Bank Name:",
+                      "value_cell":  "E15:U15",
+                      "value":  "Deutsche Bank AG"
+                  },
+                  {
+                      "label":  "Bank Address:",
+                      "value_cell":  "E16:U16",
+                      "value":  "Taunusanlage 12"
+                  },
+                  {
+                      "label":  "City, State, Country, ZIP:",
+                      "value_cell":  "E17:U17",
+                      "value":  "Frankfurt am Main, Germany, 60325"
+                  },
+                  {
+                      "label":  "Bank Account #",
+                      "value_cell":  "F20:O20",
+                      "value":  null
+                  },
+                  {
+                      "label":  "ABA / ROUTING #",
+                      "value_cell":  "G21:O21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason for request:",
+                      "value_cell":  "R22:V22, R23:V23, R24:V24, R25:V25, R26:V26",
+                      "value":  "Payment for specialized microscope accessories, invoice #INV-2023-0045."
+                  },
+                  {
+                      "label":  "Bank Account #",
+                      "value_cell":  "F24:O24",
+                      "value":  "987654321"
+                  },
+                  {
+                      "label":  "Swift Code:",
+                      "value_cell":  "E25:O25",
+                      "value":  "DEUTDEFF"
+                  },
+                  {
+                      "label":  "IBAN #",
+                      "value_cell":  "D26:O26",
+                      "value":  "DE12 3456 7890 9876 5432 10"
+                  },
+                  {
+                      "label":  "Fund",
+                      "value_cell":  "D31:E31",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "G31:L31",
+                      "value":  "54321"
+                  },
+                  {
+                      "label":  "Account",
+                      "value_cell":  "N31:R31",
+                      "value":  "7654"
+                  },
+                  {
+                      "label":  "Amount",
+                      "value_cell":  "T31:U31",
+                      "value":  "5,240.50"
+                  },
+                  {
+                      "label":  "Print",
+                      "value_cell":  "F33:N33",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "Q33:V33",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date Needed:",
+                      "value_cell":  "F35:K35",
+                      "value":  "11/15/2023"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "Q35:V35",
+                      "value":  "Biology Department"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "V39",
+                      "value":  "11/01/2023"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "V43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SIGNATURE OF WIRE INITIATOR",
+                      "value_cell":  "B40:S41",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SIGNATURE OF CONTROLLER",
+                      "value_cell":  "B44:S45",
+                      "value":  null
+                  }
+              ]
+}

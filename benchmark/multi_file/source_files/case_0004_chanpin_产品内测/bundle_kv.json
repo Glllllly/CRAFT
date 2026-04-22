@@ -1,0 +1,619 @@
+{
+  "bundle_dir": "case_0004_chanpin_产品内测",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "Ainsworth_DataScienceForExperimentalDesign.pptx",
+      "source_type": "pptx",
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "source_file": "NSQSHEP2018_30.pptx",
+      "source_type": "pptx",
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "source_file": "PaoloManghi_Software_Scholarly Communication_Life-cycle_TheOpenAIREview_v1.2.pptx",
+      "source_type": "pptx",
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "source_file": "Presentation-Final.pptx",
+      "source_type": "pptx",
+      "candidate_count": 0,
+      "candidates": []
+    },
+    {
+      "source_file": "内测报告_60.txt",
+      "source_type": "txt",
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "key": "一般问题",
+          "value": "16个",
+          "raw_key": "一般问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般问题：16个",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重问题",
+          "value": "2个",
+          "raw_key": "严重问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重问题：2个",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优点",
+          "value": "功能完整)",
+          "raw_key": "优点",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优点：功能完整)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内测人数",
+          "value": "305人",
+          "raw_key": "内测人数",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测人数：305人",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内测周期",
+          "value": "18天",
+          "raw_key": "内测周期",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测周期：18天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内测版本",
+          "value": "V1.17-beta",
+          "raw_key": "内测版本",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测版本：V1.17-beta",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完成度",
+          "value": "64%",
+          "raw_key": "功能完成度",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完成度：64%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "已修复问题",
+          "value": "29个",
+          "raw_key": "已修复问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已修复问题：29个",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议",
+          "value": "优化交互)",
+          "raw_key": "建议",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议：优化交互)",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "建议反馈",
+          "value": "33条",
+          "raw_key": "建议反馈",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议反馈：33条",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "待评估",
+          "value": "11个",
+          "raw_key": "待评估",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "待评估：11个",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "总问题数",
+          "value": "67个",
+          "raw_key": "总问题数",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总问题数：67个",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告编号",
+          "value": "BT-0060",
+          "raw_key": "报告编号",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BT-0060",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "整体满意度",
+          "value": "73/100",
+          "raw_key": "整体满意度",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "整体满意度：73/100",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "易用性评分",
+          "value": "71/100",
+          "raw_key": "易用性评分",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "易用性评分：71/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "是否可发布",
+          "value": "可发布)",
+          "raw_key": "是否可发布",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否可发布：可发布)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "界面设计评分",
+          "value": "74/100",
+          "raw_key": "界面设计评分",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "界面设计评分：74/100",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺点",
+          "value": "功能不完善)",
+          "raw_key": "缺点",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺点：功能不完善)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划修复",
+          "value": "17个",
+          "raw_key": "计划修复",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划修复：17个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期发布时间",
+          "value": "2024-01-05",
+          "raw_key": "预期发布时间",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期发布时间：2024-01-05",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "一般问题",
+      "candidates": [
+        {
+          "key": "一般问题",
+          "value": "16个",
+          "raw_key": "一般问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "一般问题：16个",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "严重问题",
+      "candidates": [
+        {
+          "key": "严重问题",
+          "value": "2个",
+          "raw_key": "严重问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重问题：2个",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优点",
+      "candidates": [
+        {
+          "key": "优点",
+          "value": "功能完整)",
+          "raw_key": "优点",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优点：功能完整)",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内测人数",
+      "candidates": [
+        {
+          "key": "内测人数",
+          "value": "305人",
+          "raw_key": "内测人数",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测人数：305人",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内测周期",
+      "candidates": [
+        {
+          "key": "内测周期",
+          "value": "18天",
+          "raw_key": "内测周期",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测周期：18天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内测版本",
+      "candidates": [
+        {
+          "key": "内测版本",
+          "value": "V1.17-beta",
+          "raw_key": "内测版本",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "内测版本：V1.17-beta",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能完成度",
+      "candidates": [
+        {
+          "key": "功能完成度",
+          "value": "64%",
+          "raw_key": "功能完成度",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完成度：64%",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "已修复问题",
+      "candidates": [
+        {
+          "key": "已修复问题",
+          "value": "29个",
+          "raw_key": "已修复问题",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "已修复问题：29个",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "建议",
+      "candidates": [
+        {
+          "key": "建议",
+          "value": "优化交互)",
+          "raw_key": "建议",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议：优化交互)",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "建议反馈",
+      "candidates": [
+        {
+          "key": "建议反馈",
+          "value": "33条",
+          "raw_key": "建议反馈",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "建议反馈：33条",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "待评估",
+      "candidates": [
+        {
+          "key": "待评估",
+          "value": "11个",
+          "raw_key": "待评估",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "待评估：11个",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "总问题数",
+      "candidates": [
+        {
+          "key": "总问题数",
+          "value": "67个",
+          "raw_key": "总问题数",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "总问题数：67个",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告编号",
+      "candidates": [
+        {
+          "key": "报告编号",
+          "value": "BT-0060",
+          "raw_key": "报告编号",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告编号：BT-0060",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "整体满意度",
+      "candidates": [
+        {
+          "key": "整体满意度",
+          "value": "73/100",
+          "raw_key": "整体满意度",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "整体满意度：73/100",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "易用性评分",
+      "candidates": [
+        {
+          "key": "易用性评分",
+          "value": "71/100",
+          "raw_key": "易用性评分",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "易用性评分：71/100",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "是否可发布",
+      "candidates": [
+        {
+          "key": "是否可发布",
+          "value": "可发布)",
+          "raw_key": "是否可发布",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "是否可发布：可发布)",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "界面设计评分",
+      "candidates": [
+        {
+          "key": "界面设计评分",
+          "value": "74/100",
+          "raw_key": "界面设计评分",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "界面设计评分：74/100",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "缺点",
+      "candidates": [
+        {
+          "key": "缺点",
+          "value": "功能不完善)",
+          "raw_key": "缺点",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺点：功能不完善)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "计划修复",
+      "candidates": [
+        {
+          "key": "计划修复",
+          "value": "17个",
+          "raw_key": "计划修复",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划修复：17个",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期发布时间",
+      "candidates": [
+        {
+          "key": "预期发布时间",
+          "value": "2024-01-05",
+          "raw_key": "预期发布时间",
+          "source_file": "内测报告_60.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期发布时间：2024-01-05",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0091_houqin_固定资产_资产登记",
+    "tenant":  "houqin",
+    "topic":  "固定资产",
+    "subtopic":  "资产登记",
+    "source_dir":  "houqin\\固定资产\\资产登记",
+    "total_files_in_source_dir":  37,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产登记\\物资申请_2090.json",
+                      "copied_name":  "物资申请_2090.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产登记\\周报_5642.csv",
+                      "copied_name":  "周报_5642.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产登记\\年报_4035.txt",
+                      "copied_name":  "年报_4035.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  206
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产登记\\备件申请_4676.eml",
+                      "copied_name":  "备件申请_4676.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产登记\\休假申请_2153.csv",
+                      "copied_name":  "休假申请_2153.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

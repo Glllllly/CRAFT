@@ -1,0 +1,206 @@
+﻿{
+    "excel":  "form_11_internship_agreement.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "88293041"
+                  },
+                  {
+                      "label":  "Programme / Major",
+                      "value_cell":  "A11:H11",
+                      "value":  "Computer Science"
+                  },
+                  {
+                      "label":  "Academic Year / Level",
+                      "value_cell":  "I11:P11",
+                      "value":  "Junior / Year 3"
+                  },
+                  {
+                      "label":  "GPA",
+                      "value_cell":  "Q11:X11",
+                      "value":  "3.85"
+                  },
+                  {
+                      "label":  "University E-mail",
+                      "value_cell":  "A13:L13",
+                      "value":  "evance@university.edu"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "M13:X13",
+                      "value":  "555-012-9988"
+                  },
+                  {
+                      "label":  "Faculty Advisor Name",
+                      "value_cell":  "A15:L15",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Advisor E-mail \u0026 Phone",
+                      "value_cell":  "M15:X15",
+                      "value":  "m.thorne@university.edu / 555-443-2211"
+                  },
+                  {
+                      "label":  "Organisation Name",
+                      "value_cell":  "A20:L20",
+                      "value":  "TechFlow Solutions Inc."
+                  },
+                  {
+                      "label":  "Industry / Sector",
+                      "value_cell":  "M20:X20",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Site Supervisor Name",
+                      "value_cell":  "A22:L22",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Supervisor Title",
+                      "value_cell":  "M22:X22",
+                      "value":  "Senior Engineering Manager"
+                  },
+                  {
+                      "label":  "Supervisor Phone",
+                      "value_cell":  "A24:H24",
+                      "value":  "555-889-4455"
+                  },
+                  {
+                      "label":  "Supervisor E-mail",
+                      "value_cell":  "I24:P24",
+                      "value":  "s.jenkins@techflow.com"
+                  },
+                  {
+                      "label":  "Organisation Website",
+                      "value_cell":  "Q24:X24",
+                      "value":  "www.techflowsolutions.com"
+                  },
+                  {
+                      "label":  "Organisation Address",
+                      "value_cell":  "A26:X26",
+                      "value":  "442 Innovation Way, Suite 100, Silicon Valley, CA 94025"
+                  },
+                  {
+                      "label":  "Internship Title / Role",
+                      "value_cell":  "A31:L31",
+                      "value":  "Software Development Intern"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "M31:X31",
+                      "value":  "Cloud Infrastructure"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A33:H33",
+                      "value":  "2024-06-03"
+                  },
+                  {
+                      "label":  "End Date",
+                      "value_cell":  "I33:P33",
+                      "value":  "2024-08-23"
+                  },
+                  {
+                      "label":  "Total Hours Required",
+                      "value_cell":  "Q33:X33",
+                      "value":  "360"
+                  },
+                  {
+                      "label":  "Hours per Week",
+                      "value_cell":  "A35:L35",
+                      "value":  "30"
+                  },
+                  {
+                      "label":  "Days / Schedule  (e.g., Mon鈥揊ri 9鈥?)",
+                      "value_cell":  "M35:X35",
+                      "value":  "Mon鈥揟hu 9:00 AM 鈥?4:30 PM"
+                  },
+                  {
+                      "label":  "Compensation / Stipend  $",
+                      "value_cell":  "A38:L38",
+                      "value":  "4500"
+                  },
+                  {
+                      "label":  "Unpaid?  Y / N  (attach justification if unpaid)",
+                      "value_cell":  "M38:X38",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Learning Goal 1",
+                      "value_cell":  "A43:X43",
+                      "value":  "Gain proficiency in deploying microservices to cloud environments."
+                  },
+                  {
+                      "label":  "Learning Goal 2",
+                      "value_cell":  "A45:X45",
+                      "value":  "Collaborate effectively within an Agile software development team."
+                  },
+                  {
+                      "label":  "Learning Goal 3",
+                      "value_cell":  "A47:X47",
+                      "value":  "Improve technical documentation skills for internal API frameworks."
+                  },
+                  {
+                      "label":  "Evaluation Method / Deliverables (midpoint \u0026 final review)",
+                      "value_cell":  "A49:X49",
+                      "value":  "Bi-weekly performance reviews and a final capstone project presentation."
+                  },
+                  {
+                      "label":  "Academic Credits to be Awarded",
+                      "value_cell":  "A55:L55",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Credit Registration Course Code",
+                      "value_cell":  "M55:X55",
+                      "value":  "CS-499"
+                  },
+                  {
+                      "label":  "Student Signature",
+                      "value_cell":  "A63:M63",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q63:X63",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "Site Supervisor Signature",
+                      "value_cell":  "A65:M65",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q65:X65",
+                      "value":  "2024-05-16"
+                  },
+                  {
+                      "label":  "Faculty Advisor",
+                      "value_cell":  "A67:M67",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q67:X67",
+                      "value":  "2024-05-18"
+                  },
+                  {
+                      "label":  "Career Services",
+                      "value_cell":  "A69:M69",
+                      "value":  "Jane Doe"
+                  },
+                  {
+                      "label":  "Date (Career)",
+                      "value_cell":  "Q69:X69",
+                      "value":  "2024-05-20"
+                  }
+              ]
+}

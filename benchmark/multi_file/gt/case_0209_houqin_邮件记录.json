@@ -1,0 +1,106 @@
+{
+  "excel": "case_0209_houqin_邮件记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "17697"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "访问记录_9017"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "访问记录"
+    },
+    {
+      "label": "status",
+      "value_cell": "P6:S7",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A10:D11",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F10:I11",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "A16:D17",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F16:I17",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K16:N17",
+      "value": "销售统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "P16:S17",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A20:D21",
+      "value": "2026-02-10T05:30:32.590082"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F20:I21",
+      "value": "张丽"
+    },
+    {
+      "label": "报告人",
+      "value_cell": "A26:D27",
+      "value": "郑十"
+    },
+    {
+      "label": "汇报部门",
+      "value_cell": "F26:I27",
+      "value": "人力资源部"
+    },
+    {
+      "label": "报告时间",
+      "value_cell": "K26:N27",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "主要成果",
+      "value_cell": "P26:S27",
+      "value": "圆满完成各项任务"
+    },
+    {
+      "label": "关键指标",
+      "value_cell": "A30:D31",
+      "value": "完成率87%"
+    },
+    {
+      "label": "存在问题",
+      "value_cell": "F30:I31",
+      "value": "持续改进中"
+    },
+    {
+      "label": "下一步计划",
+      "value_cell": "K30:N31",
+      "value": "继续深化执行"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A36:D37",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

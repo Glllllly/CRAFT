@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "form_29_compliance_disclosure.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Disclosure Date",
+                      "value_cell":  "A9:L9",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Reference Number (Office Use)",
+                      "value_cell":  "M9:X9",
+                      "value":  "REF-2023-8842"
+                  },
+                  {
+                      "label":  "Full Name  (if providing)",
+                      "value_cell":  "A16:L16",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Employee ID  (if applicable)",
+                      "value_cell":  "M16:X16",
+                      "value":  "EMP-99021"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A18:I18",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "J18:Q18",
+                      "value":  "s.jenkins@org.com"
+                  },
+                  {
+                      "label":  "Department / Unit",
+                      "value_cell":  "R18:X18",
+                      "value":  "Logistics \u0026 Supply Chain"
+                  },
+                  {
+                      "label":  "Approximate Date of Incident",
+                      "value_cell":  "A24:L24",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Location / Department Involved",
+                      "value_cell":  "M24:X24",
+                      "value":  "Warehouse Facility B"
+                  },
+                  {
+                      "label":  "Names of Individuals Involved  (if known)",
+                      "value_cell":  "A26:X26",
+                      "value":  "Mark Thompson, Warehouse Supervisor"
+                  },
+                  {
+                      "label":  "Detailed Description of Incident / Concern",
+                      "value_cell":  "A28:X31",
+                      "value":  "Observed unauthorized access to restricted inventory logs and potential falsification of safety inspection records for heavy machinery."
+                  },
+                  {
+                      "label":  "Harm or Potential Harm Caused / Anticipated",
+                      "value_cell":  "A33:X33",
+                      "value":  "Significant risk to workplace safety and potential violation of regulatory compliance standards regarding equipment maintenance."
+                  },
+                  {
+                      "label":  "Evidence or Documentation Available  (describe; do not attach originals)",
+                      "value_cell":  "A35:X35",
+                      "value":  "Digital timestamps from the security access logs and a saved copy of the digital inspection spreadsheet from October 12th."
+                  },
+                  {
+                      "label":  "Has this concern been reported elsewhere?  If yes, to whom and when?",
+                      "value_cell":  "A40:X40",
+                      "value":  "No, this is the initial report."
+                  },
+                  {
+                      "label":  "What action, if any, has been taken so far?",
+                      "value_cell":  "A42:X42",
+                      "value":  "No prior action has been taken; reporting immediately upon discovery."
+                  },
+                  {
+                      "label":  "Assigned Investigator",
+                      "value_cell":  "A47:K47",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Priority  (High/Med/Low)",
+                      "value_cell":  "L47:S47",
+                      "value":  "High"
+                  },
+                  {
+                      "label":  "Target Close Date",
+                      "value_cell":  "T47:X47",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Investigator Notes / Disposition",
+                      "value_cell":  "A49:X49",
+                      "value":  "Initial review scheduled for 10-16. Interview with supervisor requested."
+                  }
+              ]
+}

@@ -1,0 +1,3043 @@
+{
+  "bundle_dir": "case_0055_chanpin_项目管理_项目计划",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "计划_37.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-01-26",
+          "raw_key": "发布时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-01-26",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-08-21",
+          "raw_key": "创建时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-08-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "45项",
+          "raw_key": "功能需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：45项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-04-06",
+          "raw_key": "启动时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-04-06",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-02-21",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-02-21",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "118天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：118天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥328万",
+          "raw_key": "成本预算",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥328万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "22项",
+          "raw_key": "技术需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：22项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-08-11",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-08-11",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "33天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：33天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-09-07",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-09-07",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "47天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：47天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "13人",
+          "raw_key": "资源需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：13人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-11-10",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-11-10",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目37",
+          "raw_key": "项目名称",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目37",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理8",
+          "raw_key": "项目经理",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理8",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0037",
+          "raw_key": "项目编号",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0037",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "110天",
+          "raw_key": "预期周期",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：110天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥368万",
+          "raw_key": "预期投入",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥368万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥2443万",
+          "raw_key": "预期收益",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2443万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "计划_49.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-04-14",
+          "raw_key": "发布时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-04-14",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-04-03",
+          "raw_key": "创建时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-04-03",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "52项",
+          "raw_key": "功能需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：52项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-08-12",
+          "raw_key": "启动时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-08-12",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-03-17",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-03-17",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "139天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：139天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥282万",
+          "raw_key": "成本预算",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥282万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10项",
+          "raw_key": "技术需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-08-09",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-08-09",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "41天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：41天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-06-21",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-06-21",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "55天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：55天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "21人",
+          "raw_key": "资源需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：21人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-03-27",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-03-27",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目49",
+          "raw_key": "项目名称",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目49",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0049",
+          "raw_key": "项目编号",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "119天",
+          "raw_key": "预期周期",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：119天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥491万",
+          "raw_key": "预期投入",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥491万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥905万",
+          "raw_key": "预期收益",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥905万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "计划_59.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-09-19",
+          "raw_key": "发布时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-09-19",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-01-07",
+          "raw_key": "创建时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-01-07",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "12项",
+          "raw_key": "功能需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：12项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-07-12",
+          "raw_key": "启动时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-07-12",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-03-25",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-03-25",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "85天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：85天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥278万",
+          "raw_key": "成本预算",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥278万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "15项",
+          "raw_key": "技术需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：15项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-07-03",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-07-03",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "39天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：39天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-04-01",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-04-01",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "36天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：36天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "13人",
+          "raw_key": "资源需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：13人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-11-24",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-11-24",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目59",
+          "raw_key": "项目名称",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目59",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0059",
+          "raw_key": "项目编号",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0059",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "129天",
+          "raw_key": "预期周期",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：129天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥598万",
+          "raw_key": "预期投入",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥598万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥2048万",
+          "raw_key": "预期收益",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2048万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "计划_61.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-05-21",
+          "raw_key": "发布时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-05-21",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-02-15",
+          "raw_key": "创建时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-02-15",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "51项",
+          "raw_key": "功能需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：51项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-02-25",
+          "raw_key": "启动时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-02-25",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-08-05",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-08-05",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "148天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：148天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥338万",
+          "raw_key": "成本预算",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥338万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "16项",
+          "raw_key": "技术需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：16项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-12-08",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-12-08",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "41天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：41天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-04-11",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-04-11",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "49天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：49天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "14人",
+          "raw_key": "资源需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：14人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-07-11",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-07-11",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目61",
+          "raw_key": "项目名称",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目61",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理2",
+          "raw_key": "项目经理",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0061",
+          "raw_key": "项目编号",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0061",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "180天",
+          "raw_key": "预期周期",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：180天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥541万",
+          "raw_key": "预期投入",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥541万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥2055万",
+          "raw_key": "预期收益",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2055万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "计划_69.txt",
+      "source_type": "txt",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-10-08",
+          "raw_key": "发布时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-10-08",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-03-17",
+          "raw_key": "创建时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-03-17",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "30项",
+          "raw_key": "功能需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：30项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-06-26",
+          "raw_key": "启动时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-06-26",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-04-19",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-04-19",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "92天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：92天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥243万",
+          "raw_key": "成本预算",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥243万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "14项",
+          "raw_key": "技术需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：14项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-09-18",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-09-18",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "23天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：23天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-05-28",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-05-28",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "26天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：26天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "16人",
+          "raw_key": "资源需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：16人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-12-20",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-12-20",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目69",
+          "raw_key": "项目名称",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目69",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0069",
+          "raw_key": "项目编号",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "141天",
+          "raw_key": "预期周期",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：141天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥291万",
+          "raw_key": "预期投入",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥291万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥1116万",
+          "raw_key": "预期收益",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥1116万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "publish_date",
+      "candidates": [
+        {
+          "key": "publish_date",
+          "value": "2024-01-26",
+          "raw_key": "发布时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-01-26",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-04-14",
+          "raw_key": "发布时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-04-14",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-09-19",
+          "raw_key": "发布时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-09-19",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-05-21",
+          "raw_key": "发布时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-05-21",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "publish_date",
+          "value": "2024-10-08",
+          "raw_key": "发布时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布时间：2024-10-08",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主要风险",
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "人力不足)",
+          "raw_key": "主要风险",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：人力不足)",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "创建时间",
+      "candidates": [
+        {
+          "key": "创建时间",
+          "value": "2024-08-21",
+          "raw_key": "创建时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-08-21",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-04-03",
+          "raw_key": "创建时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-04-03",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-01-07",
+          "raw_key": "创建时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-01-07",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-02-15",
+          "raw_key": "创建时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-02-15",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "创建时间",
+          "value": "2024-03-17",
+          "raw_key": "创建时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "创建时间：2024-03-17",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能需求",
+      "candidates": [
+        {
+          "key": "功能需求",
+          "value": "45项",
+          "raw_key": "功能需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：45项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "52项",
+          "raw_key": "功能需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：52项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "12项",
+          "raw_key": "功能需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：12项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "51项",
+          "raw_key": "功能需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：51项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "30项",
+          "raw_key": "功能需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：30项",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "启动时间",
+      "candidates": [
+        {
+          "key": "启动时间",
+          "value": "2024-04-06",
+          "raw_key": "启动时间",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-04-06",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-08-12",
+          "raw_key": "启动时间",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-08-12",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-07-12",
+          "raw_key": "启动时间",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-07-12",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-02-25",
+          "raw_key": "启动时间",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-02-25",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "启动时间",
+          "value": "2024-06-26",
+          "raw_key": "启动时间",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "启动时间：2024-06-26",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "应对措施",
+      "candidates": [
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应对措施",
+          "value": "建立应急方案",
+          "raw_key": "应对措施",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应对措施：建立应急方案",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "开发完成",
+      "candidates": [
+        {
+          "key": "开发完成",
+          "value": "2024-02-21",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-02-21",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-03-17",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-03-17",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-03-25",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-03-25",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-08-05",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-08-05",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-04-19",
+          "raw_key": "- 开发完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 开发完成：2024-04-19",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "开发阶段",
+      "candidates": [
+        {
+          "key": "开发阶段",
+          "value": "118天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：118天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "139天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：139天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "85天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：85天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "148天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：148天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发阶段",
+          "value": "92天",
+          "raw_key": "开发阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发阶段：92天",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "成本预算",
+      "candidates": [
+        {
+          "key": "成本预算",
+          "value": "¥328万",
+          "raw_key": "成本预算",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥328万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥282万",
+          "raw_key": "成本预算",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥282万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥278万",
+          "raw_key": "成本预算",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥278万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥338万",
+          "raw_key": "成本预算",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥338万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本预算",
+          "value": "¥243万",
+          "raw_key": "成本预算",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本预算：¥243万",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "技术需求",
+      "candidates": [
+        {
+          "key": "技术需求",
+          "value": "22项",
+          "raw_key": "技术需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：22项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10项",
+          "raw_key": "技术需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "15项",
+          "raw_key": "技术需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：15项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "16项",
+          "raw_key": "技术需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：16项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "14项",
+          "raw_key": "技术需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：14项",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "测试完成",
+      "candidates": [
+        {
+          "key": "测试完成",
+          "value": "2024-08-11",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-08-11",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-08-09",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-08-09",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-07-03",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-07-03",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-12-08",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-12-08",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试完成",
+          "value": "2024-09-18",
+          "raw_key": "- 测试完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 测试完成：2024-09-18",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "测试阶段",
+      "candidates": [
+        {
+          "key": "测试阶段",
+          "value": "33天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：33天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "41天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：41天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "39天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：39天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "41天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：41天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试阶段",
+          "value": "23天",
+          "raw_key": "测试阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试阶段：23天",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "目标",
+      "candidates": [
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "目标",
+          "value": "新产品开发)",
+          "raw_key": "目标",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "目标：新产品开发)",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计完成",
+      "candidates": [
+        {
+          "key": "设计完成",
+          "value": "2024-09-07",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-09-07",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-06-21",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-06-21",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-04-01",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-04-01",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-04-11",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-04-11",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计完成",
+          "value": "2024-05-28",
+          "raw_key": "- 设计完成",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 设计完成：2024-05-28",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计阶段",
+      "candidates": [
+        {
+          "key": "设计阶段",
+          "value": "47天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：47天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "55天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：55天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "36天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：36天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "49天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：49天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计阶段",
+          "value": "26天",
+          "raw_key": "设计阶段",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计阶段：26天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "资源需求",
+      "candidates": [
+        {
+          "key": "资源需求",
+          "value": "13人",
+          "raw_key": "资源需求",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：13人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "21人",
+          "raw_key": "资源需求",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：21人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "13人",
+          "raw_key": "资源需求",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：13人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "14人",
+          "raw_key": "资源需求",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：14人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资源需求",
+          "value": "16人",
+          "raw_key": "资源需求",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "资源需求：16人",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "需求评审",
+      "candidates": [
+        {
+          "key": "需求评审",
+          "value": "2024-11-10",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-11-10",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-03-27",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-03-27",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-11-24",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-11-24",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-07-11",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-07-11",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需求评审",
+          "value": "2024-12-20",
+          "raw_key": "- 需求评审",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 需求评审：2024-12-20",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目名称",
+      "candidates": [
+        {
+          "key": "项目名称",
+          "value": "产品项目37",
+          "raw_key": "项目名称",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目37",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目49",
+          "raw_key": "项目名称",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目49",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目59",
+          "raw_key": "项目名称",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目59",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目61",
+          "raw_key": "项目名称",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目61",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目名称",
+          "value": "产品项目69",
+          "raw_key": "项目名称",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目名称：产品项目69",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目经理",
+      "candidates": [
+        {
+          "key": "项目经理",
+          "value": "项目经理8",
+          "raw_key": "项目经理",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理8",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理2",
+          "raw_key": "项目经理",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理2",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目经理",
+          "value": "项目经理10",
+          "raw_key": "项目经理",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目经理：项目经理10",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "项目编号",
+      "candidates": [
+        {
+          "key": "项目编号",
+          "value": "PROJ-0037",
+          "raw_key": "项目编号",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0037",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0049",
+          "raw_key": "项目编号",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0049",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0059",
+          "raw_key": "项目编号",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0059",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0061",
+          "raw_key": "项目编号",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0061",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "项目编号",
+          "value": "PROJ-0069",
+          "raw_key": "项目编号",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "项目编号：PROJ-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期周期",
+      "candidates": [
+        {
+          "key": "预期周期",
+          "value": "110天",
+          "raw_key": "预期周期",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：110天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "119天",
+          "raw_key": "预期周期",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：119天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "129天",
+          "raw_key": "预期周期",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：129天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "180天",
+          "raw_key": "预期周期",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：180天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期周期",
+          "value": "141天",
+          "raw_key": "预期周期",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期周期：141天",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期投入",
+      "candidates": [
+        {
+          "key": "预期投入",
+          "value": "¥368万",
+          "raw_key": "预期投入",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥368万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥491万",
+          "raw_key": "预期投入",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥491万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥598万",
+          "raw_key": "预期投入",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥598万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥541万",
+          "raw_key": "预期投入",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥541万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期投入",
+          "value": "¥291万",
+          "raw_key": "预期投入",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期投入：¥291万",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预期收益",
+      "candidates": [
+        {
+          "key": "预期收益",
+          "value": "¥2443万",
+          "raw_key": "预期收益",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2443万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥905万",
+          "raw_key": "预期收益",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥905万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥2048万",
+          "raw_key": "预期收益",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2048万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥2055万",
+          "raw_key": "预期收益",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥2055万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预期收益",
+          "value": "¥1116万",
+          "raw_key": "预期收益",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预期收益：¥1116万",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险等级",
+      "candidates": [
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_37.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_49.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_59.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_61.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "计划_69.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

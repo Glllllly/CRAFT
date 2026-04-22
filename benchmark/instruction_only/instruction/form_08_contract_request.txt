@@ -1,0 +1,92 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requested By",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Operations"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Target Execution Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Counterparty Name",
+      "value_text": "Apex Logistics Solutions"
+    },
+    {
+      "key_text": "Counterparty Contact",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Type  (NDA / Service / Vendor / Other)",
+      "value_text": "Vendor"
+    },
+    {
+      "key_text": "Contract Value  $",
+      "value_text": "75,000"
+    },
+    {
+      "key_text": "Contract Duration  (Start – End)",
+      "value_text": "2023-11-01 – 2024-10-31"
+    },
+    {
+      "key_text": "Auto-Renewal Clause  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Brief Description of Scope",
+      "value_text": "Provision of regional freight shipping and warehousing services for Q4 and beyond."
+    },
+    {
+      "key_text": "Key Obligations / Deliverables",
+      "value_text": "Weekly delivery logs, 98% on-time delivery rate, and climate-controlled storage access."
+    },
+    {
+      "key_text": "Special Terms or Conditions",
+      "value_text": "Liability limited to total contract value; 30-day notice required for termination."
+    },
+    {
+      "key_text": "Requesting Dept Head",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Legal Counsel",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date: (Legal)",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "CFO (value > $50,000)",
+      "value_text": "Robert Sterling"
+    },
+    {
+      "key_text": "Date: (CFO)",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "CEO / President",
+      "value_text": "null"
+    },
+    {
+      "key_text": "Date: (CEO)",
+      "value_text": "null"
+    }
+  ]
+}
+
+Narrative:
+This contract request was submitted by Marcus Thorne from the Operations department on October 15, 2023, with a target execution date of November 1, 2023. The agreement is with Apex Logistics Solutions, specifically coordinated by Sarah Jenkins. This is a vendor contract valued at $75,000, running from November 1, 2023, to October 31, 2024, and it does include an auto-renewal clause. The scope involves regional freight shipping and warehousing services, requiring weekly delivery logs, a 98% on-time delivery rate, and climate-controlled storage. Special terms note a liability limit equal to the contract value and a 30-day termination notice requirement. The request has been approved by department head Elena Rodriguez, legal counsel David Chen, and CFO Robert Sterling, with their respective sign-off dates recorded between October 16 and October 20, 2023. The CEO signature field remains empty at this stage.

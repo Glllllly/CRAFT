@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "05678c6d-ad6c-4f74-a66d-399a311813d7.xlsx",
+    "sheet":  "Munka1",
+    "pairs":  [
+                  {
+                      "label":  "N茅v",
+                      "value_cell":  "B7:D7",
+                      "value":  "Kov谩cs Barnab谩s"
+                  },
+                  {
+                      "label":  "Sz眉let茅si d谩tum",
+                      "value_cell":  "H7:I7",
+                      "value":  "2004. m谩jus 15."
+                  },
+                  {
+                      "label":  "Lakc铆m",
+                      "value_cell":  "B8:I8",
+                      "value":  "1118 Budapest, M茅nesi 煤t 12."
+                  },
+                  {
+                      "label":  "Sz眉l艖 neve",
+                      "value_cell":  "B9:I9",
+                      "value":  "Kov谩csn茅 Szab贸 Anna"
+                  },
+                  {
+                      "label":  "Telefonsz谩m",
+                      "value_cell":  "B10:D10",
+                      "value":  "+36 20 123 4567"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "H10:I10",
+                      "value":  "kovacs.anna@example.hu"
+                  },
+                  {
+                      "label":  "Sz眉l艖 telefonsz谩ma napk枚zben",
+                      "value_cell":  "E11:I11",
+                      "value":  "+36 1 987 6543"
+                  },
+                  {
+                      "label":  "Iskola neve 茅s c铆me",
+                      "value_cell":  "B12:G12",
+                      "value":  "Budapest I. Ker眉leti Batthy谩ny Lajos 脕ltal谩nos Iskola, 1015 Budapest, Batthy谩ny utca 8."
+                  },
+                  {
+                      "label":  "Oszt谩ly",
+                      "value_cell":  "I12",
+                      "value":  "4.b"
+                  },
+                  {
+                      "label":  "A t谩borr贸l a k枚vetkez艖 m贸don 茅rtes眉ltem:",
+                      "value_cell":  "E13:I13",
+                      "value":  "Iskolai hirdet艖t谩bl谩n"
+                  },
+                  {
+                      "label":  "D谩tum:",
+                      "value_cell":  "B16:D16",
+                      "value":  "2014. m谩jus 10."
+                  },
+                  {
+                      "label":  "Sz眉l艖 al谩铆r谩sa",
+                      "value_cell":  "I16",
+                      "value":  "Kov谩csn茅 Szab贸 Anna"
+                  }
+              ]
+}

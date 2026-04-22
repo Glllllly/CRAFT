@@ -1,0 +1,91 @@
+﻿{
+    "excel":  "00f3dc1a-bd33-4631-a1f3-08330bcdee88.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Date of Birth:",
+                      "value_cell":  "Y9:AK9",
+                      "value":  "05/12/1985"
+                  },
+                  {
+                      "label":  "Patient Name:",
+                      "value_cell":  "H11:AA11",
+                      "value":  null
+                  },
+                  {
+                      "label":  "SSN:",
+                      "value_cell":  "AF11:AK11",
+                      "value":  "123-45-6789"
+                  },
+                  {
+                      "label":  "Medical Records From (date):",
+                      "value_cell":  "M16:S16",
+                      "value":  "01/01/2023"
+                  },
+                  {
+                      "label":  "To (date):",
+                      "value_cell":  "Z16:AF16",
+                      "value":  "12/31/2023"
+                  },
+                  {
+                      "label":  "Reason for Release of Records:",
+                      "value_cell":  "N18:AK18, A19:AK19",
+                      "value":  "Personal medical history review for new primary care physician."
+                  },
+                  {
+                      "label":  "Patient Limits the Release of the Following Information:",
+                      "value_cell":  "W21:AK21, A22:AK22",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Name:",
+                      "value_cell":  "D27:V27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Company:",
+                      "value_cell":  "AC27:AK27",
+                      "value":  "Southwest Family Medicine"
+                  },
+                  {
+                      "label":  "Address:",
+                      "value_cell":  "F29:AK29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Phone #:",
+                      "value_cell":  "F31:L31",
+                      "value":  "(505) 555-0123"
+                  },
+                  {
+                      "label":  "Fax #:",
+                      "value_cell":  "Q31:W31",
+                      "value":  "(505) 555-0124"
+                  },
+                  {
+                      "label":  "E-Mail:",
+                      "value_cell":  "AC31:AK31",
+                      "value":  "records@swfamilymed.com"
+                  },
+                  {
+                      "label":  "Patient Signature:",
+                      "value_cell":  "J41:AB41",
+                      "value":  "Sarah J. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "AD41:AK41",
+                      "value":  "03/15/2024"
+                  },
+                  {
+                      "label":  "Witnessed By:",
+                      "value_cell":  "J44:AB44",
+                      "value":  "Michael Thompson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "AD44:AK44",
+                      "value":  "03/15/2024"
+                  }
+              ]
+}

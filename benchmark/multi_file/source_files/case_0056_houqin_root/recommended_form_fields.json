@@ -1,0 +1,174 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "目录深度",
+                                   "selected_value":  "最多4层",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•出车单",
+                                   "selected_value":  "驾驶人、目的地、用油量、事由",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•结算单",
+                                   "selected_value":  "采购总额、已付金额、本次结算、结算方式",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•采购单",
+                                   "selected_value":  "包含采购编号、日期、供应商、物品、金额、状态",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓可用性",
+                                   "selected_value":  "可用于培训、演示、测试等多种场景",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓复杂性",
+                                   "selected_value":  "多层次目录结构，模拟真实工作场景",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓多样化",
+                                   "selected_value":  "包含文本、表格、数据等多种文件类型",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓多样性",
+                                   "selected_value":  "包含各种类型的业务文档和统计表格",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓扩展性",
+                                   "selected_value":  "可根据需要增加或修改文件内容",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓杂乱性",
+                                   "selected_value":  "不同状态、不同时期的文件混合存放",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓真实性",
+                                   "selected_value":  "虚拟内容但遵循真实业务逻辑",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓虚拟性",
+                                   "selected_value":  "所有数据均为系统生成，不涉及真实敏感信息",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "✓逼真性",
+                                   "selected_value":  "内容遵循真实企业工作流程和数据格式",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "出车单",
+                                   "selected_value":  "车辆使用和出车记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "单据类",
+                                   "selected_value":  "采购单、出差单、申请单等",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已发放",
+                                   "selected_value":  "已发放的物资",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已审阅",
+                                   "selected_value":  "已经审阅的临时文件",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "已批准",
+                                   "selected_value":  "已审批的申请单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "待处理",
+                                   "selected_value":  "临时性待处理单据",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "待审批",
+                                   "selected_value":  "等待审批的物资申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报表类",
+                                   "selected_value":  "月度报表、分析报告、统计表等",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "日志类",
+                                   "selected_value":  "工作日志、维修日志、加油日志等",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "档案类",
+                                   "selected_value":  "员工档案、供应商档案、资产档案等",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请单",
+                                   "selected_value":  "员工办公用品申请单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "管理类",
+                                   "selected_value":  "规章制度、培训资料、检查清单等",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "需存档",
+                                   "selected_value":  "等待分类存档的文件",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•临时单据",
+                                   "selected_value":  "物品领取、加班申请、工作交接等杂项事务",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•仓库说明",
+                                   "selected_value":  "仓库分布、库位分配、管理制度",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•会议纪要",
+                                   "selected_value":  "时间、地点、议题、决议、下次会议时间",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•体检计划",
+                                   "selected_value":  "时间安排、体检医院、套餐价格、参加人员",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•保养计划",
+                                   "selected_value":  "设备编号、保养日期、保养周期、责任人",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•出差总结",
+                                   "selected_value":  "出差成果、费用明细、出行日记",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•出差申请",
+                                   "selected_value":  "申请人、目的地、日期、交通方式、预算",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "•加油日志",
+                                   "selected_value":  "车牌、加油日期、加油量、费用",
+                                   "conflict":  false
+                               }
+                           ]
+}

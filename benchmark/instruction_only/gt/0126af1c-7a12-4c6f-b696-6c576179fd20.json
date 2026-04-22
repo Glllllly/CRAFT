@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "0126af1c-7a12-4c6f-b696-6c576179fd20.xlsx",
+    "sheet":  "Application form",
+    "pairs":  [
+                  {
+                      "label":  "name",
+                      "value_cell":  "B10:D10",
+                      "value":  "Lucas"
+                  },
+                  {
+                      "label":  "surname",
+                      "value_cell":  "F10:H10",
+                      "value":  "Garcia"
+                  },
+                  {
+                      "label":  "M/F",
+                      "value_cell":  "I10",
+                      "value":  "M"
+                  },
+                  {
+                      "label":  "year",
+                      "value_cell":  "B13",
+                      "value":  "2014"
+                  },
+                  {
+                      "label":  "month",
+                      "value_cell":  "C13",
+                      "value":  "05"
+                  },
+                  {
+                      "label":  "day",
+                      "value_cell":  "D13",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "Nationality:",
+                      "value_cell":  "G13:I13",
+                      "value":  "Spanish"
+                  },
+                  {
+                      "label":  "e.mail:",
+                      "value_cell":  "B16:F16",
+                      "value":  "lucas.garcia@email.com"
+                  },
+                  {
+                      "label":  "signature:",
+                      "value_cell":  "B21:F22",
+                      "value":  "Lucas Garcia"
+                  },
+                  {
+                      "label":  "name",
+                      "value_cell":  "B27:D27",
+                      "value":  "Antonio"
+                  },
+                  {
+                      "label":  "surname",
+                      "value_cell":  "F27:H27",
+                      "value":  "Moreno"
+                  },
+                  {
+                      "label":  "e.mail:",
+                      "value_cell":  "B30:E30",
+                      "value":  "president@taekwondo-itf-spain.com"
+                  },
+                  {
+                      "label":  "signature:",
+                      "value_cell":  "B32:F33",
+                      "value":  "Antonio Moreno"
+                  },
+                  {
+                      "label":  "actual kup/degree",
+                      "value_cell":  "C18",
+                      "value":  "4th Kup"
+                  },
+                  {
+                      "label":  "ITF degree number:",
+                      "value_cell":  "H18",
+                      "value":  null
+                  },
+                  {
+                      "label":  "ITF ID number:",
+                      "value_cell":  "H20",
+                      "value":  "123456"
+                  }
+              ]
+}

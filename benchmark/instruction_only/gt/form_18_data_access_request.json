@@ -1,0 +1,116 @@
+﻿{
+    "excel":  "form_18_data_access_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name:",
+                      "value_cell":  "F6:I6",
+                      "value":  "Jonathan P. Sterling"
+                  },
+                  {
+                      "label":  "Employee ID:",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "F7:I7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title:",
+                      "value_cell":  "M7:P7",
+                      "value":  "Senior Brand Manager"
+                  },
+                  {
+                      "label":  "Manager Name:",
+                      "value_cell":  "F8:I8",
+                      "value":  "David Thorne"
+                  },
+                  {
+                      "label":  "Date of Request:",
+                      "value_cell":  "M8:P8",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "System / Application Name:",
+                      "value_cell":  "F11:I11",
+                      "value":  "Oracle ERP Cloud"
+                  },
+                  {
+                      "label":  "Access Level  (Read / Write / Admin):",
+                      "value_cell":  "M11:P11",
+                      "value":  "Write"
+                  },
+                  {
+                      "label":  "Data Classification  (Public / Internal / Confidential / Restricted):",
+                      "value_cell":  "F12:P12",
+                      "value":  "Confidential"
+                  },
+                  {
+                      "label":  "Access Start Date:",
+                      "value_cell":  "F13:I13",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Access End Date  (if temporary):",
+                      "value_cell":  "M13:P13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Data Owner Contact:",
+                      "value_cell":  "F14:P14",
+                      "value":  "Marcus Vane"
+                  },
+                  {
+                      "label":  "Business Justification:",
+                      "value_cell":  "F15:P15",
+                      "value":  "Required for Q4 budget reconciliation and reporting."
+                  },
+                  {
+                      "label":  "Previous Access Level  (if upgrade):",
+                      "value_cell":  "F16:P16",
+                      "value":  "Read"
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A22:J22",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Data Owner / System Owner",
+                      "value_cell":  "A24:J24",
+                      "value":  "Marcus Vane"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-30"
+                  },
+                  {
+                      "label":  "IT Security Manager",
+                      "value_cell":  "A26:J26",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M26:P26",
+                      "value":  "2023-11-02"
+                  },
+                  {
+                      "label":  "CIO / CISO (Restricted)",
+                      "value_cell":  "A28:J28",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M28:P28",
+                      "value":  "2023-11-03"
+                  }
+              ]
+}

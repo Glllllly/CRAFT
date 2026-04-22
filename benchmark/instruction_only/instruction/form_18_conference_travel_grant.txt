@@ -1,0 +1,49 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Full Name", "value_text": "Elena R. Vance" },
+    { "key_text": "Student / Employee ID", "value_text": "88293012" },
+    { "key_text": "Department", "value_text": "Department of Astrophysics" },
+    { "key_text": "Programme / Degree", "value_text": "PhD" },
+    { "key_text": "Year of Study", "value_text": "3rd Year" },
+    { "key_text": "Supervisor / PI Name", "value_text": "Dr. Marcus Thorne" },
+    { "key_text": "Supervisor E-mail", "value_text": "m.thorne@university.edu" },
+    { "key_text": "Cell Phone", "value_text": "555-012-9983" },
+    { "key_text": "University E-mail", "value_text": "evance@university.edu" },
+    { "key_text": "Application Date", "value_text": "2023-10-15" },
+    { "key_text": "Conference Name", "value_text": "International Symposium on Galactic Dynamics" },
+    { "key_text": "Organising Body / Society", "value_text": "Astronomical Society of America" },
+    { "key_text": "Conference Website URL", "value_text": "www.isgd2024.org" },
+    { "key_text": "Conference Start Date", "value_text": "2024-02-12" },
+    { "key_text": "Conference End Date", "value_text": "2024-02-16" },
+    { "key_text": "Location  (City, Country)", "value_text": "Chicago, USA" },
+    { "key_text": "Title of Paper / Poster to be Presented", "value_text": "Dark Matter Distribution in Elliptical Galaxies" },
+    { "key_text": "Abstract Accepted?  Y / N", "value_text": "Y" },
+    { "key_text": "Acceptance Letter Attached?  Y / N", "value_text": "Y" },
+    { "key_text": "Registration Fee  $", "value_text": "450" },
+    { "key_text": "Early-Bird Rate?  Y / N", "value_text": "Y" },
+    { "key_text": "Airfare  $", "value_text": "380" },
+    { "key_text": "Class  (Economy / Other)", "value_text": "Economy" },
+    { "key_text": "Accommodation  (per night  $)", "value_text": "180" },
+    { "key_text": "No. of Nights", "value_text": "4" },
+    { "key_text": "Per Diem / Meals  $", "value_text": "200" },
+    { "key_text": "Per Day Amount  $", "value_text": "50" },
+    { "key_text": "Other Expenses  $", "value_text": "60" },
+    { "key_text": "Description", "value_text": "Local transit and airport shuttles" },
+    { "key_text": "TOTAL REQUESTED  $", "value_text": "1810" },
+    { "key_text": "Other Funding Sources  $", "value_text": "500" },
+    { "key_text": "How does attending this conference benefit your research / development?", "value_text": "This conference provides an essential platform to present my findings on dark matter to global experts, fostering potential collaborations for my dissertation." },
+    { "key_text": "Will you share knowledge on return (e.g., lab talk, report)?  Describe plan.", "value_text": "I will deliver a presentation at the department's weekly research seminar to share insights gained and feedback received." },
+    { "key_text": "Applicant Signature", "value_text": "Elena R. Vance" },
+    { "key_text": "Date", "value_text": "2023-10-15" },
+    { "key_text": "Supervisor Endorsement", "value_text": "Dr. Marcus Thorne" },
+    { "key_text": "Date", "value_text": "2023-10-16" },
+    { "key_text": "Grad School Approver", "value_text": "null" },
+    { "key_text": "Date", "value_text": "null" }
+  ]
+}
+
+Narrative:
+This travel grant application is submitted by Elena R. Vance, a third-year PhD student in the Department of Astrophysics (ID: 88293012). Elena is seeking support to attend the International Symposium on Galactic Dynamics, organized by the Astronomical Society of America, held in Chicago from February 12 to February 16, 2024. She will be presenting her paper, "Dark Matter Distribution in Elliptical Galaxies," for which her abstract has already been accepted.
+
+Her supervisor, Dr. Marcus Thorne, has endorsed this application, which lists a total requested amount of $1,810. This budget covers the $450 early-bird registration fee, $380 for economy airfare, $720 for four nights of accommodation, $200 for meals, and $60 for local transport, with $500 already secured from other funding sources. Elena plans to present her research findings at the department's weekly research seminar upon her return to share knowledge with her peers. The application was signed by the applicant on October 15, 2023, and by her supervisor on October 16, 2023.

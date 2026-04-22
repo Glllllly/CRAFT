@@ -1,0 +1,132 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Jonathan A. Miller"
+    },
+    {
+      "key_text": "Contact Phone",
+      "value_text": "555-012-8843"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "j.miller@email.com"
+    },
+    {
+      "key_text": "Date of Report",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Home Address (for postal return if found)",
+      "value_text": "452 Oak Ridge Lane"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL, 62704"
+    },
+    {
+      "key_text": "Description of Lost Item (type, make, model, colour, size)",
+      "value_text": "Noise-cancelling wireless headphones, Sony WH-1000XM4, black"
+    },
+    {
+      "key_text": "Brand / Manufacturer",
+      "value_text": "Sony"
+    },
+    {
+      "key_text": "Serial / IMEI / Model Number (if known)",
+      "value_text": "SN: 582944012"
+    },
+    {
+      "key_text": "Estimated Value $",
+      "value_text": "350.00"
+    },
+    {
+      "key_text": "Item Condition when Lost (new / good / worn)",
+      "value_text": "good"
+    },
+    {
+      "key_text": "Date Item Last Seen",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Time Item Last Seen (approx.)",
+      "value_text": "18:30"
+    },
+    {
+      "key_text": "Last Known Location of Item (be as specific as possible)",
+      "value_text": "Main lobby seating area, near the east entrance"
+    },
+    {
+      "key_text": "Circumstances of Loss (what were you doing when you noticed it missing?)",
+      "value_text": "I was checking my bag after leaving the lobby and realized the headphones were missing from the side pocket."
+    },
+    {
+      "key_text": "Unique Markings, Engravings, or Distinguishing Features",
+      "value_text": "Small scratch on the left ear cup hinge"
+    },
+    {
+      "key_text": "Proof of Ownership Available? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Type of Proof",
+      "value_text": "Original digital purchase receipt"
+    },
+    {
+      "key_text": "Collect in Person",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Post to Home Address",
+      "value_text": null
+    },
+    {
+      "key_text": "Courier (at owner cost)",
+      "value_text": null
+    },
+    {
+      "key_text": "Earliest Collection Availability",
+      "value_text": "2023-10-16, 09:00 AM"
+    },
+    {
+      "key_text": "Alternate Contact Person",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Report Number",
+      "value_text": "LF-2023-884"
+    },
+    {
+      "key_text": "Received By",
+      "value_text": "Officer Marcus Thorne"
+    },
+    {
+      "key_text": "Item Found & Matched?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Return Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Reporter Signature",
+      "value_text": "Jonathan A. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Security / Reception Officer",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    }
+  ]
+}
+
+Narrative:
+Jonathan A. Miller, reachable at 555-012-8843 or j.miller@email.com, submitted a lost property report on October 15, 2023. He resides at 452 Oak Ridge Lane, Springfield, IL, 62704. Jonathan is reporting the loss of his black Sony WH-1000XM4 noise-cancelling wireless headphones, which have an estimated value of $350.00 and are in good condition. The item has the serial number 582944012 and features a small scratch on the left ear cup hinge. The headphones were last seen on October 14, 2023, around 6:30 PM in the main lobby seating area near the east entrance. Jonathan noticed them missing while checking his bag after leaving the lobby. He has proof of ownership in the form of an original digital purchase receipt and has indicated he would like to collect the item in person. He is available to collect them starting at 9:00 AM on October 16, 2023, and has listed Sarah Miller as an alternate contact. Officer Marcus Thorne received the report, which is logged as number LF-2023-884. As of now, the item has not been found or matched. The report was signed by Jonathan and the officer on October 15, 2023.

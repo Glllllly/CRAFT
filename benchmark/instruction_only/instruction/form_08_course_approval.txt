@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Instructor Full Name",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Faculty ID",
+      "value_text": "FA-889201"
+    },
+    {
+      "key_text": "Department / School",
+      "value_text": "School of Computer Science"
+    },
+    {
+      "key_text": "Academic Rank",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "Office Phone",
+      "value_text": "555-0128"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "evance@university.edu"
+    },
+    {
+      "key_text": "Term / Semester",
+      "value_text": "Fall 2024"
+    },
+    {
+      "key_text": "Course Subject Code",
+      "value_text": "CSCI"
+    },
+    {
+      "key_text": "Course Number",
+      "value_text": "402"
+    },
+    {
+      "key_text": "Credit Hours",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Section Number",
+      "value_text": "01"
+    },
+    {
+      "key_text": "CRN (if existing)",
+      "value_text": null
+    },
+    {
+      "key_text": "Course Title",
+      "value_text": "Introduction to Quantum Computing"
+    },
+    {
+      "key_text": "Course Description (brief)",
+      "value_text": "Foundations of qubits, gates, and algorithms."
+    },
+    {
+      "key_text": "Pre-Requisites / Co-Requisites",
+      "value_text": "CSCI 201, MATH 250"
+    },
+    {
+      "key_text": "New Course",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Title Change",
+      "value_text": null
+    },
+    {
+      "key_text": "Description Change",
+      "value_text": null
+    },
+    {
+      "key_text": "Credit Change",
+      "value_text": null
+    },
+    {
+      "key_text": "Cancel Section",
+      "value_text": null
+    },
+    {
+      "key_text": "Proposed Meeting Days (MWF / TR / etc.)",
+      "value_text": "TR"
+    },
+    {
+      "key_text": "Meeting Time  (Start – End)",
+      "value_text": "14:00 - 15:30"
+    },
+    {
+      "key_text": "Room / Building Request",
+      "value_text": "Science Hall 304"
+    },
+    {
+      "key_text": "Expected Enrollment Cap",
+      "value_text": "25"
+    },
+    {
+      "key_text": "General Education",
+      "value_text": null
+    },
+    {
+      "key_text": "Major Core",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Elective",
+      "value_text": null
+    },
+    {
+      "key_text": "Writing Intensive",
+      "value_text": null
+    },
+    {
+      "key_text": "Lab",
+      "value_text": null
+    },
+    {
+      "key_text": "Rationale / Justification for Change or New Course",
+      "value_text": "Expanding curriculum to include emerging quantum technologies."
+    },
+    {
+      "key_text": "Instructor Signature",
+      "value_text": "/s/ Elena Vance"
+    },
+    {
+      "key_text": "Dept Chair Signature",
+      "value_text": "/s/ Marcus Thorne"
+    },
+    {
+      "key_text": "Dean Signature",
+      "value_text": "/s/ Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Instructor)",
+      "value_text": "2024-03-15"
+    },
+    {
+      "key_text": "Date (Chair)",
+      "value_text": "2024-03-18"
+    },
+    {
+      "key_text": "Date (Dean)",
+      "value_text": "2024-03-20"
+    }
+  ]
+}
+
+Narrative:
+Dr. Elena Vance, an Associate Professor in the School of Computer Science (Faculty ID FA-889201), is submitting a request for a new course to be offered in the Fall 2024 semester. She can be reached at 555-0128 or via email at evance@university.edu. The proposed course is CSCI 402, titled "Introduction to Quantum Computing," which will be a 3-credit hour course, section 01. The course covers the foundations of qubits, gates, and algorithms, and requires CSCI 201 and MATH 250 as prerequisites. This is a new course being added to the major core. It is scheduled to meet on Tuesdays and Thursdays from 14:00 to 15:30 in Science Hall 304, with an enrollment cap of 25 students. The rationale for this addition is to expand the department's curriculum to include emerging quantum technologies. The form has been signed by Dr. Vance on March 15th, 2024, approved by Department Chair Marcus Thorne on March 18th, and finalized by Dean Sarah Jenkins on March 20th.

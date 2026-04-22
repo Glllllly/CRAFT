@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0105_houqin_报表统计_月度报表",
+    "tenant":  "houqin",
+    "topic":  "报表统计",
+    "subtopic":  "月度报表",
+    "source_dir":  "houqin\\报表统计\\月度报表",
+    "total_files_in_source_dir":  57,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\报表统计\\月度报表\\报销申请_4836.json",
+                      "copied_name":  "报销申请_4836.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\月度报表\\人数统计_2628.csv",
+                      "copied_name":  "人数统计_2628.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\月度报表\\休假申请_9277.txt",
+                      "copied_name":  "休假申请_9277.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\月度报表\\出差申请_5563.eml",
+                      "copied_name":  "出差申请_5563.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\月度报表\\周报_2980.csv",
+                      "copied_name":  "周报_2980.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

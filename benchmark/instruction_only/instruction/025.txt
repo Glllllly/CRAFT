@@ -1,0 +1,160 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Member Full Name",
+      "value_text": "Jonathan P. Miller"
+    },
+    {
+      "key_text": "Member ID / Policy Number",
+      "value_text": "HMI992847561"
+    },
+    {
+      "key_text": "Date of Birth mm/dd/yyyy",
+      "value_text": "05/12/1978"
+    },
+    {
+      "key_text": "Group / Plan Number",
+      "value_text": "GRP-4402-A"
+    },
+    {
+      "key_text": "Subscriber Name (if different)",
+      "value_text": null
+    },
+    {
+      "key_text": "Subscriber Relationship",
+      "value_text": "Self"
+    },
+    {
+      "key_text": "Mailing Address",
+      "value_text": "452 Oakwood Drive"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL 62704"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "(217) 555-0198"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "j.miller@email.com"
+    },
+    {
+      "key_text": "Provider / Physician Name",
+      "value_text": "Dr. Sarah Jenkins, MD"
+    },
+    {
+      "key_text": "NPI Number",
+      "value_text": "1234567890"
+    },
+    {
+      "key_text": "Practice / Facility Name",
+      "value_text": "Summit Orthopedic Clinic"
+    },
+    {
+      "key_text": "Provider Phone",
+      "value_text": "(217) 555-8800"
+    },
+    {
+      "key_text": "Provider Fax",
+      "value_text": "(217) 555-8801"
+    },
+    {
+      "key_text": "Provider Address",
+      "value_text": "800 Medical Center Dr, Springfield, IL"
+    },
+    {
+      "key_text": "Referring Physician Name (if applicable)",
+      "value_text": "Dr. Alan Grant"
+    },
+    {
+      "key_text": "Referring NPI",
+      "value_text": "0987654321"
+    },
+    {
+      "key_text": "Description of Service / Procedure",
+      "value_text": "Magnetic Resonance Imaging (MRI) of the Right Knee"
+    },
+    {
+      "key_text": "CPT / Procedure Code(s)",
+      "value_text": "73721"
+    },
+    {
+      "key_text": "ICD-10 Diagnosis Code(s)",
+      "value_text": "M23.811"
+    },
+    {
+      "key_text": "Proposed Date of Service",
+      "value_text": "11/15/2023"
+    },
+    {
+      "key_text": "Facility (name & address)",
+      "value_text": "Springfield Imaging Center, 100 Main St"
+    },
+    {
+      "key_text": "Urgency (Routine / Urgent / Emergent)",
+      "value_text": "Routine"
+    },
+    {
+      "key_text": "Units / Quantity",
+      "value_text": "1"
+    },
+    {
+      "key_text": "Clinical Indication / Medical Necessity  (describe diagnosis and symptoms)",
+      "value_text": "Patient presents with persistent right knee pain and locking sensation following a sports injury. Suspected meniscal tear."
+    },
+    {
+      "key_text": "Conservative Treatments Already Tried  (and outcomes)",
+      "value_text": "Physical therapy for 6 weeks, NSAIDs. No significant improvement in symptoms."
+    },
+    {
+      "key_text": "Date of Initial Diagnosis",
+      "value_text": "09/15/2023"
+    },
+    {
+      "key_text": "Treating Physician Name",
+      "value_text": "Dr. Sarah Jenkins"
+    },
+    {
+      "key_text": "Auth Number  (if approved)",
+      "value_text": "AUTH-778899"
+    },
+    {
+      "key_text": "Decision Date",
+      "value_text": "11/05/2023"
+    },
+    {
+      "key_text": "Valid From",
+      "value_text": "11/15/2023"
+    },
+    {
+      "key_text": "Valid To  (expiry of auth)",
+      "value_text": "12/15/2023"
+    },
+    {
+      "key_text": "Requesting Provider Signature",
+      "value_text": "Sarah Jenkins, MD"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "11/01/2023"
+    },
+    {
+      "key_text": "Authorisation Reviewer",
+      "value_text": "Clinical Reviewer #42"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "11/05/2023"
+    }
+  ]
+}
+
+Narrative:
+This authorization request is for Jonathan P. Miller, a 45-year-old patient with member ID HMI992847561, who is covered under plan GRP-4402-A. Mr. Miller is the subscriber himself. He resides at 452 Oakwood Drive, Springfield, IL 62704, and can be reached via phone at (217) 555-0198 or email at j.miller@email.com. The request is submitted by Dr. Sarah Jenkins (NPI 1234567890) from the Summit Orthopedic Clinic, located at 800 Medical Center Dr, Springfield, IL, with contact numbers (217) 555-8800 for phone and (217) 555-8801 for fax. Dr. Alan Grant (NPI 0987654321) is listed as the referring physician.
+
+The requested service is an MRI of the right knee (CPT 73721) to address a suspected meniscal tear (ICD-10 M23.811). The procedure is planned for November 15, 2023, at the Springfield Imaging Center. The request is routine, involving one unit of service. Medical necessity is based on the patient's persistent knee pain and locking sensation. Conservative treatments, including six weeks of physical therapy and NSAIDs, have failed to provide relief. The initial diagnosis was made on September 15, 2023, by Dr. Sarah Jenkins. 
+
+The request has been approved under auth number AUTH-778899, with a decision date of November 5, 2023. The authorization is valid from November 15, 2023, to December 15, 2023. The form was signed by Dr. Sarah Jenkins on November 1, 2023, and reviewed by Clinical Reviewer #42 on November 5, 2023.

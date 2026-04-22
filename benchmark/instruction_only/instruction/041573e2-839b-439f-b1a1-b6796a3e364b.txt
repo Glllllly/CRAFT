@@ -1,0 +1,112 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Wire Amount: $",
+      "value_text": "5,240.50"
+    },
+    {
+      "key_text": "Foreign Currency Amount:",
+      "value_text": "4,850.00 EUR"
+    },
+    {
+      "key_text": "Name on Bank Account:",
+      "value_text": "Precision Lab Instruments GmbH"
+    },
+    {
+      "key_text": "Vendor Address:",
+      "value_text": "123 Rheinstrasse"
+    },
+    {
+      "key_text": "City, State, Country, ZIP:",
+      "value_text": "Frankfurt, Hesse, Germany, 60311"
+    },
+    {
+      "key_text": "Bank Name:",
+      "value_text": "Deutsche Bank AG"
+    },
+    {
+      "key_text": "Bank Address:",
+      "value_text": "Taunusanlage 12"
+    },
+    {
+      "key_text": "City, State, Country, ZIP:",
+      "value_text": "Frankfurt am Main, Germany, 60325"
+    },
+    {
+      "key_text": "Bank Account #",
+      "value_text": null
+    },
+    {
+      "key_text": "ABA / ROUTING #",
+      "value_text": null
+    },
+    {
+      "key_text": "Bank Account #",
+      "value_text": "987654321"
+    },
+    {
+      "key_text": "Swift Code:",
+      "value_text": "DEUTDEFF"
+    },
+    {
+      "key_text": "IBAN #",
+      "value_text": "DE12 3456 7890 9876 5432 10"
+    },
+    {
+      "key_text": "Reason for request:",
+      "value_text": "Payment for specialized microscope accessories, invoice #INV-2023-0045."
+    },
+    {
+      "key_text": "Fund",
+      "value_text": "10"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "54321"
+    },
+    {
+      "key_text": "Account",
+      "value_text": "7654"
+    },
+    {
+      "key_text": "Amount",
+      "value_text": "5,240.50"
+    },
+    {
+      "key_text": "Print",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Date Needed:",
+      "value_text": "11/15/2023"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Biology Department"
+    },
+    {
+      "key_text": "SIGNATURE OF WIRE INITIATOR",
+      "value_text": null
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "11/01/2023"
+    },
+    {
+      "key_text": "SIGNATURE OF CONTROLLER",
+      "value_text": null
+    },
+    {
+      "key_text": "DATE",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This is a Wire Transfer Request for Seattle University, processed through the Office of the Controller. The request is for a total wire amount of $5,240.50, which is being converted to 4,850.00 EUR for a foreign transaction. The funds are being wired to the account of Precision Lab Instruments GmbH, located at 123 Rheinstrasse, Frankfurt, Germany. The receiving institution is Deutsche Bank AG, situated at Taunusanlage 12 in Frankfurt am Main.
+
+Because this is a foreign wire, the domestic bank details are left blank. The recipient's foreign bank account number is 987654321, with a Swift Code of DEUTDEFF and an IBAN of DE12 3456 7890 9876 5432 10. The reason for this transfer is the purchase of specialized microscope accessories as detailed in invoice #INV-2023-0045.
+
+The accounting distribution for this request is assigned to Fund 10, Department 54321, and Account 7654 for the full amount of $5,240.50. The request has been authorized by Dr. Elena Vance from the Biology Department, with a target completion date of November 15, 2023. The form was initiated on November 1, 2023, and is currently awaiting final signature and processing by the Controller's Office.

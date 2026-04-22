@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0273_yunyin_core_operations_daily_reports",
+    "tenant":  "yunyin",
+    "topic":  "core_operations",
+    "subtopic":  "daily_reports",
+    "source_dir":  "yunyin\\core_operations\\daily_reports",
+    "total_files_in_source_dir":  2699,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\core_operations\\daily_reports\\202408_全产品线.xlsx",
+                      "copied_name":  "202408_全产品线.xlsx",
+                      "bucket":  "table",
+                      "ext":  ".xlsx",
+                      "size":  25152359
+                  },
+                  {
+                      "source_rel":  "yunyin\\core_operations\\daily_reports\\存储资源治理OnePage.md",
+                      "copied_name":  "存储资源治理OnePage.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  22169
+                  },
+                  {
+                      "source_rel":  "yunyin\\core_operations\\daily_reports\\202404_全产品线.xlsx",
+                      "copied_name":  "202404_全产品线.xlsx",
+                      "bucket":  "table",
+                      "ext":  ".xlsx",
+                      "size":  23441862
+                  },
+                  {
+                      "source_rel":  "yunyin\\core_operations\\daily_reports\\202311_全产品线.xlsx",
+                      "copied_name":  "202311_全产品线.xlsx",
+                      "bucket":  "table",
+                      "ext":  ".xlsx",
+                      "size":  21524543
+                  },
+                  {
+                      "source_rel":  "yunyin\\core_operations\\daily_reports\\202309_全产品线.xlsx",
+                      "copied_name":  "202309_全产品线.xlsx",
+                      "bucket":  "table",
+                      "ext":  ".xlsx",
+                      "size":  21514980
+                  }
+              ]
+}

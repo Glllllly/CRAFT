@@ -1,0 +1,2668 @@
+{
+  "bundle_dir": "case_0026_chanpin_发布上线_发布计划",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "发布计划_55.txt",
+      "source_type": "txt",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "21",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：21",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "23",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：23",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "1 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：1 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "97%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：97%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "3天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：3天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0055",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0055",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理8",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理8",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "13分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：13分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "15",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：15",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "568万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：568万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "82%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：82%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "18",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：18",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "52%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：52%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V3.10",
+          "raw_key": "版本号",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V3.10",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-02 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-02 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "发布计划_57.txt",
+      "source_type": "txt",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "19",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：19",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "22",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：22",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "1 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：1 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "92%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：92%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "1天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：1天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0057",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0057",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理2",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "16分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：16分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "14",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：14",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "514万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：514万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "91%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：91%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "20",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：20",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "27%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：27%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V2.13",
+          "raw_key": "版本号",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V2.13",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-01 21:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-01 21:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "发布计划_75.txt",
+      "source_type": "txt",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "19",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：19",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "24",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：24",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "3 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：3 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "91%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：91%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "5天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：5天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0075",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0075",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理4",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理4",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "18分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：18分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "21",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：21",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "383万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：383万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "87%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：87%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "21",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：21",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "37%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：37%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V4.11",
+          "raw_key": "版本号",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V4.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-11 19:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-11 19:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "发布计划_77.txt",
+      "source_type": "txt",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "25",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：25",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "28",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：28",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "3 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：3 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "98%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：98%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "5天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：5天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0077",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0077",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理6",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理6",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "14分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：14分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "11",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：11",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "160万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：160万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "99%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：99%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "13",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：13",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "53%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：53%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V2.15",
+          "raw_key": "版本号",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V2.15",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-12-11 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-12-11 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "发布计划_8.txt",
+      "source_type": "txt",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "13",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：13",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "26",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：26",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "5 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：5 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "90%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：90%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "3天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：3天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0008",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0008",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理1",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "33分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：33分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "17",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：17",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "490万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：490万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "99%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：99%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "14",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：14",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "19%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：19%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.11",
+          "raw_key": "版本号",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-09-24 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-09-24 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "优化项数",
+      "candidates": [
+        {
+          "key": "优化项数",
+          "value": "21",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：21",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优化项数",
+          "value": "19",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：19",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优化项数",
+          "value": "19",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：19",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优化项数",
+          "value": "25",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：25",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优化项数",
+          "value": "13",
+          "raw_key": "优化项数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优化项数：13",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "修复缺陷数",
+      "candidates": [
+        {
+          "key": "修复缺陷数",
+          "value": "23",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：23",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "22",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：22",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "24",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：24",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "28",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：28",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复缺陷数",
+          "value": "26",
+          "raw_key": "修复缺陷数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复缺陷数：26",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "兼容性",
+      "candidates": [
+        {
+          "key": "兼容性",
+          "value": "1 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：1 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "1 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：1 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "3 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：3 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "3 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：3 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "兼容性",
+          "value": "5 平台已测试",
+          "raw_key": "兼容性",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "兼容性：5 平台已测试",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能完整性",
+      "candidates": [
+        {
+          "key": "功能完整性",
+          "value": "97%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：97%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "92%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：92%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "91%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：91%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "98%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：98%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能完整性",
+          "value": "90%",
+          "raw_key": "功能完整性",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能完整性：90%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布周期",
+      "candidates": [
+        {
+          "key": "发布周期",
+          "value": "3天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：3天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "1天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：1天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "5天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：5天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "5天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：5天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布周期",
+          "value": "3天",
+          "raw_key": "发布周期",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布周期：3天",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布方式",
+      "candidates": [
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布方式",
+          "value": "全量发布)",
+          "raw_key": "发布方式",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布方式：全量发布)",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布编号",
+      "candidates": [
+        {
+          "key": "发布编号",
+          "value": "REL-0055",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0055",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0057",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0057",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0075",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0075",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0077",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0077",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布编号",
+          "value": "REL-0008",
+          "raw_key": "发布编号",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布编号：REL-0008",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "发布负责人",
+      "candidates": [
+        {
+          "key": "发布负责人",
+          "value": "产品经理8",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理8",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理2",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理4",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理4",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理6",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理6",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "发布负责人",
+          "value": "产品经理1",
+          "raw_key": "发布负责人",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "发布负责人：产品经理1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "回滚时间",
+      "candidates": [
+        {
+          "key": "回滚时间",
+          "value": "13分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：13分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "16分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：16分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "18分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：18分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "14分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：14分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "回滚时间",
+          "value": "33分钟",
+          "raw_key": "回滚时间",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "回滚时间：33分钟",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "安全检查",
+      "candidates": [
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "安全检查",
+          "value": "已完成",
+          "raw_key": "安全检查",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "安全检查：已完成",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "应急方案",
+      "candidates": [
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "应急方案",
+          "value": "已准备",
+          "raw_key": "应急方案",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "应急方案：已准备",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "影响功能数",
+      "candidates": [
+        {
+          "key": "影响功能数",
+          "value": "15",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：15",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "14",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：14",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "21",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：21",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "11",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：11",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响功能数",
+          "value": "17",
+          "raw_key": "影响功能数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响功能数：17",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "影响用户数",
+      "candidates": [
+        {
+          "key": "影响用户数",
+          "value": "568万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：568万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "514万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：514万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "383万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：383万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "160万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：160万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "影响用户数",
+          "value": "490万",
+          "raw_key": "影响用户数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "影响用户数：490万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "性能指标",
+      "candidates": [
+        {
+          "key": "性能指标",
+          "value": "82%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：82%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "91%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：91%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "87%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：87%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "99%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：99%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能指标",
+          "value": "99%",
+          "raw_key": "性能指标",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能指标：99%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "数据迁移",
+      "candidates": [
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据迁移",
+          "value": "无",
+          "raw_key": "数据迁移",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据迁移：无",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "新增功能数",
+      "candidates": [
+        {
+          "key": "新增功能数",
+          "value": "18",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：18",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "20",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：20",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "21",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：21",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "13",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：13",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增功能数",
+          "value": "14",
+          "raw_key": "新增功能数",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "新增功能数：14",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "灰度比例",
+      "candidates": [
+        {
+          "key": "灰度比例",
+          "value": "52%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：52%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "27%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：27%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "37%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：37%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "53%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：53%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "灰度比例",
+          "value": "19%",
+          "raw_key": "灰度比例",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "灰度比例：19%",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "版本号",
+      "candidates": [
+        {
+          "key": "版本号",
+          "value": "V3.10",
+          "raw_key": "版本号",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V3.10",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V2.13",
+          "raw_key": "版本号",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V2.13",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V4.11",
+          "raw_key": "版本号",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V4.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V2.15",
+          "raw_key": "版本号",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V2.15",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "版本号",
+          "value": "V5.11",
+          "raw_key": "版本号",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "版本号：V5.11",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "破坏性变更",
+      "candidates": [
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "破坏性变更",
+          "value": "无)",
+          "raw_key": "破坏性变更",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "破坏性变更：无)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "计划发布时间",
+      "candidates": [
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-02 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-02 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-01 21:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-01 21:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-10-11 19:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-10-11 19:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-12-11 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-12-11 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "计划发布时间",
+          "value": "2024-09-24 09:00",
+          "raw_key": "计划发布时间",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "计划发布时间：2024-09-24 09:00",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险等级",
+      "candidates": [
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_55.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_57.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_75.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_77.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "发布计划_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "员工入职表.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "濉〃浜?",
+                      "value_cell":  "B3",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鍏ヨ亴鏃ユ湡",
+                      "value_cell":  "K3",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "濮撳悕",
+                      "value_cell":  "B4",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鎬у埆",
+                      "value_cell":  "F4",
+                      "value":  "鐢?"
+                  },
+                  {
+                      "label":  "姘戞棌",
+                      "value_cell":  "J4",
+                      "value":  "姹夋棌"
+                  },
+                  {
+                      "label":  "绫嶈疮",
+                      "value_cell":  "B5",
+                      "value":  "灞变笢闈掑矝"
+                  },
+                  {
+                      "label":  "鍑虹敓骞存湀",
+                      "value_cell":  "F5",
+                      "value":  "1995-05-12"
+                  },
+                  {
+                      "label":  "韬珮",
+                      "value_cell":  "J5",
+                      "value":  "178cm"
+                  },
+                  {
+                      "label":  "濠氬惁",
+                      "value_cell":  "B6",
+                      "value":  "鏈"
+                  },
+                  {
+                      "label":  "鏀挎不闈㈣矊",
+                      "value_cell":  "F6",
+                      "value":  "缇や紬"
+                  },
+                  {
+                      "label":  "瀛﹀巻",
+                      "value_cell":  "J6",
+                      "value":  "鏈"
+                  },
+                  {
+                      "label":  "韬唤璇佸彿鐮?",
+                      "value_cell":  "B7",
+                      "value":  "370202199505124567"
+                  },
+                  {
+                      "label":  "鑱旂郴鐢佃瘽",
+                      "value_cell":  "J7",
+                      "value":  "13800138000"
+                  },
+                  {
+                      "label":  "姣曚笟闄㈡牎",
+                      "value_cell":  "B8",
+                      "value":  "闈掑矝澶у"
+                  },
+                  {
+                      "label":  "鏈熸湜钖祫",
+                      "value_cell":  "J8",
+                      "value":  "12000鍏?鏈?"
+                  },
+                  {
+                      "label":  "瀹跺涵浣忓潃",
+                      "value_cell":  "B9",
+                      "value":  "鍖椾含甯傛湞闃冲尯寤哄浗璺?8鍙?"
+                  },
+                  {
+                      "label":  "鍏ヨ亴宀椾綅",
+                      "value_cell":  "B10",
+                      "value":  "楂樼骇杞欢宸ョ▼甯?"
+                  },
+                  {
+                      "label":  "绱ф€ヨ仈绯讳汉",
+                      "value_cell":  "H10",
+                      "value":  "鏉庤姵"
+                  },
+                  {
+                      "label":  "绱ф€ヨ仈绯荤數璇?",
+                      "value_cell":  "L10",
+                      "value":  "13900139000"
+                  },
+                  {
+                      "label":  "璧?姝?鏃?鏈?",
+                      "value_cell":  "B12",
+                      "value":  "2018.07-2023.10"
+                  },
+                  {
+                      "label":  "灏? 鑱? 鍗? 浣?",
+                      "value_cell":  "E12",
+                      "value":  "鏌愮鎶€鏈夐檺鍏徃"
+                  },
+                  {
+                      "label":  "鍏?浣?宀?浣?",
+                      "value_cell":  "I12",
+                      "value":  "杞欢寮€鍙戝伐绋嬪笀"
+                  },
+                  {
+                      "label":  "绂?鑱?鍘?鍥?",
+                      "value_cell":  "L12",
+                      "value":  "涓汉鑱屼笟瑙勫垝璋冩暣"
+                  },
+                  {
+                      "label":  "濮? 鍚?",
+                      "value_cell":  "B17",
+                      "value":  "寮犲己"
+                  },
+                  {
+                      "label":  "鍏? 绯?",
+                      "value_cell":  "C17",
+                      "value":  "鐖朵翰"
+                  },
+                  {
+                      "label":  "宸? 浣? 鍗? 浣?",
+                      "value_cell":  "E17",
+                      "value":  "闈掑矝娓姟灞€"
+                  },
+                  {
+                      "label":  "鐜?浣?鍦?鍧€",
+                      "value_cell":  "I17",
+                      "value":  "灞变笢鐪侀潚宀涘競甯傚崡鍖?"
+                  },
+                  {
+                      "label":  "濡備綍杩涘叆鏈叕鍙?",
+                      "value_cell":  "C20",
+                      "value":  "鎷涜仒缃戠珯鎶曢€?"
+                  },
+                  {
+                      "label":  "闈㈣瘯璐熻矗浜?",
+                      "value_cell":  "C21",
+                      "value":  "鐜嬬粡鐞?"
+                  },
+                  {
+                      "label":  "浜哄姏璧勬簮閮?",
+                      "value_cell":  "I21",
+                      "value":  "宸插鏍?"
+                  },
+                  {
+                      "label":  "绛惧悕",
+                      "value_cell":  "J29",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "鏃ユ湡",
+                      "value_cell":  "J31",
+                      "value":  "2023-10-25"
+                  }
+              ]
+}

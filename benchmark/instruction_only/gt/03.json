@@ -1,0 +1,171 @@
+﻿{
+    "excel":  "03.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Legal Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Elena Marie Rodriguez"
+                  },
+                  {
+                      "label":  "Date of Birth mm/dd/yyyy",
+                      "value_cell":  "M9:X9",
+                      "value":  "05/14/1992"
+                  },
+                  {
+                      "label":  "Address",
+                      "value_cell":  "A11:L11",
+                      "value":  "452 Oakwood Avenue"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M11:X11",
+                      "value":  "Portland, OR 97205"
+                  },
+                  {
+                      "label":  "Phone Number",
+                      "value_cell":  "A13:L13",
+                      "value":  "(503) 555-0182"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "M13:X13",
+                      "value":  "elena.rodriguez@email.com"
+                  },
+                  {
+                      "label":  "Organisation / School / Employer Affiliation (if applicable)",
+                      "value_cell":  "A15:X15",
+                      "value":  "Portland Creative Collective"
+                  },
+                  {
+                      "label":  "Description of Photo / Video Session or Event",
+                      "value_cell":  "A20:X20",
+                      "value":  "Promotional campaign for local art gallery exhibit"
+                  },
+                  {
+                      "label":  "Date of Session / Event",
+                      "value_cell":  "A22:L22",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Location",
+                      "value_cell":  "M22:X22",
+                      "value":  "Gallery 42, Portland"
+                  },
+                  {
+                      "label":  "Photographer / Videographer Name",
+                      "value_cell":  "A24:L24",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Organisation Requesting Release",
+                      "value_cell":  "M24:X24",
+                      "value":  "Portland Creative Collective"
+                  },
+                  {
+                      "label":  "Website",
+                      "value_cell":  "G29",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Social Media",
+                      "value_cell":  "L29",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Print Materials",
+                      "value_cell":  "Q29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Instagram",
+                      "value_cell":  "G30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "LinkedIn",
+                      "value_cell":  "L30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Facebook",
+                      "value_cell":  "Q30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Unpaid / Voluntary",
+                      "value_cell":  "H31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Paid 鈥?Amount:",
+                      "value_cell":  "M31",
+                      "value":  "$250.00"
+                  },
+                  {
+                      "label":  "In-Kind (specify below)",
+                      "value_cell":  "R31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Compensation Detail (if paid or in-kind)",
+                      "value_cell":  "A32:X32",
+                      "value":  "Payment for half-day session fee"
+                  },
+                  {
+                      "label":  "Any Restrictions on Use",
+                      "value_cell":  "A37:X37",
+                      "value":  "Not to be used for political advertisements"
+                  },
+                  {
+                      "label":  "Expiry Date of Consent (leave blank for perpetual)",
+                      "value_cell":  "A39:L39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Territory (leave blank for worldwide)",
+                      "value_cell":  "M39:X39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Parent / Guardian Full Name",
+                      "value_cell":  "A44:L44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Relationship to Minor",
+                      "value_cell":  "M44:X44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Parent / Guardian Signature",
+                      "value_cell":  "A46:L46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M46:X46",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Subject Signature (or Guardian if minor)",
+                      "value_cell":  "A54:L54",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N54:X54",
+                      "value":  "10/12/2023"
+                  },
+                  {
+                      "label":  "Authorised Representative",
+                      "value_cell":  "A57:L57",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N57:X57",
+                      "value":  "10/12/2023"
+                  }
+              ]
+}

@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "0495ceb4-0a85-4098-88e4-9e9e940c4c0b.xlsx",
+    "sheet":  "Sheet1 - Table 1",
+    "pairs":  [
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B5:C5",
+                      "value":  "10/15/2023"
+                  },
+                  {
+                      "label":  "RFQ or Gov\u0027t Solicitation #:",
+                      "value_cell":  "H7:J7",
+                      "value":  "GS-35F-0119Y-SSA"
+                  },
+                  {
+                      "label":  "RFQ Close Date:",
+                      "value_cell":  "H8:J8",
+                      "value":  "11/01/2023"
+                  },
+                  {
+                      "label":  "Agency Name:",
+                      "value_cell":  "C10:J10",
+                      "value":  "Social Security Administration - Southeast Region"
+                  },
+                  {
+                      "label":  "Address:",
+                      "value_cell":  "C11:J11",
+                      "value":  "61 Forsyth St SW"
+                  },
+                  {
+                      "label":  "City:",
+                      "value_cell":  "C12:E12",
+                      "value":  "Atlanta"
+                  },
+                  {
+                      "label":  "State:",
+                      "value_cell":  "G12",
+                      "value":  "GA"
+                  },
+                  {
+                      "label":  "Zip:",
+                      "value_cell":  "I12:J12",
+                      "value":  "30303"
+                  },
+                  {
+                      "label":  "Contact Name:",
+                      "value_cell":  "C14:F14",
+                      "value":  "Robert Jenkins"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "I14:J14",
+                      "value":  "(404) 555-0122"
+                  },
+                  {
+                      "label":  "Title:",
+                      "value_cell":  "C15:F15",
+                      "value":  "Procurement Officer"
+                  },
+                  {
+                      "label":  "Email:",
+                      "value_cell":  "I15:J15",
+                      "value":  "r.jenkins@ssa.gov"
+                  },
+                  {
+                      "label":  "Mayline Quote #:",
+                      "value_cell":  "I19:J19",
+                      "value":  "MQ-2023-98742"
+                  },
+                  {
+                      "label":  "Competition:",
+                      "value_cell":  "I23:J23",
+                      "value":  "Herman Miller, Steelcase"
+                  },
+                  {
+                      "label":  "Project List Price:",
+                      "value_cell":  "C24:E24",
+                      "value":  "$45,250.00"
+                  },
+                  {
+                      "label":  "Dealer Name:",
+                      "value_cell":  "C28:F28",
+                      "value":  "Elite Office Solutions Inc."
+                  },
+                  {
+                      "label":  "Mayline Cust. #:",
+                      "value_cell":  "I28:K28",
+                      "value":  "EOS-4492"
+                  },
+                  {
+                      "label":  "Dealer Address:",
+                      "value_cell":  "C29:F29",
+                      "value":  "1200 Peachtree St NE"
+                  },
+                  {
+                      "label":  "City:",
+                      "value_cell":  "C30:E30",
+                      "value":  "Atlanta"
+                  },
+                  {
+                      "label":  "State:",
+                      "value_cell":  "G30",
+                      "value":  "GA"
+                  },
+                  {
+                      "label":  "Zip:",
+                      "value_cell":  "I30:K30",
+                      "value":  "30309"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "C31:E31",
+                      "value":  "(404) 555-8800"
+                  },
+                  {
+                      "label":  "Dealer Sales Rep:",
+                      "value_cell":  "C32:F32",
+                      "value":  "Sarah Miller"
+                  },
+                  {
+                      "label":  "Email:",
+                      "value_cell":  "C33:F33",
+                      "value":  "smiller@eliteofficesolutions.com"
+                  },
+                  {
+                      "label":  "Approved By:",
+                      "value_cell":  "A35:F35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H35:I35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "1.",
+                      "value_cell":  "B18:E18",
+                      "value":  "Medina Series Executive Desk"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "G18",
+                      "value":  "15"
+                  },
+                  {
+                      "label":  "2.",
+                      "value_cell":  "B19:E19",
+                      "value":  "Aberdeen Series Lateral File"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "G19",
+                      "value":  "20"
+                  },
+                  {
+                      "label":  "3.",
+                      "value_cell":  "B20:E20",
+                      "value":  "Valore Series Training Tables"
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "G20",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "4.",
+                      "value_cell":  "B21:E21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "G21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "5.",
+                      "value_cell":  "B22:E22",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Quantity",
+                      "value_cell":  "G22",
+                      "value":  null
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0221_houqin_预算管理_预算执行",
+    "tenant":  "houqin",
+    "topic":  "预算管理",
+    "subtopic":  "预算执行",
+    "source_dir":  "houqin\\预算管理\\预算执行",
+    "total_files_in_source_dir":  44,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\预算管理\\预算执行\\备件申请_2733.json",
+                      "copied_name":  "备件申请_2733.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\预算执行\\销售统计_3171.csv",
+                      "copied_name":  "销售统计_3171.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\预算执行\\购置申请_2961.txt",
+                      "copied_name":  "购置申请_2961.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\预算执行\\物资申请_5906.eml",
+                      "copied_name":  "物资申请_5906.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\预算执行\\出差申请_7529.csv",
+                      "copied_name":  "出差申请_7529.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  }
+              ]
+}

@@ -1,0 +1,121 @@
+{
+  "excel": "case_0083_houqin_员工福利_体检安排__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "35750"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "备件申请_6996"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "备件申请"
+    },
+    {
+      "label": "subject",
+      "value_cell": "P6:S7",
+      "value": "维修记录"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A10:D11",
+      "value": "王军"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F10:I11",
+      "value": "2026-02-10T05:30:32.430361"
+    },
+    {
+      "label": "date",
+      "value_cell": "K10:N11",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "status",
+      "value_cell": "P10:S11",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A14:D15",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F14:I15",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "A20:D21",
+      "value": "李四@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F20:I21",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "K20:N21",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "体检医院",
+      "value_cell": "A26:D27",
+      "value": "三甲医院体检中心"
+    },
+    {
+      "label": "体检医院联系电话",
+      "value_cell": "F26:I27",
+      "value": "010-5866-xxxx"
+    },
+    {
+      "label": "体检套餐",
+      "value_cell": "K26:N27",
+      "value": "高级健康体检套餐 (¥2500/人)"
+    },
+    {
+      "label": "体检项目",
+      "value_cell": "P26:S27",
+      "value": "血液检查、心电图、B超、胸片、血压测量、身体测量、医生咨询"
+    },
+    {
+      "label": "参加人数",
+      "value_cell": "A30:D31",
+      "value": "150人"
+    },
+    {
+      "label": "预计费用",
+      "value_cell": "F30:I31",
+      "value": "¥375,000"
+    },
+    {
+      "label": "注意事项",
+      "value_cell": "K30:N31",
+      "value": "体检前一天晚22点后禁食禁水"
+    },
+    {
+      "label": "第一批",
+      "value_cell": "A36:D37",
+      "value": "2024年2月15日-2月20日 (财务部、人力资源部)"
+    },
+    {
+      "label": "第二批",
+      "value_cell": "F36:I37",
+      "value": "2024年3月10日-3月15日 (销售部、市场部)"
+    },
+    {
+      "label": "第三批",
+      "value_cell": "K36:N37",
+      "value": "2024年4月5日-4月10日 (技术部、运营部)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "name",
+                                   "selected_value":  "PR Manager",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "email",
+                                   "selected_value":  "pr@productcompany.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phone",
+                                   "selected_value":  "+1-555-0100",
+                                   "conflict":  false
+                               }
+                           ]
+}

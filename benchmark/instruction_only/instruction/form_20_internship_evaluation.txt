@@ -1,0 +1,120 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Intern Full Name:",
+      "value_text": "Alexander J. Thorne"
+    },
+    {
+      "key_text": "Organisation:",
+      "value_text": "Apex Analytics"
+    },
+    {
+      "key_text": "Department:",
+      "value_text": "Data Science Division"
+    },
+    {
+      "key_text": "Supervisor Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Supervisor Title:",
+      "value_text": "Lead Data Architect"
+    },
+    {
+      "key_text": "Internship Period  (From):",
+      "value_text": "06/01/2023"
+    },
+    {
+      "key_text": "To:",
+      "value_text": "08/15/2023"
+    },
+    {
+      "key_text": "Total Hours:",
+      "value_text": "320"
+    },
+    {
+      "key_text": "Quality of Work:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Productivity / Output:  __ / 5",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Communication Skills:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Problem-Solving Ability:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Teamwork & Collaboration:  __ / 5",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Initiative & Motivation:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Professionalism & Reliability:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Technical / Subject Knowledge:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Adaptability & Learning Speed:  __ / 5",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Meeting Deadlines:  __ / 5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "OVERALL PERFORMANCE RATING:",
+      "value_text": "4.7 / 5"
+    },
+    {
+      "key_text": "Key Strengths Demonstrated:",
+      "value_text": "Exceptional coding skills and strong analytical mindset."
+    },
+    {
+      "key_text": "Areas for Development:",
+      "value_text": "Public speaking and presenting findings to non-technical stakeholders."
+    },
+    {
+      "key_text": "Most Valuable Contribution to the Organisation:",
+      "value_text": "Developed a new automated script for data cleaning that saved 10+ hours weekly."
+    },
+    {
+      "key_text": "Would you hire this intern full-time?  Y / N / Possibly",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Any suggestions for improving the internship programme:",
+      "value_text": "Consider adding more structured mentorship meetings during the first two weeks."
+    },
+    {
+      "key_text": "Supervisor Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/18/2023"
+    },
+    {
+      "key_text": "HR Representative",
+      "value_text": "Marcus Vane"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/20/2023"
+    }
+  ]
+}
+
+Narrative:
+This evaluation form summarizes the internship of Alexander J. Thorne, who completed a 320-hour placement at Apex Analytics within the Data Science Division. Under the supervision of Lead Data Architect Sarah Jenkins, Alexander performed exceptionally well, earning a 4.7 out of 5 overall rating. His internship ran from June 1, 2023, to August 15, 2023. He demonstrated strong technical skills, particularly in coding and analysis, and his most valuable contribution was automating a data-cleaning script that saved the team significant time. While his performance was exemplary, it was noted that he could improve his public speaking skills for non-technical audiences. The supervisor indicated a strong desire to hire him full-time and suggested adding more structured mentorship in the early stages of the program. The form was signed by Sarah Jenkins on August 18, 2023, and processed by HR representative Marcus Vane on August 20, 2023.

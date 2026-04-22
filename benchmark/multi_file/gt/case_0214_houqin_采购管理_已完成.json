@@ -1,0 +1,96 @@
+{
+  "excel": "case_0214_houqin_采购管理_已完成__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "43618"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "物资申请_6807"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "物资申请"
+    },
+    {
+      "label": "status",
+      "value_cell": "P6:S7",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "A10:D11",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "F10:I11",
+      "value": "例行"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A16:D17",
+      "value": "黄欢"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F16:I17",
+      "value": "人力资源部"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K16:N17",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "P16:S17",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "A20:D21",
+      "value": "待审批"
+    },
+    {
+      "label": "from",
+      "value_cell": "A26:D27",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F26:I27",
+      "value": "马腾@company.com"
+    },
+    {
+      "label": "creator",
+      "value_cell": "K26:N27",
+      "value": "黄欢"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "P26:S27",
+      "value": "2026-02-10T05:30:32.090851"
+    },
+    {
+      "label": "date",
+      "value_cell": "A30:D31",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A36:D37",
+      "value": "工作计划"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F36:I37",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

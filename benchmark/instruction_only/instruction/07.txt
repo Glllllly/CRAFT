@@ -1,0 +1,144 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Work Phone",
+      "value_text": "555-012-9988"
+    },
+    {
+      "key_text": "Work E-mail",
+      "value_text": "j.miller@company.com"
+    },
+    {
+      "key_text": "Plan Year",
+      "value_text": "2024"
+    },
+    {
+      "key_text": "FSA Account Number",
+      "value_text": "FSA-990022334"
+    },
+    {
+      "key_text": "Dependent 1 — Full Name",
+      "value_text": "Sarah A. Miller"
+    },
+    {
+      "key_text": "Date of Birth (Dependent 1)",
+      "value_text": "05/12/2019"
+    },
+    {
+      "key_text": "Dependent 1 — Relationship",
+      "value_text": "Daughter"
+    },
+    {
+      "key_text": "Qualifying? Y / N (Dependent 1)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Dependent 2 — Full Name",
+      "value_text": "Leo J. Miller"
+    },
+    {
+      "key_text": "Date of Birth (Dependent 2)",
+      "value_text": "11/20/2021"
+    },
+    {
+      "key_text": "Dependent 2 — Relationship",
+      "value_text": "Son"
+    },
+    {
+      "key_text": "Qualifying? Y / N (Dependent 2)",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Provider Name / Organisation",
+      "value_text": "Bright Horizons Early Learning Center"
+    },
+    {
+      "key_text": "Provider Address",
+      "value_text": "452 Maple Avenue"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL, 62704"
+    },
+    {
+      "key_text": "Provider Phone",
+      "value_text": "217-555-7733"
+    },
+    {
+      "key_text": "Provider Tax ID / SSN",
+      "value_text": "34-9876543"
+    },
+    {
+      "key_text": "Provider is Related to Employee? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "If yes, explain relationship",
+      "value_text": null
+    },
+    {
+      "key_text": "Service Start Date",
+      "value_text": "09/01/2024"
+    },
+    {
+      "key_text": "Service End Date",
+      "value_text": "09/30/2024"
+    },
+    {
+      "key_text": "Type of Care  (daycare, after-school, summer camp, elder care, etc.)",
+      "value_text": "Full-time Daycare"
+    },
+    {
+      "key_text": "Total Amount Claimed  $",
+      "value_text": "1,200.00"
+    },
+    {
+      "key_text": "Receipt Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Prior Claims This Plan Year  $",
+      "value_text": "8,400.00"
+    },
+    {
+      "key_text": "Remaining Balance  $",
+      "value_text": "900.00"
+    },
+    {
+      "key_text": "I certify that this expense is eligible under the Dependent Care FSA plan.",
+      "value_text": "Checked"
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/05/2024"
+    },
+    {
+      "key_text": "Benefits Administrator",
+      "value_text": "Susan R. Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/07/2024"
+    }
+  ]
+}
+
+Narrative:
+Jonathan D. Miller, an employee in the Marketing department (ID: EMP-88429), is submitting a Dependent Care FSA claim for the 2024 plan year, associated with account number FSA-990022334. He is claiming expenses for his two qualifying children, Sarah A. Miller (born 05/12/2019) and Leo J. Miller (born 11/20/2021). The care was provided by Bright Horizons Early Learning Center, located at 452 Maple Avenue, Springfield, IL, 62704, reachable at 217-555-7733 with Tax ID 34-9876543. The provider is not related to the employee. The daycare services occurred between 09/01/2024 and 09/30/2024, for which he is claiming $1,200.00 and has attached the receipt. Having previously claimed $8,400.00 this year, this request leaves a remaining balance of $900.00. Jonathan signed the certification on 10/05/2024, and the claim was processed by Benefits Administrator Susan R. Thompson on 10/07/2024.

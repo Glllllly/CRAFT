@@ -1,0 +1,4306 @@
+{
+  "bundle_dir": "case_0268_yunyin_campaigns_q1_2026_spring_sale",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "campaign_brief.md",
+      "source_type": "md",
+      "candidate_count": 45,
+      "candidates": [
+        {
+          "key": "占比",
+          "value": "**100%**",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "16%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "20%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "24%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "32%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "8%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "刘渠道",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "张运营",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "王工",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "陈设计",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "**总计**",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "小红书KOL",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "应急储备",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "微信广告",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "抖音信息流",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "线下快闪",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "整体策划与执行",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "活动物料设计",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "活动页面开发与维护",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "渠道资源对接与投放",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "技术负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "活动负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "渠道负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "设计负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "**250**",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "20",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "40",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "50",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "60",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "80",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "1.裂变拉新",
+          "value": "邀请好友得50元优惠券（双方均可使用）",
+          "raw_key": "1. 裂变拉新",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 裂变拉新：邀请好友得50元优惠券（双方均可使用）",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.促活转化",
+          "value": "每日签到领积分，积分可兑换实物奖品或现金抵扣",
+          "raw_key": "2. 促活转化",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 促活转化：每日签到领积分，积分可兑换实物奖品或现金抵扣",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.留存提升",
+          "value": "针对老用户推出「焕新会员」专属权益",
+          "raw_key": "3. 留存提升",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 留存提升：针对老用户推出「焕新会员」专属权益",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "gmv",
+          "value": "≥500万",
+          "raw_key": "- GMV",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- GMV：≥500万",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分享率",
+          "value": "≥15%（参与用户中）",
+          "raw_key": "- 分享率",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 分享率：≥15%（参与用户中）",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "审批人",
+          "value": "赵总监",
+          "raw_key": "审批人",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "审批人：赵总监",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "新增用户数",
+          "value": "≥15万",
+          "raw_key": "- 新增用户数",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 新增用户数：≥15万",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-20",
+          "raw_key": "日期",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "日期：2026-01-20",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "核心人群",
+          "value": "18-35岁都市青年（占比60%）",
+          "raw_key": "- 核心人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 核心人群：18-35岁都市青年（占比60%）",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "次要人群",
+          "value": "36-45岁家庭用户（占比30%）",
+          "raw_key": "- 次要人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 次要人群：36-45岁家庭用户（占比30%）",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活动参与率",
+          "value": "≥30%（基于DAU）",
+          "raw_key": "- 活动参与率",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动参与率：≥30%（基于DAU）",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活动名称",
+          "value": "新春焕新季",
+          "raw_key": "- 活动名称",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动名称：新春焕新季",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活动时间",
+          "value": "2026-02-15至2026-03-31",
+          "raw_key": "- 活动时间",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动时间：2026-02-15至2026-03-31",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "活动目标",
+          "value": "新增用户15万+，GMV突破500万，用户留存率提升至70%",
+          "raw_key": "- 活动目标",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动目标：新增用户15万+，GMV突破500万，用户留存率提升至70%",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "边缘人群",
+          "value": "学生群体（占比10%）",
+          "raw_key": "- 边缘人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 边缘人群：学生群体（占比10%）",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "creative_assets_specs.md",
+      "source_type": "md",
+      "candidate_count": 24,
+      "candidates": [
+        {
+          "key": "cta按钮",
+          "value": "「立即参与」或「了解更多」",
+          "raw_key": "- CTA按钮",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- CTA按钮：「立即参与」或「了解更多」",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-10",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-10",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-12",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-12",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-13",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-13",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-14",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-14",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "内容要求",
+          "value": "突出活动主题、优惠信息、CTA按钮",
+          "raw_key": "- 内容要求",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 内容要求：突出活动主题、优惠信息、CTA按钮",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分辨率",
+          "value": "1080x1920（竖屏）",
+          "raw_key": "- 分辨率",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 分辨率：1080x1920（竖屏）",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "品牌元素",
+          "value": "需包含品牌logo（右下角，大小不超过10%）、活动slogan",
+          "raw_key": "- 品牌元素",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 品牌元素：需包含品牌logo（右下角，大小不超过10%）、活动slogan",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "品牌要求",
+          "value": "严格遵循2026版品牌手册（附件2）",
+          "raw_key": "- 品牌要求",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 品牌要求：严格遵循2026版品牌手册（附件2）",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图文",
+          "value": "3-9张图片（正方形/竖屏）+ 500-800字文案",
+          "raw_key": "- 图文",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 图文：3-9张图片（正方形/竖屏）+ 500-800字文案",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "图片",
+          "value": "1080x1920（竖屏）或1080x1080（正方形）",
+          "raw_key": "- 图片",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 图片：1080x1920（竖屏）或1080x1080（正方形）",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "宣传单页",
+          "value": "A5尺寸",
+          "raw_key": "- 宣传单页",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 宣传单页：A5尺寸",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "展架",
+          "value": "X展架（60x160cm）",
+          "raw_key": "- 展架",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 展架：X展架（60x160cm）",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "文案",
+          "value": "不超过200字，含emoji",
+          "raw_key": "- 文案",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 文案：不超过200字，含emoji",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "更新日期",
+          "value": "2026-01-25",
+          "raw_key": "更新日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "更新日期：2026-01-25",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "格式",
+          "value": "MP4",
+          "raw_key": "- 格式",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 格式：MP4",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "海报",
+          "value": "A0尺寸（841x1189mm）",
+          "raw_key": "- 海报",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 海报：A0尺寸（841x1189mm）",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频",
+          "value": "60s以内，竖屏",
+          "raw_key": "- 视频",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 视频：60s以内，竖屏",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "视频时长",
+          "value": "15s/30s/60s",
+          "raw_key": "- 视频时长",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 视频时长：15s/30s/60s",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "内容部小红书组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：内容部小红书组",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部平面组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部平面组",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部线下组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部线下组",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部视频组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部视频组",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "附件",
+          "value": "1. 活动slogan清单；2. 2026版品牌手册",
+          "raw_key": "附件",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "附件：1. 活动slogan清单；2. 2026版品牌手册",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "performance_tracking_daily.md",
+      "source_type": "md",
+      "candidate_count": 47,
+      "candidates": [
+        {
+          "key": "channel",
+          "value": "**总计**",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "小红书KOL",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "微信朋友圈",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "抖音信息流",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "线下快闪",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "**8,500**",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "2,000",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "2,400",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "3,600",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "500",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversionrate",
+          "value": "**5.0%**",
+          "raw_key": "Conversion Rate",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversionrate",
+          "value": "5.0%",
+          "raw_key": "Conversion Rate",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "**425**",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "100",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "120",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "180",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "25",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "**¥35,000**",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥10,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥12,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥5,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥8,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "**2.8%**",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "10.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "2.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "3.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-14",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-15",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-16",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "**305,000**",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "100,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "120,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "5,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "80,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "responsible",
+          "value": "刘渠道",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "responsible",
+          "value": "张运营",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "responsible",
+          "value": "陈设计",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "**121%**",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "100%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "150%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "50%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "task",
+          "value": "优化微信朋友圈广告创意",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "task",
+          "value": "分析线下快闪店客流数据",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "task",
+          "value": "增加抖音渠道预算¥5,000",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "##date",
+          "value": "2026-02-13",
+          "raw_key": "## Date",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Date:2026-02-13",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "time",
+          "value": "2026-02-13 22:00",
+          "raw_key": "Time",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Time:2026-02-13 22:00",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "updatedby",
+          "value": "数据团队",
+          "raw_key": "Updated by",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Updated by: 数据团队",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "post_campaign_analysis.md",
+      "source_type": "md",
+      "candidate_count": 25,
+      "candidates": [
+        {
+          "key": "achievement",
+          "value": "116.7%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "121.3%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "123.3%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "124%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "148%",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "18,200",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "3.5%",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "¥620,000",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "Conversion Rate",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "GMV",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "New Users",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "ROI",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "120%",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "15,000",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "3.0%",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "¥500,000",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "1.**channeleffectiveness**",
+          "value": "Douyin and小红书 channels delivered highest ROI (150%+), while线下快闪 underperformed.",
+          "raw_key": "1. **Channel Effectiveness**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. **Channel Effectiveness**: Douyin and小红书 channels delivered highest ROI (150%+), while线下快闪 underperformed.",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.**creativeimpact**",
+          "value": "Short-form videos with user testimonials had 2x higher CTR than product demos.",
+          "raw_key": "2. **Creative Impact**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. **Creative Impact**: Short-form videos with user testimonials had 2x higher CTR than product demos.",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.**timing**",
+          "value": "Weekend promotions (Saturday/Sunday) generated 30% more sales than weekdays.",
+          "raw_key": "3. **Timing**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. **Timing**: Weekend promotions (Saturday/Sunday) generated 30% more sales than weekdays.",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.focuspromotionsonweekendsandpeakhours(18",
+          "value": "00-22:00).",
+          "raw_key": "3. Focus promotions on weekends and peak hours (18",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Focus promotions on weekends and peak hours (18:00-22:00).",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "analyst",
+          "value": "Zhang运营",
+          "raw_key": "Analyst",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Analyst: Zhang运营",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "budget",
+          "value": "¥250,000",
+          "raw_key": "- Budget",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Budget: ¥250,000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "date",
+          "value": "2026-04-05",
+          "raw_key": "Date",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Date:2026-04-05",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "duration",
+          "value": "2026-02-15 to 2026-03-31",
+          "raw_key": "- Duration",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 2026-02-15 to 2026-03-31",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "target",
+          "value": "15k new users, ¥500k GMV",
+          "raw_key": "- Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target: 15k new users, ¥500k GMV",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "risk_management_plan.md",
+      "source_type": "md",
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "key": "impact",
+          "value": "Critical",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impact",
+          "value": "High",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impact",
+          "value": "Medium",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "likelihood",
+          "value": "High",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "likelihood",
+          "value": "Low",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "likelihood",
+          "value": "Medium",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Diversify channels, conduct A/B testing",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Implement auto-scaling, conduct load testing",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Monitor social media, prepare response templates",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Order inventory in advance, have backup suppliers",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Low campaign performance",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Negative social media feedback",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Supply chain delays",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Technical issues (website crash)",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "1.**lowperformance**",
+          "value": "Reallocate budget to top-performing channels within 24 hours.",
+          "raw_key": "1. **Low Performance**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. **Low Performance**: Reallocate budget to top-performing channels within 24 hours.",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.**technicalissues**",
+          "value": "Activate backup servers and notify users via email/SMS.",
+          "raw_key": "2. **Technical Issues**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. **Technical Issues**: Activate backup servers and notify users via email/SMS.",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.**supplychaindelays**",
+          "value": "Offer alternative products or extend the campaign.",
+          "raw_key": "3. **Supply Chain Delays**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. **Supply Chain Delays**: Offer alternative products or extend the campaign.",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "riskowner",
+          "value": "Zhang运营",
+          "raw_key": "- Risk Owner",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Risk Owner: Zhang运营",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "supplychainlead",
+          "value": "Li采购",
+          "raw_key": "- Supply Chain Lead",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Supply Chain Lead: Li采购",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "technicallead",
+          "value": "Wang工",
+          "raw_key": "- Technical Lead",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Wang工",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "updateddate",
+          "value": "2026-02-01",
+          "raw_key": "Updated Date",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Updated Date:2026-02-01",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "##date",
+      "candidates": [
+        {
+          "key": "##date",
+          "value": "2026-02-13",
+          "raw_key": "## Date",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Date:2026-02-13",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.**channeleffectiveness**",
+      "candidates": [
+        {
+          "key": "1.**channeleffectiveness**",
+          "value": "Douyin and小红书 channels delivered highest ROI (150%+), while线下快闪 underperformed.",
+          "raw_key": "1. **Channel Effectiveness**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. **Channel Effectiveness**: Douyin and小红书 channels delivered highest ROI (150%+), while线下快闪 underperformed.",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.**lowperformance**",
+      "candidates": [
+        {
+          "key": "1.**lowperformance**",
+          "value": "Reallocate budget to top-performing channels within 24 hours.",
+          "raw_key": "1. **Low Performance**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. **Low Performance**: Reallocate budget to top-performing channels within 24 hours.",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.裂变拉新",
+      "candidates": [
+        {
+          "key": "1.裂变拉新",
+          "value": "邀请好友得50元优惠券（双方均可使用）",
+          "raw_key": "1. 裂变拉新",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. 裂变拉新：邀请好友得50元优惠券（双方均可使用）",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.**creativeimpact**",
+      "candidates": [
+        {
+          "key": "2.**creativeimpact**",
+          "value": "Short-form videos with user testimonials had 2x higher CTR than product demos.",
+          "raw_key": "2. **Creative Impact**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. **Creative Impact**: Short-form videos with user testimonials had 2x higher CTR than product demos.",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.**technicalissues**",
+      "candidates": [
+        {
+          "key": "2.**technicalissues**",
+          "value": "Activate backup servers and notify users via email/SMS.",
+          "raw_key": "2. **Technical Issues**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. **Technical Issues**: Activate backup servers and notify users via email/SMS.",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.促活转化",
+      "candidates": [
+        {
+          "key": "2.促活转化",
+          "value": "每日签到领积分，积分可兑换实物奖品或现金抵扣",
+          "raw_key": "2. 促活转化",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. 促活转化：每日签到领积分，积分可兑换实物奖品或现金抵扣",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.**supplychaindelays**",
+      "candidates": [
+        {
+          "key": "3.**supplychaindelays**",
+          "value": "Offer alternative products or extend the campaign.",
+          "raw_key": "3. **Supply Chain Delays**",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. **Supply Chain Delays**: Offer alternative products or extend the campaign.",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.**timing**",
+      "candidates": [
+        {
+          "key": "3.**timing**",
+          "value": "Weekend promotions (Saturday/Sunday) generated 30% more sales than weekdays.",
+          "raw_key": "3. **Timing**",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. **Timing**: Weekend promotions (Saturday/Sunday) generated 30% more sales than weekdays.",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.focuspromotionsonweekendsandpeakhours(18",
+      "candidates": [
+        {
+          "key": "3.focuspromotionsonweekendsandpeakhours(18",
+          "value": "00-22:00).",
+          "raw_key": "3. Focus promotions on weekends and peak hours (18",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Focus promotions on weekends and peak hours (18:00-22:00).",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.留存提升",
+      "candidates": [
+        {
+          "key": "3.留存提升",
+          "value": "针对老用户推出「焕新会员」专属权益",
+          "raw_key": "3. 留存提升",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. 留存提升：针对老用户推出「焕新会员」专属权益",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "achievement",
+      "candidates": [
+        {
+          "key": "achievement",
+          "value": "116.7%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "121.3%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "123.3%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "achievement",
+          "value": "124%",
+          "raw_key": "Achievement",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "actual",
+      "candidates": [
+        {
+          "key": "actual",
+          "value": "148%",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "18,200",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "3.5%",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "actual",
+          "value": "¥620,000",
+          "raw_key": "Actual",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "analyst",
+      "candidates": [
+        {
+          "key": "analyst",
+          "value": "Zhang运营",
+          "raw_key": "Analyst",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Analyst: Zhang运营",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "budget",
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥250,000",
+          "raw_key": "- Budget",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Budget: ¥250,000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "channel",
+      "candidates": [
+        {
+          "key": "channel",
+          "value": "**总计**",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "小红书KOL",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "微信朋友圈",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "抖音信息流",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "channel",
+          "value": "线下快闪",
+          "raw_key": "Channel",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "clicks",
+      "candidates": [
+        {
+          "key": "clicks",
+          "value": "**8,500**",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "2,000",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "2,400",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "3,600",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "clicks",
+          "value": "500",
+          "raw_key": "Clicks",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "conversionrate",
+      "candidates": [
+        {
+          "key": "conversionrate",
+          "value": "**5.0%**",
+          "raw_key": "Conversion Rate",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversionrate",
+          "value": "5.0%",
+          "raw_key": "Conversion Rate",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "conversions",
+      "candidates": [
+        {
+          "key": "conversions",
+          "value": "**425**",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "100",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "120",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "180",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "conversions",
+          "value": "25",
+          "raw_key": "Conversions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "cost",
+      "candidates": [
+        {
+          "key": "cost",
+          "value": "**¥35,000**",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥10,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥12,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥5,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "cost",
+          "value": "¥8,000",
+          "raw_key": "Cost",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "cta按钮",
+      "candidates": [
+        {
+          "key": "cta按钮",
+          "value": "「立即参与」或「了解更多」",
+          "raw_key": "- CTA按钮",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- CTA按钮：「立即参与」或「了解更多」",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "ctr",
+      "candidates": [
+        {
+          "key": "ctr",
+          "value": "**2.8%**",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "10.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "2.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "ctr",
+          "value": "3.0%",
+          "raw_key": "CTR",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "2026-04-05",
+          "raw_key": "Date",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Date:2026-04-05",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "deadline",
+      "candidates": [
+        {
+          "key": "deadline",
+          "value": "2026-02-14",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-15",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-16",
+          "raw_key": "Deadline",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-10",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-10",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-12",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-12",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-13",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-13",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "deadline",
+          "value": "2026-02-14",
+          "raw_key": "- 截止日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 截止日期：2026-02-14",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "duration",
+      "candidates": [
+        {
+          "key": "duration",
+          "value": "2026-02-15 to 2026-03-31",
+          "raw_key": "- Duration",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Duration: 2026-02-15 to 2026-03-31",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "gmv",
+      "candidates": [
+        {
+          "key": "gmv",
+          "value": "≥500万",
+          "raw_key": "- GMV",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- GMV：≥500万",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "impact",
+      "candidates": [
+        {
+          "key": "impact",
+          "value": "Critical",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impact",
+          "value": "High",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impact",
+          "value": "Medium",
+          "raw_key": "Impact",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "impressions",
+      "candidates": [
+        {
+          "key": "impressions",
+          "value": "**305,000**",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "100,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "120,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "5,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "impressions",
+          "value": "80,000",
+          "raw_key": "Impressions",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |80,000 |2,400 |3.0% |120 |5.0% |¥8,000 |150% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "likelihood",
+      "candidates": [
+        {
+          "key": "likelihood",
+          "value": "High",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "likelihood",
+          "value": "Low",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "likelihood",
+          "value": "Medium",
+          "raw_key": "Likelihood",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "metric",
+      "candidates": [
+        {
+          "key": "metric",
+          "value": "Conversion Rate",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "GMV",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "New Users",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "metric",
+          "value": "ROI",
+          "raw_key": "Metric",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "mitigationstrategy",
+      "candidates": [
+        {
+          "key": "mitigationstrategy",
+          "value": "Diversify channels, conduct A/B testing",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Implement auto-scaling, conduct load testing",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Monitor social media, prepare response templates",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "mitigationstrategy",
+          "value": "Order inventory in advance, have backup suppliers",
+          "raw_key": "Mitigation Strategy",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "responsible",
+      "candidates": [
+        {
+          "key": "responsible",
+          "value": "刘渠道",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "responsible",
+          "value": "张运营",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "responsible",
+          "value": "陈设计",
+          "raw_key": "Responsible",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "risk",
+      "candidates": [
+        {
+          "key": "risk",
+          "value": "Low campaign performance",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Low campaign performance | Medium | High | Diversify channels, conduct A/B testing |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Negative social media feedback",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Negative social media feedback | High | Medium | Monitor social media, prepare response templates |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Supply chain delays",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Supply chain delays | Medium | Medium | Order inventory in advance, have backup suppliers |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "risk",
+          "value": "Technical issues (website crash)",
+          "raw_key": "Risk",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Technical issues (website crash) | Low | Critical | Implement auto-scaling, conduct load testing |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "riskowner",
+      "candidates": [
+        {
+          "key": "riskowner",
+          "value": "Zhang运营",
+          "raw_key": "- Risk Owner",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Risk Owner: Zhang运营",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "roi",
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "**121%**",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**305,000** |**8,500** |**2.8%** |**425** |**5.0%** |**¥35,000** |**121%** |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "100%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信朋友圈 |100,000 |2,000 |2.0% |100 |5.0% |¥10,000 |100% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "150%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 |120,000 | 3,600 |3.0% |180 |5.0% |¥12,000 |150% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "roi",
+          "value": "50%",
+          "raw_key": "ROI",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |5,000 |500 |10.0% |25 |5.0% |¥5,000 |50% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "supplychainlead",
+      "candidates": [
+        {
+          "key": "supplychainlead",
+          "value": "Li采购",
+          "raw_key": "- Supply Chain Lead",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Supply Chain Lead: Li采购",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "target",
+      "candidates": [
+        {
+          "key": "target",
+          "value": "120%",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| ROI |120% |148% |123.3% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "15,000",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| New Users |15,000 |18,200 |121.3% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "3.0%",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| Conversion Rate |3.0% |3.5% |116.7% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "¥500,000",
+          "raw_key": "Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| GMV |¥500,000 |¥620,000 |124% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "target",
+          "value": "15k new users, ¥500k GMV",
+          "raw_key": "- Target",
+          "source_file": "post_campaign_analysis.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Target: 15k new users, ¥500k GMV",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "task",
+      "candidates": [
+        {
+          "key": "task",
+          "value": "优化微信朋友圈广告创意",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 优化微信朋友圈广告创意 | 陈设计 |2026-02-15 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "task",
+          "value": "分析线下快闪店客流数据",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 分析线下快闪店客流数据 | 张运营 |2026-02-16 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "task",
+          "value": "增加抖音渠道预算¥5,000",
+          "raw_key": "Task",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 增加抖音渠道预算¥5,000 | 刘渠道 |2026-02-14 |",
+            "location": "markdown_table_row:10"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "technicallead",
+      "candidates": [
+        {
+          "key": "technicallead",
+          "value": "Wang工",
+          "raw_key": "- Technical Lead",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Technical Lead: Wang工",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "time",
+      "candidates": [
+        {
+          "key": "time",
+          "value": "2026-02-13 22:00",
+          "raw_key": "Time",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Time:2026-02-13 22:00",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "updatedby",
+      "candidates": [
+        {
+          "key": "updatedby",
+          "value": "数据团队",
+          "raw_key": "Updated by",
+          "source_file": "performance_tracking_daily.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Updated by: 数据团队",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "updateddate",
+      "candidates": [
+        {
+          "key": "updateddate",
+          "value": "2026-02-01",
+          "raw_key": "Updated Date",
+          "source_file": "risk_management_plan.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "Updated Date:2026-02-01",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "内容要求",
+      "candidates": [
+        {
+          "key": "内容要求",
+          "value": "突出活动主题、优惠信息、CTA按钮",
+          "raw_key": "- 内容要求",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 内容要求：突出活动主题、优惠信息、CTA按钮",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分享率",
+      "candidates": [
+        {
+          "key": "分享率",
+          "value": "≥15%（参与用户中）",
+          "raw_key": "- 分享率",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 分享率：≥15%（参与用户中）",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分辨率",
+      "candidates": [
+        {
+          "key": "分辨率",
+          "value": "1080x1920（竖屏）",
+          "raw_key": "- 分辨率",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 分辨率：1080x1920（竖屏）",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "占比",
+      "candidates": [
+        {
+          "key": "占比",
+          "value": "**100%**",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "16%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "20%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "24%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "32%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "占比",
+          "value": "8%",
+          "raw_key": "占比",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "品牌元素",
+      "candidates": [
+        {
+          "key": "品牌元素",
+          "value": "需包含品牌logo（右下角，大小不超过10%）、活动slogan",
+          "raw_key": "- 品牌元素",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 品牌元素：需包含品牌logo（右下角，大小不超过10%）、活动slogan",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "品牌要求",
+      "candidates": [
+        {
+          "key": "品牌要求",
+          "value": "严格遵循2026版品牌手册（附件2）",
+          "raw_key": "- 品牌要求",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 品牌要求：严格遵循2026版品牌手册（附件2）",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "图文",
+      "candidates": [
+        {
+          "key": "图文",
+          "value": "3-9张图片（正方形/竖屏）+ 500-800字文案",
+          "raw_key": "- 图文",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 图文：3-9张图片（正方形/竖屏）+ 500-800字文案",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "图片",
+      "candidates": [
+        {
+          "key": "图片",
+          "value": "1080x1920（竖屏）或1080x1080（正方形）",
+          "raw_key": "- 图片",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 图片：1080x1920（竖屏）或1080x1080（正方形）",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "姓名",
+      "candidates": [
+        {
+          "key": "姓名",
+          "value": "刘渠道",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "张运营",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "王工",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "姓名",
+          "value": "陈设计",
+          "raw_key": "姓名",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "审批人",
+      "candidates": [
+        {
+          "key": "审批人",
+          "value": "赵总监",
+          "raw_key": "审批人",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "审批人：赵总监",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "宣传单页",
+      "candidates": [
+        {
+          "key": "宣传单页",
+          "value": "A5尺寸",
+          "raw_key": "- 宣传单页",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 宣传单页：A5尺寸",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "展架",
+      "candidates": [
+        {
+          "key": "展架",
+          "value": "X展架（60x160cm）",
+          "raw_key": "- 展架",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 展架：X展架（60x160cm）",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "文案",
+      "candidates": [
+        {
+          "key": "文案",
+          "value": "不超过200字，含emoji",
+          "raw_key": "- 文案",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 文案：不超过200字，含emoji",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "新增用户数",
+      "candidates": [
+        {
+          "key": "新增用户数",
+          "value": "≥15万",
+          "raw_key": "- 新增用户数",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 新增用户数：≥15万",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "日期",
+      "candidates": [
+        {
+          "key": "日期",
+          "value": "2026-01-20",
+          "raw_key": "日期",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "日期：2026-01-20",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "更新日期",
+      "candidates": [
+        {
+          "key": "更新日期",
+          "value": "2026-01-25",
+          "raw_key": "更新日期",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "更新日期：2026-01-25",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "核心人群",
+      "candidates": [
+        {
+          "key": "核心人群",
+          "value": "18-35岁都市青年（占比60%）",
+          "raw_key": "- 核心人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 核心人群：18-35岁都市青年（占比60%）",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "格式",
+      "candidates": [
+        {
+          "key": "格式",
+          "value": "MP4",
+          "raw_key": "- 格式",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 格式：MP4",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "次要人群",
+      "candidates": [
+        {
+          "key": "次要人群",
+          "value": "36-45岁家庭用户（占比30%）",
+          "raw_key": "- 次要人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 次要人群：36-45岁家庭用户（占比30%）",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "活动参与率",
+      "candidates": [
+        {
+          "key": "活动参与率",
+          "value": "≥30%（基于DAU）",
+          "raw_key": "- 活动参与率",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动参与率：≥30%（基于DAU）",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "活动名称",
+      "candidates": [
+        {
+          "key": "活动名称",
+          "value": "新春焕新季",
+          "raw_key": "- 活动名称",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动名称：新春焕新季",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "活动时间",
+      "candidates": [
+        {
+          "key": "活动时间",
+          "value": "2026-02-15至2026-03-31",
+          "raw_key": "- 活动时间",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动时间：2026-02-15至2026-03-31",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "活动目标",
+      "candidates": [
+        {
+          "key": "活动目标",
+          "value": "新增用户15万+，GMV突破500万，用户留存率提升至70%",
+          "raw_key": "- 活动目标",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 活动目标：新增用户15万+，GMV突破500万，用户留存率提升至70%",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "海报",
+      "candidates": [
+        {
+          "key": "海报",
+          "value": "A0尺寸（841x1189mm）",
+          "raw_key": "- 海报",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 海报：A0尺寸（841x1189mm）",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "渠道",
+      "candidates": [
+        {
+          "key": "渠道",
+          "value": "**总计**",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "小红书KOL",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "应急储备",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "微信广告",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "抖音信息流",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "渠道",
+          "value": "线下快闪",
+          "raw_key": "渠道",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "职责",
+      "candidates": [
+        {
+          "key": "职责",
+          "value": "整体策划与执行",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "活动物料设计",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "活动页面开发与维护",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "职责",
+          "value": "渠道资源对接与投放",
+          "raw_key": "职责",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "视频",
+      "candidates": [
+        {
+          "key": "视频",
+          "value": "60s以内，竖屏",
+          "raw_key": "- 视频",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 视频：60s以内，竖屏",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "视频时长",
+      "candidates": [
+        {
+          "key": "视频时长",
+          "value": "15s/30s/60s",
+          "raw_key": "- 视频时长",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 视频时长：15s/30s/60s",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "角色",
+      "candidates": [
+        {
+          "key": "角色",
+          "value": "技术负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 技术负责人 | 王工 | 活动页面开发与维护 |",
+            "location": "markdown_table_row:14"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "活动负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 活动负责人 | 张运营 | 整体策划与执行 |",
+            "location": "markdown_table_row:11"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "渠道负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 渠道负责人 | 刘渠道 | 渠道资源对接与投放 |",
+            "location": "markdown_table_row:12"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "角色",
+          "value": "设计负责人",
+          "raw_key": "角色",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 设计负责人 | 陈设计 | 活动物料设计 |",
+            "location": "markdown_table_row:13"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "负责团队",
+      "candidates": [
+        {
+          "key": "负责团队",
+          "value": "内容部小红书组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：内容部小红书组",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部平面组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部平面组",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部线下组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部线下组",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "负责团队",
+          "value": "设计部视频组",
+          "raw_key": "- 负责团队",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 负责团队：设计部视频组",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "边缘人群",
+      "candidates": [
+        {
+          "key": "边缘人群",
+          "value": "学生群体（占比10%）",
+          "raw_key": "- 边缘人群",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 边缘人群：学生群体（占比10%）",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "附件",
+      "candidates": [
+        {
+          "key": "附件",
+          "value": "1. 活动slogan清单；2. 2026版品牌手册",
+          "raw_key": "附件",
+          "source_file": "creative_assets_specs.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "附件：1. 活动slogan清单；2. 2026版品牌手册",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预算（万元）",
+      "candidates": [
+        {
+          "key": "预算（万元）",
+          "value": "**250**",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| **总计** |**250** |**100%** |",
+            "location": "markdown_table_row:8"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "20",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 应急储备 |20 |8% |",
+            "location": "markdown_table_row:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "40",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 线下快闪 |40 |16% |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "50",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 微信广告 |50 |20% |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "60",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 小红书KOL |60 |24% |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "预算（万元）",
+          "value": "80",
+          "raw_key": "预算（万元）",
+          "source_file": "campaign_brief.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 抖音信息流 | 80 |32% |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    }
+  ]
+}

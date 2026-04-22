@@ -1,0 +1,142 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name (optional — anonymous accepted)",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Contact Phone (optional)",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "Address of Complainant",
+      "value_text": "42 Oakwood Terrace, Springfield"
+    },
+    {
+      "key_text": "E-mail (optional)",
+      "value_text": "j.miller@email.com"
+    },
+    {
+      "key_text": "Address Where Problem Occurs",
+      "value_text": "Industrial Park Site B, 100 Manufacturing Way"
+    },
+    {
+      "key_text": "Date of Incident / First Occurrence",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Time of Incident (From – To)",
+      "value_text": "22:00 – 06:00"
+    },
+    {
+      "key_text": "Frequency (daily / weekly / one-off)",
+      "value_text": "daily"
+    },
+    {
+      "key_text": "Noise",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Dust / Particulates",
+      "value_text": null
+    },
+    {
+      "key_text": "Odour",
+      "value_text": null
+    },
+    {
+      "key_text": "Detailed Description of the Nuisance",
+      "value_text": "High-decibel industrial machinery grinding and heavy vehicle reversing alarms occurring throughout the night."
+    },
+    {
+      "key_text": "Source of Nuisance (business / activity)",
+      "value_text": "Metal Fabrication Plant"
+    },
+    {
+      "key_text": "Name of Responsible Party (if known)",
+      "value_text": "Apex Metalworks Ltd"
+    },
+    {
+      "key_text": "Minor Annoyance",
+      "value_text": null
+    },
+    {
+      "key_text": "Moderate Impact",
+      "value_text": null
+    },
+    {
+      "key_text": "Severe / Persistent",
+      "value_text": "X"
+    },
+    {
+      "key_text": "How has this affected you or your household / business?",
+      "value_text": "Significant sleep deprivation leading to health issues and inability to work effectively during the day."
+    },
+    {
+      "key_text": "Have you contacted the responsible party? Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Outcome of Any Prior Contact",
+      "value_text": "Spoke to site manager, but noise levels have not decreased."
+    },
+    {
+      "key_text": "Have you contacted any other authority? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Which authority?",
+      "value_text": null
+    },
+    {
+      "key_text": "Photographs",
+      "value_text": null
+    },
+    {
+      "key_text": "Video Recording",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Noise Meter Readings",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Description of Evidence Provided",
+      "value_text": "A 5-minute video clip with audio and a log of decibel readings taken from the bedroom window."
+    },
+    {
+      "key_text": "What action are you requesting from the authority?",
+      "value_text": "An official noise assessment and enforcement of local night-time operation regulations."
+    },
+    {
+      "key_text": "Date Complaint Submitted",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Reference Number  (Office Use)",
+      "value_text": null
+    },
+    {
+      "key_text": "Complainant Signature",
+      "value_text": "Jonathan Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Receiving Officer",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+Jonathan Miller, residing at 42 Oakwood Terrace, Springfield, has filed a formal complaint regarding persistent noise issues. He can be reached at 555-012-3456 or via email at j.miller@email.com. The noise problem originates from the Apex Metalworks Ltd facility at Industrial Park Site B, 100 Manufacturing Way, and has been occurring daily since October 15, 2023, specifically between 10:00 PM and 6:00 AM. 
+
+Mr. Miller describes the nuisance as high-decibel industrial grinding and reversing alarms, which he classifies as severe and persistent. This has caused him significant sleep deprivation, impacting his health and professional performance. Although he has already contacted the site manager at Apex Metalworks, the situation remains unresolved. He has not contacted any other authorities yet. To support his claim, he has provided a video recording and noise meter readings taken from his home. He is requesting that the authority conduct an official noise assessment and enforce local night-time regulations. The complaint was submitted on October 25, 2023, and signed by Mr. Miller.

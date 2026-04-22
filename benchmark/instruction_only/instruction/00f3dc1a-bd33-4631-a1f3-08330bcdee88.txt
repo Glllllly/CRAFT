@@ -1,0 +1,98 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date of Birth:",
+      "value_text": "05/12/1985"
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Miller"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Sarah"
+    },
+    {
+      "key_text": "MI",
+      "value_text": "J"
+    },
+    {
+      "key_text": "SSN:",
+      "value_text": "123-45-6789"
+    },
+    {
+      "key_text": "Medical Records From (date):",
+      "value_text": "01/01/2023"
+    },
+    {
+      "key_text": "To (date):",
+      "value_text": "12/31/2023"
+    },
+    {
+      "key_text": "Reason for Release of Records:",
+      "value_text": "Personal medical history review for new primary care physician."
+    },
+    {
+      "key_text": "Patient Limits the Release of the Following Information:",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Harrison"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Robert"
+    },
+    {
+      "key_text": "Company:",
+      "value_text": "Southwest Family Medicine"
+    },
+    {
+      "key_text": "Street",
+      "value_text": "123 Health Way"
+    },
+    {
+      "key_text": "City/State",
+      "value_text": "Albuquerque, NM"
+    },
+    {
+      "key_text": "Zip",
+      "value_text": "87102"
+    },
+    {
+      "key_text": "Phone #:",
+      "value_text": "(505) 555-0123"
+    },
+    {
+      "key_text": "Fax #:",
+      "value_text": "(505) 555-0124"
+    },
+    {
+      "key_text": "E-Mail:",
+      "value_text": "records@swfamilymed.com"
+    },
+    {
+      "key_text": "Patient Signature:",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/15/2024"
+    },
+    {
+      "key_text": "Witnessed By:",
+      "value_text": "Michael Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "03/15/2024"
+    }
+  ]
+}
+
+Narrative:
+This medical record release authorization is for Sarah J. Miller, born May 12, 1985, with SSN 123-45-6789. She is requesting the release of her ambulance billing records covering the period from January 1, 2023, through December 31, 2023. The records are being requested for a personal medical history review for a new primary care physician, and there are no limitations placed on the information to be released. 
+
+The authorized recipient is Robert Harrison at Southwest Family Medicine, located at 123 Health Way, Albuquerque, NM 87102. Their contact details include phone number (505) 555-0123, fax number (505) 555-0124, and email records@swfamilymed.com. The form was signed by Sarah J. Miller on March 15, 2024, and witnessed by Michael Thompson on that same day.

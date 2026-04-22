@@ -1,0 +1,34 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "主要风险",
+                                   "selected_value":  "市场饱和",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "当前阶段",
+                                   "selected_value":  "导入期",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "缓解措施",
+                                   "selected_value":  "已制定应对方案",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "风险等级",
+                                   "selected_value":  "低)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "后续发展方向",
+                                   "selected_value":  "扩大市场",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "当前阶段建议",
+                                   "selected_value":  "加大投入",
+                                   "conflict":  false
+                               }
+                           ]
+}

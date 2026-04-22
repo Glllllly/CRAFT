@@ -1,0 +1,2293 @@
+{
+  "bundle_dir": "case_0007_chanpin_产品开发_开发任务",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "开发任务_057.txt",
+      "source_type": "txt",
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0057",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0057",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师10",
+          "raw_key": "分配人",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能13",
+          "raw_key": "功能",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能13",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "14条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：14条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-01-09",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-01-09",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-07-20",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-07-20",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "91%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：91%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "93% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：93% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "12条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：12条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-01-25",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-01-25",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-10-28",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-10-28",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "33天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：33天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "开发任务_058.txt",
+      "source_type": "txt",
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0058",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0058",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师11",
+          "raw_key": "分配人",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师11",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能14",
+          "raw_key": "功能",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能14",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "23条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：23条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-09-20",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-09-20",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-01-24",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-01-24",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "67%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：67%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "54% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：54% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-07-14",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-07-14",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-05-06",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-05-06",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "10天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：10天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "开发任务_059.txt",
+      "source_type": "txt",
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0059",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0059",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P4",
+          "raw_key": "优先级",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师12",
+          "raw_key": "分配人",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师12",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能15",
+          "raw_key": "功能",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "11条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：11条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-11-21",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-11-21",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-09-24",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-09-24",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "82%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：82%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "100% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：100% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "3条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：3条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-03-04",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-03-04",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-11-13",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-11-13",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "26天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：26天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "开发任务_069.txt",
+      "source_type": "txt",
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0069",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P1",
+          "raw_key": "优先级",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师10",
+          "raw_key": "分配人",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "22条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：22条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-10-27",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-10-27",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-01-23",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-01-23",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "45%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：45%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "95% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：95% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-08-14",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-08-14",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-02-11",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-02-11",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "27天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：27天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "开发任务_071.txt",
+      "source_type": "txt",
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0071",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0071",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P4",
+          "raw_key": "优先级",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师12",
+          "raw_key": "分配人",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师12",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能12",
+          "raw_key": "功能",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能12",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "15条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：15条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-11-28",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-11-28",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-08-04",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-08-04",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "44%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：44%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "137% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：137% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "12条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：12条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-07-15",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-07-15",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-05-24",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-05-24",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "29天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：29天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "任务编号",
+      "candidates": [
+        {
+          "key": "任务编号",
+          "value": "DEV-0057",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0057",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "任务编号",
+          "value": "DEV-0058",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0058",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "任务编号",
+          "value": "DEV-0059",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0059",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "任务编号",
+          "value": "DEV-0069",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0069",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "任务编号",
+          "value": "DEV-0071",
+          "raw_key": "任务编号",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "任务编号：DEV-0071",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优先级",
+      "candidates": [
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P4",
+          "raw_key": "优先级",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P1",
+          "raw_key": "优先级",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P4",
+          "raw_key": "优先级",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P4",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "分配人",
+      "candidates": [
+        {
+          "key": "分配人",
+          "value": "开发工程师10",
+          "raw_key": "分配人",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师11",
+          "raw_key": "分配人",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师11",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师12",
+          "raw_key": "分配人",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师12",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师10",
+          "raw_key": "分配人",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "分配人",
+          "value": "开发工程师12",
+          "raw_key": "分配人",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "分配人：开发工程师12",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能",
+      "candidates": [
+        {
+          "key": "功能",
+          "value": "功能13",
+          "raw_key": "功能",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能13",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能14",
+          "raw_key": "功能",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能14",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能15",
+          "raw_key": "功能",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能10",
+          "raw_key": "功能",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能",
+          "value": "功能12",
+          "raw_key": "功能",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能：功能12",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能需求",
+      "candidates": [
+        {
+          "key": "功能需求",
+          "value": "14条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：14条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "23条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：23条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "11条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：11条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "22条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：22条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能需求",
+          "value": "15条",
+          "raw_key": "功能需求",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能需求：15条",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "复杂度",
+      "candidates": [
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "复杂度",
+          "value": "简单)",
+          "raw_key": "复杂度",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "复杂度：简单)",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "存在问题",
+      "candidates": [
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "存在问题",
+          "value": "无)",
+          "raw_key": "存在问题",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "存在问题：无)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "开发完成",
+      "candidates": [
+        {
+          "key": "开发完成",
+          "value": "2024-01-09",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-01-09",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-09-20",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-09-20",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-11-21",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-11-21",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-10-27",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-10-27",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发完成",
+          "value": "2024-11-28",
+          "raw_key": "开发完成",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发完成：2024-11-28",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "开发开始",
+      "candidates": [
+        {
+          "key": "开发开始",
+          "value": "2024-07-20",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-07-20",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-01-24",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-01-24",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-09-24",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-09-24",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-01-23",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-01-23",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "开发开始",
+          "value": "2024-08-04",
+          "raw_key": "开发开始",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "开发开始：2024-08-04",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "当前进度",
+      "candidates": [
+        {
+          "key": "当前进度",
+          "value": "91%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：91%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "67%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：67%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "82%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：82%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "45%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：45%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前进度",
+          "value": "44%",
+          "raw_key": "当前进度",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前进度：44%",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "性能目标",
+      "candidates": [
+        {
+          "key": "性能目标",
+          "value": "93% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：93% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "54% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：54% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "100% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：100% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "95% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：95% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "性能目标",
+          "value": "137% 优化率",
+          "raw_key": "性能目标",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "性能目标：137% 优化率",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "技术栈",
+      "candidates": [
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术栈",
+          "value": "Java) / React)",
+          "raw_key": "技术栈",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术栈：Java) / React)",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "技术需求",
+      "candidates": [
+        {
+          "key": "技术需求",
+          "value": "12条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：12条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "3条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：3条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "10条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：10条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "技术需求",
+          "value": "12条",
+          "raw_key": "技术需求",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "技术需求：12条",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "测试交付",
+      "candidates": [
+        {
+          "key": "测试交付",
+          "value": "2024-01-25",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-01-25",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-07-14",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-07-14",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-03-04",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-03-04",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-08-14",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-08-14",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试交付",
+          "value": "2024-07-15",
+          "raw_key": "测试交付",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试交付：2024-07-15",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "设计评审",
+      "candidates": [
+        {
+          "key": "设计评审",
+          "value": "2024-10-28",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-10-28",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-05-06",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-05-06",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-11-13",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-11-13",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-02-11",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-02-11",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "设计评审",
+          "value": "2024-05-24",
+          "raw_key": "设计评审",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "设计评审：2024-05-24",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "需要实现",
+      "candidates": [
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "需要实现",
+          "value": "后端接口开发",
+          "raw_key": "需要实现",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "需要实现：后端接口开发",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "预计工期",
+      "candidates": [
+        {
+          "key": "预计工期",
+          "value": "33天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：33天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "10天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：10天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "26天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：26天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "27天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：27天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "预计工期",
+          "value": "29天",
+          "raw_key": "预计工期",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "预计工期：29天",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险评级",
+      "candidates": [
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_057.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_058.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_059.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_069.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险评级",
+          "value": "低)",
+          "raw_key": "风险评级",
+          "source_file": "开发任务_071.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险评级：低)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

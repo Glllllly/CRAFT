@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0219_houqin_预算管理_年度预算",
+    "tenant":  "houqin",
+    "topic":  "预算管理",
+    "subtopic":  "年度预算",
+    "source_dir":  "houqin\\预算管理\\年度预算",
+    "total_files_in_source_dir":  32,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\预算管理\\年度预算\\工作报告_7755.json",
+                      "copied_name":  "工作报告_7755.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\年度预算\\库存清单_8978.csv",
+                      "copied_name":  "库存清单_8978.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\年度预算\\2024年后勤预算计划.txt",
+                      "copied_name":  "2024年后勤预算计划.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  724
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\年度预算\\销售统计_1756.eml",
+                      "copied_name":  "销售统计_1756.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\年度预算\\休假申请_6684.csv",
+                      "copied_name":  "休假申请_6684.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  }
+              ]
+}

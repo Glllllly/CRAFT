@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "027.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Submitted By 鈥?Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department / Team",
+                      "value_cell":  "M9:X9",
+                      "value":  "Operations Procurement"
+                  },
+                  {
+                      "label":  "Phone Extension",
+                      "value_cell":  "A11:L11",
+                      "value":  "x4492"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "M11:X11",
+                      "value":  "s.jenkins@company.com"
+                  },
+                  {
+                      "label":  "Date of Submission",
+                      "value_cell":  "A13:L13",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Internal Reference / Ticket Number",
+                      "value_cell":  "M13:X13",
+                      "value":  "DISP-2023-9901"
+                  },
+                  {
+                      "label":  "Supplier / Vendor Name",
+                      "value_cell":  "A18:L18",
+                      "value":  "Global Logistics Solutions"
+                  },
+                  {
+                      "label":  "Supplier ID in System",
+                      "value_cell":  "M18:X18",
+                      "value":  "GLS-88291"
+                  },
+                  {
+                      "label":  "Supplier Contact Name",
+                      "value_cell":  "A20:L20",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Supplier Phone \u0026 E-mail",
+                      "value_cell":  "M20:X20",
+                      "value":  "555-012-3456 / m.thompson@globallogistics.com"
+                  },
+                  {
+                      "label":  "Invoice Number",
+                      "value_cell":  "A25:L25",
+                      "value":  "INV-998234"
+                  },
+                  {
+                      "label":  "Invoice Date",
+                      "value_cell":  "M25:X25",
+                      "value":  "2023-10-05"
+                  },
+                  {
+                      "label":  "Invoice Amount $",
+                      "value_cell":  "A27:L27",
+                      "value":  "12,500.00"
+                  },
+                  {
+                      "label":  "PO Number (if applicable)",
+                      "value_cell":  "M27:X27",
+                      "value":  "PO-7721"
+                  },
+                  {
+                      "label":  "Contract / Agreement Reference",
+                      "value_cell":  "A29:L29",
+                      "value":  "MSA-2022-004"
+                  },
+                  {
+                      "label":  "Currency",
+                      "value_cell":  "M29:X29",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "GL / Account Code",
+                      "value_cell":  "A31:L31",
+                      "value":  "GL-5500-FREIGHT"
+                  },
+                  {
+                      "label":  "Cost Centre",
+                      "value_cell":  "M31:X31",
+                      "value":  "CC-LOG-01"
+                  },
+                  {
+                      "label":  "Incorrect Amount",
+                      "value_cell":  "H36",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Duplicate Invoice",
+                      "value_cell":  "M36",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Goods Not Received",
+                      "value_cell":  "R36",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Detailed Description of the Discrepancy",
+                      "value_cell":  "A37:X38",
+                      "value":  "The invoice includes a fuel surcharge of $1,500.00 which was explicitly waived in the signed MSA-2022-004 agreement."
+                  },
+                  {
+                      "label":  "Correct Amount (if known) $",
+                      "value_cell":  "A40:L40",
+                      "value":  "11,000.00"
+                  },
+                  {
+                      "label":  "Discrepancy Amount $",
+                      "value_cell":  "M40:X40",
+                      "value":  "1,500.00"
+                  },
+                  {
+                      "label":  "Supporting Evidence  (PO, GRN, contract clause, prior correspondence)",
+                      "value_cell":  "M40:X40",
+                      "value":  "Referenced clause 4.2 in MSA-2022-004 regarding fuel surcharge waivers."
+                  },
+                  {
+                      "label":  "Deadline for Supplier Response",
+                      "value_cell":  "M40:X40",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "Escalation Contact if Unresolved",
+                      "value_cell":  "M40:X40",
+                      "value":  "David Miller, Procurement Director"
+                  },
+                  {
+                      "label":  "Supplier Response Date",
+                      "value_cell":  "M40:X40",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Response Provided By",
+                      "value_cell":  "M40:X40",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Supplier Comments",
+                      "value_cell":  "M40:X40",
+                      "value":  "Acknowledged error; credit note will be issued for the $1,500.00 difference."
+                  },
+                  {
+                      "label":  "Accounts Payable Officer",
+                      "value_cell":  "A64:L64",
+                      "value":  "Linda Rossi"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N64:X64",
+                      "value":  "2023-10-21"
+                  },
+                  {
+                      "label":  "Procurement Manager",
+                      "value_cell":  "A67:L67",
+                      "value":  "Robert Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N67:X67",
+                      "value":  "2023-10-22"
+                  },
+                  {
+                      "label":  "Finance Controller",
+                      "value_cell":  "A67:L67",
+                      "value":  "Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N67:X67",
+                      "value":  "2023-10-23"
+                  }
+              ]
+}

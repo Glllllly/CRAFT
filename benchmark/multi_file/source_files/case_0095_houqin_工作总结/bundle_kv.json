@@ -1,0 +1,3873 @@
+{
+  "bundle_dir": "case_0095_houqin_工作总结",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "库存清单_4396.eml",
+      "source_type": "eml",
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "from",
+          "value": "李明@company.com",
+          "raw_key": "from",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 李明@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "subject",
+          "value": "库存清单",
+          "raw_key": "subject",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 库存清单",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "to",
+          "value": "王五@company.com",
+          "raw_key": "to",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 王五@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "source_file": "总结报告_07月.txt",
+      "source_type": "txt",
+      "candidate_count": 25,
+      "candidates": [
+        {
+          "key": "出车次数",
+          "value": "104次",
+          "raw_key": "- 出车次数",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 出车次数：104次",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "固定资产总值",
+          "value": "¥10021576",
+          "raw_key": "- 固定资产总值",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 固定资产总值：¥10021576",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "完成采购订单",
+          "value": "116个",
+          "raw_key": "- 完成采购订单",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 完成采购订单：116个",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均维修时间",
+          "value": "7天",
+          "raw_key": "- 平均维修时间",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均维修时间：7天",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均采购周期",
+          "value": "20天",
+          "raw_key": "- 平均采购周期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均采购周期：20天",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存准确率",
+          "value": "94%",
+          "raw_key": "- 库存准确率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存准确率：94%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存周转率",
+          "value": "11次/月",
+          "raw_key": "- 库存周转率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存周转率：11次/月",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存总值",
+          "value": "¥2018150",
+          "raw_key": "- 库存总值",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存总值：¥2018150",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存物品种类",
+          "value": "414种",
+          "raw_key": "- 库存物品种类",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存物品种类：414种",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准人",
+          "value": "总经理",
+          "raw_key": "批准人",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准人：总经理",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准日期",
+          "value": "2024-08-01",
+          "raw_key": "批准日期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准日期：2024-08-01",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "部门经理",
+          "raw_key": "报告人",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：部门经理",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-07-28",
+          "raw_key": "报告时间",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-07-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期",
+          "value": "2024年07月",
+          "raw_key": "报告期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期：2024年07月",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "故障处理率",
+          "value": "96%",
+          "raw_key": "- 故障处理率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 故障处理率：96%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "本月增加",
+          "value": "¥118968",
+          "raw_key": "- 本月增加",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 本月增加：¥118968",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "燃油消耗",
+          "value": "1343升",
+          "raw_key": "- 燃油消耗",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 燃油消耗：1343升",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修工单",
+          "value": "28张",
+          "raw_key": "- 维修工单",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修工单：28张",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修费用",
+          "value": "¥109936",
+          "raw_key": "- 维修费用",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修费用：¥109936",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "编写部门",
+          "value": "后勤部",
+          "raw_key": "编写部门",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "编写部门：后勤部",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "行驶里程",
+          "value": "12053km",
+          "raw_key": "- 行驶里程",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 行驶里程：12053km",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资产完整率",
+          "value": "96%",
+          "raw_key": "- 资产完整率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 资产完整率：96%",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "运营成本",
+          "value": "¥50697",
+          "raw_key": "- 运营成本",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 运营成本：¥50697",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购总额",
+          "value": "¥1021463",
+          "raw_key": "- 采购总额",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购总额：¥1021463",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购执行率",
+          "value": "94%",
+          "raw_key": "- 采购执行率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购执行率：94%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "总结报告_11月.txt",
+      "source_type": "txt",
+      "candidate_count": 25,
+      "candidates": [
+        {
+          "key": "出车次数",
+          "value": "297次",
+          "raw_key": "- 出车次数",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 出车次数：297次",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "固定资产总值",
+          "value": "¥10010140",
+          "raw_key": "- 固定资产总值",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 固定资产总值：¥10010140",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "完成采购订单",
+          "value": "122个",
+          "raw_key": "- 完成采购订单",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 完成采购订单：122个",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均维修时间",
+          "value": "5天",
+          "raw_key": "- 平均维修时间",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均维修时间：5天",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均采购周期",
+          "value": "21天",
+          "raw_key": "- 平均采购周期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均采购周期：21天",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存准确率",
+          "value": "92%",
+          "raw_key": "- 库存准确率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存准确率：92%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存周转率",
+          "value": "7次/月",
+          "raw_key": "- 库存周转率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存周转率：7次/月",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存总值",
+          "value": "¥2008766",
+          "raw_key": "- 库存总值",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存总值：¥2008766",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存物品种类",
+          "value": "359种",
+          "raw_key": "- 库存物品种类",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存物品种类：359种",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准人",
+          "value": "总经理",
+          "raw_key": "批准人",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准人：总经理",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准日期",
+          "value": "2024-12-01",
+          "raw_key": "批准日期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准日期：2024-12-01",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "部门经理",
+          "raw_key": "报告人",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：部门经理",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-11-28",
+          "raw_key": "报告时间",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-11-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期",
+          "value": "2024年11月",
+          "raw_key": "报告期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期：2024年11月",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "故障处理率",
+          "value": "99%",
+          "raw_key": "- 故障处理率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 故障处理率：99%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "本月增加",
+          "value": "¥123375",
+          "raw_key": "- 本月增加",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 本月增加：¥123375",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "燃油消耗",
+          "value": "1779升",
+          "raw_key": "- 燃油消耗",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 燃油消耗：1779升",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修工单",
+          "value": "57张",
+          "raw_key": "- 维修工单",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修工单：57张",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修费用",
+          "value": "¥113331",
+          "raw_key": "- 维修费用",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修费用：¥113331",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "编写部门",
+          "value": "后勤部",
+          "raw_key": "编写部门",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "编写部门：后勤部",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "行驶里程",
+          "value": "12952km",
+          "raw_key": "- 行驶里程",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 行驶里程：12952km",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资产完整率",
+          "value": "98%",
+          "raw_key": "- 资产完整率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 资产完整率：98%",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "运营成本",
+          "value": "¥51238",
+          "raw_key": "- 运营成本",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 运营成本：¥51238",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购总额",
+          "value": "¥1021399",
+          "raw_key": "- 采购总额",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购总额：¥1021399",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购执行率",
+          "value": "91%",
+          "raw_key": "- 采购执行率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购执行率：91%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "报销申请_1831.csv",
+      "source_type": "csv",
+      "candidate_count": 85,
+      "candidates": [
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "汇报",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张三",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李明",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "马腾",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "黄欢",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息127",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息191",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息215",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息269",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息278",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息326",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息363",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息377",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息406",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息527",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息549",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息675",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-12 | 采购部 | 李四 | 审批 | 待处理 | 备注信息675",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息679",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息683",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息701",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息763",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息770",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息813",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息821",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息885",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-12 | 采购部 | 李四 | 审批 | 待处理 | 备注信息675",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-14",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-15",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-16",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-17",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-18",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-19",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-23",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-30",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-04",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-05",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-06",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-07",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-08",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "source_file": "销售统计_5293.json",
+      "source_type": "json",
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.295421",
+          "raw_key": "create_date",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.295421",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "creator",
+          "value": "刘涛",
+          "raw_key": "creator",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 刘涛",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "department",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 物流部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "id",
+          "value": "76341",
+          "raw_key": "id",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 76341",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "priority",
+          "value": "中",
+          "raw_key": "priority",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 中",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "status",
+          "value": "已审批",
+          "raw_key": "status",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 已审批",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "tags.0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "title",
+          "value": "销售统计_9927",
+          "raw_key": "title",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 销售统计_9927",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "type",
+          "value": "销售统计",
+          "raw_key": "type",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 销售统计",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "0",
+      "candidates": [
+        {
+          "key": "0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "key": "createdate",
+      "candidates": [
+        {
+          "key": "createdate",
+          "value": "2026-02-10T05:30:31.295421",
+          "raw_key": "create_date",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "create_date = 2026-02-10T05:30:31.295421",
+            "location": "path:create_date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "creator",
+      "candidates": [
+        {
+          "key": "creator",
+          "value": "刘涛",
+          "raw_key": "creator",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "creator = 刘涛",
+            "location": "path:creator"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "date",
+      "candidates": [
+        {
+          "key": "date",
+          "value": "Tue, 10 Feb 2026 05:30:31 +0800",
+          "raw_key": "date",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "date: Tue, 10 Feb 2026 05:30:31 +0800",
+            "location": "header:date"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "department",
+      "candidates": [
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "department",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "department = 物流部",
+            "location": "path:department"
+          },
+          "confidence": 0.95
+        },
+        {
+          "key": "department",
+          "value": "人力资源部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "总经理办公室",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "物流部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "生产部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "质控部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "采购部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:3"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "department",
+          "value": "销售部",
+          "raw_key": "部门",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:3"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "from",
+      "candidates": [
+        {
+          "key": "from",
+          "value": "李明@company.com",
+          "raw_key": "from",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "from: 李明@company.com",
+            "location": "header:from"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "id",
+      "candidates": [
+        {
+          "key": "id",
+          "value": "76341",
+          "raw_key": "id",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "id = 76341",
+            "location": "path:id"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "priority",
+      "candidates": [
+        {
+          "key": "priority",
+          "value": "中",
+          "raw_key": "priority",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "priority = 中",
+            "location": "path:priority"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "remarks",
+      "candidates": [
+        {
+          "key": "remarks",
+          "value": "这是一条虚拟数据记录",
+          "raw_key": "remarks",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "remarks = 这是一条虚拟数据记录",
+            "location": "path:remarks"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "status",
+      "candidates": [
+        {
+          "key": "status",
+          "value": "已审批",
+          "raw_key": "status",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "status = 已审批",
+            "location": "path:status"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "subject",
+      "candidates": [
+        {
+          "key": "subject",
+          "value": "库存清单",
+          "raw_key": "subject",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "subject: 库存清单",
+            "location": "header:subject"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "tags.0",
+      "candidates": [
+        {
+          "key": "tags.0",
+          "value": "重要",
+          "raw_key": "0",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "tags.0 = 重要",
+            "location": "path:tags.0"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "title",
+      "candidates": [
+        {
+          "key": "title",
+          "value": "销售统计_9927",
+          "raw_key": "title",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "title = 销售统计_9927",
+            "location": "path:title"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "to",
+      "candidates": [
+        {
+          "key": "to",
+          "value": "王五@company.com",
+          "raw_key": "to",
+          "source_file": "库存清单_4396.eml",
+          "source_type": "eml",
+          "evidence": {
+            "text": "to: 王五@company.com",
+            "location": "header:to"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "type",
+      "candidates": [
+        {
+          "key": "type",
+          "value": "销售统计",
+          "raw_key": "type",
+          "source_file": "销售统计_5293.json",
+          "source_type": "json",
+          "evidence": {
+            "text": "type = 销售统计",
+            "location": "path:type"
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "key": "事项",
+      "candidates": [
+        {
+          "key": "事项",
+          "value": "会议",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "审批",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "检查",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "汇报",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:5"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "事项",
+          "value": "维护",
+          "raw_key": "事项",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:5"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "人员",
+      "candidates": [
+        {
+          "key": "人员",
+          "value": "刘林",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "刘涛",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "周八",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "孙七",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张三",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "张丽",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李四",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "李明",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "郑十",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "陈芳",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "马腾",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:4"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "人员",
+          "value": "黄欢",
+          "raw_key": "人员",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:4"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "出车次数",
+      "candidates": [
+        {
+          "key": "出车次数",
+          "value": "104次",
+          "raw_key": "- 出车次数",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 出车次数：104次",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "出车次数",
+          "value": "297次",
+          "raw_key": "- 出车次数",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 出车次数：297次",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "固定资产总值",
+      "candidates": [
+        {
+          "key": "固定资产总值",
+          "value": "¥10021576",
+          "raw_key": "- 固定资产总值",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 固定资产总值：¥10021576",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "固定资产总值",
+          "value": "¥10010140",
+          "raw_key": "- 固定资产总值",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 固定资产总值：¥10010140",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "备注",
+      "candidates": [
+        {
+          "key": "备注",
+          "value": "备注信息127",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息191",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息215",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息269",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息278",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息326",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息363",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息377",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息406",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息527",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息549",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息675",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-12 | 采购部 | 李四 | 审批 | 待处理 | 备注信息675",
+            "location": "row:10,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息679",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息683",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息701",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息763",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息770",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息813",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息821",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:7"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "备注",
+          "value": "备注信息885",
+          "raw_key": "备注",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:7"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "完成采购订单",
+      "candidates": [
+        {
+          "key": "完成采购订单",
+          "value": "116个",
+          "raw_key": "- 完成采购订单",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 完成采购订单：116个",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "完成采购订单",
+          "value": "122个",
+          "raw_key": "- 完成采购订单",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 完成采购订单：122个",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "平均维修时间",
+      "candidates": [
+        {
+          "key": "平均维修时间",
+          "value": "7天",
+          "raw_key": "- 平均维修时间",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均维修时间：7天",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均维修时间",
+          "value": "5天",
+          "raw_key": "- 平均维修时间",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均维修时间：5天",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "平均采购周期",
+      "candidates": [
+        {
+          "key": "平均采购周期",
+          "value": "20天",
+          "raw_key": "- 平均采购周期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均采购周期：20天",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "平均采购周期",
+          "value": "21天",
+          "raw_key": "- 平均采购周期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 平均采购周期：21天",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "序号",
+      "candidates": [
+        {
+          "key": "序号",
+          "value": "1",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "10",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "11",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "11 | 2026-01-11 | 销售部 | 张三 | 审批 | 待处理 | 备注信息215",
+            "location": "row:12,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "12",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "13",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "14",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "15",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "15 | 2026-02-01 | 人力资源部 | 郑十 | 维护 | 进行中 | 备注信息527",
+            "location": "row:16,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "16",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "17",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "18",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "19",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "2",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "20",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "3",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "4",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "5",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "6",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "7",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "8",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:1"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "序号",
+          "value": "9",
+          "raw_key": "序号",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "9 | 2026-01-12 | 采购部 | 李四 | 审批 | 待处理 | 备注信息675",
+            "location": "row:10,col:1"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "库存准确率",
+      "candidates": [
+        {
+          "key": "库存准确率",
+          "value": "94%",
+          "raw_key": "- 库存准确率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存准确率：94%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存准确率",
+          "value": "92%",
+          "raw_key": "- 库存准确率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存准确率：92%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "库存周转率",
+      "candidates": [
+        {
+          "key": "库存周转率",
+          "value": "11次/月",
+          "raw_key": "- 库存周转率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存周转率：11次/月",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存周转率",
+          "value": "7次/月",
+          "raw_key": "- 库存周转率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存周转率：7次/月",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "库存总值",
+      "candidates": [
+        {
+          "key": "库存总值",
+          "value": "¥2018150",
+          "raw_key": "- 库存总值",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存总值：¥2018150",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存总值",
+          "value": "¥2008766",
+          "raw_key": "- 库存总值",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存总值：¥2008766",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "库存物品种类",
+      "candidates": [
+        {
+          "key": "库存物品种类",
+          "value": "414种",
+          "raw_key": "- 库存物品种类",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存物品种类：414种",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "库存物品种类",
+          "value": "359种",
+          "raw_key": "- 库存物品种类",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 库存物品种类：359种",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "批准人",
+      "candidates": [
+        {
+          "key": "批准人",
+          "value": "总经理",
+          "raw_key": "批准人",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准人：总经理",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准人",
+          "value": "总经理",
+          "raw_key": "批准人",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准人：总经理",
+            "location": "line:72"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "批准日期",
+      "candidates": [
+        {
+          "key": "批准日期",
+          "value": "2024-08-01",
+          "raw_key": "批准日期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准日期：2024-08-01",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "批准日期",
+          "value": "2024-12-01",
+          "raw_key": "批准日期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "批准日期：2024-12-01",
+            "location": "line:73"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告人",
+      "candidates": [
+        {
+          "key": "报告人",
+          "value": "部门经理",
+          "raw_key": "报告人",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：部门经理",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告人",
+          "value": "部门经理",
+          "raw_key": "报告人",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告人：部门经理",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告时间",
+      "candidates": [
+        {
+          "key": "报告时间",
+          "value": "2024-07-28",
+          "raw_key": "报告时间",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-07-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告时间",
+          "value": "2024-11-28",
+          "raw_key": "报告时间",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告时间：2024-11-28",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "报告期",
+      "candidates": [
+        {
+          "key": "报告期",
+          "value": "2024年07月",
+          "raw_key": "报告期",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期：2024年07月",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "报告期",
+          "value": "2024年11月",
+          "raw_key": "报告期",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "报告期：2024年11月",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "故障处理率",
+      "candidates": [
+        {
+          "key": "故障处理率",
+          "value": "96%",
+          "raw_key": "- 故障处理率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 故障处理率：96%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "故障处理率",
+          "value": "99%",
+          "raw_key": "- 故障处理率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 故障处理率：99%",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "日期",
+      "candidates": [
+        {
+          "key": "日期",
+          "value": "2026-01-11",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "6 | 2026-01-11 | 采购部 | 刘林 | 会议 | 进行中 | 备注信息278",
+            "location": "row:7,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-12",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-14",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "18 | 2026-01-14 | 总经理办公室 | 孙七 | 审批 | 进行中 | 备注信息813",
+            "location": "row:19,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-15",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "5 | 2026-01-15 | 销售部 | 陈芳 | 维护 | 已批准 | 备注信息763",
+            "location": "row:6,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-16",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "13 | 2026-01-16 | 物流部 | 李明 | 维护 | 待处理 | 备注信息406",
+            "location": "row:14,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-17",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "12 | 2026-01-17 | 物流部 | 李四 | 汇报 | 进行中 | 备注信息127",
+            "location": "row:13,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-18",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "14 | 2026-01-18 | 总经理办公室 | 马腾 | 汇报 | 已批准 | 备注信息821",
+            "location": "row:15,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-19",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-21",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "20 | 2026-01-21 | 采购部 | 李四 | 汇报 | 待处理 | 备注信息679",
+            "location": "row:21,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-23",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "7 | 2026-01-23 | 人力资源部 | 黄欢 | 审批 | 待处理 | 备注信息770",
+            "location": "row:8,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-01-30",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-01",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-04",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "3 | 2026-02-04 | 质控部 | 李四 | 审批 | 进行中 | 备注信息885",
+            "location": "row:4,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-05",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "19 | 2026-02-05 | 销售部 | 李明 | 会议 | 进行中 | 备注信息363",
+            "location": "row:20,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-06",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "17 | 2026-02-06 | 生产部 | 马腾 | 汇报 | 进行中 | 备注信息683",
+            "location": "row:18,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-07",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "10 | 2026-02-07 | 质控部 | 周八 | 审批 | 已批准 | 备注信息701",
+            "location": "row:11,col:2"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "日期",
+          "value": "2026-02-08",
+          "raw_key": "日期",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "16 | 2026-02-08 | 物流部 | 张三 | 维护 | 完成 | 备注信息377",
+            "location": "row:17,col:2"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "本月增加",
+      "candidates": [
+        {
+          "key": "本月增加",
+          "value": "¥118968",
+          "raw_key": "- 本月增加",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 本月增加：¥118968",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "本月增加",
+          "value": "¥123375",
+          "raw_key": "- 本月增加",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 本月增加：¥123375",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "燃油消耗",
+      "candidates": [
+        {
+          "key": "燃油消耗",
+          "value": "1343升",
+          "raw_key": "- 燃油消耗",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 燃油消耗：1343升",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "燃油消耗",
+          "value": "1779升",
+          "raw_key": "- 燃油消耗",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 燃油消耗：1779升",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "完成",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "8 | 2026-02-01 | 物流部 | 张丽 | 汇报 | 完成 | 备注信息269",
+            "location": "row:9,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "4 | 2026-01-30 | 质控部 | 刘涛 | 会议 | 已批准 | 备注信息549",
+            "location": "row:5,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "待处理",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "1 | 2026-01-12 | 物流部 | 孙七 | 汇报 | 待处理 | 备注信息326",
+            "location": "row:2,col:6"
+          },
+          "confidence": 0.88
+        },
+        {
+          "key": "状态",
+          "value": "进行中",
+          "raw_key": "状态",
+          "source_file": "报销申请_1831.csv",
+          "source_type": "csv",
+          "evidence": {
+            "text": "2 | 2026-01-19 | 质控部 | 周八 | 检查 | 进行中 | 备注信息191",
+            "location": "row:3,col:6"
+          },
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "key": "维修工单",
+      "candidates": [
+        {
+          "key": "维修工单",
+          "value": "28张",
+          "raw_key": "- 维修工单",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修工单：28张",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修工单",
+          "value": "57张",
+          "raw_key": "- 维修工单",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修工单：57张",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "维修费用",
+      "candidates": [
+        {
+          "key": "维修费用",
+          "value": "¥109936",
+          "raw_key": "- 维修费用",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修费用：¥109936",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "维修费用",
+          "value": "¥113331",
+          "raw_key": "- 维修费用",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 维修费用：¥113331",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "编写部门",
+      "candidates": [
+        {
+          "key": "编写部门",
+          "value": "后勤部",
+          "raw_key": "编写部门",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "编写部门：后勤部",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "编写部门",
+          "value": "后勤部",
+          "raw_key": "编写部门",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "编写部门：后勤部",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "行驶里程",
+      "candidates": [
+        {
+          "key": "行驶里程",
+          "value": "12053km",
+          "raw_key": "- 行驶里程",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 行驶里程：12053km",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "行驶里程",
+          "value": "12952km",
+          "raw_key": "- 行驶里程",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 行驶里程：12952km",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "资产完整率",
+      "candidates": [
+        {
+          "key": "资产完整率",
+          "value": "96%",
+          "raw_key": "- 资产完整率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 资产完整率：96%",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "资产完整率",
+          "value": "98%",
+          "raw_key": "- 资产完整率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 资产完整率：98%",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "运营成本",
+      "candidates": [
+        {
+          "key": "运营成本",
+          "value": "¥50697",
+          "raw_key": "- 运营成本",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 运营成本：¥50697",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "运营成本",
+          "value": "¥51238",
+          "raw_key": "- 运营成本",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 运营成本：¥51238",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "采购总额",
+      "candidates": [
+        {
+          "key": "采购总额",
+          "value": "¥1021463",
+          "raw_key": "- 采购总额",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购总额：¥1021463",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购总额",
+          "value": "¥1021399",
+          "raw_key": "- 采购总额",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购总额：¥1021399",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "采购执行率",
+      "candidates": [
+        {
+          "key": "采购执行率",
+          "value": "94%",
+          "raw_key": "- 采购执行率",
+          "source_file": "总结报告_07月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购执行率：94%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "采购执行率",
+          "value": "91%",
+          "raw_key": "- 采购执行率",
+          "source_file": "总结报告_11月.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "- 采购执行率：91%",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

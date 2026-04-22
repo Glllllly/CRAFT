@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "1_MHeardOct2001__7258a1f78671dd41ac67be1eaabd66d513e634@nahou-msmbx05v.corp.enron.com.#1.Grupo MINSA Deemed ISDA.xlsx",
+    "sheet":  "ANEWSWP2",
+    "pairs":  [
+                  {
+                      "label":  "DATE: ",
+                      "value_cell":  "B3",
+                      "value":  "October 24, 2023"
+                  },
+                  {
+                      "label":  "ATTORNEY:",
+                      "value_cell":  "D2",
+                      "value":  "Sarah Jenkins, Esq."
+                  },
+                  {
+                      "label":  "DEAL MAKER:",
+                      "value_cell":  "D3",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "COUNTERPARTY:",
+                      "value_cell":  "B4",
+                      "value":  "Apex Global Logistics, Inc."
+                  },
+                  {
+                      "label":  "   ADDRESS:",
+                      "value_cell":  "B5:B8",
+                      "value":  "4500 Industrial Way, Suite 200, Chicago, IL 60607"
+                  },
+                  {
+                      "label":  "CONTACT:",
+                      "value_cell":  "D4",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "TITLE:",
+                      "value_cell":  "D5",
+                      "value":  "Director of Operations"
+                  },
+                  {
+                      "label":  "PHONE:",
+                      "value_cell":  "D6",
+                      "value":  "(312) 555-0198"
+                  },
+                  {
+                      "label":  "FAX:",
+                      "value_cell":  "D7",
+                      "value":  "(312) 555-0199"
+                  },
+                  {
+                      "label":  "E mail:",
+                      "value_cell":  "D8",
+                      "value":  "e.rodriguez@apexlogistics.com"
+                  },
+                  {
+                      "label":  "S\u0026P Rating",
+                      "value_cell":  "D9",
+                      "value":  "BBB+"
+                  },
+                  {
+                      "label":  "Incorporation State",
+                      "value_cell":  "B9",
+                      "value":  "Delaware"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0223_kaifa_ansible",
+    "tenant":  "kaifa",
+    "topic":  "ansible",
+    "subtopic":  "",
+    "source_dir":  "kaifa\\ansible",
+    "total_files_in_source_dir":  85,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "kaifa\\ansible\\playbook_12.yaml",
+                      "copied_name":  "playbook_12.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1696
+                  },
+                  {
+                      "source_rel":  "kaifa\\ansible\\doc_1840.md",
+                      "copied_name":  "doc_1840.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1291
+                  },
+                  {
+                      "source_rel":  "kaifa\\ansible\\playbook_21.yaml",
+                      "copied_name":  "playbook_21.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1696
+                  },
+                  {
+                      "source_rel":  "kaifa\\ansible\\playbook_20.yaml",
+                      "copied_name":  "playbook_20.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1696
+                  },
+                  {
+                      "source_rel":  "kaifa\\ansible\\playbook_10.yaml",
+                      "copied_name":  "playbook_10.yaml",
+                      "bucket":  "structured",
+                      "ext":  ".yaml",
+                      "size":  1696
+                  }
+              ]
+}

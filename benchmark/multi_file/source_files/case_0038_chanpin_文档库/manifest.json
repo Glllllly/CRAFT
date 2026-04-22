@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0038_chanpin_文档库",
+    "tenant":  "chanpin",
+    "topic":  "文档库",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\文档库",
+    "total_files_in_source_dir":  160,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\文档库\\文生图思路梳理纪要.md",
+                      "copied_name":  "文生图思路梳理纪要.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18140
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档库\\invoice_10657.pdf",
+                      "copied_name":  "invoice_10657.pdf",
+                      "bucket":  "document",
+                      "ext":  ".pdf",
+                      "size":  2217
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档库\\进展.md",
+                      "copied_name":  "进展.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18021
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档库\\同步纪要.md",
+                      "copied_name":  "同步纪要.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  17664
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档库\\LLM学习问答合集.md",
+                      "copied_name":  "LLM学习问答合集.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  16129
+                  }
+              ]
+}

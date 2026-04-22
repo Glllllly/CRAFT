@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_06_travel_authorization.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name:",
+                      "value_cell":  "F6:I6",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Employee ID:",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department:",
+                      "value_cell":  "F7:I7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Position:",
+                      "value_cell":  "M7:P7",
+                      "value":  "Senior Brand Manager"
+                  },
+                  {
+                      "label":  "Emergency Contact:",
+                      "value_cell":  "F8:I8",
+                      "value":  "Carlos Rodriguez"
+                  },
+                  {
+                      "label":  "Emergency Phone:",
+                      "value_cell":  "M8:P8",
+                      "value":  "555-012-9876"
+                  },
+                  {
+                      "label":  "Purpose of Travel:",
+                      "value_cell":  "F11:P11",
+                      "value":  "Annual Global Marketing Summit and Product Launch"
+                  },
+                  {
+                      "label":  "Destination  (City / Country):",
+                      "value_cell":  "F12:P12",
+                      "value":  "Berlin, Germany"
+                  },
+                  {
+                      "label":  "Departure Date:",
+                      "value_cell":  "F13:I13",
+                      "value":  "2023-11-12"
+                  },
+                  {
+                      "label":  "Return Date:",
+                      "value_cell":  "M13:P13",
+                      "value":  "2023-11-17"
+                  },
+                  {
+                      "label":  "Mode of Transport:",
+                      "value_cell":  "F14:P14",
+                      "value":  "Commercial Airline"
+                  },
+                  {
+                      "label":  "Estimated Airfare  $:",
+                      "value_cell":  "F15:I15",
+                      "value":  "1200"
+                  },
+                  {
+                      "label":  "Estimated Accommodation  $:",
+                      "value_cell":  "M15:P15",
+                      "value":  "900"
+                  },
+                  {
+                      "label":  "Estimated Daily Allowance  $:",
+                      "value_cell":  "F16:I16",
+                      "value":  "500"
+                  },
+                  {
+                      "label":  "Total Estimated Budget  $:",
+                      "value_cell":  "M16:P16",
+                      "value":  "2600"
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A22:J22",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "Finance Department",
+                      "value_cell":  "A24:J24",
+                      "value":  "Michael Chen"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-26"
+                  },
+                  {
+                      "label":  "Vice President / Director",
+                      "value_cell":  "A26:J26",
+                      "value":  "David Thorne"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M26:P26",
+                      "value":  "2023-10-27"
+                  }
+              ]
+}

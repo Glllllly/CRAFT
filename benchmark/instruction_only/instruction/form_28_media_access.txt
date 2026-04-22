@@ -1,0 +1,140 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Reporter / Journalist Full Name",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Title / Role",
+      "value_text": "Senior Technology Correspondent"
+    },
+    {
+      "key_text": "Media Organization / Publication",
+      "value_text": "Global Tech Daily"
+    },
+    {
+      "key_text": "Type (Print / Broadcast / Online / Podcast / Other)",
+      "value_text": "Online"
+    },
+    {
+      "key_text": "Office Phone",
+      "value_text": "212-555-0198"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "917-555-0432"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "e.rodriguez@globaltechdaily.com"
+    },
+    {
+      "key_text": "Organization Mailing Address",
+      "value_text": "1200 Innovation Way, Suite 400, New York, NY 10001"
+    },
+    {
+      "key_text": "Website / Publication URL",
+      "value_text": "www.globaltechdaily.com"
+    },
+    {
+      "key_text": "Social Media Handle(s)",
+      "value_text": "@erodriguez_tech"
+    },
+    {
+      "key_text": "Event Name / Story Being Covered",
+      "value_text": "Annual Robotics Innovation Expo"
+    },
+    {
+      "key_text": "Event Date(s)",
+      "value_text": "October 15-17, 2023"
+    },
+    {
+      "key_text": "Event Location",
+      "value_text": "Convention Center Hall B, San Francisco, CA"
+    },
+    {
+      "key_text": "Press Conference",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Facility Tour",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Interview Only",
+      "value_text": null
+    },
+    {
+      "key_text": "Photographer / Video Crew",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Embedded Coverage",
+      "value_text": null
+    },
+    {
+      "key_text": "Names & Roles of All Attending Media Personnel",
+      "value_text": "Elena Rodriguez (Reporter), Marcus Thorne (Videographer)"
+    },
+    {
+      "key_text": "Equipment to be Brought On-Site  (cameras, lights, recorders, etc.)",
+      "value_text": "Sony FX6 camera, LED light panel, boom microphone, stabilizer gimbal"
+    },
+    {
+      "key_text": "Requested Interview Subject(s)",
+      "value_text": "Dr. Aris Thorne, Lead Engineer"
+    },
+    {
+      "key_text": "Proposed Interview Topics / Questions",
+      "value_text": "Advancements in autonomous navigation and ethical AI implementation."
+    },
+    {
+      "key_text": "Preferred Interview Format  (In-Person / Phone / Video)",
+      "value_text": "In-Person"
+    },
+    {
+      "key_text": "Preferred Date & Time Window",
+      "value_text": "October 16, 2023, 10:00 AM - 12:00 PM"
+    },
+    {
+      "key_text": "Yes",
+      "value_text": "X"
+    },
+    {
+      "key_text": "No",
+      "value_text": null
+    },
+    {
+      "key_text": "NDA Required?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Embargo Agreement Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Special Conditions or Restrictions on Coverage",
+      "value_text": "No filming in restricted R&D zones labeled with red signage."
+    },
+    {
+      "key_text": "Approved By — Communications Dir.",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-09-28"
+    },
+    {
+      "key_text": "Credential #",
+      "value_text": "GTD-2023-998"
+    }
+  ]
+}
+
+Narrative:
+This press credential request is submitted by Elena Rodriguez, a Senior Technology Correspondent for Global Tech Daily. She can be reached at her office at 212-555-0198 or via her cell at 917-555-0432. Her professional email is e.rodriguez@globaltechdaily.com, and her office is located at 1200 Innovation Way, Suite 400, New York, NY 10001. You can find her work at www.globaltechdaily.com or follow her at @erodriguez_tech.
+
+Elena is requesting access to cover the Annual Robotics Innovation Expo taking place from October 15-17, 2023, at the Convention Center Hall B in San Francisco. She has requested access for a press conference, a facility tour, and intends to bring a photographer/video crew. She will be accompanied by Marcus Thorne, who is acting as the videographer. They plan to bring a Sony FX6 camera, an LED light panel, a boom microphone, and a stabilizer gimbal.
+
+For her reporting, she has requested an interview with Dr. Aris Thorne, the Lead Engineer, to discuss advancements in autonomous navigation and ethical AI. She prefers an in-person interview on October 16, 2023, between 10:00 AM and 12:00 PM. A background check has been requested (Yes), and while an NDA is not required, an embargo agreement is necessary. Coverage is restricted to areas outside of the red-signed R&D zones. The request was approved by Communications Director Sarah Jenkins on 2023-09-28, under credential number GTD-2023-998.

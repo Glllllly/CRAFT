@@ -1,0 +1,126 @@
+{
+  "excel": "case_0216_houqin_采购管理_进行中__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "76420"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "会议记录_1292"
+    },
+    {
+      "label": "报告编号",
+      "value_cell": "D9:H9",
+      "value": "QC-009"
+    },
+    {
+      "label": "采购单号",
+      "value_cell": "M9:Q9",
+      "value": "PO-2024-096"
+    },
+    {
+      "label": "检查日期",
+      "value_cell": "D12:H12",
+      "value": "2024-01-01"
+    },
+    {
+      "label": "date",
+      "value_cell": "M12:Q12",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D15:H15",
+      "value": "2026-02-10T05:30:32.138921"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D20:H20",
+      "value": "黄欢"
+    },
+    {
+      "label": "from",
+      "value_cell": "M20:Q20",
+      "value": "李四@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D23:H23",
+      "value": "马腾@company.com"
+    },
+    {
+      "label": "status",
+      "value_cell": "M23:Q23",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D26:H26",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M26:Q26",
+      "value": "临时"
+    },
+    {
+      "label": "type",
+      "value_cell": "D29:H29",
+      "value": "会议记录"
+    },
+    {
+      "label": "物品名称",
+      "value_cell": "D34:H34",
+      "value": "物品10"
+    },
+    {
+      "label": "送检数量",
+      "value_cell": "M34:Q34",
+      "value": "25个/箱"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D37:H37",
+      "value": "库存统计"
+    },
+    {
+      "label": "检查员",
+      "value_cell": "D42:H42",
+      "value": "检查员5"
+    },
+    {
+      "label": "功能测试",
+      "value_cell": "M42:Q42",
+      "value": "正常"
+    },
+    {
+      "label": "包装检查",
+      "value_cell": "D45:H45",
+      "value": "轻微损伤"
+    },
+    {
+      "label": "外观检查",
+      "value_cell": "M45:Q45",
+      "value": "部分不合格"
+    },
+    {
+      "label": "合格率",
+      "value_cell": "D48:H48",
+      "value": "87%"
+    },
+    {
+      "label": "处理意见",
+      "value_cell": "D53:H53",
+      "value": "全部入库"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M53:Q53",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

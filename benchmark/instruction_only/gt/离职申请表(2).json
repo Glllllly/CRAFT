@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "离职申请表(2).xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "鐢宠鏃ユ湡",
+                      "value_cell":  "G3",
+                      "value":  "2023骞?0鏈?5鏃?"
+                  },
+                  {
+                      "label":  "閮ㄩ棬",
+                      "value_cell":  "B4",
+                      "value":  "甯傚満閮?"
+                  },
+                  {
+                      "label":  "濮撳悕",
+                      "value_cell":  "D4",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "宸ュ彿",
+                      "value_cell":  "F4",
+                      "value":  "MKT-082"
+                  },
+                  {
+                      "label":  "鑱屼綅",
+                      "value_cell":  "B5",
+                      "value":  "楂樼骇钀ラ攢涓撳憳"
+                  },
+                  {
+                      "label":  "鍏ヨ亴鏃ユ湡",
+                      "value_cell":  "D5",
+                      "value":  "2021骞?5鏈?1鏃?"
+                  },
+                  {
+                      "label":  "绂昏亴鏃ユ湡",
+                      "value_cell":  "F5",
+                      "value":  "2023骞?1鏈?5鏃?"
+                  },
+                  {
+                      "label":  "绂昏亴绫诲瀷",
+                      "value_cell":  "B6",
+                      "value":  "涓诲姩杈炶亴"
+                  },
+                  {
+                      "label":  "绂昏亴鍘熷洜",
+                      "value_cell":  "B7",
+                      "value":  "涓汉鑱屼笟鍙戝睍瑙勫垝璋冩暣"
+                  },
+                  {
+                      "label":  "瀵瑰叕鍙告剰瑙?寤鸿",
+                      "value_cell":  "B8",
+                      "value":  "甯屾湜鍏徃鑳藉姞寮鸿法閮ㄩ棬娌熼€氭満鍒讹紝鎻愬崌鍗忎綔鏁堢巼銆?"
+                  },
+                  {
+                      "label":  "绂昏亴闈㈣皥",
+                      "value_cell":  "B9",
+                      "value":  "宸插畬鎴?"
+                  },
+                  {
+                      "label":  "鏂囧叿/宸ュ叿",
+                      "value_cell":  "B11",
+                      "value":  "宸蹭氦鍥?"
+                  },
+                  {
+                      "label":  "閭",
+                      "value_cell":  "C11",
+                      "value":  "宸叉敞閿€"
+                  },
+                  {
+                      "label":  "宸ュ崱",
+                      "value_cell":  "D11",
+                      "value":  "宸蹭氦鍥?"
+                  },
+                  {
+                      "label":  "宸ヨ。",
+                      "value_cell":  "E11",
+                      "value":  "宸蹭氦鍥?"
+                  },
+                  {
+                      "label":  "鍏朵粬",
+                      "value_cell":  "F11",
+                      "value":  "鏃?"
+                  },
+                  {
+                      "label":  "鏈汉绛惧悕",
+                      "value_cell":  "B12",
+                      "value":  "寮犱紵"
+                  },
+                  {
+                      "label":  "閮ㄩ棬涓荤绛惧悕",
+                      "value_cell":  "E12",
+                      "value":  "鏉庢槑"
+                  },
+                  {
+                      "label":  "閮ㄩ棬缁忕悊绛惧悕",
+                      "value_cell":  "B13",
+                      "value":  "鐜嬭姵"
+                  },
+                  {
+                      "label":  "浜鸿祫閮ㄧ粡鐞嗙鍚?",
+                      "value_cell":  "E13",
+                      "value":  "璧靛己"
+                  },
+                  {
+                      "label":  "鎬荤粡鐞嗘剰瑙?",
+                      "value_cell":  "B14",
+                      "value":  "鍚屾剰绂昏亴锛岀鏈潵宸ヤ綔椤哄埄銆?"
+                  }
+              ]
+}

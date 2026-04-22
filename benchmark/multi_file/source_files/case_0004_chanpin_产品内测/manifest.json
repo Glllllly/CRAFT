@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0004_chanpin_产品内测",
+    "tenant":  "chanpin",
+    "topic":  "产品内测",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\产品内测",
+    "total_files_in_source_dir":  131,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品内测\\内测报告_60.txt",
+                      "copied_name":  "内测报告_60.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  581
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品内测\\Presentation-Final.pptx",
+                      "copied_name":  "Presentation-Final.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  367843134
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品内测\\Ainsworth_DataScienceForExperimentalDesign.pptx",
+                      "copied_name":  "Ainsworth_DataScienceForExperimentalDesign.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  119853074
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品内测\\NSQSHEP2018_30.pptx",
+                      "copied_name":  "NSQSHEP2018_30.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  51638458
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品内测\\PaoloManghi_Software_Scholarly Communication_Life-cycle_TheOpenAIREview_v1.2.pptx",
+                      "copied_name":  "PaoloManghi_Software_Scholarly Communication_Life-cycle_TheOpenAIREview_v1.2.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  18904360
+                  }
+              ]
+}

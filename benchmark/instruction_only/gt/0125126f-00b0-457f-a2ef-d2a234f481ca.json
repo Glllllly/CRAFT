@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "0125126f-00b0-457f-a2ef-d2a234f481ca.xlsx",
+    "sheet":  "",
+    "pairs":  [
+                  {
+                      "label":  "Nombre del solicitante:",
+                      "value_cell":  "C3",
+                      "value":  "Padre Juan Carlos Mart铆nez"
+                  },
+                  {
+                      "label":  "Direcci贸n:",
+                      "value_cell":  "C4",
+                      "value":  "Calle San Pedro 123, Col. Centro"
+                  },
+                  {
+                      "label":  "Ciudad:",
+                      "value_cell":  "C5",
+                      "value":  "Monterrey"
+                  },
+                  {
+                      "label":  "Estado o provincia:",
+                      "value_cell":  "C6",
+                      "value":  "Nuevo Le贸n"
+                  },
+                  {
+                      "label":  "C贸digo postal:",
+                      "value_cell":  "C7",
+                      "value":  "64000"
+                  },
+                  {
+                      "label":  "Pa铆s:",
+                      "value_cell":  "C8",
+                      "value":  "M茅xico"
+                  },
+                  {
+                      "label":  "Tel茅fono:",
+                      "value_cell":  "C9",
+                      "value":  "+52 81 1234 5678"
+                  },
+                  {
+                      "label":  "Correo electr贸nico:",
+                      "value_cell":  "C10",
+                      "value":  "p.juancarlos@parroquiaejemplo.mx"
+                  }
+              ]
+}

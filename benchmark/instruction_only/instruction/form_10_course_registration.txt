@@ -1,0 +1,216 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Last Name",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Marcus"
+    },
+    {
+      "key_text": "Date of Birth  mm/dd/yyyy",
+      "value_text": "05/12/1992"
+    },
+    {
+      "key_text": "Student ID (if returning)",
+      "value_text": "8849201"
+    },
+    {
+      "key_text": "Primary Language",
+      "value_text": "English"
+    },
+    {
+      "key_text": "Mailing Address",
+      "value_text": "442 Oakwood Avenue"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Springfield"
+    },
+    {
+      "key_text": "State",
+      "value_text": "IL"
+    },
+    {
+      "key_text": "ZIP",
+      "value_text": "62704"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "217-555-0198"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "217-555-4432"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "m.henderson@email.com"
+    },
+    {
+      "key_text": "Employer / Organization (if applicable)",
+      "value_text": "Tech Solutions Inc."
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Junior Developer"
+    },
+    {
+      "key_text": "New Student",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Enrollment Status:",
+      "value_text": null
+    },
+    {
+      "key_text": "Enrollment Status:",
+      "value_text": null
+    },
+    {
+      "key_text": "Enrollment Status:",
+      "value_text": null
+    },
+    {
+      "key_text": "Course Name / Number (Selection 1)",
+      "value_text": "CS101 Intro to Python"
+    },
+    {
+      "key_text": "Section (Selection 1)",
+      "value_text": "A"
+    },
+    {
+      "key_text": "Credits / CEUs (Selection 1)",
+      "value_text": "3.0"
+    },
+    {
+      "key_text": "Fee  $ (Selection 1)",
+      "value_text": "450.00"
+    },
+    {
+      "key_text": "Day(s) (Selection 1)",
+      "value_text": "Mon/Wed"
+    },
+    {
+      "key_text": "Time (Selection 1)",
+      "value_text": "6:00 PM"
+    },
+    {
+      "key_text": "Location / Online (Selection 1)",
+      "value_text": "Room 204 / Online"
+    },
+    {
+      "key_text": "Course Name / Number (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Section (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Credits / CEUs (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Fee  $ (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Day(s) (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Time (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Location / Online (Selection 2)",
+      "value_text": null
+    },
+    {
+      "key_text": "Course Name / Number (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Section (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Credits / CEUs (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Fee  $ (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Day(s) (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Time (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Location / Online (Selection 3)",
+      "value_text": null
+    },
+    {
+      "key_text": "Total Fees  $",
+      "value_text": "450.00"
+    },
+    {
+      "key_text": "Scholarship / Discount Code",
+      "value_text": "NEWSTUDENT20"
+    },
+    {
+      "key_text": "Amount Due  $",
+      "value_text": "430.00"
+    },
+    {
+      "key_text": "Credit Card",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Check",
+      "value_text": null
+    },
+    {
+      "key_text": "Cash",
+      "value_text": null
+    },
+    {
+      "key_text": "Employer Billing",
+      "value_text": null
+    },
+    {
+      "key_text": "Financial Aid",
+      "value_text": null
+    },
+    {
+      "key_text": "Card Number / Check Number",
+      "value_text": "4421-XXXX-XXXX-8901"
+    },
+    {
+      "key_text": "Authorization / Confirmation Code",
+      "value_text": "AUTH99283"
+    },
+    {
+      "key_text": "Student Signature",
+      "value_text": "Marcus Henderson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/25/2023"
+    }
+  ]
+}
+
+Narrative:
+The registration form is completed for Marcus Henderson, a new student born on May 12, 1992, with student ID 8849201. He lists English as his primary language and resides at 442 Oakwood Avenue, Springfield, IL 62704, USA. His contact details include a home phone of 217-555-0198, a cell phone of 217-555-4432, and the email address m.henderson@email.com. Marcus is currently employed as a Junior Developer at Tech Solutions Inc. He is registering for one course, CS101 Intro to Python, section A, which is worth 3.0 credits. The course fee is $450.00, and it meets on Mon/Wed at 6:00 PM in Room 204 with an online option. With a discount code of NEWSTUDENT20 applied, the total fee of $450.00 is reduced to an amount due of $430.00. Payment is made via credit card, with number 4421-XXXX-XXXX-8901 and authorization code AUTH99283. The form is signed by Marcus Henderson on 08/25/2023.

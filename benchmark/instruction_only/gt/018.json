@@ -1,0 +1,206 @@
+﻿{
+    "excel":  "018.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Reporter Full Name",
+                      "value_cell":  "A10:L10",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Reporter Role (Physician / Nurse / Pharmacist / Patient / Other)",
+                      "value_cell":  "M10:X10",
+                      "value":  "Physician"
+                  },
+                  {
+                      "label":  "Institution / Facility Name",
+                      "value_cell":  "A12:L12",
+                      "value":  "City General Hospital"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "M12:X12",
+                      "value":  "United Kingdom"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A14:L14",
+                      "value":  "+44 20 7946 0123"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "M14:X14",
+                      "value":  "e.vance@citygeneral.nhs.uk"
+                  },
+                  {
+                      "label":  "Report Date",
+                      "value_cell":  "A16:L16",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Report Reference Number (Office Use)",
+                      "value_cell":  "M16:X16",
+                      "value":  "UK-2023-8842"
+                  },
+                  {
+                      "label":  "Patient Initials",
+                      "value_cell":  "A21:H21",
+                      "value":  "J.M."
+                  },
+                  {
+                      "label":  "Age (years)",
+                      "value_cell":  "I21:P21",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "Weight (kg)",
+                      "value_cell":  "Q21:X21",
+                      "value":  "78"
+                  },
+                  {
+                      "label":  "Sex (M / F / Other)",
+                      "value_cell":  "A23:L23",
+                      "value":  "M"
+                  },
+                  {
+                      "label":  "Relevant Medical History",
+                      "value_cell":  "M23:X23",
+                      "value":  "Hypertension, Type 2 Diabetes"
+                  },
+                  {
+                      "label":  "Concomitant Medications",
+                      "value_cell":  "A25:L25",
+                      "value":  "Metformin 500mg"
+                  },
+                  {
+                      "label":  "Relevant Allergies",
+                      "value_cell":  "M25:X25",
+                      "value":  "Penicillin"
+                  },
+                  {
+                      "label":  "Drug Name (brand and generic)",
+                      "value_cell":  "A30:X30",
+                      "value":  "Lisinopril (Zestril)"
+                  },
+                  {
+                      "label":  "Manufacturer",
+                      "value_cell":  "A32:L32",
+                      "value":  "AstraZeneca"
+                  },
+                  {
+                      "label":  "Batch / Lot Number",
+                      "value_cell":  "M32:X32",
+                      "value":  "AZ-998877"
+                  },
+                  {
+                      "label":  "Indication (reason prescribed)",
+                      "value_cell":  "A34:L34",
+                      "value":  "Hypertension"
+                  },
+                  {
+                      "label":  "Dose \u0026 Frequency",
+                      "value_cell":  "M34:X34",
+                      "value":  "10mg once daily"
+                  },
+                  {
+                      "label":  "Route of Administration",
+                      "value_cell":  "A36:L36",
+                      "value":  "Oral"
+                  },
+                  {
+                      "label":  "Therapy Start Date",
+                      "value_cell":  "M36:X36",
+                      "value":  "2023-10-01"
+                  },
+                  {
+                      "label":  "Therapy End Date (or ongoing)",
+                      "value_cell":  "A38:L38",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Therapy Duration",
+                      "value_cell":  "M38:X38",
+                      "value":  "12 days"
+                  },
+                  {
+                      "label":  "Description of Adverse Event  (onset, nature, severity)",
+                      "value_cell":  "A43:X44",
+                      "value":  "Patient developed a persistent dry cough and mild angioedema of the lips 10 days after starting therapy. Severity: Moderate."
+                  },
+                  {
+                      "label":  "Date of Onset",
+                      "value_cell":  "A46:L46",
+                      "value":  "2023-10-11"
+                  },
+                  {
+                      "label":  "Date of Resolution / Outcome",
+                      "value_cell":  "M46:X46",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Was therapy stopped?  Y / N",
+                      "value_cell":  "A49:L49",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Did event resolve after stopping?  Y / N",
+                      "value_cell":  "M49:X49",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Was therapy restarted?  Y / N",
+                      "value_cell":  "A51:L51",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Did event recur on restart?  Y / N",
+                      "value_cell":  "M51:X51",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Causality Rationale / Additional Clinical Information",
+                      "value_cell":  "A54:X54",
+                      "value":  "Adverse event temporally linked to initiation of ACE inhibitor. Symptoms subsided promptly upon discontinuation."
+                  },
+                  {
+                      "label":  "Regulatory Authority Notified?  Y / N",
+                      "value_cell":  "A59:L59",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Notification Reference",
+                      "value_cell":  "M59:X59",
+                      "value":  "MHRA-9921"
+                  },
+                  {
+                      "label":  "Previously Reported?  Y / N",
+                      "value_cell":  "A61:L61",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Prior Report Reference",
+                      "value_cell":  "M61:X61",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reporter Signature",
+                      "value_cell":  "A68:L68",
+                      "value":  "Dr. E. Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Medical Officer Review",
+                      "value_cell":  "A71:L71",
+                      "value":  "Dr. A. Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N71:X71",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

@@ -1,0 +1,216 @@
+﻿{
+    "excel":  "form_06_vendor_payment_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Vendor / Payee Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "GreenLeaf Landscaping Services"
+                  },
+                  {
+                      "label":  "Vendor ID / Tax ID (EIN or SSN)",
+                      "value_cell":  "M9:X9",
+                      "value":  "12-3456789"
+                  },
+                  {
+                      "label":  "Vendor Mailing Address",
+                      "value_cell":  "A11:Y11",
+                      "value":  "742 Oak Avenue, Suite 100"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A13:J13",
+                      "value":  "Springfield"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "K13:N13",
+                      "value":  "IL"
+                  },
+                  {
+                      "label":  "ZIP",
+                      "value_cell":  "O13:R13",
+                      "value":  "62704"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "S13:X13",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Vendor Phone",
+                      "value_cell":  "A15:H15",
+                      "value":  "217-555-0199"
+                  },
+                  {
+                      "label":  "Vendor Fax",
+                      "value_cell":  "I15:P15",
+                      "value":  "217-555-0188"
+                  },
+                  {
+                      "label":  "Vendor E-mail",
+                      "value_cell":  "Q15:X15",
+                      "value":  "billing@greenleafland.com"
+                  },
+                  {
+                      "label":  "Bank Name (for ACH)",
+                      "value_cell":  "A17:L17",
+                      "value":  "First National Bank"
+                  },
+                  {
+                      "label":  "Routing Number",
+                      "value_cell":  "M17:X17",
+                      "value":  "071000013"
+                  },
+                  {
+                      "label":  "Account Number",
+                      "value_cell":  "A19:L19",
+                      "value":  "8899223344"
+                  },
+                  {
+                      "label":  "Account Type  (Checking / Savings)",
+                      "value_cell":  "M19:X19",
+                      "value":  "Checking"
+                  },
+                  {
+                      "label":  "Invoice Number",
+                      "value_cell":  "A24:L24",
+                      "value":  "INV-2023-045"
+                  },
+                  {
+                      "label":  "Invoice Date",
+                      "value_cell":  "M24:X26",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Purchase Order Number",
+                      "value_cell":  "A26:L26",
+                      "value":  "PO-998877"
+                  },
+                  {
+                      "label":  "Contract / Agreement Number",
+                      "value_cell":  "M26:X26",
+                      "value":  "CON-2023-002"
+                  },
+                  {
+                      "label":  "Service / Goods Description",
+                      "value_cell":  "A28:L28",
+                      "value":  "Monthly grounds maintenance for City Park"
+                  },
+                  {
+                      "label":  "Service Period  (From 鈥?To)",
+                      "value_cell":  "M28:X28",
+                      "value":  "09/01/2023 鈥?09/30/2023"
+                  },
+                  {
+                      "label":  "Amount  $",
+                      "value_cell":  "A30:H30",
+                      "value":  "2,500.00"
+                  },
+                  {
+                      "label":  "Tax Amount  $",
+                      "value_cell":  "I30:N30",
+                      "value":  "206.25"
+                  },
+                  {
+                      "label":  "Total Amount  $",
+                      "value_cell":  "030:X30",
+                      "value":  "2,706.25"
+                  },
+                  {
+                      "label":  "Department Requesting Payment",
+                      "value_cell":  "A32:L32",
+                      "value":  "Parks and Recreation"
+                  },
+                  {
+                      "label":  "Check",
+                      "value_cell":  "F34:G34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "ACH/EFT",
+                      "value_cell":  "L34:M34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Wire Transfer",
+                      "value_cell":  "R34:S34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credit Card",
+                      "value_cell":  "X34:Y34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Original Invoice",
+                      "value_cell":  "F38:G38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Receiving Report",
+                      "value_cell":  "L38:M38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "W-9 Form",
+                      "value_cell":  "R38:S38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Contract Copy",
+                      "value_cell":  "X38:Y38",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Additional Notes or Special Instructions",
+                      "value_cell":  "A39:X39",
+                      "value":  "Please process by end of month."
+                  },
+                  {
+                      "label":  "Prepared By",
+                      "value_cell":  "A44:H44",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department Head",
+                      "value_cell":  "I44:P44",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Finance Approval",
+                      "value_cell":  "Q44:X44",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "A46:H46",
+                      "value":  "S. Jenkins"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "I46:P46",
+                      "value":  "M. Thorne"
+                  },
+                  {
+                      "label":  "Signature",
+                      "value_cell":  "Q46:X46",
+                      "value":  "E. Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "A48:H48",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "I48:P48",
+                      "value":  "2023-10-19"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q48:X48",
+                      "value":  "2023-10-20"
+                  }
+              ]
+}

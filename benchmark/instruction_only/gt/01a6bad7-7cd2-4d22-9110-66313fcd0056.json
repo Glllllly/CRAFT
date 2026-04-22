@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "01a6bad7-7cd2-4d22-9110-66313fcd0056.xlsx",
+    "sheet":  "Receipt",
+    "pairs":  [
+                  {
+                      "label":  "Vendor Name",
+                      "value_cell":  "E8:H8",
+                      "value":  "City Cab Services"
+                  },
+                  {
+                      "label":  "Service Provided",
+                      "value_cell":  "E10:H10",
+                      "value":  "Airport Transfer (JFK to Manhattan)"
+                  },
+                  {
+                      "label":  "Date Provided",
+                      "value_cell":  "E12:H12",
+                      "value":  "October 14, 2023"
+                  },
+                  {
+                      "label":  "Amount",
+                      "value_cell":  "E14:H14",
+                      "value":  "$75.00"
+                  },
+                  {
+                      "label":  "Check Number",
+                      "value_cell":  "E16:H16",
+                      "value":  "1024"
+                  },
+                  {
+                      "label":  "Purchase Order #",
+                      "value_cell":  "E18:H18",
+                      "value":  "PO-8821"
+                  },
+                  {
+                      "label":  "Vendor Signature",
+                      "value_cell":  "C24:F24",
+                      "value":  "J. Smith"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "H24:I24",
+                      "value":  "10/14/2023"
+                  }
+              ]
+}

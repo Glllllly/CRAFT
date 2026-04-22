@@ -1,0 +1,142 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Reporter Full Name",
+      "value_text": "Jonathan D. Sterling"
+    },
+    {
+      "key_text": "Employee / Contractor ID",
+      "value_text": "EMP-99284"
+    },
+    {
+      "key_text": "Department / Team",
+      "value_text": "Information Technology - Infrastructure"
+    },
+    {
+      "key_text": "Role / Position",
+      "value_text": "Senior Systems Administrator"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-8843"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "j.sterling@company.com"
+    },
+    {
+      "key_text": "Reporting Date & Time",
+      "value_text": "2023-10-14 09:15 AM"
+    },
+    {
+      "key_text": "Date & Time Incident Discovered",
+      "value_text": "2023-10-14 08:30 AM"
+    },
+    {
+      "key_text": "Date & Time Incident Occurred (if known)",
+      "value_text": "2023-10-14 03:00 AM"
+    },
+    {
+      "key_text": "Systems / Applications Affected",
+      "value_text": "Primary Customer Database (SQL-01)"
+    },
+    {
+      "key_text": "Location (on-site / remote / cloud)",
+      "value_text": "Cloud (AWS US-East)"
+    },
+    {
+      "key_text": "Brief Description of Incident",
+      "value_text": "Unauthorized database access and potential data exfiltration attempt."
+    },
+    {
+      "key_text": "Detailed Description — what was observed, sequence of events",
+      "value_text": "At 08:30 AM, system alerts triggered for high outbound traffic on the SQL-01 instance. Investigation revealed an unauthorized login from an unknown IP address at 03:00 AM. The attacker successfully queried the user_profile table before being blocked by the automated firewall rule."
+    },
+    {
+      "key_text": "Data Potentially Compromised?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Type of Data Involved",
+      "value_text": "Customer contact information and hashed passwords"
+    },
+    {
+      "key_text": "Number of Records Potentially Affected",
+      "value_text": "1,250"
+    },
+    {
+      "key_text": "Personal Data Involved?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Actions Description",
+      "value_text": "Revoked compromised API keys, rotated DB credentials, and initiated forensic log analysis."
+    },
+    {
+      "key_text": "IP Addresses / URLs / Domains Involved",
+      "value_text": "192.0.2.45"
+    },
+    {
+      "key_text": "Log Files Preserved?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Screenshots Taken?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "E-mail Headers Saved?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Incident Ticket Number",
+      "value_text": "INC-20231014-001"
+    },
+    {
+      "key_text": "Assigned Analyst",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Escalation Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Regulatory Notification Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Reporter Signature",
+      "value_text": "Jonathan D. Sterling"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Security Analyst",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "CISO / Security Manager",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    }
+  ]
+}
+
+Narrative:
+This incident report was filed by Jonathan D. Sterling (Employee ID: EMP-99284), a Senior Systems Administrator in the IT Infrastructure department, on October 14, 2023, at 9:15 AM. He can be reached at 555-012-8843 or via email at j.sterling@company.com.
+
+The incident involves unauthorized access to the Primary Customer Database (SQL-01) hosted in the AWS US-East cloud environment. The event was discovered at 8:30 AM, though it is believed to have occurred earlier that morning at 3:00 AM. Jonathan described the incident as an unauthorized database access attempt. Specifically, he observed high outbound traffic alerts and discovered an unauthorized login from IP address 192.0.2.45, which queried the user_profile table before being blocked.
+
+It is estimated that 1,250 records containing personal data, including customer contact information and hashed passwords, were potentially compromised. As an immediate response, Jonathan revoked the compromised API keys, rotated database credentials, and began a forensic review of the log files. He confirmed that log files and screenshots were preserved, though email headers were not applicable.
+
+The incident is currently being tracked under ticket number INC-20231014-001 and has been assigned to Security Analyst Sarah Jenkins. Given the nature of the breach, both escalation and regulatory notification are required. The document has been signed by the reporter, the analyst, and CISO Marcus Thorne.

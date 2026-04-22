@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0037_chanpin_文档_API文档",
+    "tenant":  "chanpin",
+    "topic":  "文档",
+    "subtopic":  "API文档",
+    "source_dir":  "chanpin\\文档\\API文档",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\文档\\API文档\\api_034.md",
+                      "copied_name":  "api_034.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1028
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档\\API文档\\api_033.md",
+                      "copied_name":  "api_033.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1028
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档\\API文档\\api_032.md",
+                      "copied_name":  "api_032.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1028
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档\\API文档\\api_037.md",
+                      "copied_name":  "api_037.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1028
+                  },
+                  {
+                      "source_rel":  "chanpin\\文档\\API文档\\api_036.md",
+                      "copied_name":  "api_036.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1028
+                  }
+              ]
+}

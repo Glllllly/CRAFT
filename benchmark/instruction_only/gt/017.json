@@ -1,0 +1,191 @@
+﻿{
+    "excel":  "017.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Organisation Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Green Horizon Initiative"
+                  },
+                  {
+                      "label":  "Organisation Type (Nonprofit / Business / Academic / Community)",
+                      "value_cell":  "M9:X9",
+                      "value":  "Nonprofit"
+                  },
+                  {
+                      "label":  "Primary Contact Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Title / Role",
+                      "value_cell":  "M11:X11",
+                      "value":  "Executive Director"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I13:P13",
+                      "value":  "s.jenkins@greenhorizon.org"
+                  },
+                  {
+                      "label":  "Website",
+                      "value_cell":  "Q13:X13",
+                      "value":  "www.greenhorizon.org"
+                  },
+                  {
+                      "label":  "Organisation Address",
+                      "value_cell":  "A15:X15",
+                      "value":  "123 Maple Street, Portland, OR 97201"
+                  },
+                  {
+                      "label":  "Organisation Mission / Purpose",
+                      "value_cell":  "A17:L17",
+                      "value":  "Promoting urban reforestation and sustainable community gardening."
+                  },
+                  {
+                      "label":  "Year Established",
+                      "value_cell":  "M17:X17",
+                      "value":  "2012"
+                  },
+                  {
+                      "label":  "Annual Budget $",
+                      "value_cell":  "A19:L19",
+                      "value":  "250,000"
+                  },
+                  {
+                      "label":  "Number of Members / Beneficiaries",
+                      "value_cell":  "M19:X19",
+                      "value":  "1,500"
+                  },
+                  {
+                      "label":  "Event / Programme Name",
+                      "value_cell":  "A24:X24",
+                      "value":  "Urban Canopy Gala 2024"
+                  },
+                  {
+                      "label":  "Event Date(s)",
+                      "value_cell":  "A26:L26",
+                      "value":  "September 15, 2024"
+                  },
+                  {
+                      "label":  "Event Location",
+                      "value_cell":  "M26:X26",
+                      "value":  "Portland Convention Center"
+                  },
+                  {
+                      "label":  "Expected Attendance / Reach",
+                      "value_cell":  "A28:L28",
+                      "value":  "500"
+                  },
+                  {
+                      "label":  "Previous Year Attendance (if recurring)",
+                      "value_cell":  "M28:X28",
+                      "value":  "420"
+                  },
+                  {
+                      "label":  "Description of Event / Programme (goals, activities, audience)",
+                      "value_cell":  "A30:X30",
+                      "value":  "Annual fundraising gala to support city-wide tree planting efforts with live speakers and silent auction."
+                  },
+                  {
+                      "label":  "Total Sponsorship Amount Requested $",
+                      "value_cell":  "A36:L36",
+                      "value":  "10,000"
+                  },
+                  {
+                      "label":  "Minimum Acceptable Amount $",
+                      "value_cell":  "M36:X36",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "Benefits Offered to Sponsor (logo, speaking slot, booth, tickets, etc.)",
+                      "value_cell":  "A39:X39",
+                      "value":  "Logo placement on all marketing materials, speaking slot, and 10 VIP tickets."
+                  },
+                  {
+                      "label":  "Exclusivity Offered? Y / N",
+                      "value_cell":  "A41:L41",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Category Exclusivity (if yes)",
+                      "value_cell":  "M41:X41",
+                      "value":  "Environmental Consulting"
+                  },
+                  {
+                      "label":  "Primary Audience Demographics",
+                      "value_cell":  "A46:L46",
+                      "value":  "Environmentally conscious professionals, ages 25-55."
+                  },
+                  {
+                      "label":  "Geographic Reach",
+                      "value_cell":  "M46:X46",
+                      "value":  "Pacific Northwest"
+                  },
+                  {
+                      "label":  "How does this align with our brand values / CSR strategy?",
+                      "value_cell":  "A48:X48",
+                      "value":  "Aligns with carbon footprint reduction goals and community engagement initiatives."
+                  },
+                  {
+                      "label":  "Previous Sponsors  (any of note)",
+                      "value_cell":  "A50:L50",
+                      "value":  "City Power Co., EcoBuild Inc."
+                  },
+                  {
+                      "label":  "Media Coverage Expected",
+                      "value_cell":  "M50:X50",
+                      "value":  "Local news feature and social media promotion."
+                  },
+                  {
+                      "label":  "Post-Event Report Provided?  Y / N",
+                      "value_cell":  "A55:L55",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Report Delivery Date",
+                      "value_cell":  "M55:X55",
+                      "value":  "October 15, 2024"
+                  },
+                  {
+                      "label":  "How will sponsorship funds / resources be used?",
+                      "value_cell":  "A57:X57",
+                      "value":  "Funds will purchase 500 native saplings for urban planting projects."
+                  },
+                  {
+                      "label":  "Applicant Signature",
+                      "value_cell":  "A65:L65",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N65:X65",
+                      "value":  "2024-06-01"
+                  },
+                  {
+                      "label":  "Marketing Manager",
+                      "value_cell":  "A68:L68",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N68:X68",
+                      "value":  null
+                  },
+                  {
+                      "label":  "CFO / Budget Approval",
+                      "value_cell":  "A71:L71",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N71:X71",
+                      "value":  null
+                  }
+              ]
+}

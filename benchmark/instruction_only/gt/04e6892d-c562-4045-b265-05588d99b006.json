@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "04e6892d-c562-4045-b265-05588d99b006.xlsx",
+    "sheet":  "Kontrollen",
+    "pairs":  [
+                  {
+                      "label":  "Datum",
+                      "value_cell":  "D10:I10",
+                      "value":  "15.06.2023"
+                  },
+                  {
+                      "label":  "Unterschrift des Lehrlings, Sch眉lers bzw. Praktikanten",
+                      "value_cell":  "M10:X10",
+                      "value":  "Lukas M眉ller"
+                  },
+                  {
+                      "label":  "Datum",
+                      "value_cell":  "D24:I24",
+                      "value":  "16.06.2023"
+                  },
+                  {
+                      "label":  "Unterschrift des Ausbilders",
+                      "value_cell":  "M24:X10",
+                      "value":  "Hans Schmidt"
+                  },
+                  {
+                      "label":  "Kontrolle des Arbeitsbuches anl盲sslich",
+                      "value_cell":  "M32:Y32",
+                      "value":  "Abschluss des 2. Lehrjahres"
+                  },
+                  {
+                      "label":  "Bemerkung",
+                      "value_cell":  "F34:Y34,B36:Y38",
+                      "value":  "Alle Berichte wurden ordnungsgem盲脽 und zeitgerecht verfasst. Keine Beanstandungen."
+                  },
+                  {
+                      "label":  "Datum",
+                      "value_cell":  "D40:I40",
+                      "value":  "20.06.2023"
+                  },
+                  {
+                      "label":  "Unterschrift des Kontrollors/Fachlehrers",
+                      "value_cell":  "O40:X40",
+                      "value":  "Dr. Petra Weber"
+                  },
+                  {
+                      "label":  "Kontrolle des Arbeitsbuches anl盲sslich",
+                      "value_cell":  "M49:Y49",
+                      "value":  "Betriebsbesuch im Herbst"
+                  },
+                  {
+                      "label":  "Bemerkung",
+                      "value_cell":  "F51:Y51,B53:Y55",
+                      "value":  "Aufzeichnungen zur Milchviehhaltung sind vollst盲ndig und korrekt."
+                  },
+                  {
+                      "label":  "Datum",
+                      "value_cell":  "D57:I57",
+                      "value":  "12.01.2024"
+                  },
+                  {
+                      "label":  "Unterschrift des Kontrollors/Fachlehrers",
+                      "value_cell":  "O57:X57",
+                      "value":  "Ing. Maria Leitner"
+                  },
+                  {
+                      "label":  "Kontrolle des Arbeitsbuches anl盲sslich",
+                      "value_cell":  "M63:Y63",
+                      "value":  "Jahresabschlusspr眉fung"
+                  },
+                  {
+                      "label":  "Bemerkung",
+                      "value_cell":  "F65:Y65,B67:Y69",
+                      "value":  "Die Aufzeichnungen 眉ber die Schweinehaltung wurden sorgf盲ltig nachgetragen."
+                  },
+                  {
+                      "label":  "Datum",
+                      "value_cell":  "D71:I71",
+                      "value":  "15.03.2024"
+                  },
+                  {
+                      "label":  "Unterschrift des Kontrollors/Fachlehrers",
+                      "value_cell":  "O71:X71",
+                      "value":  "Ing. Maria Leitner"
+                  },
+                  {
+                      "label":  "Das Arbeitsbuch wurde bei der Facharbeiterpr眉fung am",
+                      "value_cell":  "S78:X78",
+                      "value":  "22.06.2024"
+                  },
+                  {
+                      "label":  "in",
+                      "value_cell":  "C80:M80",
+                      "value":  "St. P枚lten"
+                  },
+                  {
+                      "label":  "F眉r die Pr眉fungskommission",
+                      "value_cell":  "O87:X87",
+                      "value":  "Dr. Karl Schmidt"
+                  }
+              ]
+}

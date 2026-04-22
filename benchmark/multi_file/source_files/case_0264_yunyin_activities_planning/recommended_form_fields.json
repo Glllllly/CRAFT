@@ -1,0 +1,41 @@
+{
+    "recommended_fields":  [
+                             
+                               {
+                                   "key":  "catering",
+                                   "selected_value":  ",000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "logistics",
+                                   "selected_value":  "Operations Team",
+                                   "conflict":  false
+                               },
+                               
+                               {
+                                   "key":  "leadcapture",
+                                   "selected_value":  "500+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "attendancerate",
+                                   "selected_value":  "80%+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "emailopenrate",
+                                   "selected_value":  "40%+",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "netpromoterscore",
+                                   "selected_value":  "8+/10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "socialmediamentions",
+                                   "selected_value":  "1,000+",
+                                   "conflict":  false
+                               }
+                           ]
+}

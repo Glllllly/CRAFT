@@ -1,0 +1,77 @@
+name: Marketing Workflow
+version: 1.0
+
+triggers:
+  - type: schedule
+    cron: "0 9 * * 1"  # Every Monday at 9 AM
+  - type: manual
+    description: "Run on demand"
+
+steps:
+  - id: collect_metrics
+    action: fetch_analytics
+    config:
+      sources:
+        - google_analytics
+        - facebook_ads
+        - hubspot
+      metrics:
+        - impressions
+        - clicks
+        - conversions
+        - spend
+      time_period: weekly
+
+  - id: process_data
+    action: transform
+    input: collect_metrics
+    config:
+      calculations:
+        - name: ROI
+          formula: "revenue / spend"
+        - name: ROAS
+          formula: "revenue / ad_spend"
+        - name: CTR
+          formula: "clicks / impressions"
+
+  - id: generate_report
+    action: create_report
+    input: process_data
+    config:
+      format: pdf
+      sections:
+        - summary
+        - metrics
+        - insights
+        - recommendations
+
+  - id: send_notification
+    action: send_email
+    input: generate_report
+    config:
+      recipients:
+        - marketing_team@company.com
+        - leadership@company.com
+      subject: "Weekly Marketing Report"
+
+  - id: update_dashboard
+    action: update_dashboard
+    input: process_data
+    config:
+      dashboard_id: "marketing_kpi_dashboard"
+      refresh: true
+
+notifications:
+  on_success:
+    - type: email
+      message: "Workflow completed successfully"
+  on_failure:
+    - type: email
+      message: "Workflow failed"
+    - type: slack
+      channel: "#operations-alerts"
+
+schedule_config:
+  retry_on_failure: true
+  max_retries: 3
+  retry_delay: 300

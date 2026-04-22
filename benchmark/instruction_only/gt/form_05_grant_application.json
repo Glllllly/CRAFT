@@ -1,0 +1,176 @@
+﻿{
+    "excel":  "form_05_grant_application.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "PI Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Dr. Elena R. Vance"
+                  },
+                  {
+                      "label":  "Faculty / Staff ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "FA-8829401"
+                  },
+                  {
+                      "label":  "Department / School",
+                      "value_cell":  "A11:L11",
+                      "value":  "Department of Biomedical Engineering"
+                  },
+                  {
+                      "label":  "Academic Rank / Title",
+                      "value_cell":  "M11:X11",
+                      "value":  "Associate Professor"
+                  },
+                  {
+                      "label":  "Office Phone",
+                      "value_cell":  "A13:H13",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I13:P13",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "PI E-mail Address",
+                      "value_cell":  "Q13:X13",
+                      "value":  "e.vance@university.edu"
+                  },
+                  {
+                      "label":  "Co-Investigator(s)",
+                      "value_cell":  "A15:L15",
+                      "value":  "Dr. Marcus Thorne"
+                  },
+                  {
+                      "label":  "Co-I Department(s)",
+                      "value_cell":  "M15:X15",
+                      "value":  "Department of Computer Science"
+                  },
+                  {
+                      "label":  "Project / Grant Title",
+                      "value_cell":  "A20:X20",
+                      "value":  "AI-Driven Predictive Modeling for Early Neural Degeneration Detection"
+                  },
+                  {
+                      "label":  "Funding Agency / Sponsor",
+                      "value_cell":  "A22:N22",
+                      "value":  "National Science Foundation"
+                  },
+                  {
+                      "label":  "Program / Mechanism",
+                      "value_cell":  "O22:X22",
+                      "value":  "Smart Health Initiative"
+                  },
+                  {
+                      "label":  "Proposed Start Date",
+                      "value_cell":  "A24:H24",
+                      "value":  "09/01/2024"
+                  },
+                  {
+                      "label":  "Proposed End Date",
+                      "value_cell":  "I24:P24",
+                      "value":  "08/31/2026"
+                  },
+                  {
+                      "label":  "Project Duration (months)",
+                      "value_cell":  "Q24:X24",
+                      "value":  "24"
+                  },
+                  {
+                      "label":  "Total Amount Requested  $",
+                      "value_cell":  "A26:L26",
+                      "value":  "450,000"
+                  },
+                  {
+                      "label":  "Indirect Cost Rate  %",
+                      "value_cell":  "M26:X26",
+                      "value":  "52.5"
+                  },
+                  {
+                      "label":  "Personnel (Salaries \u0026 Benefits)",
+                      "value_cell":  "A31:X31",
+                      "value":  "280,000"
+                  },
+                  {
+                      "label":  "Consultant / Subcontract Costs",
+                      "value_cell":  "A33:X33",
+                      "value":  "20,000"
+                  },
+                  {
+                      "label":  "Materials \u0026 Supplies",
+                      "value_cell":  "A35:X35",
+                      "value":  "50,000"
+                  },
+                  {
+                      "label":  "Travel",
+                      "value_cell":  "A37:X37",
+                      "value":  "15,000"
+                  },
+                  {
+                      "label":  "Other Direct Costs",
+                      "value_cell":  "A39:X39",
+                      "value":  "85,000"
+                  },
+                  {
+                      "label":  "Total Direct Costs",
+                      "value_cell":  "A41:X41",
+                      "value":  "450,000"
+                  },
+                  {
+                      "label":  "Total Budget",
+                      "value_cell":  "A43:X43",
+                      "value":  "686,250"
+                  },
+                  {
+                      "label":  "Lay Summary (250 words max) 鈥?describe aims, methods, and impact",
+                      "value_cell":  "A48:X51",
+                      "value":  "This project aims to develop a machine learning framework to identify early biomarkers of neural degeneration using longitudinal imaging data. By applying deep learning algorithms to multi-modal datasets, we seek to improve diagnostic accuracy. The impact will be a more efficient screening process, allowing for earlier clinical intervention and improved patient outcomes."
+                  },
+                  {
+                      "label":  "Human Subjects",
+                      "value_cell":  "F56:G56",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Animal Use",
+                      "value_cell":  "L56:M56",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Hazardous Materials",
+                      "value_cell":  "R56:S56",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Export Controls",
+                      "value_cell":  "X56:Y56",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "IRB / IACUC Protocol Number (if applicable)",
+                      "value_cell":  "A57:L57",
+                      "value":  "IRB-2024-0512"
+                  },
+                  {
+                      "label":  "Approval Date",
+                      "value_cell":  "M57:X57",
+                      "value":  "07/15/2024"
+                  },
+                  {
+                      "label":  "PI Signature",
+                      "value_cell":  "A60:H60",
+                      "value":  "Elena R. Vance"
+                  },
+                  {
+                      "label":  "Department Chair Signature",
+                      "value_cell":  "I60:P60",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q60:Y60",
+                      "value":  "08/01/2024"
+                  }
+              ]
+}

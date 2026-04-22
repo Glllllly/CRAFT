@@ -1,0 +1,52 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Auction Period:",
+      "value_text": "2024-Q3"
+    },
+    {
+      "key_text": "Registrant Name:",
+      "value_text": "Apex Energy Solutions LLC"
+    },
+    {
+      "key_text": "Submittal Number",
+      "value_text": "SUB-2024-8892"
+    },
+    {
+      "key_text": "Date submitted:",
+      "value_text": "2024-05-15"
+    },
+    {
+      "key_text": "Time submitted:",
+      "value_text": "14:30"
+    },
+    {
+      "key_text": "Your Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Company Name:",
+      "value_text": "Apex Energy Solutions LLC"
+    },
+    {
+      "key_text": "Company Address:",
+      "value_text": "450 Lexington Avenue, Suite 1200, New York, NY 10017"
+    },
+    {
+      "key_text": "Contact Phone#:",
+      "value_text": "212-555-0198"
+    },
+    {
+      "key_text": "Contact E-Mail:",
+      "value_text": "j.miller@apexenergy.com"
+    },
+    {
+      "key_text": "Comments:",
+      "value_text": "Please note that we have updated our contact information for the upcoming auction period. All documentation for submittal SUB-2024-8892 is attached."
+    }
+  ]
+}
+
+Narrative:
+For the 2024-Q3 auction period, Apex Energy Solutions LLC has submitted their documentation under submittal number SUB-2024-8892. The form was submitted on May 15, 2024, at 14:30. The primary contact for this submission is Jonathan D. Miller, who can be reached at 212-555-0198 or via email at j.miller@apexenergy.com. The company is located at 450 Lexington Avenue, Suite 1200, New York, NY 10017. In the comments section, it is noted that the company has updated its contact information for this auction period and that all necessary documentation for the submittal is included.

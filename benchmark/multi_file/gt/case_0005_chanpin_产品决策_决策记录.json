@@ -1,0 +1,46 @@
+{
+  "excel": "case_0005_chanpin_产品决策_决策记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "决策主题",
+      "value_cell": "A7:D8",
+      "value": "功能取舍"
+    },
+    {
+      "label": "采纳方案",
+      "value_cell": "F7:I8",
+      "value": "方案A"
+    },
+    {
+      "label": "市场机遇",
+      "value_cell": "A13:D14",
+      "value": "用户需求"
+    },
+    {
+      "label": "内部制约",
+      "value_cell": "F13:I14",
+      "value": "资源有限"
+    },
+    {
+      "label": "主要风险",
+      "value_cell": "K13:N14",
+      "value": "执行风险"
+    },
+    {
+      "label": "成功指标",
+      "value_cell": "A19:D20",
+      "value": "用户增长"
+    },
+    {
+      "label": "应对措施",
+      "value_cell": "F19:I20",
+      "value": "已准备备选方案"
+    },
+    {
+      "label": "决策反思",
+      "value_cell": "A25:D26",
+      "value": "待后续总结"
+    }
+  ]
+}

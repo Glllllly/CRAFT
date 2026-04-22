@@ -1,0 +1,88 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Digital Strategist"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "David Thorne"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Training Program Name",
+      "value_text": "Advanced Data Analytics Certification"
+    },
+    {
+      "key_text": "Provider / Facilitator",
+      "value_text": "DataTech Institute"
+    },
+    {
+      "key_text": "Training Date(s)",
+      "value_text": "2023-11-15 to 2023-11-17"
+    },
+    {
+      "key_text": "Duration  (Hours / Days)",
+      "value_text": "3 Days"
+    },
+    {
+      "key_text": "Location / Online",
+      "value_text": "Online"
+    },
+    {
+      "key_text": "Training Cost  $",
+      "value_text": "850.00"
+    },
+    {
+      "key_text": "Business Justification",
+      "value_text": "Enhance proficiency in campaign performance tracking and ROI measurement."
+    },
+    {
+      "key_text": "Expected Outcomes / Benefits",
+      "value_text": "Ability to implement data-driven strategies and reduce ad spend waste by 15%."
+    },
+    {
+      "key_text": "Line Manager (Signature)",
+      "value_text": "David Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "HR / Training Coordinator",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (HR)",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Finance (if external cost)",
+      "value_text": "Mark Sterling"
+    },
+    {
+      "key_text": "Date (Finance)",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+Sarah Jenkins, a Digital Strategist from the Marketing department with employee ID EMP-8842, submitted a training request on October 12, 2023, to her manager, David Thorne. She is seeking to enroll in the Advanced Data Analytics Certification provided by the DataTech Institute. The training is scheduled to take place online from November 15 to November 17, 2023, lasting for a duration of 3 days, with a total cost of $850.00. The business justification for this request is to enhance her proficiency in campaign performance tracking and ROI measurement, with the expected outcome of implementing data-driven strategies that could reduce ad spend waste by 15%. The form has been approved by her line manager, David Thorne, on October 14, 2023, by the HR Training Coordinator, Elena Rodriguez, on October 15, 2023, and by Finance representative Mark Sterling on October 16, 2023.

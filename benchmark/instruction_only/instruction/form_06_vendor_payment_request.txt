@@ -1,0 +1,54 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Vendor / Payee Name", "value_text": "GreenLeaf Landscaping Services" },
+    { "key_text": "Vendor ID / Tax ID (EIN or SSN)", "value_text": "12-3456789" },
+    { "key_text": "Vendor Mailing Address", "value_text": "742 Oak Avenue, Suite 100" },
+    { "key_text": "City", "value_text": "Springfield" },
+    { "key_text": "State", "value_text": "IL" },
+    { "key_text": "ZIP", "value_text": "62704" },
+    { "key_text": "Country", "value_text": "USA" },
+    { "key_text": "Vendor Phone", "value_text": "217-555-0199" },
+    { "key_text": "Vendor Fax", "value_text": "217-555-0188" },
+    { "key_text": "Vendor E-mail", "value_text": "billing@greenleafland.com" },
+    { "key_text": "Bank Name (for ACH)", "value_text": "First National Bank" },
+    { "key_text": "Routing Number", "value_text": "071000013" },
+    { "key_text": "Account Number", "value_text": "8899223344" },
+    { "key_text": "Account Type  (Checking / Savings)", "value_text": "Checking" },
+    { "key_text": "Invoice Number", "value_text": "INV-2023-045" },
+    { "key_text": "Invoice Date", "value_text": "2023-10-15" },
+    { "key_text": "Purchase Order Number", "value_text": "PO-998877" },
+    { "key_text": "Contract / Agreement Number", "value_text": "CON-2023-002" },
+    { "key_text": "Service / Goods Description", "value_text": "Monthly grounds maintenance for City Park" },
+    { "key_text": "Service Period  (From – To)", "value_text": "09/01/2023 – 09/30/2023" },
+    { "key_text": "Amount  $", "value_text": "2,500.00" },
+    { "key_text": "Tax Amount  $", "value_text": "206.25" },
+    { "key_text": "Total Amount  $", "value_text": "2,706.25" },
+    { "key_text": "Department Requesting Payment", "value_text": "Parks and Recreation" },
+    { "key_text": "Check", "value_text": null },
+    { "key_text": "ACH/EFT", "value_text": "X" },
+    { "key_text": "Wire Transfer", "value_text": null },
+    { "key_text": "Credit Card", "value_text": null },
+    { "key_text": "Original Invoice", "value_text": "X" },
+    { "key_text": "Receiving Report", "value_text": "X" },
+    { "key_text": "W-9 Form", "value_text": "X" },
+    { "key_text": "Contract Copy", "value_text": "X" },
+    { "key_text": "Additional Notes or Special Instructions", "value_text": "Please process by end of month." },
+    { "key_text": "Prepared By", "value_text": "Sarah Jenkins" },
+    { "key_text": "Department Head", "value_text": "Marcus Thorne" },
+    { "key_text": "Finance Approval", "value_text": "Elena Rodriguez" },
+    { "key_text": "Signature", "value_text": "S. Jenkins" },
+    { "key_text": "Signature", "value_text": "M. Thorne" },
+    { "key_text": "Signature", "value_text": "E. Rodriguez" },
+    { "key_text": "Date", "value_text": "2023-10-18" },
+    { "key_text": "Date", "value_text": "2023-10-19" },
+    { "key_text": "Date", "value_text": "2023-10-20" }
+  ]
+}
+
+Narrative:
+This vendor payment request is for GreenLeaf Landscaping Services, identified by tax ID 12-3456789. They are located at 742 Oak Avenue, Suite 100, in Springfield, IL 62704, USA. For inquiries, they can be reached at 217-555-0199 or via email at billing@greenleafland.com. Payment is requested via ACH to their checking account at First National Bank (Routing: 071000013, Account: 8899223344).
+
+The request covers invoice INV-2023-045, dated October 15, 2023, associated with PO-998877 and contract CON-2023-002. It is for monthly grounds maintenance at City Park, performed throughout September 2023. The total amount requested is $2,706.25, which includes $2,500.00 for services and $206.25 in tax. The request is submitted by the Parks and Recreation department.
+
+All required supporting documents—the original invoice, receiving report, W-9 form, and a copy of the contract—are attached. Sarah Jenkins prepared the document on October 18, 2023, with department head Marcus Thorne signing on October 19, and finance officer Elena Rodriguez providing final approval on October 20, 2023. A note is included requesting processing by the end of the month.

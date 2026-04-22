@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_17_remote_work_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Jonathan P. Sterling"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "I7:M7",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A9:H9",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "I9:M9",
+                      "value":  "Senior Backend Developer"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "A11:H11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "I11:M11",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Type  (Temporary / Permanent / Hybrid)",
+                      "value_cell":  "A15:M15",
+                      "value":  "Hybrid"
+                  },
+                  {
+                      "label":  "Proposed Start Date",
+                      "value_cell":  "A17:H17",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Proposed End Date  (if temporary)",
+                      "value_cell":  "I17:M17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Remote Days per Week",
+                      "value_cell":  "A19:H19",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "Remote Work Location",
+                      "value_cell":  "I19:M19",
+                      "value":  "Home Office, Austin, TX"
+                  },
+                  {
+                      "label":  "Secure Home Network Available  Y / N",
+                      "value_cell":  "A21:H21",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Company Equipment Required  Y / N",
+                      "value_cell":  "I21:M21",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Business Justification / Case",
+                      "value_cell":  "A23:M23",
+                      "value":  "Reduced commute time will increase focus hours for deep-work coding tasks."
+                  },
+                  {
+                      "label":  "Impact on Team Collaboration",
+                      "value_cell":  "A25:M25",
+                      "value":  "Will maintain core office presence on Tuesdays and Thursdays for team meetings."
+                  },
+                  {
+                      "label":  "Direct Manager",
+                      "value_cell":  "A31:L31",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date (Manager)",
+                      "value_cell":  "M31",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "HR Business Partner",
+                      "value_cell":  "A33:L33",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date (HRBP)",
+                      "value_cell":  "M33",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Department Head",
+                      "value_cell":  "A35:L35",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date (Dept Head)",
+                      "value_cell":  "M35",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

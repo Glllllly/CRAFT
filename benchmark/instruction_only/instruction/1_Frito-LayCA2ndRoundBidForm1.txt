@@ -1,0 +1,60 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "NYMEX Fixed Basis Bid (+/- $/MMBtu) PG&E",
+      "value_text": "+0.12"
+    },
+    {
+      "key_text": "NYMEX Fixed Basis Bid (+/- $/MMBtu) SoCal",
+      "value_text": "+0.08"
+    },
+    {
+      "key_text": "Adjustment to Gas Daily Index (+/- $/MMBtu) PG&E",
+      "value_text": "-0.05"
+    },
+    {
+      "key_text": "Adjustment to Gas Daily Index (+/- $/MMBtu) SoCal",
+      "value_text": "-0.02"
+    },
+    {
+      "key_text": "Market Based Interstate Transportation Mgmt. Fee ($/MMBtu) PG&E",
+      "value_text": "0.25"
+    },
+    {
+      "key_text": "Market Based Interstate Transportation Mgmt. Fee ($/MMBtu) SoCal",
+      "value_text": "0.30"
+    },
+    {
+      "key_text": "Company Name:",
+      "value_text": "Pacific Energy Solutions, Inc."
+    },
+    {
+      "key_text": "Phone Number:",
+      "value_text": "415-555-0198"
+    },
+    {
+      "key_text": "Fax Number:",
+      "value_text": "415-555-0199"
+    },
+    {
+      "key_text": "Email:",
+      "value_text": "j.thompson@pacificenergy.com"
+    },
+    {
+      "key_text": "Contact Name",
+      "value_text": "James Thompson"
+    },
+    {
+      "key_text": "Signature:",
+      "value_text": "James Thompson"
+    },
+    {
+      "key_text": "Title:",
+      "value_text": "Director of Trading"
+    }
+  ]
+}
+
+Narrative:
+This bid form has been completed by Pacific Energy Solutions, Inc. For the PG&E region, the NYMEX Fixed Basis Bid is set at +0.12 $/MMBtu with a -0.05 $/MMBtu adjustment to the Gas Daily Index, while the SoCal region carries a NYMEX Fixed Basis Bid of +0.08 $/MMBtu and a -0.02 $/MMBtu adjustment to the Gas Daily Index. The Market Based Interstate Transportation Management fees are listed as 0.25 $/MMBtu for PG&E and 0.30 $/MMBtu for SoCal. The contact person for this submission is James Thompson, the Director of Trading, who can be reached at 415-555-0198, via fax at 415-555-0199, or by email at j.thompson@pacificenergy.com. The form has been formally signed by James Thompson.

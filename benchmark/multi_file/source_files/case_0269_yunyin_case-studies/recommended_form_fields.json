@@ -1,0 +1,24 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "email",
+                                   "selected_value":  "john@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "phone",
+                                   "selected_value":  "+1-555-0100",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "#casestudy",
+                                   "selected_value":  "Customer Success Story",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "accountmanager",
+                                   "selected_value":  "John Smith",
+                                   "conflict":  false
+                               }
+                           ]
+}

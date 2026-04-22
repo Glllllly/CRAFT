@@ -1,0 +1,86 @@
+{
+  "excel": "case_0095_houqin_工作总结__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "76341"
+    },
+    {
+      "label": "title",
+      "value_cell": "F7:I8",
+      "value": "销售统计_9927"
+    },
+    {
+      "label": "type",
+      "value_cell": "K7:N8",
+      "value": "销售统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "A11:D12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F11:I12",
+      "value": "2026-02-10T05:30:31.295421"
+    },
+    {
+      "label": "status",
+      "value_cell": "A17:D18",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F17:I18",
+      "value": "中"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K17:N18",
+      "value": "重要"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A23:D24",
+      "value": "刘涛"
+    },
+    {
+      "label": "报告人",
+      "value_cell": "F23:I24",
+      "value": "部门经理"
+    },
+    {
+      "label": "编写部门",
+      "value_cell": "K23:N24",
+      "value": "后勤部"
+    },
+    {
+      "label": "批准人",
+      "value_cell": "A27:D28",
+      "value": "总经理"
+    },
+    {
+      "label": "from",
+      "value_cell": "A33:D34",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F33:I34",
+      "value": "王五@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A39:D40",
+      "value": "库存清单"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F39:I40",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

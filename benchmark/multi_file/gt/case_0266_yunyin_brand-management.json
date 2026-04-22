@@ -1,0 +1,51 @@
+{
+  "excel": "case_0266_yunyin_brand-management__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "primarylogo",
+      "value_cell": "A7:D8",
+      "value": "product_logo_primary.png"
+    },
+    {
+      "label": "secondarylogo",
+      "value_cell": "F7:I8",
+      "value": "product_logo_secondary.png"
+    },
+    {
+      "label": "primary",
+      "value_cell": "A13:D14",
+      "value": "#065A82 (Deep Blue)"
+    },
+    {
+      "label": "secondary",
+      "value_cell": "F13:I14",
+      "value": "#02C39A (Teal)"
+    },
+    {
+      "label": "neutral",
+      "value_cell": "K13:N14",
+      "value": "#1E293B (Dark), #F1F5F9 (Light)"
+    },
+    {
+      "label": "headlines",
+      "value_cell": "A19:D20",
+      "value": "Calibri Bold, 36-44pt"
+    },
+    {
+      "label": "body",
+      "value_cell": "F19:I20",
+      "value": "Calibri Regular, 14-16pt"
+    },
+    {
+      "label": "clearspace",
+      "value_cell": "A25:D26",
+      "value": "10px minimum"
+    },
+    {
+      "label": "usageguidelines",
+      "value_cell": "F25:I26",
+      "value": "Minimum 50px width"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "excel": "case_0212_houqin_采购管理_2023__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "72855"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "分析报告_6154"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "分析报告"
+    },
+    {
+      "label": "date",
+      "value_cell": "P6:S7",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A10:D11",
+      "value": "2026-02-10T05:30:32.065601"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F10:I11",
+      "value": "王军"
+    },
+    {
+      "label": "from",
+      "value_cell": "A16:D17",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F16:I17",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "status",
+      "value_cell": "K16:N17",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "P16:S17",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "A20:D21",
+      "value": "紧急"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A26:D27",
+      "value": "数据统计"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F26:I27",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

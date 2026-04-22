@@ -1,0 +1,3418 @@
+{
+  "bundle_dir": "case_0281_yunyin_marketing_content",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "content_plan_51.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 51",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 51",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_51\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_51\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "content_plan_52.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 52",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 52",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_52\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_52\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "content_plan_53.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 53",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 53",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_53\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_53\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "content_plan_54.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 54",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 54",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_54\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_54\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "content_plan_55.md",
+      "source_type": "md",
+      "candidate_count": 27,
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 55",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 55",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_55\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_55\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "###day12",
+      "candidates": [
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day12",
+          "value": "Educational Content",
+          "raw_key": "### Day 1-2",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 1-2: Educational Content",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###day34",
+      "candidates": [
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day34",
+          "value": "Promotional Content",
+          "raw_key": "### Day 3-4",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 3-4: Promotional Content",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###day56",
+      "candidates": [
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day56",
+          "value": "Community Content",
+          "raw_key": "### Day 5-6",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 5-6: Community Content",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###day7",
+      "candidates": [
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###day7",
+          "value": "Recap and Planning",
+          "raw_key": "### Day 7",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Day 7: Recap and Planning",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##lastupdated",
+      "candidates": [
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##lastupdated",
+          "value": "2024-02-10",
+          "raw_key": "## Last Updated",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Last Updated: 2024-02-10",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##owner",
+      "candidates": [
+        {
+          "key": "##owner",
+          "value": "Content Team 51",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 51",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 52",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 52",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 53",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 53",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 54",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 54",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##owner",
+          "value": "Content Team 55",
+          "raw_key": "## Owner",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Owner: Content Team 55",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "##status",
+      "candidates": [
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "##status",
+          "value": "Active",
+          "raw_key": "## Status",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "## Status: Active",
+            "location": "line:48"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "blogpost",
+      "candidates": [
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogpost",
+          "value": "\"Top 10 Tips for Product Usage\"",
+          "raw_key": "- Blog post",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog post: \"Top 10 Tips for Product Usage\"",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "blogviews",
+      "candidates": [
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "blogviews",
+          "value": "5000+",
+          "raw_key": "- Blog views",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Blog views: 5000+",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customersuccessstory",
+      "candidates": [
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersuccessstory",
+          "value": "Case study",
+          "raw_key": "- Customer success story",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer success story: Case study",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "engagementrate",
+      "candidates": [
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementrate",
+          "value": "5%+",
+          "raw_key": "- Engagement rate",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement rate: 5%+",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "engagementreport",
+      "candidates": [
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "engagementreport",
+          "value": "Performance analysis",
+          "raw_key": "- Engagement report",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Engagement report: Performance analysis",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "externallinks",
+      "candidates": [
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "externallinks",
+          "value": "3+ authoritative sources",
+          "raw_key": "- External links",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- External links: 3+ authoritative sources",
+            "location": "line:38"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "infographic",
+      "candidates": [
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "infographic",
+          "value": "Best practices guide",
+          "raw_key": "- Infographic",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Infographic: Best practices guide",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "internallinks",
+      "candidates": [
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "internallinks",
+          "value": "5+ per article",
+          "raw_key": "- Internal links",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Internal links: 5+ per article",
+            "location": "line:37"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "keywords",
+      "candidates": [
+        {
+          "key": "keywords",
+          "value": "[\"product_51\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_51\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_52\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_52\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_53\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_53\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_54\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_54\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "keywords",
+          "value": "[\"product_55\", \"marketing\", \"content\"]",
+          "raw_key": "- Keywords",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Keywords: [\"product_55\", \"marketing\", \"content\"]",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "limitedtimeoffer",
+      "candidates": [
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "limitedtimeoffer",
+          "value": "Special promotion",
+          "raw_key": "- Limited time offer",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Limited time offer: Special promotion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "metadescriptions",
+      "candidates": [
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "metadescriptions",
+          "value": "Optimized",
+          "raw_key": "- Meta descriptions",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Meta descriptions: Optimized",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "nextweekpreview",
+      "candidates": [
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "nextweekpreview",
+          "value": "Content roadmap",
+          "raw_key": "- Next week preview",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Next week preview: Content roadmap",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "pollsurvey",
+      "candidates": [
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "pollsurvey",
+          "value": "Gather feedback",
+          "raw_key": "- Poll/Survey",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Poll/Survey: Gather feedback",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "productshowcase",
+      "candidates": [
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "productshowcase",
+          "value": "New feature announcement",
+          "raw_key": "- Product showcase",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Product showcase: New feature announcement",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "q&asession",
+      "candidates": [
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "q&asession",
+          "value": "Community engagement",
+          "raw_key": "- Q&A session",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Q&A session: Community engagement",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "socialshares",
+      "candidates": [
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialshares",
+          "value": "200+",
+          "raw_key": "- Social shares",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social shares: 200+",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "userspotlight",
+      "candidates": [
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "userspotlight",
+          "value": "Featured customer",
+          "raw_key": "- User spotlight",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- User spotlight: Featured customer",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "videotutorial",
+      "candidates": [
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videotutorial",
+          "value": "5 minutes walkthrough",
+          "raw_key": "- Video tutorial",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video tutorial: 5 minutes walkthrough",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "videoviews",
+      "candidates": [
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "videoviews",
+          "value": "3000+",
+          "raw_key": "- Video views",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Video views: 3000+",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "weeklysummary",
+      "candidates": [
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_51.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_52.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_53.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_54.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weeklysummary",
+          "value": "Key metrics",
+          "raw_key": "- Weekly summary",
+          "source_file": "content_plan_55.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Weekly summary: Key metrics",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

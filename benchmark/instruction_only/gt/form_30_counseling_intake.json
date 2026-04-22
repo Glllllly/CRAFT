@@ -1,0 +1,291 @@
+﻿{
+    "excel":  "form_30_counseling_intake.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A11:H11",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "I11:P11",
+                      "value":  "Alex"
+                  },
+                  {
+                      "label":  "Preferred Name",
+                      "value_cell":  "Q11:X11",
+                      "value":  "Alex"
+                  },
+                  {
+                      "label":  "Student / Employee ID",
+                      "value_cell":  "A13:H13",
+                      "value":  "88293012"
+                  },
+                  {
+                      "label":  "Date of Birth",
+                      "value_cell":  "I13:N13",
+                      "value":  "05/12/2002"
+                  },
+                  {
+                      "label":  "Age",
+                      "value_cell":  "O13:R13",
+                      "value":  "21"
+                  },
+                  {
+                      "label":  "Gender Identity",
+                      "value_cell":  "S13:X13",
+                      "value":  "Non-binary"
+                  },
+                  {
+                      "label":  "Pronouns",
+                      "value_cell":  "A15:L15",
+                      "value":  "they/them"
+                  },
+                  {
+                      "label":  "Racial / Ethnic Identity  (optional, for service improvement)",
+                      "value_cell":  "M15:X15",
+                      "value":  "Hispanic/Latinx"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "A17:H17",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "Campus E-mail",
+                      "value_cell":  "I17:P17",
+                      "value":  "ah123@university.edu"
+                  },
+                  {
+                      "label":  "Home / Alternate E-mail",
+                      "value_cell":  "Q17:X17",
+                      "value":  "alexh@email.com"
+                  },
+                  {
+                      "label":  "Local Address",
+                      "value_cell":  "A19:L19",
+                      "value":  "123 Oak St, Apt 4B"
+                  },
+                  {
+                      "label":  "Permanent Home Address",
+                      "value_cell":  "M19:X19",
+                      "value":  "456 Maple Ave, Springfield, IL"
+                  },
+                  {
+                      "label":  "Academic Level / Year",
+                      "value_cell":  "A21:L21",
+                      "value":  "Junior"
+                  },
+                  {
+                      "label":  "Major / Department",
+                      "value_cell":  "M21:X21",
+                      "value":  "Psychology"
+                  },
+                  {
+                      "label":  "Emergency Contact Name",
+                      "value_cell":  "A26:L26",
+                      "value":  "Jordan Henderson"
+                  },
+                  {
+                      "label":  "Relationship",
+                      "value_cell":  "M26:R26",
+                      "value":  "Parent"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "S21:X26",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Insurance Provider",
+                      "value_cell":  "A31:L31",
+                      "value":  "BlueCross BlueShield"
+                  },
+                  {
+                      "label":  "Member / Policy ID",
+                      "value_cell":  "M31:X31",
+                      "value":  "BCBS99887766"
+                  },
+                  {
+                      "label":  "Student Health Insurance",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Parent\u0027s Plan",
+                      "value_cell":  "M31:X31",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Employer Plan",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Medicaid",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Self-Pay",
+                      "value_cell":  "M31:X31",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Primary Concern / Reason for Appointment",
+                      "value_cell":  "A37:X38",
+                      "value":  "High levels of academic stress and difficulty managing anxiety regarding upcoming finals."
+                  },
+                  {
+                      "label":  "How long have you been experiencing this concern?",
+                      "value_cell":  "A40:L40",
+                      "value":  "3 months"
+                  },
+                  {
+                      "label":  "How did you hear about our services?",
+                      "value_cell":  "M40:X40",
+                      "value":  "Academic Advisor"
+                  },
+                  {
+                      "label":  "Yes 鈥?same issue",
+                      "value_cell":  "F42:G42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Yes 鈥?different issue",
+                      "value_cell":  "L42:M42",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "No",
+                      "value_cell":  "R42:S42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "If yes, when and where, and was it helpful?",
+                      "value_cell":  "A43:X43",
+                      "value":  "High school counselor, 2019; it was helpful for transition support."
+                  },
+                  {
+                      "label":  "Anxiety",
+                      "value_cell":  "F48:G48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Depression",
+                      "value_cell":  "L48:M48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Trauma / PTSD",
+                      "value_cell":  "R48:S48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Relationship Issues",
+                      "value_cell":  "X48:Y48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Academic Stress",
+                      "value_cell":  "AD48:AE48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Grief",
+                      "value_cell":  "AJ48:AK48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Substance Use Concerns",
+                      "value_cell":  "AP48:AQ48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Identity / Diversity Issues",
+                      "value_cell":  "AV48:AW48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Sleep Problems",
+                      "value_cell":  "BB48:BC48",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "BH48:BI48",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Please describe your current stressors or challenges in your own words",
+                      "value_cell":  "A49:X50",
+                      "value":  "Feeling overwhelmed by heavy course load and lack of sleep leading to burnout."
+                  },
+                  {
+                      "label":  "Current Medications  (psychiatric or relevant)",
+                      "value_cell":  "A52:L52",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Prescribing Provider",
+                      "value_cell":  "M52:X52",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "Current or past substance use  (alcohol, cannabis, other 鈥?type, frequency)",
+                      "value_cell":  "A54:X54",
+                      "value":  "Occasional social alcohol use."
+                  },
+                  {
+                      "label":  "Significant Medical Conditions",
+                      "value_cell":  "A56:L56",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Current Primary Care Provider",
+                      "value_cell":  "M56:X56",
+                      "value":  "Dr. Sarah Miller"
+                  },
+                  {
+                      "label":  "Thoughts of harming yourself",
+                      "value_cell":  "F61:G61",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Thoughts of harming others",
+                      "value_cell":  "L61:M61",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Neither",
+                      "value_cell":  "R61:S61",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "If yes, please describe (current plan, intent, or protective factors)",
+                      "value_cell":  "A62:X62",
+                      "value":  null
+                  },
+                  {
+                      "label":  "I consent to receive counseling services and understand the limits of confidentiality.",
+                      "value_cell":  "A67:X68",
+                      "value":  "Signed"
+                  },
+                  {
+                      "label":  "Client Signature",
+                      "value_cell":  "A70:J70",
+                      "value":  "Alex Henderson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "K70:P70",
+                      "value":  "10/24/2023"
+                  },
+                  {
+                      "label":  "Clinician / Staff Signature",
+                      "value_cell":  "Q70:X70",
+                      "value":  "Dr. R. Smith"
+                  }
+              ]
+}

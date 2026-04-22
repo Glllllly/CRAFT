@@ -1,0 +1,160 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name",
+      "value_text": "Jonathan Michael Rivers"
+    },
+    {
+      "key_text": "Date of Birth mm/dd/yyyy",
+      "value_text": "04/12/1985"
+    },
+    {
+      "key_text": "Social Security Number (last 4)",
+      "value_text": "8842"
+    },
+    {
+      "key_text": "Marital Status",
+      "value_text": "Married"
+    },
+    {
+      "key_text": "Current Address",
+      "value_text": "742 Evergreen Terrace"
+    },
+    {
+      "key_text": "How long at this address?",
+      "value_text": "5 years"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Springfield"
+    },
+    {
+      "key_text": "State",
+      "value_text": "IL"
+    },
+    {
+      "key_text": "ZIP Code",
+      "value_text": "62704"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": "217-555-0192"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "217-555-8834"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "j.rivers85@email.com"
+    },
+    {
+      "key_text": "Citizenship / Residency Status",
+      "value_text": "U.S. Citizen"
+    },
+    {
+      "key_text": "Monthly Housing Payment $",
+      "value_text": "1,450.00"
+    },
+    {
+      "key_text": "Landlord / Mortgage Co. Name",
+      "value_text": "Springfield First Mortgage"
+    },
+    {
+      "key_text": "Employer Name",
+      "value_text": "Tech Solutions Inc."
+    },
+    {
+      "key_text": "Employer Address",
+      "value_text": "100 Corporate Plaza, Springfield, IL"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Systems Analyst"
+    },
+    {
+      "key_text": "Employment Start Date",
+      "value_text": "06/15/2018"
+    },
+    {
+      "key_text": "Gross Monthly Income $",
+      "value_text": "6,200.00"
+    },
+    {
+      "key_text": "Other Monthly Income $",
+      "value_text": "400.00"
+    },
+    {
+      "key_text": "Other Income Source (describe)",
+      "value_text": "Dividend income from stock portfolio"
+    },
+    {
+      "key_text": "Loan Amount Requested $",
+      "value_text": "15,000.00"
+    },
+    {
+      "key_text": "Loan Purpose",
+      "value_text": "Home Improvement"
+    },
+    {
+      "key_text": "Preferred Monthly Payment $",
+      "value_text": "450.00"
+    },
+    {
+      "key_text": "Co-Applicant? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Checking Account Balance  $",
+      "value_text": "8,450.00"
+    },
+    {
+      "key_text": "Savings Account Balance  $",
+      "value_text": "12,200.00"
+    },
+    {
+      "key_text": "Other Assets  (property, investments)  $",
+      "value_text": "45,000.00"
+    },
+    {
+      "key_text": "Total Estimated Monthly Debt Payments  $",
+      "value_text": "850.00"
+    },
+    {
+      "key_text": "I authorise the lender to verify my information and obtain a credit report.",
+      "value_text": "Agreed"
+    },
+    {
+      "key_text": "Applicant Signature",
+      "value_text": "Jonathan M. Rivers"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/24/2023"
+    },
+    {
+      "key_text": "Co-Applicant Signature  (if applicable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Loan Officer",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/24/2023"
+    }
+  ]
+}
+
+Narrative:
+The loan application is submitted by Jonathan Michael Rivers, born on April 12, 1985, who is married and resides at 742 Evergreen Terrace in Springfield, IL 62704. He has lived at this address for 5 years. Jonathan can be reached at 217-555-0192 or 217-555-8834, and his email is j.rivers85@email.com. He is a U.S. citizen with a monthly mortgage payment of $1,450.00 paid to Springfield First Mortgage.
+
+Professionally, he works as a Senior Systems Analyst at Tech Solutions Inc., located at 100 Corporate Plaza, Springfield, IL, a position he has held since June 15, 2018. His gross monthly income is $6,200.00, supplemented by $400.00 in monthly dividend income. 
+
+Jonathan is requesting a loan of $15,000.00 for home improvement purposes, with a preferred monthly payment of $450.00. He is not applying with a co-applicant. His financial standing includes $8,450.00 in his checking account, $12,200.00 in savings, and $45,000.00 in other assets, against total monthly debt payments of $850.00. He has provided his authorization for a credit check, signing the application on October 24, 2023, the same day it was processed by loan officer Sarah Jenkins.

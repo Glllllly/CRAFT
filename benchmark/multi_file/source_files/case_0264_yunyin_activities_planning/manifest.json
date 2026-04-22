@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0264_yunyin_activities_planning",
+    "tenant":  "yunyin",
+    "topic":  "activities",
+    "subtopic":  "planning",
+    "source_dir":  "yunyin\\activities\\planning",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\activities\\planning\\event_plan_55.md",
+                      "copied_name":  "event_plan_55.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1397
+                  },
+                  {
+                      "source_rel":  "yunyin\\activities\\planning\\event_plan_16.md",
+                      "copied_name":  "event_plan_16.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1397
+                  },
+                  {
+                      "source_rel":  "yunyin\\activities\\planning\\event_plan_46.md",
+                      "copied_name":  "event_plan_46.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1397
+                  },
+                  {
+                      "source_rel":  "yunyin\\activities\\planning\\event_plan_20.md",
+                      "copied_name":  "event_plan_20.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1397
+                  },
+                  {
+                      "source_rel":  "yunyin\\activities\\planning\\event_plan_54.md",
+                      "copied_name":  "event_plan_54.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1397
+                  }
+              ]
+}

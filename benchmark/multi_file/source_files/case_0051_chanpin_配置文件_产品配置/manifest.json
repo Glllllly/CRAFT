@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0051_chanpin_配置文件_产品配置",
+    "tenant":  "chanpin",
+    "topic":  "配置文件",
+    "subtopic":  "产品配置",
+    "source_dir":  "chanpin\\配置文件\\产品配置",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\配置文件\\产品配置\\config_39.json",
+                      "copied_name":  "config_39.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  849
+                  },
+                  {
+                      "source_rel":  "chanpin\\配置文件\\产品配置\\config_49.json",
+                      "copied_name":  "config_49.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  849
+                  },
+                  {
+                      "source_rel":  "chanpin\\配置文件\\产品配置\\config_19.json",
+                      "copied_name":  "config_19.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  849
+                  },
+                  {
+                      "source_rel":  "chanpin\\配置文件\\产品配置\\config_41.json",
+                      "copied_name":  "config_41.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  849
+                  },
+                  {
+                      "source_rel":  "chanpin\\配置文件\\产品配置\\config_40.json",
+                      "copied_name":  "config_40.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  849
+                  }
+              ]
+}

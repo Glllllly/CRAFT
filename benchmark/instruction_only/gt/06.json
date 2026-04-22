@@ -1,0 +1,221 @@
+﻿{
+    "excel":  "06.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requested By 鈥?Full Name",
+                      "value_cell":  "A10:L10",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Department / Cost Centre",
+                      "value_cell":  "M10:X10",
+                      "value":  "Marketing / CC-402"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A12:H12",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I12:P12",
+                      "value":  "s.jenkins@company.com"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "Q12:X12",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Contractor / Company Name",
+                      "value_cell":  "A17:L17",
+                      "value":  "Apex Creative Solutions"
+                  },
+                  {
+                      "label":  "Contact Full Name",
+                      "value_cell":  "M17:X17",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "A19:H19",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I19:P19",
+                      "value":  "m.thorne@apexcreative.com"
+                  },
+                  {
+                      "label":  "Website",
+                      "value_cell":  "Q19:X19",
+                      "value":  "www.apexcreative.com"
+                  },
+                  {
+                      "label":  "Business Address",
+                      "value_cell":  "A21:L21",
+                      "value":  "452 Innovation Way"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M21:X21",
+                      "value":  "Austin, TX 78701"
+                  },
+                  {
+                      "label":  "Tax ID / SSN (last 4)",
+                      "value_cell":  "A23:L23",
+                      "value":  "8892"
+                  },
+                  {
+                      "label":  "W-9 Submitted? Y / N",
+                      "value_cell":  "M23:X23",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Payment Currency",
+                      "value_cell":  "A25:L25",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "Bank / Payment Details on File? Y / N",
+                      "value_cell":  "M25:X25",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Description of Services to be Provided",
+                      "value_cell":  "A30:X30",
+                      "value":  "Development of social media campaign assets and video editing for Q4 product launch."
+                  },
+                  {
+                      "label":  "Project / Engagement Title",
+                      "value_cell":  "A32:L32",
+                      "value":  "Q4 Digital Campaign"
+                  },
+                  {
+                      "label":  "Project Code",
+                      "value_cell":  "M32:X32",
+                      "value":  "MKT-2023-09"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A34:L34",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "End Date / Deadline",
+                      "value_cell":  "M34:X34",
+                      "value":  "2023-12-20"
+                  },
+                  {
+                      "label":  "Estimated Total Hours",
+                      "value_cell":  "A36:L36",
+                      "value":  "80"
+                  },
+                  {
+                      "label":  "Hourly / Day Rate $",
+                      "value_cell":  "M36:X36",
+                      "value":  "125"
+                  },
+                  {
+                      "label":  "Fixed Fee (if applicable) $",
+                      "value_cell":  "A38:L38",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Total Not-to-Exceed Budget $",
+                      "value_cell":  "M38:X38",
+                      "value":  "10000"
+                  },
+                  {
+                      "label":  "One-Off Project",
+                      "value_cell":  "H39",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Retainer",
+                      "value_cell":  "M39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Milestone-Based",
+                      "value_cell":  "R39",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Yes 鈥?Passes Independent Contractor",
+                      "value_cell":  "H43",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Yes 鈥?Worker is Employee",
+                      "value_cell":  "M43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Not Yet Performed",
+                      "value_cell":  "R43",
+                      "value":  null
+                  },
+                  {
+                      "label":  "HR / Legal Sign-off Name",
+                      "value_cell":  "A45:L45",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Sign-off Date",
+                      "value_cell":  "M45:X45",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Classification Notes / Rationale",
+                      "value_cell":  "A47:X47",
+                      "value":  "Contractor provides own equipment and maintains control over specific methodology."
+                  },
+                  {
+                      "label":  "Key Deliverables Expected",
+                      "value_cell":  "A52:X52",
+                      "value":  "10 social graphics, 3 short-form videos, and final brand guidelines document."
+                  },
+                  {
+                      "label":  "IP / Work-for-Hire Clause in Contract?  Y / N",
+                      "value_cell":  "A54:L54",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "NDA Required?  Y / N",
+                      "value_cell":  "M54:X54",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Requesting Manager",
+                      "value_cell":  "A61:L61",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N61:X61",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "HR / Legal",
+                      "value_cell":  "A64:L64",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N64:X64",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "Finance / Procurement",
+                      "value_cell":  "A67:L67",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N67:X67",
+                      "value":  "2023-10-19"
+                  }
+              ]
+}

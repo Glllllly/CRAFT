@@ -1,0 +1,156 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Jonathan P. Miller"
+    },
+    {
+      "key_text": "Library Card / Patron ID",
+      "value_text": "LIB-992837465"
+    },
+    {
+      "key_text": "Department / Faculty",
+      "value_text": "History"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "jmiller@university.edu"
+    },
+    {
+      "key_text": "Borrower Address",
+      "value_text": "452 Oakwood Avenue"
+    },
+    {
+      "key_text": "City, State, ZIP",
+      "value_text": "Springfield, IL, 62704"
+    },
+    {
+      "key_text": "Title of Item (book, journal, AV, equipment)",
+      "value_text": "The Rise and Fall of the Roman Empire"
+    },
+    {
+      "key_text": "Author(s) / Creator(s)",
+      "value_text": "Edward Gibbon"
+    },
+    {
+      "key_text": "Publication Year",
+      "value_text": "2015"
+    },
+    {
+      "key_text": "ISBN / ISSN / Barcode Number",
+      "value_text": "978-0140437645"
+    },
+    {
+      "key_text": "Call Number / Classification",
+      "value_text": "DG311 .G5 2015"
+    },
+    {
+      "key_text": "Item Format (Book / DVD / Equipment / Other)",
+      "value_text": "Book"
+    },
+    {
+      "key_text": "Item Value $",
+      "value_text": "45.00"
+    },
+    {
+      "key_text": "Date Item Was Borrowed",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Date Loss / Damage Discovered",
+      "value_text": "2023-11-05"
+    },
+    {
+      "key_text": "Incident Type: Lost",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Incident Type: Stolen",
+      "value_text": null
+    },
+    {
+      "key_text": "Incident Type: Water Damage",
+      "value_text": null
+    },
+    {
+      "key_text": "Description of Circumstances",
+      "value_text": "Item was misplaced while commuting on the campus shuttle."
+    },
+    {
+      "key_text": "Location Where Item Was Last Seen / Used",
+      "value_text": "Campus shuttle bus line 4"
+    },
+    {
+      "key_text": "Police Report Filed? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Police Report Number (if applicable)",
+      "value_text": null
+    },
+    {
+      "key_text": "Preferred Resolution: Pay Replacement Cost",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Preferred Resolution: Provide Replacement Copy",
+      "value_text": null
+    },
+    {
+      "key_text": "Preferred Resolution: Dispute Charge",
+      "value_text": null
+    },
+    {
+      "key_text": "Replacement Copy Provided by Patron? Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "Date Resolved",
+      "value_text": "2023-11-10"
+    },
+    {
+      "key_text": "Invoice / Fine Amount $",
+      "value_text": "45.00"
+    },
+    {
+      "key_text": "Payment Method",
+      "value_text": "Credit Card"
+    },
+    {
+      "key_text": "Library Staff Notes",
+      "value_text": "Patron processed payment at circulation desk."
+    },
+    {
+      "key_text": "Patron Signature",
+      "value_text": "Jonathan P. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-11-10"
+    },
+    {
+      "key_text": "Library Staff",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-11-10"
+    },
+    {
+      "key_text": "Library Manager",
+      "value_text": "Robert Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-11-12"
+    }
+  ]
+}
+
+Narrative:
+Jonathan P. Miller, a student in the History department with library ID LIB-992837465, is reporting a lost item. He can be reached at 555-012-3456 or jmiller@university.edu and resides at 452 Oakwood Avenue in Springfield, IL 62704. The item in question is a book titled "The Rise and Fall of the Roman Empire" by Edward Gibbon, published in 2015, with ISBN 978-0140437645 and call number DG311 .G5 2015. The book, valued at $45.00, was borrowed on October 12, 2023, and the loss was discovered on November 5, 2023. Jonathan explained that the book was misplaced while he was riding the campus shuttle, specifically on line 4. No police report was filed. He has opted to pay the $45.00 replacement cost, which was processed via credit card on November 10, 2023. Library staff member Sarah Jenkins noted that the payment was successfully handled at the circulation desk. The form was signed by Jonathan on November 10, 2023, verified by Sarah Jenkins on the same day, and approved by Library Manager Robert Thorne on November 12, 2023.

@@ -1,0 +1,21 @@
+{
+  "excel": "case_0265_yunyin_admin__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "campaigna",
+      "value_cell": "D6:H6",
+      "value": "On track, 85% completion"
+    },
+    {
+      "label": "campaignb",
+      "value_cell": "M6:Q6",
+      "value": "Needs adjustment, performance below target"
+    },
+    {
+      "label": "campaignc",
+      "value_cell": "D9:H9",
+      "value": "Exceeded expectations, ROI 3.5x"
+    }
+  ]
+}

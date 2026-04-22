@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Filing Status",
+      "value_text": "Married Filing Jointly"
+    },
+    {
+      "key_text": "Number of Dependents",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Number of Personal Exemptions (Self, Spouse)",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Total Personal Exemptions",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Number of Filer above 65",
+      "value_text": "0"
+    },
+    {
+      "key_text": "Tax Bracket",
+      "value_text": "22%"
+    },
+    {
+      "key_text": "Gross Annual Income",
+      "value_text": "95000"
+    },
+    {
+      "key_text": "Adjustments",
+      "value_text": "4500"
+    },
+    {
+      "key_text": "Adjusted Gross Income (AGI)",
+      "value_text": "90500"
+    },
+    {
+      "key_text": "Standard Deduction",
+      "value_text": "25900"
+    },
+    {
+      "key_text": "Itemized Deductions",
+      "value_text": "0"
+    },
+    {
+      "key_text": "Personal Exemptions",
+      "value_text": "0"
+    },
+    {
+      "key_text": "Total Taxable Income",
+      "value_text": "64600"
+    },
+    {
+      "key_text": "Tax Credits",
+      "value_text": "2000"
+    },
+    {
+      "key_text": "Tax Estimates",
+      "value_text": "12212"
+    },
+    {
+      "key_text": "Educator expenses",
+      "value_text": "250"
+    },
+    {
+      "key_text": "IRA deduction",
+      "value_text": "3000"
+    },
+    {
+      "key_text": "Student loan interest deduction",
+      "value_text": "1250"
+    },
+    {
+      "key_text": "Tuition and fees deduction",
+      "value_text": null
+    },
+    {
+      "key_text": "Health savings account deduction",
+      "value_text": null
+    },
+    {
+      "key_text": "Moving expenses",
+      "value_text": null
+    },
+    {
+      "key_text": "50% of self-employment tax",
+      "value_text": null
+    },
+    {
+      "key_text": "Self-employed Health Insurance Deduction",
+      "value_text": null
+    },
+    {
+      "key_text": "Other Self-Employed Plans (SEP, SIMPLE, etc)",
+      "value_text": null
+    },
+    {
+      "key_text": "Penalty paid on early withdrawal of savings",
+      "value_text": null
+    },
+    {
+      "key_text": "Alimony paid",
+      "value_text": null
+    },
+    {
+      "key_text": "Total Adjustments",
+      "value_text": "4500"
+    },
+    {
+      "key_text": "Foreign tax credit",
+      "value_text": null
+    },
+    {
+      "key_text": "Credit for child and dependent care expenses",
+      "value_text": null
+    },
+    {
+      "key_text": "Credit for the elderly or the disabled",
+      "value_text": null
+    },
+    {
+      "key_text": "Education credits",
+      "value_text": null
+    },
+    {
+      "key_text": "Retirement savings contributions credit",
+      "value_text": null
+    },
+    {
+      "key_text": "Child tax credit",
+      "value_text": "2000"
+    },
+    {
+      "key_text": "Adoption credit",
+      "value_text": null
+    },
+    {
+      "key_text": "Other Credits",
+      "value_text": null
+    },
+    {
+      "key_text": "Total Tax Credits",
+      "value_text": "2000"
+    }
+  ]
+}
+
+Narrative:
+This tax estimate is prepared for a couple filing as Married Filing Jointly, who have two dependents and no filers over the age of 65. With a gross annual income of $95,000, they have total adjustments of $4,500, which include $250 in educator expenses, $3,000 in IRA deductions, and $1,250 for student loan interest. This brings their Adjusted Gross Income (AGI) to $90,500. After applying a standard deduction of $25,900 and accounting for their personal exemptions, their total taxable income is $64,600. Based on a 22% tax bracket, the total tax estimates come out to $12,212. Finally, they have claimed a $2,000 child tax credit, bringing their total tax credits to $2,000.

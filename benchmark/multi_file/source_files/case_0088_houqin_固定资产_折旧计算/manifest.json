@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0088_houqin_固定资产_折旧计算",
+    "tenant":  "houqin",
+    "topic":  "固定资产",
+    "subtopic":  "折旧计算",
+    "source_dir":  "houqin\\固定资产\\折旧计算",
+    "total_files_in_source_dir":  69,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\固定资产\\折旧计算\\工作日志_3528.json",
+                      "copied_name":  "工作日志_3528.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\折旧计算\\验收单_5326.csv",
+                      "copied_name":  "验收单_5326.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\折旧计算\\购置申请_2586.txt",
+                      "copied_name":  "购置申请_2586.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  224
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\折旧计算\\工作计划_3795.eml",
+                      "copied_name":  "工作计划_3795.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\折旧计算\\批准单_3597.csv",
+                      "copied_name":  "批准单_3597.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  }
+              ]
+}

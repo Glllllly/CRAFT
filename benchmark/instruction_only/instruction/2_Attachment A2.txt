@@ -1,0 +1,48 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date:",
+      "value_text": "December 14, 2000"
+    },
+    {
+      "key_text": "Company Name:",
+      "value_text": "Pacific Energy Solutions Inc."
+    },
+    {
+      "key_text": "Address 1:",
+      "value_text": "4500 Energy Plaza"
+    },
+    {
+      "key_text": "Address 2:",
+      "value_text": "Suite 300"
+    },
+    {
+      "key_text": "City",
+      "value_text": "San Francisco"
+    },
+    {
+      "key_text": "State",
+      "value_text": "CA"
+    },
+    {
+      "key_text": "Zip Code",
+      "value_text": "94105"
+    },
+    {
+      "key_text": "Telephone:",
+      "value_text": "415-555-0198"
+    },
+    {
+      "key_text": "Fax Number:",
+      "value_text": "415-555-0199"
+    },
+    {
+      "key_text": "Delivery Point:",
+      "value_text": "SP-15"
+    }
+  ]
+}
+
+Narrative:
+This form was completed on December 14, 2000, by Pacific Energy Solutions Inc. The company is located at 4500 Energy Plaza, Suite 300, in San Francisco, CA, 94105. For official correspondence, they can be reached by telephone at 415-555-0198 or via fax at 415-555-0199. The designated delivery point for this agreement is SP-15.

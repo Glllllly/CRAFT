@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0206_houqin_车队管理_维护保养",
+    "tenant":  "houqin",
+    "topic":  "车队管理",
+    "subtopic":  "维护保养",
+    "source_dir":  "houqin\\车队管理\\维护保养",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\车队管理\\维护保养\\报销申请_9010.json",
+                      "copied_name":  "报销申请_9010.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\维护保养\\物品清单_3812.csv",
+                      "copied_name":  "物品清单_3812.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\维护保养\\访问记录_1531.txt",
+                      "copied_name":  "访问记录_1531.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  199
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\维护保养\\采购计划_6574.eml",
+                      "copied_name":  "采购计划_6574.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\车队管理\\维护保养\\销售统计_2641.csv",
+                      "copied_name":  "销售统计_2641.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

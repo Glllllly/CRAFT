@@ -1,0 +1,3353 @@
+{
+  "bundle_dir": "case_0276_yunyin_data-analytics_reports",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "analytics_report_24.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 24",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 24",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 24",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 24",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.campaign241",
+          "value": "128450000 impressions",
+          "raw_key": "1. Campaign_24_1",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_24_1: 128450000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.content242",
+          "value": "131410000 views",
+          "raw_key": "2. Content_24_2",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_24_2: 131410000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.socialpost243",
+          "value": "32744000 engagements",
+          "raw_key": "3. Social_Post_24_3",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_24_3: 32744000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "4321500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 4321500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$3078450",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $3078450",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "17 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 17 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "2%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 2%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "2%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 2%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "196020000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 196020000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "6%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 6%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$80530",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $80530",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "8151400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 8151400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "51%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 51%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "54%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 54%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+52%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +52%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "1504800",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 1504800",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "81%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 81%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "3:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 3:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "5 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 5 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "10%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 10%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "19421000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 19421000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+11%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +11%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+115%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +115%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "analytics_report_28.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 28",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 28",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 28",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 28",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.campaign281",
+          "value": "225770000 impressions",
+          "raw_key": "1. Campaign_28_1",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_28_1: 225770000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.content282",
+          "value": "108760000 views",
+          "raw_key": "2. Content_28_2",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_28_2: 108760000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.socialpost283",
+          "value": "40004000 engagements",
+          "raw_key": "3. Social_Post_28_3",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_28_3: 40004000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "14599500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 14599500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$645750",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $645750",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "17 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 17 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "3%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 3%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "187930000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 187930000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "10%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 10%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$302820",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $302820",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "5641400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 5641400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "62%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 62%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "98%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 98%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+13%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +13%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2507000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2507000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "91%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 91%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "3:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 3:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "2 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 2 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "11%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 11%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "28414000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 28414000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+8%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +8%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+78%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +78%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "analytics_report_34.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 34",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 34",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 34",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 34",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.campaign341",
+          "value": "167340000 impressions",
+          "raw_key": "1. Campaign_34_1",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_34_1: 167340000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.content342",
+          "value": "126680000 views",
+          "raw_key": "2. Content_34_2",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_34_2: 126680000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.socialpost343",
+          "value": "26546000 engagements",
+          "raw_key": "3. Social_Post_34_3",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_34_3: 26546000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "7699500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 7699500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$2483850",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $2483850",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "12 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 12 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "3%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 3%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "208180000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 208180000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "7%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 7%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$169140",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $169140",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "12298600",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 12298600",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "63%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 63%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "80%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 80%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+46%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +46%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2258400",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2258400",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "84%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 84%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "1:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 1:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "4 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 4 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "5%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 5%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "28121000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 28121000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+13%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +13%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+146%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +146%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "analytics_report_41.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 41",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 41",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 41",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 41",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.campaign411",
+          "value": "230830000 impressions",
+          "raw_key": "1. Campaign_41_1",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_41_1: 230830000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.content412",
+          "value": "151185000 views",
+          "raw_key": "2. Content_41_2",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_41_2: 151185000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.socialpost413",
+          "value": "58610000 engagements",
+          "raw_key": "3. Social_Post_41_3",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_41_3: 58610000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "11470500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 11470500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$3091850",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $3091850",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "23 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 23 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "9%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 9%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "34840000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 34840000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "2%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 2%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$218760",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $218760",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "1497400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 1497400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "31%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 31%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "56%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 56%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+48%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +48%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2180000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2180000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "89%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 89%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "1:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 1:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "4 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 4 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "3%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 3%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "32731000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 32731000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+31%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +31%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+123%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +123%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "analytics_report_59.md",
+      "source_type": "md",
+      "candidate_count": 26,
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 59",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 59",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 59",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 59",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "1.campaign591",
+          "value": "219950000 impressions",
+          "raw_key": "1. Campaign_59_1",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_59_1: 219950000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "2.content592",
+          "value": "78785000 views",
+          "raw_key": "2. Content_59_2",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_59_2: 78785000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "3.socialpost593",
+          "value": "47122000 engagements",
+          "raw_key": "3. Social_Post_59_3",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_59_3: 47122000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "12363000",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 12363000",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$2518250",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $2518250",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "20 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 20 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "4%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 4%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "2%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 2%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "191150000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 191150000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "7%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 7%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$139220",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $139220",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "11172200",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 11172200",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "68%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 68%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "59%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 59%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+58%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +58%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2877000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2877000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "98%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 98%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "4:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 4:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "5 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 5 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "8%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 8%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "20033000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 20033000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+15%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +15%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+103%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +103%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "**analyst**",
+      "candidates": [
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 24",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 24",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 28",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 28",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 34",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 34",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 41",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 41",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**analyst**",
+          "value": "Analytics Team 59",
+          "raw_key": "**Analyst**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Analyst**: Analytics Team 59",
+            "location": "line:62"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**generated**",
+      "candidates": [
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**generated**",
+          "value": "2024-02-10",
+          "raw_key": "**Generated**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Generated**: 2024-02-10",
+            "location": "line:61"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**reportperiod**",
+      "candidates": [
+        {
+          "key": "**reportperiod**",
+          "value": "Week 24",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 24",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 28",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 28",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 34",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 34",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 41",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 41",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**reportperiod**",
+          "value": "Week 59",
+          "raw_key": "**Report Period**",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Report Period**: Week 59",
+            "location": "line:60"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.campaign241",
+      "candidates": [
+        {
+          "key": "1.campaign241",
+          "value": "128450000 impressions",
+          "raw_key": "1. Campaign_24_1",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_24_1: 128450000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.campaign281",
+      "candidates": [
+        {
+          "key": "1.campaign281",
+          "value": "225770000 impressions",
+          "raw_key": "1. Campaign_28_1",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_28_1: 225770000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.campaign341",
+      "candidates": [
+        {
+          "key": "1.campaign341",
+          "value": "167340000 impressions",
+          "raw_key": "1. Campaign_34_1",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_34_1: 167340000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.campaign411",
+      "candidates": [
+        {
+          "key": "1.campaign411",
+          "value": "230830000 impressions",
+          "raw_key": "1. Campaign_41_1",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_41_1: 230830000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "1.campaign591",
+      "candidates": [
+        {
+          "key": "1.campaign591",
+          "value": "219950000 impressions",
+          "raw_key": "1. Campaign_59_1",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "1. Campaign_59_1: 219950000 impressions",
+            "location": "line:39"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.content242",
+      "candidates": [
+        {
+          "key": "2.content242",
+          "value": "131410000 views",
+          "raw_key": "2. Content_24_2",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_24_2: 131410000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.content282",
+      "candidates": [
+        {
+          "key": "2.content282",
+          "value": "108760000 views",
+          "raw_key": "2. Content_28_2",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_28_2: 108760000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.content342",
+      "candidates": [
+        {
+          "key": "2.content342",
+          "value": "126680000 views",
+          "raw_key": "2. Content_34_2",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_34_2: 126680000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.content412",
+      "candidates": [
+        {
+          "key": "2.content412",
+          "value": "151185000 views",
+          "raw_key": "2. Content_41_2",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_41_2: 151185000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "2.content592",
+      "candidates": [
+        {
+          "key": "2.content592",
+          "value": "78785000 views",
+          "raw_key": "2. Content_59_2",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "2. Content_59_2: 78785000 views",
+            "location": "line:40"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.socialpost243",
+      "candidates": [
+        {
+          "key": "3.socialpost243",
+          "value": "32744000 engagements",
+          "raw_key": "3. Social_Post_24_3",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_24_3: 32744000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.socialpost283",
+      "candidates": [
+        {
+          "key": "3.socialpost283",
+          "value": "40004000 engagements",
+          "raw_key": "3. Social_Post_28_3",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_28_3: 40004000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.socialpost343",
+      "candidates": [
+        {
+          "key": "3.socialpost343",
+          "value": "26546000 engagements",
+          "raw_key": "3. Social_Post_34_3",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_34_3: 26546000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.socialpost413",
+      "candidates": [
+        {
+          "key": "3.socialpost413",
+          "value": "58610000 engagements",
+          "raw_key": "3. Social_Post_41_3",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_41_3: 58610000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "3.socialpost593",
+      "candidates": [
+        {
+          "key": "3.socialpost593",
+          "value": "47122000 engagements",
+          "raw_key": "3. Social_Post_59_3",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "3. Social_Post_59_3: 47122000 engagements",
+            "location": "line:41"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "activeusers",
+      "candidates": [
+        {
+          "key": "activeusers",
+          "value": "4321500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 4321500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "14599500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 14599500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "7699500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 7699500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "11470500",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 11470500",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "activeusers",
+          "value": "12363000",
+          "raw_key": "- Active Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Active Users: 12363000",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "averageordervalue",
+      "candidates": [
+        {
+          "key": "averageordervalue",
+          "value": "$3078450",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $3078450",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$645750",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $645750",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$2483850",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $2483850",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$3091850",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $3091850",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averageordervalue",
+          "value": "$2518250",
+          "raw_key": "- Average Order Value",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Order Value: $2518250",
+            "location": "line:23"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "averagesessionlength",
+      "candidates": [
+        {
+          "key": "averagesessionlength",
+          "value": "17 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 17 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "17 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 17 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "12 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 12 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "23 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 23 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "averagesessionlength",
+          "value": "20 minutes",
+          "raw_key": "- Average Session Length",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Average Session Length: 20 minutes",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "churnrate",
+      "candidates": [
+        {
+          "key": "churnrate",
+          "value": "2%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 2%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "0%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 0%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "churnrate",
+          "value": "4%",
+          "raw_key": "- Churn Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Churn Rate: 4%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "clickthroughrate",
+      "candidates": [
+        {
+          "key": "clickthroughrate",
+          "value": "2%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 2%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "3%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 3%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "3%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 3%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "9%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 9%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "clickthroughrate",
+          "value": "2%",
+          "raw_key": "- Click Through Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Click Through Rate: 2%",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "contentviews",
+      "candidates": [
+        {
+          "key": "contentviews",
+          "value": "196020000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 196020000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "187930000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 187930000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "208180000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 208180000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "34840000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 34840000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "contentviews",
+          "value": "191150000",
+          "raw_key": "- Content Views",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Content Views: 191150000",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "conversionrate",
+      "candidates": [
+        {
+          "key": "conversionrate",
+          "value": "6%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 6%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "10%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 10%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "7%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 7%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "2%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 2%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "conversionrate",
+          "value": "7%",
+          "raw_key": "- Conversion Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Conversion Rate: 7%",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customeracquisitioncost",
+      "candidates": [
+        {
+          "key": "customeracquisitioncost",
+          "value": "$80530",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $80530",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$302820",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $302820",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$169140",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $169140",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$218760",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $218760",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "$139220",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: $139220",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "dailyactiveusers",
+      "candidates": [
+        {
+          "key": "dailyactiveusers",
+          "value": "8151400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 8151400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "5641400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 5641400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "12298600",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 12298600",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "1497400",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 1497400",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "dailyactiveusers",
+          "value": "11172200",
+          "raw_key": "- Daily Active Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Daily Active Users: 11172200",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "emailopenrate",
+      "candidates": [
+        {
+          "key": "emailopenrate",
+          "value": "51%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 51%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "62%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 62%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "63%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 63%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "31%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 31%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "emailopenrate",
+          "value": "68%",
+          "raw_key": "- Email Open Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Email Open Rate: 68%",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "featureadoption",
+      "candidates": [
+        {
+          "key": "featureadoption",
+          "value": "54%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 54%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "98%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 98%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "80%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 80%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "56%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 56%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "featureadoption",
+          "value": "59%",
+          "raw_key": "- Feature Adoption",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Feature Adoption: 59%",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "monthovermonthgrowth",
+      "candidates": [
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+52%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +52%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+13%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +13%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+46%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +46%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+48%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +48%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "monthovermonthgrowth",
+          "value": "+58%",
+          "raw_key": "- Month-over-month growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Month-over-month growth: +58%",
+            "location": "line:35"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "newusers",
+      "candidates": [
+        {
+          "key": "newusers",
+          "value": "1504800",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 1504800",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2507000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2507000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2258400",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2258400",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2180000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2180000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "newusers",
+          "value": "2877000",
+          "raw_key": "- New Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- New Users: 2877000",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "retentionrate",
+      "candidates": [
+        {
+          "key": "retentionrate",
+          "value": "81%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 81%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "91%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 91%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "84%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 84%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "89%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 89%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": "98%",
+          "raw_key": "- Retention Rate",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: 98%",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "returnonadspend",
+      "candidates": [
+        {
+          "key": "returnonadspend",
+          "value": "3:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 3:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "3:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 3:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "1:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 1:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "1:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 1:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "returnonadspend",
+          "value": "4:1",
+          "raw_key": "- Return on Ad Spend",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Return on Ad Spend: 4:1",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "sessionfrequency",
+      "candidates": [
+        {
+          "key": "sessionfrequency",
+          "value": "5 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 5 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "2 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 2 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "4 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 4 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "4 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 4 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "sessionfrequency",
+          "value": "5 sessions/user",
+          "raw_key": "- Session Frequency",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Session Frequency: 5 sessions/user",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "socialmediaengagement",
+      "candidates": [
+        {
+          "key": "socialmediaengagement",
+          "value": "10%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 10%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "11%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 11%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "5%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 5%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "3%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 3%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "socialmediaengagement",
+          "value": "8%",
+          "raw_key": "- Social Media Engagement",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Social Media Engagement: 8%",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "totalusers",
+      "candidates": [
+        {
+          "key": "totalusers",
+          "value": "19421000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 19421000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "28414000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 28414000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "28121000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 28121000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "32731000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 32731000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "totalusers",
+          "value": "20033000",
+          "raw_key": "- Total Users",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Total Users: 20033000",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "weekoverweekgrowth",
+      "candidates": [
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+11%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +11%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+8%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +8%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+13%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +13%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+31%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +31%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "weekoverweekgrowth",
+          "value": "+15%",
+          "raw_key": "- Week-over-week growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Week-over-week growth: +15%",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "yearoveryeargrowth",
+      "candidates": [
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+115%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_24.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +115%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+78%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_28.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +78%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+146%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +146%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+123%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_41.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +123%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "yearoveryeargrowth",
+          "value": "+103%",
+          "raw_key": "- Year-over-year growth",
+          "source_file": "analytics_report_59.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Year-over-year growth: +103%",
+            "location": "line:36"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

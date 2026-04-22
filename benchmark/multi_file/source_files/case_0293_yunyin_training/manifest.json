@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0293_yunyin_training",
+    "tenant":  "yunyin",
+    "topic":  "training",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\training",
+    "total_files_in_source_dir":  40,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\training\\training_module_33.md",
+                      "copied_name":  "training_module_33.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1448
+                  },
+                  {
+                      "source_rel":  "yunyin\\training\\training_module_32.md",
+                      "copied_name":  "training_module_32.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1448
+                  },
+                  {
+                      "source_rel":  "yunyin\\training\\training_module_34.md",
+                      "copied_name":  "training_module_34.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1448
+                  },
+                  {
+                      "source_rel":  "yunyin\\training\\training_module_36.md",
+                      "copied_name":  "training_module_36.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1448
+                  },
+                  {
+                      "source_rel":  "yunyin\\training\\training_module_35.md",
+                      "copied_name":  "training_module_35.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1448
+                  }
+              ]
+}

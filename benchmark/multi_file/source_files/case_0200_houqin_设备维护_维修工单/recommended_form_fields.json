@@ -1,0 +1,104 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:30 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "休假申请_5083",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "紧急",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:30.982995",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "12567",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "张丽@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "陈芳@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "休假申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "刘涛",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "费用统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报告人",
+                                   "selected_value":  "李明",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "主要成果",
+                                   "selected_value":  "圆满完成各项任务",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "关键指标",
+                                   "selected_value":  "完成率84%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "存在问题",
+                                   "selected_value":  "持续改进中",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报告时间",
+                                   "selected_value":  "2026-02-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "汇报部门",
+                                   "selected_value":  "总经理办公室",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "下一步计划",
+                                   "selected_value":  "继续深化执行",
+                                   "conflict":  false
+                               }
+                           ]
+}

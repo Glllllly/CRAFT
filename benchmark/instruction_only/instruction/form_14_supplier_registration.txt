@@ -1,0 +1,168 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Legal Company Name",
+      "value_text": "Apex Industrial Solutions Inc."
+    },
+    {
+      "key_text": "Trading / DBA Name",
+      "value_text": "Apex Supply Co."
+    },
+    {
+      "key_text": "Company Registration Number",
+      "value_text": "8849201-B"
+    },
+    {
+      "key_text": "Federal Tax ID / VAT Number",
+      "value_text": "12-3456789"
+    },
+    {
+      "key_text": "Year Established",
+      "value_text": "2005"
+    },
+    {
+      "key_text": "Number of Employees",
+      "value_text": "150"
+    },
+    {
+      "key_text": "Annual Revenue  $",
+      "value_text": "12,500,000"
+    },
+    {
+      "key_text": "Primary Industry / Sector",
+      "value_text": "Manufacturing"
+    },
+    {
+      "key_text": "Registered Business Address",
+      "value_text": "452 Industrial Parkway, Suite 100"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Chicago"
+    },
+    {
+      "key_text": "State / Province",
+      "value_text": "IL"
+    },
+    {
+      "key_text": "ZIP / Postal Code",
+      "value_text": "60607"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "United States"
+    },
+    {
+      "key_text": "Company Website",
+      "value_text": "www.apexindustrialsolutions.com"
+    },
+    {
+      "key_text": "Contact Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Title / Position",
+      "value_text": "Director of Operations"
+    },
+    {
+      "key_text": "Direct Phone",
+      "value_text": "312-555-0198"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "312-555-0921"
+    },
+    {
+      "key_text": "Business E-mail",
+      "value_text": "s.jenkins@apexindustrialsolutions.com"
+    },
+    {
+      "key_text": "Description of Products / Services Offered",
+      "value_text": "Precision engineered metal components and industrial automation hardware for large-scale manufacturing plants."
+    },
+    {
+      "key_text": "Product / Service Category",
+      "value_text": "Industrial Equipment"
+    },
+    {
+      "key_text": "UNSPSC Commodity Code (if known)",
+      "value_text": "23101500"
+    },
+    {
+      "key_text": "Geographic Service Area",
+      "value_text": "North America"
+    },
+    {
+      "key_text": "Lead Time / Delivery Capability",
+      "value_text": "14 Business Days"
+    },
+    {
+      "key_text": "Bank Name",
+      "value_text": "Chase Bank"
+    },
+    {
+      "key_text": "Branch Name / Location",
+      "value_text": "Chicago Loop Branch"
+    },
+    {
+      "key_text": "Account Name",
+      "value_text": "Apex Industrial Solutions Inc."
+    },
+    {
+      "key_text": "Account Number",
+      "value_text": "9876543210"
+    },
+    {
+      "key_text": "Routing / Sort / SWIFT Code",
+      "value_text": "CHASUS33"
+    },
+    {
+      "key_text": "Currency",
+      "value_text": "USD"
+    },
+    {
+      "key_text": "Liability Insurance Provider",
+      "value_text": "Global Shield Insurance"
+    },
+    {
+      "key_text": "Policy Number & Expiry Date",
+      "value_text": "GS-99887766 / 12-31-2025"
+    },
+    {
+      "key_text": "W-9 / Tax Form Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Certificate of Insurance Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Any conflicts of interest to disclose?",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Authorised Signatory",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10-24-2023"
+    },
+    {
+      "key_text": "Procurement Officer Verification",
+      "value_text": "Michael R. Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10-26-2023"
+    }
+  ]
+}
+
+Narrative:
+This vendor registration form is for Apex Industrial Solutions Inc., which operates under the DBA name Apex Supply Co. The company, registered as 8849201-B with tax ID 12-3456789, was established in 2005. They currently employ 150 people and generate $12,500,000 in annual revenue within the manufacturing sector. Their headquarters is located at 452 Industrial Parkway, Suite 100, Chicago, IL, 60607, USA, and their website is www.apexindustrialsolutions.com. 
+
+The primary contact for this account is Sarah Jenkins, the Director of Operations, reachable at 312-555-0198 or via mobile at 312-555-0921, with the email address s.jenkins@apexindustrialsolutions.com. Apex specializes in precision-engineered metal components and industrial automation hardware, falling under the industrial equipment category with the UNSPSC code 23101500. They serve the North American market with a standard lead time of 14 business days. 
+
+For payment purposes, they utilize Chase Bank (Chicago Loop Branch) with the account name Apex Industrial Solutions Inc., account number 9876543210, and SWIFT code CHASUS33, operating in USD. Their liability insurance is provided by Global Shield Insurance under policy GS-99887766, which expires on December 31, 2025. Both the W-9 form and the Certificate of Insurance are attached, and there are no conflicts of interest to disclose. The form was signed by Sarah Jenkins on October 24, 2023, and verified by Procurement Officer Michael R. Thorne on October 26, 2023.

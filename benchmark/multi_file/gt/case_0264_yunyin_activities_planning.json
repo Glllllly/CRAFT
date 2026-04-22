@@ -1,0 +1,41 @@
+{
+  "excel": "case_0264_yunyin_activities_planning__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "logistics",
+      "value_cell": "A7:D8",
+      "value": "Operations Team"
+    },
+    {
+      "label": "catering",
+      "value_cell": "F7:I8",
+      "value": ",000"
+    },
+    {
+      "label": "leadcapture",
+      "value_cell": "A13:D14",
+      "value": "500+"
+    },
+    {
+      "label": "attendancerate",
+      "value_cell": "F13:I14",
+      "value": "80%+"
+    },
+    {
+      "label": "emailopenrate",
+      "value_cell": "K13:N14",
+      "value": "40%+"
+    },
+    {
+      "label": "netpromoterscore",
+      "value_cell": "A19:D20",
+      "value": "8+/10"
+    },
+    {
+      "label": "socialmediamentions",
+      "value_cell": "F19:I20",
+      "value": "1,000+"
+    }
+  ]
+}

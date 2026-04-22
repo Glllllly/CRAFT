@@ -1,0 +1,204 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "contactinfo.email",
+                                   "selected_value":  "contact@vendor${i}.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contactinfo.phone",
+                                   "selected_value":  "+1-555-0100",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contactinfo.address",
+                                   "selected_value":  "123 Tech Street, City, State",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractdetails.enddate",
+                                   "selected_value":  "2025-01-31",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pricing.setupfee",
+                                   "selected_value":  "1000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "vendorid",
+                                   "selected_value":  "VEND_${i}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractdetails.autorenew",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractdetails.startdate",
+                                   "selected_value":  "2024-02-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pricing.annualcost",
+                                   "selected_value":  "50000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "relationship.lastreview",
+                                   "selected_value":  "2024-02-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "relationship.nextreview",
+                                   "selected_value":  "2024-05-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "vendorname",
+                                   "selected_value":  "Vendor Company ${i}",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "vendortype",
+                                   "selected_value":  "Software / Service / Hardware",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pricing.monthlycost",
+                                   "selected_value":  "5000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "relationship.satisfaction",
+                                   "selected_value":  "High",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicedetails.servicetype",
+                                   "selected_value":  "Marketing Automation",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "performance.responsetime",
+                                   "selected_value":  "2 hours",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "performance.uptimeactual",
+                                   "selected_value":  "99.95%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "pricing.contractterm",
+                                   "selected_value":  "12 months",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicedetails.servicelevel",
+                                   "selected_value":  "Standard",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicedetails.supporthours",
+                                   "selected_value":  "24/7",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractdetails.renewalnotice",
+                                   "selected_value":  "60 days",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "performance.overallrating",
+                                   "selected_value":  "4.5",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contactinfo.primarycontact",
+                                   "selected_value":  "John Smith",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "relationship.accountmanager",
+                                   "selected_value":  "Jane Doe",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "performance.issueresolution",
+                                   "selected_value":  "85% same day",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicedetails.uptimeguarantee",
+                                   "selected_value":  "99.9%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractdetails.terminationclause",
+                                   "selected_value":  "30 days notice",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "enddate",
+                                   "selected_value":  "2025-01-31",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "setupfee",
+                                   "selected_value":  "1000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "autorenew",
+                                   "selected_value":  "True",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "startdate",
+                                   "selected_value":  "2024-02-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "annualcost",
+                                   "selected_value":  "50000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lastreview",
+                                   "selected_value":  "2024-02-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "nextreview",
+                                   "selected_value":  "2024-05-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "monthlycost",
+                                   "selected_value":  "5000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicetype",
+                                   "selected_value":  "Marketing Automation",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contractterm",
+                                   "selected_value":  "12 months",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "responsetime",
+                                   "selected_value":  "2 hours",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "servicelevel",
+                                   "selected_value":  "Standard",
+                                   "conflict":  false
+                               }
+                           ]
+}

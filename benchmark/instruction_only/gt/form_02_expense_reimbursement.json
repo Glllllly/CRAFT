@@ -1,0 +1,96 @@
+﻿{
+    "excel":  "form_02_expense_reimbursement.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Jonathan P. Sterling"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "I7:P7",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A9:H9",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Cost Center",
+                      "value_cell":  "I9:P9",
+                      "value":  "MKT-2024-05"
+                  },
+                  {
+                      "label":  "Bank Account No.",
+                      "value_cell":  "A11:H11",
+                      "value":  "9822340156"
+                  },
+                  {
+                      "label":  "Submission Date",
+                      "value_cell":  "I11:P11",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Expense Category  (Travel / Meals / Supplies / Other)",
+                      "value_cell":  "A15:H15",
+                      "value":  "Travel"
+                  },
+                  {
+                      "label":  "Receipt Attached?  Y / N",
+                      "value_cell":  "I15:P15",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Date(s) of Expense",
+                      "value_cell":  "A17:H17",
+                      "value":  "2023-10-12 to 2023-10-13"
+                  },
+                  {
+                      "label":  "Total Amount  $",
+                      "value_cell":  "I17:P17",
+                      "value":  "485.50"
+                  },
+                  {
+                      "label":  "Business Purpose",
+                      "value_cell":  "A19:P19",
+                      "value":  "Client meeting and site visit in Chicago."
+                  },
+                  {
+                      "label":  "Additional Notes",
+                      "value_cell":  "A21:P21",
+                      "value":  "Includes hotel stay and round-trip train ticket."
+                  },
+                  {
+                      "label":  "Line Manager",
+                      "value_cell":  "A27:J27",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M27:P27",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Finance Officer",
+                      "value_cell":  "A29:J29",
+                      "value":  "Michael Chen"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M29:P29",
+                      "value":  "2023-10-17"
+                  },
+                  {
+                      "label":  "CFO / Budget Authority",
+                      "value_cell":  "A31:J31",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M31:P31",
+                      "value":  "2023-10-18"
+                  }
+              ]
+}

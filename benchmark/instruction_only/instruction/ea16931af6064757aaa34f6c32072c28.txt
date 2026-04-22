@@ -1,0 +1,116 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Street Address:",
+      "value_text": "123 Industrial Way"
+    },
+    {
+      "key_text": "City, State, ZIP:",
+      "value_text": "Austin, TX 78701"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "(512) 555-0198"
+    },
+    {
+      "key_text": "E-mail:",
+      "value_text": "contact@skenterprise.com"
+    },
+    {
+      "key_text": "INVOICE",
+      "value_text": "INV-2023-001"
+    },
+    {
+      "key_text": "DATE",
+      "value_text": "2023-10-25"
+    },
+    {
+      "key_text": "Invoice Form:",
+      "value_text": "SK Enterprise"
+    },
+    {
+      "key_text": "Invoice To:",
+      "value_text": "Global Tech Solutions"
+    },
+    {
+      "key_text": "Company Name:",
+      "value_text": "SK Enterprise"
+    },
+    {
+      "key_text": "Company Name:",
+      "value_text": "Global Tech Solutions"
+    },
+    {
+      "key_text": "Street Address:",
+      "value_text": "123 Industrial Way"
+    },
+    {
+      "key_text": "Street Address:",
+      "value_text": "456 Innovation Blvd"
+    },
+    {
+      "key_text": "City, State, ZIP:",
+      "value_text": "Austin, TX 78701"
+    },
+    {
+      "key_text": "City, State, ZIP:",
+      "value_text": "San Francisco, CA 94105"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "(512) 555-0198"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "(415) 555-7722"
+    },
+    {
+      "key_text": "E-mail:",
+      "value_text": "contact@skenterprise.com"
+    },
+    {
+      "key_text": "E-mail:",
+      "value_text": "billing@globaltech.com"
+    },
+    {
+      "key_text": "Total Invoice",
+      "value_text": "1180.00"
+    },
+    {
+      "key_text": "Net Total:",
+      "value_text": "1000.00"
+    },
+    {
+      "key_text": "Cach Amount:",
+      "value_text": null
+    },
+    {
+      "key_text": "TAX(12%):",
+      "value_text": "120.00"
+    },
+    {
+      "key_text": "Chque No:",
+      "value_text": "CHK-998877"
+    },
+    {
+      "key_text": "VAT TAX(6%):",
+      "value_text": "60.00"
+    },
+    {
+      "key_text": "GRAND TOTAL",
+      "value_text": "1180.00"
+    },
+    {
+      "key_text": "Terms & Condition:",
+      "value_text": "Payment has to be done in 10 days"
+    },
+    {
+      "key_text": "Signature",
+      "value_text": "Authorized Signatory"
+    }
+  ]
+}
+
+Narrative:
+This invoice is issued by SK Enterprise, located at 123 Industrial Way, Austin, TX 78701. You can reach them at (512) 555-0198 or via email at contact@skenterprise.com. The invoice, numbered INV-2023-001, is dated October 25, 2023. It is billed to Global Tech Solutions, located at 456 Innovation Blvd, San Francisco, CA 94105, reachable at (415) 555-7722 or billing@globaltech.com. The total invoice amount is 1180.00. The net total is 1000.00, with an additional 12% tax of 120.00 and 6% VAT tax of 60.00, bringing the grand total to 1180.00. Payment is being made via check, number CHK-998877, with no cash amount provided. The terms and conditions state that payment has to be done in 10 days, and the document is signed by an authorized signatory.

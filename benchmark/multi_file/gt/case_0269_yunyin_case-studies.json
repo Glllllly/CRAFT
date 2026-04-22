@@ -1,0 +1,26 @@
+{
+  "excel": "case_0269_yunyin_case-studies__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "#casestudy",
+      "value_cell": "A7:D8",
+      "value": "Customer Success Story"
+    },
+    {
+      "label": "accountmanager",
+      "value_cell": "A13:D14",
+      "value": "John Smith"
+    },
+    {
+      "label": "email",
+      "value_cell": "A19:D20",
+      "value": "john@company.com"
+    },
+    {
+      "label": "phone",
+      "value_cell": "F19:I20",
+      "value": "+1-555-0100"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+﻿{
+    "excel":  "form_08_contract_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requested By",
+                      "value_cell":  "C7:H7",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "L7:M7",
+                      "value":  "Operations"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "C9:H9",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Target Execution Date",
+                      "value_cell":  "L9:M9",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Counterparty Name",
+                      "value_cell":  "C11:H11",
+                      "value":  "Apex Logistics Solutions"
+                  },
+                  {
+                      "label":  "Counterparty Contact",
+                      "value_cell":  "L11:M11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Type  (NDA / Service / Vendor / Other)",
+                      "value_cell":  "A15:H15",
+                      "value":  "Vendor"
+                  },
+                  {
+                      "label":  "Contract Value  $",
+                      "value_cell":  "L15:M15",
+                      "value":  "75,000"
+                  },
+                  {
+                      "label":  "Contract Duration  (Start 鈥?End)",
+                      "value_cell":  "A17:H17",
+                      "value":  "2023-11-01 鈥?2024-10-31"
+                  },
+                  {
+                      "label":  "Auto-Renewal Clause  Y / N",
+                      "value_cell":  "L17:M17",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Brief Description of Scope",
+                      "value_cell":  "A19:M19",
+                      "value":  "Provision of regional freight shipping and warehousing services for Q4 and beyond."
+                  },
+                  {
+                      "label":  "Key Obligations / Deliverables",
+                      "value_cell":  "A21:M21",
+                      "value":  "Weekly delivery logs, 98% on-time delivery rate, and climate-controlled storage access."
+                  },
+                  {
+                      "label":  "Special Terms or Conditions",
+                      "value_cell":  "A23:M23",
+                      "value":  "Liability limited to total contract value; 30-day notice required for termination."
+                  },
+                  {
+                      "label":  "Requesting Dept Head",
+                      "value_cell":  "A29:J29",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M29:P29",
+                      "value":  "2023-10-16"
+                  },
+                  {
+                      "label":  "Legal Counsel",
+                      "value_cell":  "A31:J31",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date: (Legal)",
+                      "value_cell":  "M31:P31",
+                      "value":  "2023-10-18"
+                  },
+                  {
+                      "label":  "CFO (value \u003e $50,000)",
+                      "value_cell":  "A33:J33",
+                      "value":  "Robert Sterling"
+                  },
+                  {
+                      "label":  "Date: (CFO)",
+                      "value_cell":  "M33:P33",
+                      "value":  "2023-10-20"
+                  },
+                  {
+                      "label":  "CEO / President",
+                      "value_cell":  "A35:J35",
+                      "value":  "null"
+                  },
+                  {
+                      "label":  "Date: (CEO)",
+                      "value_cell":  "M35:P35",
+                      "value":  "null"
+                  }
+              ]
+}

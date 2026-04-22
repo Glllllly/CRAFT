@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0024_chanpin_会议记录",
+    "tenant":  "chanpin",
+    "topic":  "会议记录",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\会议记录",
+    "total_files_in_source_dir":  300,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\会议记录\\存储资源治理OnePage.md",
+                      "copied_name":  "存储资源治理OnePage.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  22169
+                  },
+                  {
+                      "source_rel":  "chanpin\\会议记录\\Note.md",
+                      "copied_name":  "Note.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18286
+                  },
+                  {
+                      "source_rel":  "chanpin\\会议记录\\月报创新场景生成记录.md",
+                      "copied_name":  "月报创新场景生成记录.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18071
+                  },
+                  {
+                      "source_rel":  "chanpin\\会议记录\\进展.md",
+                      "copied_name":  "进展.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18021
+                  },
+                  {
+                      "source_rel":  "chanpin\\会议记录\\Review.md",
+                      "copied_name":  "Review.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18012
+                  }
+              ]
+}

@@ -1,0 +1,172 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Principal User — Full Name",
+      "value_text": "Jonathan A. Sterling"
+    },
+    {
+      "key_text": "Employee / Student ID",
+      "value_text": "ST-998234"
+    },
+    {
+      "key_text": "Department / Lab Name",
+      "value_text": "Molecular Biology Dept"
+    },
+    {
+      "key_text": "Building & Room Number",
+      "value_text": "Science Hall, Room 402"
+    },
+    {
+      "key_text": "Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "j.sterling@university.edu"
+    },
+    {
+      "key_text": "Supervisor / PI Name",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Chemical / Material Name (IUPAC or Common)",
+      "value_text": "Acetone"
+    },
+    {
+      "key_text": "CAS Registry Number",
+      "value_text": "67-64-1"
+    },
+    {
+      "key_text": "Physical State  (Solid / Liquid / Gas)",
+      "value_text": "Liquid"
+    },
+    {
+      "key_text": "Hazard Class",
+      "value_text": "Flammable Liquid (Class 3)"
+    },
+    {
+      "key_text": "Quantity Requested",
+      "value_text": "2.5 Liters"
+    },
+    {
+      "key_text": "Manufacturer / Supplier",
+      "value_text": "Sigma-Aldrich"
+    },
+    {
+      "key_text": "Product / Catalog Number",
+      "value_text": "650501-4L"
+    },
+    {
+      "key_text": "Flammable",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Corrosive",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Toxic",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Oxidizer",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Intended Use / Experimental Procedure",
+      "value_text": "Cleaning of laboratory glassware and equipment surfaces."
+    },
+    {
+      "key_text": "Proposed Storage Location",
+      "value_text": "Flammable Storage Cabinet, Room 402"
+    },
+    {
+      "key_text": "Storage Conditions  (Temp, Humidity, etc.)",
+      "value_text": "Room temperature, well-ventilated"
+    },
+    {
+      "key_text": "Maximum Quantity On-Hand at Any Time",
+      "value_text": "5 Liters"
+    },
+    {
+      "key_text": "Disposal Method / Waste Stream",
+      "value_text": "Hazardous Waste Stream B (Organic Solvents)"
+    },
+    {
+      "key_text": "Safety Glasses",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Face Shield",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Gloves",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Lab Coat",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Emergency Response / First Aid Procedures (SDS reference)",
+      "value_text": "Flush eyes with water for 15 mins; move to fresh air if inhaled."
+    },
+    {
+      "key_text": "Lab Safety Orientation",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Chemical Hygiene",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Hazcom / GHS",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Spill Response",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Date of Most Recent Safety Training",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "Training Certificate Number",
+      "value_text": "CERT-99281-XYZ"
+    },
+    {
+      "key_text": "Requestor Signature",
+      "value_text": "J. Sterling"
+    },
+    {
+      "key_text": "PI / Supervisor",
+      "value_text": "E. Vance"
+    },
+    {
+      "key_text": "EHS Officer",
+      "value_text": "M. Ross"
+    },
+    {
+      "key_text": "Date (Requestor)",
+      "value_text": "2024-05-10"
+    },
+    {
+      "key_text": "Date (PI)",
+      "value_text": "2024-05-11"
+    },
+    {
+      "key_text": "Date (EHS)",
+      "value_text": "2024-05-12"
+    }
+  ]
+}
+
+Narrative:
+This Hazardous Materials Use Authorization Form is submitted by Jonathan A. Sterling (ID: ST-998234), a researcher in the Molecular Biology Department located in Science Hall, Room 402. Jonathan can be reached at 555-012-3456 or j.sterling@university.edu, and works under the supervision of Dr. Elena Vance. 
+
+The request is for 2.5 Liters of Acetone (CAS 67-64-1), a flammable liquid, to be used for cleaning laboratory glassware. The material is supplied by Sigma-Aldrich (Catalog #650501-4L). The chemical is flammable, but not corrosive, toxic, or an oxidizer. It will be stored in the flammable storage cabinet at room temperature, with a maximum on-hand limit of 5 Liters. Waste will be disposed of via the Organic Solvents stream. 
+
+Required PPE includes safety glasses, gloves, and a lab coat. In the event of an emergency, the user should flush eyes with water for 15 minutes or seek fresh air if inhalation occurs. Jonathan has completed all required safety training, including Lab Safety Orientation, Chemical Hygiene, Hazcom/GHS, and Spill Response, as of November 15, 2023 (Certificate #CERT-99281-XYZ). The form was signed by the requestor on May 10, 2024, by the PI on May 11, and by the EHS Officer on May 12, 2024.

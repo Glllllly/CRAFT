@@ -1,0 +1,121 @@
+﻿{
+    "excel":  "01e7c198-21bd-46da-b5f1-2ad3bea08048.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Asset Number:",
+                      "value_cell":  "E7",
+                      "value":  "5248/ 1234 /000"
+                  },
+                  {
+                      "label":  "Description of Asset:",
+                      "value_cell":  "D9:L9",
+                      "value":  "Dell Latitude 5420 Laptop"
+                  },
+                  {
+                      "label":  "Serial No:",
+                      "value_cell":  "B11:G11",
+                      "value":  "ABC123XYZ"
+                  },
+                  {
+                      "label":  "Model:",
+                      "value_cell":  "I11:L11",
+                      "value":  "Latitude 5420"
+                  },
+                  {
+                      "label":  "Building Name:",
+                      "value_cell":  "C13:G13",
+                      "value":  "McElwain Building (24A)"
+                  },
+                  {
+                      "label":  "Room No:",
+                      "value_cell":  "J13:L13",
+                      "value":  "315"
+                  },
+                  {
+                      "label":  "Employee Responsible for Asset:",
+                      "value_cell":  "E15:L15",
+                      "value":  "Dr. Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Asset to be taken off campus:  YES/NO  (Please circle)   If Yes, Off Campus Form Completed?:",
+                      "value_cell":  "L17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Asset Number Sticker Affixed By:",
+                      "value_cell":  "E19:G19",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "Date Affixed:",
+                      "value_cell":  "J19:L19",
+                      "value":  "15/05/2023"
+                  },
+                  {
+                      "label":  "Date Asset Engraved:",
+                      "value_cell":  "D21:L21",
+                      "value":  "16/05/2023"
+                  },
+                  {
+                      "label":  "Retired Asset Number:",
+                      "value_cell":  "E25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Retirement Date:",
+                      "value_cell":  "K25:L25",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Description of Asset:",
+                      "value_cell":  "D27:L27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason for Retirement (see below):",
+                      "value_cell":  "F29:L29",
+                      "value":  null
+                  },
+                  {
+                      "label":  "PO Number:",
+                      "value_cell":  "C43:E43",
+                      "value":  "PO-987654"
+                  },
+                  {
+                      "label":  "Unifi Receipt No",
+                      "value_cell":  "F45",
+                      "value":  "REC-112233"
+                  },
+                  {
+                      "label":  "Entered into Asset Register by?",
+                      "value_cell":  "K45:L45",
+                      "value":  "Linda Chen"
+                  },
+                  {
+                      "label":  "Asset Disposal Form Completed by:",
+                      "value_cell":  "H51:L51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Sent to assets@fbs.uq.edu.au  on:",
+                      "value_cell":  "G49:L49",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Account to which proceeds were deposited:",
+                      "value_cell":  "G47:L47",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Amount of Cash proceeds:",
+                      "value_cell":  "F53:G53",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Account:",
+                      "value_cell":  "I53:L53",
+                      "value":  null
+                  }
+              ]
+}

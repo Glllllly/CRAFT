@@ -1,0 +1,1793 @@
+{
+  "bundle_dir": "case_0040_chanpin_测试管理_测试用例",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "用例_0021.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P2",
+          "raw_key": "优先级",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师2",
+          "raw_key": "制定人",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师2",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-08-26",
+          "raw_key": "制定日期",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-08-26",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "106s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：106s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "1083 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：1083 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0021",
+          "raw_key": "用例编号",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0021",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0622",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0622",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "76%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：76%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能21 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能21 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用例_0033.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P2",
+          "raw_key": "优先级",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师4",
+          "raw_key": "制定人",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师4",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-05-22",
+          "raw_key": "制定日期",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-05-22",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "103s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：103s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "185 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：185 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0033",
+          "raw_key": "用例编号",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0033",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0719",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0719",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "72%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：72%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能33 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能33 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用例_0106.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P1",
+          "raw_key": "优先级",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师7",
+          "raw_key": "制定人",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师7",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-03-19",
+          "raw_key": "制定日期",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-03-19",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块11",
+          "raw_key": "功能模块",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "64s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：64s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "1001 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：1001 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0106",
+          "raw_key": "用例编号",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0106",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0964",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0964",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "87%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：87%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能106 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能106 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用例_0119.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师10",
+          "raw_key": "制定人",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-11-22",
+          "raw_key": "制定日期",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-11-22",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块12",
+          "raw_key": "功能模块",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块12",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "48s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：48s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "648 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：648 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0119",
+          "raw_key": "用例编号",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0119",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0746",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0746",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "76%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：76%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能119 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能119 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "用例_0129.txt",
+      "source_type": "txt",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师10",
+          "raw_key": "制定人",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-11-04",
+          "raw_key": "制定日期",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-11-04",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "25s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：25s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "332 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：332 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0129",
+          "raw_key": "用例编号",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0129",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0859",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0859",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "85%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：85%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能129 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能129 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "严重级别",
+      "candidates": [
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "严重级别",
+          "value": "严重)",
+          "raw_key": "严重级别",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "严重级别：严重)",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "优先级",
+      "candidates": [
+        {
+          "key": "优先级",
+          "value": "P2",
+          "raw_key": "优先级",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P2",
+          "raw_key": "优先级",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P2",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P1",
+          "raw_key": "优先级",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "优先级",
+          "value": "P3",
+          "raw_key": "优先级",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "优先级：P3",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "修复状态",
+      "candidates": [
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "修复状态",
+          "value": "待修复)",
+          "raw_key": "修复状态",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "修复状态：待修复)",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "制定人",
+      "candidates": [
+        {
+          "key": "制定人",
+          "value": "测试工程师2",
+          "raw_key": "制定人",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师2",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师4",
+          "raw_key": "制定人",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师4",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师7",
+          "raw_key": "制定人",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师7",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师10",
+          "raw_key": "制定人",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定人",
+          "value": "测试工程师10",
+          "raw_key": "制定人",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定人：测试工程师10",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "制定日期",
+      "candidates": [
+        {
+          "key": "制定日期",
+          "value": "2024-08-26",
+          "raw_key": "制定日期",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-08-26",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-05-22",
+          "raw_key": "制定日期",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-05-22",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-03-19",
+          "raw_key": "制定日期",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-03-19",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-11-22",
+          "raw_key": "制定日期",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-11-22",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "制定日期",
+          "value": "2024-11-04",
+          "raw_key": "制定日期",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "制定日期：2024-11-04",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "功能模块",
+      "candidates": [
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块11",
+          "raw_key": "功能模块",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块12",
+          "raw_key": "功能模块",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块12",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "功能模块",
+          "value": "模块10",
+          "raw_key": "功能模块",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "功能模块：模块10",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "执行时间",
+      "candidates": [
+        {
+          "key": "执行时间",
+          "value": "106s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：106s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "103s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：103s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "64s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：64s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "48s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：48s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "执行时间",
+          "value": "25s",
+          "raw_key": "执行时间",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "执行时间：25s",
+            "location": "line:30"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "数据量",
+      "candidates": [
+        {
+          "key": "数据量",
+          "value": "1083 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：1083 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "185 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：185 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "1001 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：1001 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "648 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：648 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "数据量",
+          "value": "332 条",
+          "raw_key": "数据量",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "数据量：332 条",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "测试类型",
+      "candidates": [
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "测试类型",
+          "value": "功能测试)",
+          "raw_key": "测试类型",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "测试类型：功能测试)",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "通过)",
+          "raw_key": "状态",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态：通过)",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用例编号",
+      "candidates": [
+        {
+          "key": "用例编号",
+          "value": "TC-0021",
+          "raw_key": "用例编号",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0021",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0033",
+          "raw_key": "用例编号",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0033",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0106",
+          "raw_key": "用例编号",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0106",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0119",
+          "raw_key": "用例编号",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0119",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用例编号",
+          "value": "TC-0129",
+          "raw_key": "用例编号",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用例编号：TC-0129",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "缺陷编号",
+      "candidates": [
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0622",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0622",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0719",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0719",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0964",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0964",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0746",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0746",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缺陷编号",
+          "value": "BUG-0859",
+          "raw_key": "缺陷编号",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缺陷编号：BUG-0859",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "覆盖率",
+      "candidates": [
+        {
+          "key": "覆盖率",
+          "value": "76%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：76%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "72%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：72%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "87%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：87%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "76%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：76%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "覆盖率",
+          "value": "85%",
+          "raw_key": "覆盖率",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "覆盖率：85%",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "说明",
+      "candidates": [
+        {
+          "key": "说明",
+          "value": "功能21 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0021.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能21 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能33 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0033.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能33 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能106 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0106.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能106 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能119 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0119.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能119 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "说明",
+          "value": "功能129 正常实现",
+          "raw_key": "说明",
+          "source_file": "用例_0129.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "说明：功能129 正常实现",
+            "location": "line:22"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

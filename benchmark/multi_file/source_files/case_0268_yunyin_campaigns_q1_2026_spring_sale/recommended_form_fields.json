@@ -1,0 +1,174 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "2026-04-05",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "budget",
+                                   "selected_value":  "¥250,000",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "time",
+                                   "selected_value":  "2026-02-13 22:00",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "图文",
+                                   "selected_value":  "3-9张图片（正方形/竖屏）+ 500-800字文案",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "图片",
+                                   "selected_value":  "1080x1920（竖屏）或1080x1080（正方形）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "展架",
+                                   "selected_value":  "X展架（60x160cm）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "文案",
+                                   "selected_value":  "不超过200字，含emoji",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "格式",
+                                   "selected_value":  "MP4",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "海报",
+                                   "selected_value":  "A0尺寸（841x1189mm）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "视频",
+                                   "selected_value":  "60s以内，竖屏",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "gmv",
+                                   "selected_value":  "≥500万",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "分享率",
+                                   "selected_value":  "≥15%（参与用户中）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "分辨率",
+                                   "selected_value":  "1080x1920（竖屏）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内容要求",
+                                   "selected_value":  "突出活动主题、优惠信息、CTA按钮",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "品牌元素",
+                                   "selected_value":  "需包含品牌logo（右下角，大小不超过10%）、活动slogan",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "品牌要求",
+                                   "selected_value":  "严格遵循2026版品牌手册（附件2）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "宣传单页",
+                                   "selected_value":  "A5尺寸",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "核心人群",
+                                   "selected_value":  "18-35岁都市青年（占比60%）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "次要人群",
+                                   "selected_value":  "36-45岁家庭用户（占比30%）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "活动名称",
+                                   "selected_value":  "新春焕新季",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "活动时间",
+                                   "selected_value":  "2026-02-15至2026-03-31",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "活动目标",
+                                   "selected_value":  "新增用户15万+，GMV突破500万，用户留存率提升至70%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "视频时长",
+                                   "selected_value":  "15s/30s/60s",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "边缘人群",
+                                   "selected_value":  "学生群体（占比10%）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "2026-02-13",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.裂变拉新",
+                                   "selected_value":  "邀请好友得50元优惠券（双方均可使用）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.促活转化",
+                                   "selected_value":  "每日签到领积分，积分可兑换实物奖品或现金抵扣",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.留存提升",
+                                   "selected_value":  "针对老用户推出「焕新会员」专属权益",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "analyst",
+                                   "selected_value":  "Zhang运营",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "cta按钮",
+                                   "selected_value":  "「立即参与」或「了解更多」",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "新增用户数",
+                                   "selected_value":  "≥15万",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "活动参与率",
+                                   "selected_value":  "≥30%（基于DAU）",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "duration",
+                                   "selected_value":  "2026-02-15 to 2026-03-31",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "updatedby",
+                                   "selected_value":  "数据团队",
+                                   "conflict":  false
+                               }
+                           ]
+}

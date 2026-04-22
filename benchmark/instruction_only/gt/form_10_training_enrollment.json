@@ -1,0 +1,106 @@
+﻿{
+    "excel":  "form_10_training_enrollment.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name",
+                      "value_cell":  "E6:H6",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "E7:H7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "M7:P7",
+                      "value":  "Digital Strategist"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "E8:H8",
+                      "value":  "David Thorne"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "M8:P8",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Training Program Name",
+                      "value_cell":  "E11:P11",
+                      "value":  "Advanced Data Analytics Certification"
+                  },
+                  {
+                      "label":  "Provider / Facilitator",
+                      "value_cell":  "E12:P12",
+                      "value":  "DataTech Institute"
+                  },
+                  {
+                      "label":  "Training Date(s)",
+                      "value_cell":  "E13:H13",
+                      "value":  "2023-11-15 to 2023-11-17"
+                  },
+                  {
+                      "label":  "Duration  (Hours / Days)",
+                      "value_cell":  "M13:P13",
+                      "value":  "3 Days"
+                  },
+                  {
+                      "label":  "Location / Online",
+                      "value_cell":  "E14:H14",
+                      "value":  "Online"
+                  },
+                  {
+                      "label":  "Training Cost  $",
+                      "value_cell":  "M14:P14",
+                      "value":  "850.00"
+                  },
+                  {
+                      "label":  "Business Justification",
+                      "value_cell":  "E15:P15",
+                      "value":  "Enhance proficiency in campaign performance tracking and ROI measurement."
+                  },
+                  {
+                      "label":  "Expected Outcomes / Benefits",
+                      "value_cell":  "E16:P16",
+                      "value":  "Ability to implement data-driven strategies and reduce ad spend waste by 15%."
+                  },
+                  {
+                      "label":  "Line Manager (Signature)",
+                      "value_cell":  "A22:J22",
+                      "value":  "David Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "HR / Training Coordinator",
+                      "value_cell":  "A24:J24",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date (HR)",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Finance (if external cost)",
+                      "value_cell":  "A26:J26",
+                      "value":  "Mark Sterling"
+                  },
+                  {
+                      "label":  "Date (Finance)",
+                      "value_cell":  "M26:P26",
+                      "value":  "2023-10-16"
+                  }
+              ]
+}

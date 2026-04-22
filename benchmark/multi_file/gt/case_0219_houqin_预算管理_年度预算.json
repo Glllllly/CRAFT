@@ -1,0 +1,86 @@
+{
+  "excel": "case_0219_houqin_预算管理_年度预算__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "58968"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "工作报告_2827"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "工作报告"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M9:Q9",
+      "value": "2026-02-10T05:30:32.700426"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D12:H12",
+      "value": "张三"
+    },
+    {
+      "label": "status",
+      "value_cell": "D17:H17",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M17:Q17",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D20:H20",
+      "value": "紧急"
+    },
+    {
+      "label": "date",
+      "value_cell": "M20:Q20",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D25:H25",
+      "value": "销售统计"
+    },
+    {
+      "label": "总预算",
+      "value_cell": "M25:Q25",
+      "value": "¥32,000,000"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D28:H28",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "from",
+      "value_cell": "D33:H33",
+      "value": "王军@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M33:Q33",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "批准人",
+      "value_cell": "D36:H36",
+      "value": "CFO 王建华"
+    },
+    {
+      "label": "批准日期",
+      "value_cell": "M36:Q36",
+      "value": "2023-12-15"
+    }
+  ]
+}

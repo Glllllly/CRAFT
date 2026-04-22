@@ -1,0 +1,111 @@
+{
+  "excel": "case_0078_houqin_办公用品_申请单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "申请编号",
+      "value_cell": "A7:D8",
+      "value": "OA-202602-014"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "F7:I8",
+      "value": "2024-01-05"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "K7:N8",
+      "value": "王军"
+    },
+    {
+      "label": "申请部门",
+      "value_cell": "A11:D12",
+      "value": "人力资源部"
+    },
+    {
+      "label": "申请类别",
+      "value_cell": "A17:D18",
+      "value": "生活用品"
+    },
+    {
+      "label": "用途说明",
+      "value_cell": "F17:I18",
+      "value": "日常工作需要"
+    },
+    {
+      "label": "预计金额",
+      "value_cell": "K17:N18",
+      "value": "¥1100"
+    },
+    {
+      "label": "subject",
+      "value_cell": "A21:D22",
+      "value": "备件申请"
+    },
+    {
+      "label": "申请状态",
+      "value_cell": "A27:D28",
+      "value": "已发放"
+    },
+    {
+      "label": "status",
+      "value_cell": "F27:I28",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "K27:N28",
+      "value": "中"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A31:D32",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "id",
+      "value_cell": "A37:D38",
+      "value": "51040"
+    },
+    {
+      "label": "title",
+      "value_cell": "F37:I38",
+      "value": "总结报告_9513"
+    },
+    {
+      "label": "type",
+      "value_cell": "K37:N38",
+      "value": "总结报告"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A41:D42",
+      "value": "张三"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "F41:I42",
+      "value": "2026-02-10T05:30:31.002688"
+    },
+    {
+      "label": "date",
+      "value_cell": "K41:N42",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "A45:D46",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F45:I46",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K45:N46",
+      "value": "例行"
+    }
+  ]
+}

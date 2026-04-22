@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0069_houqin_会议记录_2024年",
+    "tenant":  "houqin",
+    "topic":  "会议记录",
+    "subtopic":  "2024年",
+    "source_dir":  "houqin\\会议记录\\2024年",
+    "total_files_in_source_dir":  56,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\会议记录\\2024年\\资产清单_2305.json",
+                      "copied_name":  "资产清单_2305.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\2024年\\购置申请_1353.csv",
+                      "copied_name":  "购置申请_1353.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\2024年\\会议记录_09.txt",
+                      "copied_name":  "会议记录_09.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  860
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\2024年\\项目计划_5728.eml",
+                      "copied_name":  "项目计划_5728.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\会议记录\\2024年\\维护计划_8980.csv",
+                      "copied_name":  "维护计划_8980.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1332
+                  }
+              ]
+}

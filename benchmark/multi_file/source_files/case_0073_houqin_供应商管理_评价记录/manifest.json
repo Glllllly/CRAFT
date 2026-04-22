@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0073_houqin_供应商管理_评价记录",
+    "tenant":  "houqin",
+    "topic":  "供应商管理",
+    "subtopic":  "评价记录",
+    "source_dir":  "houqin\\供应商管理\\评价记录",
+    "total_files_in_source_dir":  65,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\供应商管理\\评价记录\\费用统计_2130.json",
+                      "copied_name":  "费用统计_2130.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\评价记录\\维修记录_3071.csv",
+                      "copied_name":  "维修记录_3071.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1380
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\评价记录\\评价记录_12.txt",
+                      "copied_name":  "评价记录_12.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  309
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\评价记录\\工作日志_2747.eml",
+                      "copied_name":  "工作日志_2747.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\评价记录\\月报_9720.csv",
+                      "copied_name":  "月报_9720.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0059_houqin_临时文件_待处理",
+    "tenant":  "houqin",
+    "topic":  "临时文件",
+    "subtopic":  "待处理",
+    "source_dir":  "houqin\\临时文件\\待处理",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\临时文件\\待处理\\资产清单_4849.json",
+                      "copied_name":  "资产清单_4849.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\待处理\\审批表_2637.csv",
+                      "copied_name":  "审批表_2637.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1386
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\待处理\\销售统计_8963.md",
+                      "copied_name":  "销售统计_8963.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  167
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\待处理\\培训计划_9299.eml",
+                      "copied_name":  "培训计划_9299.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\临时文件\\待处理\\月报_5815.csv",
+                      "copied_name":  "月报_5815.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

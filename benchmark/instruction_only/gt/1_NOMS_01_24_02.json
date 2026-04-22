@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "1_NOMS_01_24_02.xlsx",
+    "sheet":  "Citizens-Draft",
+    "pairs":  [
+                  {
+                      "label":  "Customer:",
+                      "value_cell":  "B7:F7",
+                      "value":  "Peak Energy Solutions"
+                  },
+                  {
+                      "label":  "Supplier: ",
+                      "value_cell":  "B8:F8",
+                      "value":  "Northern Gas Pipeline Co."
+                  },
+                  {
+                      "label":  "Gas Control Contact:",
+                      "value_cell":  "B9:F9",
+                      "value":  "Dispatch Operations Center"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "B10:F10",
+                      "value":  "800-555-0123"
+                  },
+                  {
+                      "label":  "Cell Phone Number:",
+                      "value_cell":  "B11:F11",
+                      "value":  "800-555-9876"
+                  },
+                  {
+                      "label":  "Fax Number:",
+                      "value_cell":  "B12:F12",
+                      "value":  "800-555-4567"
+                  },
+                  {
+                      "label":  "Contact Name:",
+                      "value_cell":  "J9",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "J10",
+                      "value":  "555-0101"
+                  },
+                  {
+                      "label":  "Cell:",
+                      "value_cell":  "J11",
+                      "value":  "555-0102"
+                  },
+                  {
+                      "label":  "Fax:",
+                      "value_cell":  "J12",
+                      "value":  "555-0103"
+                  },
+                  {
+                      "label":  "Contact Name:",
+                      "value_cell":  "N9",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Phone:",
+                      "value_cell":  "N10",
+                      "value":  "555-0201"
+                  },
+                  {
+                      "label":  "Cell:",
+                      "value_cell":  "N11",
+                      "value":  "555-0202"
+                  },
+                  {
+                      "label":  "Fax:",
+                      "value_cell":  "N12",
+                      "value":  "555-0203"
+                  },
+                  {
+                      "label":  "Timely or Intraday",
+                      "value_cell":  "B17",
+                      "value":  "Timely"
+                  },
+                  {
+                      "label":  "Effective Gas Cycle:",
+                      "value_cell":  "B18",
+                      "value":  "Cycle 1"
+                  },
+                  {
+                      "label":  "Beginning Gas Day (8:00 AM):",
+                      "value_cell":  "B19",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Ending Gas Day (8:00 AM):",
+                      "value_cell":  "B20",
+                      "value":  "2023-11-30"
+                  },
+                  {
+                      "label":  "Until further notice",
+                      "value_cell":  "B21",
+                      "value":  "No"
+                  }
+              ]
+}

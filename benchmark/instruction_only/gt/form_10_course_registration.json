@@ -1,0 +1,266 @@
+﻿{
+    "excel":  "form_10_course_registration.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "M9:X9",
+                      "value":  "Marcus"
+                  },
+                  {
+                      "label":  "Date of Birth  mm/dd/yyyy",
+                      "value_cell":  "A11:H11",
+                      "value":  "05/12/1992"
+                  },
+                  {
+                      "label":  "Student ID (if returning)",
+                      "value_cell":  "I11:P11",
+                      "value":  "8849201"
+                  },
+                  {
+                      "label":  "Primary Language",
+                      "value_cell":  "R11:X11",
+                      "value":  "English"
+                  },
+                  {
+                      "label":  "Mailing Address",
+                      "value_cell":  "A13:X13",
+                      "value":  "442 Oakwood Avenue"
+                  },
+                  {
+                      "label":  "City",
+                      "value_cell":  "A15:J15",
+                      "value":  "Springfield"
+                  },
+                  {
+                      "label":  "State",
+                      "value_cell":  "K15:N15",
+                      "value":  "IL"
+                  },
+                  {
+                      "label":  "ZIP",
+                      "value_cell":  "O15:R15",
+                      "value":  "62704"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "S15:X15",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "Home Phone",
+                      "value_cell":  "A17:H17",
+                      "value":  "217-555-0198"
+                  },
+                  {
+                      "label":  "Cell Phone",
+                      "value_cell":  "I17:P17",
+                      "value":  "217-555-4432"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "Q17:X17",
+                      "value":  "m.henderson@email.com"
+                  },
+                  {
+                      "label":  "Employer / Organization (if applicable)",
+                      "value_cell":  "A19:L19",
+                      "value":  "Tech Solutions Inc."
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "M19:X19",
+                      "value":  "Junior Developer"
+                  },
+                  {
+                      "label":  "New Student",
+                      "value_cell":  "F21:G21",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Enrollment Status:",
+                      "value_cell":  "L21:M21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Enrollment Status:",
+                      "value_cell":  "R21:S21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Enrollment Status:",
+                      "value_cell":  "X21:Y21",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Course Name / Number (Selection 1)",
+                      "value_cell":  "A28:L28",
+                      "value":  "CS101 Intro to Python"
+                  },
+                  {
+                      "label":  "Section (Selection 1)",
+                      "value_cell":  "M28:P28",
+                      "value":  "A"
+                  },
+                  {
+                      "label":  "Credits / CEUs (Selection 1)",
+                      "value_cell":  "Q28:T28",
+                      "value":  "3.0"
+                  },
+                  {
+                      "label":  "Fee  $ (Selection 1)",
+                      "value_cell":  "U28:X28",
+                      "value":  "450.00"
+                  },
+                  {
+                      "label":  "Day(s) (Selection 1)",
+                      "value_cell":  "A30:F30",
+                      "value":  "Mon/Wed"
+                  },
+                  {
+                      "label":  "Time (Selection 1)",
+                      "value_cell":  "G30:L30",
+                      "value":  "6:00 PM"
+                  },
+                  {
+                      "label":  "Location / Online (Selection 1)",
+                      "value_cell":  "M30:X30",
+                      "value":  "Room 204 / Online"
+                  },
+                  {
+                      "label":  "Course Name / Number (Selection 2)",
+                      "value_cell":  "A35:L35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Section (Selection 2)",
+                      "value_cell":  "M35:P35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credits / CEUs (Selection 2)",
+                      "value_cell":  "Q35:T35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Fee  $ (Selection 2)",
+                      "value_cell":  "U35:X35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Day(s) (Selection 2)",
+                      "value_cell":  "A37:F37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Time (Selection 2)",
+                      "value_cell":  "G37:L37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Location / Online (Selection 2)",
+                      "value_cell":  "M37:X37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Course Name / Number (Selection 3)",
+                      "value_cell":  "A42:L42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Section (Selection 3)",
+                      "value_cell":  "M42:P42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Credits / CEUs (Selection 3)",
+                      "value_cell":  "Q42:T42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Fee  $ (Selection 3)",
+                      "value_cell":  "U42:X42",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Day(s) (Selection 3)",
+                      "value_cell":  "A44:F44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Time (Selection 3)",
+                      "value_cell":  "G44:L44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Location / Online (Selection 3)",
+                      "value_cell":  "M44:X44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Total Fees  $",
+                      "value_cell":  "A49:H49",
+                      "value":  "450.00"
+                  },
+                  {
+                      "label":  "Scholarship / Discount Code",
+                      "value_cell":  "K49:R49",
+                      "value":  "NEWSTUDENT20"
+                  },
+                  {
+                      "label":  "Amount Due  $",
+                      "value_cell":  "S49:X49",
+                      "value":  "430.00"
+                  },
+                  {
+                      "label":  "Credit Card",
+                      "value_cell":  "F51:G51",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Check",
+                      "value_cell":  "L51:M51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Cash",
+                      "value_cell":  "R51:S51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Employer Billing",
+                      "value_cell":  "X51:Y51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Financial Aid",
+                      "value_cell":  "AD51:AE51",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Card Number / Check Number",
+                      "value_cell":  "A52:N52",
+                      "value":  "4421-XXXX-XXXX-8901"
+                  },
+                  {
+                      "label":  "Authorization / Confirmation Code",
+                      "value_cell":  "M52:X52",
+                      "value":  "AUTH99283"
+                  },
+                  {
+                      "label":  "Student Signature",
+                      "value_cell":  "A55:O55",
+                      "value":  "Marcus Henderson"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "P55:X55",
+                      "value":  "08/25/2023"
+                  }
+              ]
+}

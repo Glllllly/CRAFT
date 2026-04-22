@@ -1,0 +1,94 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "费用统计_4284",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已审批",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "紧急",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.676827",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "34097",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "吴九@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "周八@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "费用统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "郑十",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "物品清单",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请人",
+                                   "selected_value":  "陈芳",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "所属部门",
+                                   "selected_value":  "生产部",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请事由",
+                                   "selected_value":  "根据公司相关规定提出本申请",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "申请日期",
+                                   "selected_value":  "2026-02-10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "预期结果",
+                                   "selected_value":  "待审批",
+                                   "conflict":  false
+                               }
+                           ]
+}

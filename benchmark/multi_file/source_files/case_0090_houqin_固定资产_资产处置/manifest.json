@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0090_houqin_固定资产_资产处置",
+    "tenant":  "houqin",
+    "topic":  "固定资产",
+    "subtopic":  "资产处置",
+    "source_dir":  "houqin\\固定资产\\资产处置",
+    "total_files_in_source_dir":  47,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产处置\\库存清单_6915.json",
+                      "copied_name":  "库存清单_6915.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产处置\\购置申请_9406.csv",
+                      "copied_name":  "购置申请_9406.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1377
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产处置\\报销申请_7899.txt",
+                      "copied_name":  "报销申请_7899.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产处置\\采购计划_2235.eml",
+                      "copied_name":  "采购计划_2235.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\固定资产\\资产处置\\数据统计_8289.csv",
+                      "copied_name":  "数据统计_8289.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1374
+                  }
+              ]
+}

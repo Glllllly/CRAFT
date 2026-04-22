@@ -1,0 +1,102 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Backend Developer"
+    },
+    {
+      "key_text": "Review Period",
+      "value_text": "2023-01-01 to 2023-12-31"
+    },
+    {
+      "key_text": "Reviewer Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Quality of Work  ___/5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Productivity  ___/5",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Communication Skills  ___/5",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Teamwork & Collaboration  ___/5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Initiative & Innovation  ___/5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Attendance & Punctuality  ___/5",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Overall Rating  ___/5",
+      "value_text": "4.7"
+    },
+    {
+      "key_text": "Key Achievements This Period",
+      "value_text": "Led the successful migration of legacy database systems to AWS Cloud."
+    },
+    {
+      "key_text": "Areas for Improvement",
+      "value_text": "Delegation of minor technical tasks to junior team members."
+    },
+    {
+      "key_text": "Goals for Next Review Period",
+      "value_text": "Obtain Cloud Architect certification and mentor two junior developers."
+    },
+    {
+      "key_text": "Training / Development Needs",
+      "value_text": "Advanced Kubernetes orchestration workshop."
+    },
+    {
+      "key_text": "Reviewer / Supervisor",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2024-01-15"
+    },
+    {
+      "key_text": "Employee (Acknowledgement)",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2024-01-16"
+    },
+    {
+      "key_text": "HR Manager",
+      "value_text": "Robert Thompson"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2024-01-17"
+    }
+  ]
+}
+
+Narrative:
+This annual performance review documents the professional progress of Jonathan D. Miller, a Senior Backend Developer in the Software Engineering department (ID: EMP-8842), for the calendar year of 2023. His supervisor, Sarah Jenkins, conducted the evaluation. Jonathan received high marks across the board, with a 5 in Quality of Work, Initiative & Innovation, and Attendance & Punctuality, and a 4 in Productivity and Communication Skills, resulting in an overall rating of 4.7 out of 5.
+
+Key achievements noted for this period include his successful leadership in migrating the company's legacy database systems to the AWS Cloud. For future development, Sarah suggested that Jonathan focus on delegating smaller technical tasks to junior staff to improve his management bandwidth. His goals for the upcoming year include obtaining a Cloud Architect certification and taking on a mentorship role for two junior developers. He has also been identified as a candidate for an advanced Kubernetes orchestration workshop. The review was signed off by Sarah Jenkins on January 15, 2024, acknowledged by Jonathan D. Miller on January 16, 2024, and finalized by HR Manager Robert Thompson on January 17, 2024.

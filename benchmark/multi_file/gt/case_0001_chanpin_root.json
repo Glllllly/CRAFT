@@ -1,0 +1,171 @@
+{
+  "excel": "case_0001_chanpin_root__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "规模庞大",
+      "value_cell": "D6:H6",
+      "value": "1310个文件，105个目录"
+    },
+    {
+      "label": "原始文件",
+      "value_cell": "M6:Q6",
+      "value": "2585个"
+    },
+    {
+      "label": "目录结构",
+      "value_cell": "D9:H9",
+      "value": "多层级文件夹组织，模拟真实企业结构"
+    },
+    {
+      "label": "✓目录组织",
+      "value_cell": "M9:Q9",
+      "value": "清晰有序"
+    },
+    {
+      "label": "1.真实度",
+      "value_cell": "D14:H14",
+      "value": "所有文件包含虚拟但逼真的产品相关内容"
+    },
+    {
+      "label": "2.多样性",
+      "value_cell": "M14:Q14",
+      "value": "涵盖13种不同文件格式"
+    },
+    {
+      "label": "3.专业性",
+      "value_cell": "D17:H17",
+      "value": "按照产品部门的实际工作流程组织"
+    },
+    {
+      "label": "4.可扩展性",
+      "value_cell": "M17:Q17",
+      "value": "目录结构清晰，易于添加新文件"
+    },
+    {
+      "label": "5.完整性",
+      "value_cell": "D20:H20",
+      "value": "从策略规划到执行和监控的全流程覆盖"
+    },
+    {
+      "label": "数据逼真",
+      "value_cell": "M20:Q20",
+      "value": "完全模拟真实企业产品部门运作"
+    },
+    {
+      "label": "内容完整",
+      "value_cell": "D23:H23",
+      "value": "涵盖产品工作的全方位内容"
+    },
+    {
+      "label": "扩展性强",
+      "value_cell": "M23:Q23",
+      "value": "易于增加、修改、完善内容"
+    },
+    {
+      "label": "易于查找",
+      "value_cell": "D26:H26",
+      "value": "多维度分类，清晰的目录结构"
+    },
+    {
+      "label": "管理规范",
+      "value_cell": "M26:Q26",
+      "value": "体现现代互联网企业的最佳实践"
+    },
+    {
+      "label": "功能维度",
+      "value_cell": "D31:H31",
+      "value": "按产品工作职能分类"
+    },
+    {
+      "label": "流程维度",
+      "value_cell": "M31:Q31",
+      "value": "按工作流程分类"
+    },
+    {
+      "label": "时间维度",
+      "value_cell": "D34:H34",
+      "value": "按计划期限分类"
+    },
+    {
+      "label": "文档文件",
+      "value_cell": "M34:Q34",
+      "value": "Markdown、HTML格式"
+    },
+    {
+      "label": "数据文件",
+      "value_cell": "D37:H37",
+      "value": "CSV、SQL格式"
+    },
+    {
+      "label": "配置文件",
+      "value_cell": "M37:Q37",
+      "value": "JSON、XML、YAML格式"
+    },
+    {
+      "label": "其他文件",
+      "value_cell": "D40:H40",
+      "value": "Shell脚本、日志文件"
+    },
+    {
+      "label": "产品规划",
+      "value_cell": "D45:H45",
+      "value": "120文件（产品战略、路线图、计划等）"
+    },
+    {
+      "label": "产品设计",
+      "value_cell": "M45:Q45",
+      "value": "100文件（原型、交互、UI设计等）"
+    },
+    {
+      "label": "产品开发",
+      "value_cell": "D48:H48",
+      "value": "120文件（开发任务、技术方案等）"
+    },
+    {
+      "label": "产品文档",
+      "value_cell": "M48:Q48",
+      "value": "150文件（用户手册、API文档等）"
+    },
+    {
+      "label": "测试管理",
+      "value_cell": "D51:H51",
+      "value": "150文件（用例、缺陷、测试报告等）"
+    },
+    {
+      "label": "竞品分析",
+      "value_cell": "M51:Q51",
+      "value": "120文件（竞品对标、功能对比等）"
+    },
+    {
+      "label": "数据分析",
+      "value_cell": "D54:H54",
+      "value": "100文件（指标分析、数据报告等）"
+    },
+    {
+      "label": "版本管理",
+      "value_cell": "M54:Q54",
+      "value": "80文件（版本规划、发布说明等）"
+    },
+    {
+      "label": "其他文档",
+      "value_cell": "D57:H57",
+      "value": "210文件"
+    },
+    {
+      "label": "文件名称",
+      "value_cell": "D62:H62",
+      "value": "使用英文和中文命名规范"
+    },
+    {
+      "label": "虚拟数据",
+      "value_cell": "M62:Q62",
+      "value": "随机生成逼真的业务数据"
+    },
+    {
+      "label": "png生成",
+      "value_cell": "D65:H65",
+      "value": "使用Python PIL库，支持自定义尺寸和设计"
+    }
+  ]
+}

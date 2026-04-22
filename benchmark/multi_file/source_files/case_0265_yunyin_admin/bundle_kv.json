@@ -1,0 +1,1783 @@
+{
+  "bundle_dir": "case_0265_yunyin_admin",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "meeting_minutes_20.md",
+      "source_type": "md",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-21",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-21",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-27",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "89/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 89/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "88% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 88% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "79%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 79%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "meeting_minutes_21.md",
+      "source_type": "md",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-22",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-22",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-28",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-28",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "91/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 91/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "90% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 90% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "70%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 70%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "meeting_minutes_25.md",
+      "source_type": "md",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-26",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-26",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-32",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-32",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "99/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 99/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "84% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 84% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "77%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 77%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "meeting_minutes_26.md",
+      "source_type": "md",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "10 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 10 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-27",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-33",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-33",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "97/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 97/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "84% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 84% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "78%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 78%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "meeting_minutes_42.md",
+      "source_type": "md",
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "14 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 14 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-15",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-49",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-49",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "82/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 82/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "81% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 81% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "96%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 96%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "**approvalstatus**",
+      "candidates": [
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**approvalstatus**",
+          "value": "Pending Review",
+          "raw_key": "**Approval Status**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Approval Status**: Pending Review",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**attendees**",
+      "candidates": [
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "12 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 12 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "10 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 10 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**attendees**",
+          "value": "14 team members",
+          "raw_key": "**Attendees**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Attendees**: 14 team members",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**date**",
+      "candidates": [
+        {
+          "key": "**date**",
+          "value": "2024-02-21",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-21",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-27",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-22",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-22",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-28",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-28",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-26",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-26",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-32",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-32",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-27",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-27",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-33",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-33",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-15",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**date**",
+          "value": "2024-02-49",
+          "raw_key": "**Date**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Date**: 2024-02-49",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**location**",
+      "candidates": [
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**location**",
+          "value": "Conference Room / Virtual",
+          "raw_key": "**Location**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Location**: Conference Room / Virtual",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**minutestakenby**",
+      "candidates": [
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**minutestakenby**",
+          "value": "Secretary",
+          "raw_key": "**Minutes Taken By**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Minutes Taken By**: Secretary",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**time**",
+      "candidates": [
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM",
+            "location": "line:43"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**time**",
+          "value": "2:00 PM - 3:00 PM",
+          "raw_key": "**Time**",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**Time**: 2:00 PM - 3:00 PM",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaigna",
+      "candidates": [
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaigna",
+          "value": "On track, 85% completion",
+          "raw_key": "- Campaign A",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign A: On track, 85% completion",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaignb",
+      "candidates": [
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignb",
+          "value": "Needs adjustment, performance below target",
+          "raw_key": "- Campaign B",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign B: Needs adjustment, performance below target",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "campaignc",
+      "candidates": [
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "campaignc",
+          "value": "Exceeded expectations, ROI 3.5x",
+          "raw_key": "- Campaign C",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Campaign C: Exceeded expectations, ROI 3.5x",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customersatisfaction",
+      "candidates": [
+        {
+          "key": "customersatisfaction",
+          "value": "89/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 89/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "91/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 91/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "99/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 99/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "97/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 97/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customersatisfaction",
+          "value": "82/100",
+          "raw_key": "- Customer satisfaction",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer satisfaction: 82/100",
+            "location": "line:13"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "kpireview",
+      "candidates": [
+        {
+          "key": "kpireview",
+          "value": "88% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 88% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "90% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 90% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "84% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 84% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "84% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 84% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "kpireview",
+          "value": "81% of targets achieved",
+          "raw_key": "- KPI review",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- KPI review: 81% of targets achieved",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "revenuevs.target",
+      "candidates": [
+        {
+          "key": "revenuevs.target",
+          "value": "79%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_20.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 79%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "70%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_21.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 70%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "77%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_25.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 77%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "78%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_26.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 78%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "revenuevs.target",
+          "value": "96%",
+          "raw_key": "- Revenue vs. target",
+          "source_file": "meeting_minutes_42.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Revenue vs. target: 96%",
+            "location": "line:12"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

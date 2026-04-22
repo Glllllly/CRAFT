@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "Credit Card Billing Authorization Form.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Name: (As seen on credit card)",
+                      "value_cell":  "E5",
+                      "value":  "Jonathan A. Miller"
+                  },
+                  {
+                      "label":  "Billing Address:",
+                      "value_cell":  "C6",
+                      "value":  "482 Maplewood Drive"
+                  },
+                  {
+                      "label":  "City, State, Zip:",
+                      "value_cell":  "C7",
+                      "value":  "Springfield, IL 62704"
+                  },
+                  {
+                      "label":  "Phone Number:",
+                      "value_cell":  "C8",
+                      "value":  "217-555-0198"
+                  },
+                  {
+                      "label":  "Credit Card type:",
+                      "value_cell":  "C9",
+                      "value":  "Visa"
+                  },
+                  {
+                      "label":  "Credit Card #:",
+                      "value_cell":  "F9",
+                      "value":  "4111-2222-3333-4444"
+                  },
+                  {
+                      "label":  "Expiry Date:",
+                      "value_cell":  "I9",
+                      "value":  "12/26"
+                  },
+                  {
+                      "label":  "Amount:",
+                      "value_cell":  "A13",
+                      "value":  "$89.99"
+                  },
+                  {
+                      "label":  "Start Billing on:",
+                      "value_cell":  "D13",
+                      "value":  "10/01/2023"
+                  },
+                  {
+                      "label":  "Frequency of charge:",
+                      "value_cell":  "G13",
+                      "value":  "Monthly"
+                  },
+                  {
+                      "label":  "I hereby authorize my credit card every for the purchase of the following:",
+                      "value_cell":  "A19",
+                      "value":  "Monthly subscription for premium cloud storage services."
+                  },
+                  {
+                      "label":  "Card Holder鈥檚 Name and Signature",
+                      "value_cell":  "A31",
+                      "value":  "Jonathan A. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "G31",
+                      "value":  "09/25/2023"
+                  }
+              ]
+}

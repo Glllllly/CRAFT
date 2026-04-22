@@ -1,0 +1,171 @@
+{
+  "excel": "case_0077_houqin_出差管理_费用报销__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A7:D8",
+      "value": "57684"
+    },
+    {
+      "label": "报销编号",
+      "value_cell": "F7:I8",
+      "value": "EXP-009"
+    },
+    {
+      "label": "title",
+      "value_cell": "K7:N8",
+      "value": "设备清单_6062"
+    },
+    {
+      "label": "type",
+      "value_cell": "A11:D12",
+      "value": "设备清单"
+    },
+    {
+      "label": "subject",
+      "value_cell": "F11:I12",
+      "value": "维护计划"
+    },
+    {
+      "label": "date",
+      "value_cell": "K11:N12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A15:D16",
+      "value": "2026-02-10T05:30:31.074707"
+    },
+    {
+      "label": "报销人",
+      "value_cell": "A21:D22",
+      "value": "员工10"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F21:I22",
+      "value": "王军"
+    },
+    {
+      "label": "from",
+      "value_cell": "K21:N22",
+      "value": "王五@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "A25:D26",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "审批人",
+      "value_cell": "F25:I26",
+      "value": "部门经理5"
+    },
+    {
+      "label": "status",
+      "value_cell": "K25:N26",
+      "value": "待审批"
+    },
+    {
+      "label": "财务状态",
+      "value_cell": "A29:D30",
+      "value": "已报销"
+    },
+    {
+      "label": "余额状态",
+      "value_cell": "F29:I30",
+      "value": "已结清"
+    },
+    {
+      "label": "priority",
+      "value_cell": "K29:N30",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "A33:D34",
+      "value": "重要"
+    },
+    {
+      "label": "出差地点",
+      "value_cell": "A39:D40",
+      "value": "城市10"
+    },
+    {
+      "label": "出差日期",
+      "value_cell": "F39:I40",
+      "value": "2024-02-17"
+    },
+    {
+      "label": "出差天数",
+      "value_cell": "K39:N40",
+      "value": "10天"
+    },
+    {
+      "label": "往返机票",
+      "value_cell": "A45:D46",
+      "value": "¥2919"
+    },
+    {
+      "label": "酒店房费",
+      "value_cell": "F45:I46",
+      "value": "¥233 × 10天 = ¥567"
+    },
+    {
+      "label": "工作餐",
+      "value_cell": "K45:N46",
+      "value": "¥85 × 10餐 = ¥1138"
+    },
+    {
+      "label": "市内交通",
+      "value_cell": "A49:D50",
+      "value": "¥329"
+    },
+    {
+      "label": "停车费",
+      "value_cell": "F49:I50",
+      "value": "¥122"
+    },
+    {
+      "label": "资料费",
+      "value_cell": "K49:N50",
+      "value": "¥238"
+    },
+    {
+      "label": "客户招待",
+      "value_cell": "A53:D54",
+      "value": "¥536"
+    },
+    {
+      "label": "会议注册费",
+      "value_cell": "F53:I54",
+      "value": "¥992"
+    },
+    {
+      "label": "总报销金额",
+      "value_cell": "A59:D60",
+      "value": "¥4257"
+    },
+    {
+      "label": "已预支金额",
+      "value_cell": "F59:I60",
+      "value": "¥1403"
+    },
+    {
+      "label": "本次补支",
+      "value_cell": "K59:N60",
+      "value": "¥3870"
+    },
+    {
+      "label": "审批日期",
+      "value_cell": "A63:D64",
+      "value": "2024-02-23"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "F63:I64",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

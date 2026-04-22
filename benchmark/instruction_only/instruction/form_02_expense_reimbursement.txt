@@ -1,0 +1,80 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Name",
+      "value_text": "Jonathan P. Sterling"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Marketing"
+    },
+    {
+      "key_text": "Cost Center",
+      "value_text": "MKT-2024-05"
+    },
+    {
+      "key_text": "Bank Account No.",
+      "value_text": "9822340156"
+    },
+    {
+      "key_text": "Submission Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Expense Category  (Travel / Meals / Supplies / Other)",
+      "value_text": "Travel"
+    },
+    {
+      "key_text": "Receipt Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Date(s) of Expense",
+      "value_text": "2023-10-12 to 2023-10-13"
+    },
+    {
+      "key_text": "Total Amount  $",
+      "value_text": "485.50"
+    },
+    {
+      "key_text": "Business Purpose",
+      "value_text": "Client meeting and site visit in Chicago."
+    },
+    {
+      "key_text": "Additional Notes",
+      "value_text": "Includes hotel stay and round-trip train ticket."
+    },
+    {
+      "key_text": "Line Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Finance Officer",
+      "value_text": "Michael Chen"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-17"
+    },
+    {
+      "key_text": "CFO / Budget Authority",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "2023-10-18"
+    }
+  ]
+}
+
+Narrative:
+This expense reimbursement request is filed by Jonathan P. Sterling, an employee in the Marketing department (ID: EMP-88429, Cost Center: MKT-2024-05). On October 15, 2023, Jonathan submitted a claim for travel expenses totaling $485.50, which were incurred between October 12 and October 13, 2023, for a client meeting and site visit in Chicago. The request includes a receipt and mentions in the notes that it covers a hotel stay and a train ticket; the funds are to be deposited into bank account 9822340156. The form has been processed through the approval chain, starting with his line manager, Sarah Jenkins, on October 16, followed by Finance Officer Michael Chen on October 17, and finally authorized by CFO Elena Rodriguez on October 18, 2023.

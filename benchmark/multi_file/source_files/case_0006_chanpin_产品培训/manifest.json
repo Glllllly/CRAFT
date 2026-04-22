@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0006_chanpin_产品培训",
+    "tenant":  "chanpin",
+    "topic":  "产品培训",
+    "subtopic":  "",
+    "source_dir":  "chanpin\\产品培训",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品培训\\培训资料_42.txt",
+                      "copied_name":  "培训资料_42.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品培训\\培训资料_15.txt",
+                      "copied_name":  "培训资料_15.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品培训\\培训资料_35.txt",
+                      "copied_name":  "培训资料_35.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品培训\\培训资料_22.txt",
+                      "copied_name":  "培训资料_22.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品培训\\培训资料_9.txt",
+                      "copied_name":  "培训资料_9.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  598
+                  }
+              ]
+}

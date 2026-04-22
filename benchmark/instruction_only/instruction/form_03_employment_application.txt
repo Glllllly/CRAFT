@@ -1,0 +1,83 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Last Name", "value_text": "Henderson" },
+    { "key_text": "First Name", "value_text": "Julian" },
+    { "key_text": "Middle Name", "value_text": "Mark" },
+    { "key_text": "Preferred Name / Nickname", "value_text": "Jules" },
+    { "key_text": "Date of Birth  mm/dd/yyyy", "value_text": "05/12/1992" },
+    { "key_text": "Current Street Address", "value_text": "452 Oakwood Avenue" },
+    { "key_text": "Apt / Unit #", "value_text": "3B" },
+    { "key_text": "City", "value_text": "Portland" },
+    { "key_text": "State", "value_text": "OR" },
+    { "key_text": "ZIP", "value_text": "97201" },
+    { "key_text": "Country", "value_text": "USA" },
+    { "key_text": "Home Phone", "value_text": "503-555-0192" },
+    { "key_text": "Cell Phone", "value_text": "503-555-0844" },
+    { "key_text": "Work Phone", "value_text": null },
+    { "key_text": "E-mail Address (Primary)", "value_text": "j.henderson@email.com" },
+    { "key_text": "E-mail Address (Secondary)", "value_text": null },
+    { "key_text": "Job Title / Position", "value_text": "Senior Project Manager" },
+    { "key_text": "Job Reference Number", "value_text": "PM-9928" },
+    { "key_text": "Department / Division", "value_text": "Operations" },
+    { "key_text": "Employment Type", "value_text": "Full-Time" },
+    { "key_text": "Available Start Date", "value_text": "11/01/2023" },
+    { "key_text": "Full-Time", "value_text": "X" },
+    { "key_text": "Part-Time", "value_text": null },
+    { "key_text": "Temporary", "value_text": null },
+    { "key_text": "Internship", "value_text": null },
+    { "key_text": "How did you hear about this position?", "value_text": "Company Website" },
+    { "key_text": "Highest Level of Education Completed", "value_text": "Master's Degree" },
+    { "key_text": "Field of Study / Major", "value_text": "Business Administration" },
+    { "key_text": "Institution Name", "value_text": "University of Oregon" },
+    { "key_text": "City, State", "value_text": "Eugene, OR" },
+    { "key_text": "Degree / Diploma", "value_text": "MBA" },
+    { "key_text": "Year Awarded", "value_text": "2016" },
+    { "key_text": "GPA (if recent graduate)", "value_text": null },
+    { "key_text": "Employer / Company Name", "value_text": "TechSolutions Inc." },
+    { "key_text": "Job Title / Position Held", "value_text": "Project Coordinator" },
+    { "key_text": "Start Date", "value_text": "06/2016" },
+    { "key_text": "End Date", "value_text": "08/2020" },
+    { "key_text": "City, State", "value_text": "Portland, OR" },
+    { "key_text": "Reason for Leaving", "value_text": "Career Growth" },
+    { "key_text": "Key Responsibilities / Accomplishments", "value_text": "Managed cross-functional teams and budget tracking." },
+    { "key_text": "Employer / Company Name", "value_text": "BuildRight Construction" },
+    { "key_text": "Job Title / Position Held", "value_text": "Junior Analyst" },
+    { "key_text": "Start Date", "value_text": "05/2014" },
+    { "key_text": "End Date", "value_text": "05/2016" },
+    { "key_text": "City, State", "value_text": "Salem, OR" },
+    { "key_text": "Reason for Leaving", "value_text": "Relocation" },
+    { "key_text": "Key Responsibilities / Accomplishments", "value_text": "Data analysis and reporting for site managers." },
+    { "key_text": "Employer / Company Name", "value_text": null },
+    { "key_text": "Job Title / Position Held", "value_text": null },
+    { "key_text": "Start Date", "value_text": null },
+    { "key_text": "End Date", "value_text": null },
+    { "key_text": "City, State", "value_text": null },
+    { "key_text": "Reason for Leaving", "value_text": null },
+    { "key_text": "Key Responsibilities / Accomplishments", "value_text": null },
+    { "key_text": "Reference 1 — Full Name", "value_text": "Sarah Jenkins" },
+    { "key_text": "Relationship", "value_text": "Former Manager" },
+    { "key_text": "Phone", "value_text": "503-555-9988" },
+    { "key_text": "Email", "value_text": "s.jenkins@techsol.com" },
+    { "key_text": "Reference 2 — Full Name", "value_text": "David Miller" },
+    { "key_text": "Relationship", "value_text": "Colleague" },
+    { "key_text": "Phone", "value_text": "503-555-7766" },
+    { "key_text": "Email", "value_text": "dmiller@work.com" },
+    { "key_text": "Reference 3 — Full Name", "value_text": null },
+    { "key_text": "Relationship", "value_text": null },
+    { "key_text": "Phone", "value_text": null },
+    { "key_text": "Email", "value_text": null },
+    { "key_text": "List any relevant licenses, certifications, or professional memberships", "value_text": "PMP Certified" },
+    { "key_text": "Applicant Signature", "value_text": "Julian M. Henderson" },
+    { "key_text": "Date", "value_text": "10/15/2023" }
+  ]
+}
+
+Narrative:
+The applicant, Julian Mark Henderson, who goes by the nickname Jules, was born on May 12, 1992. He currently resides at 452 Oakwood Avenue, Apt 3B, in Portland, Oregon, 97201, USA. He can be reached at home at 503-555-0192 or on his cell at 503-555-0844, and his primary email is j.henderson@email.com.
+
+Julian is applying for the Senior Project Manager position (Reference PM-9928) within the Operations department. He is seeking a full-time role and is available to start on November 1, 2023. He learned about this opportunity through the company website.
+
+Regarding his education, Julian holds a Master’s degree in Business Administration from the University of Oregon in Eugene, OR, which he was awarded in 2016. His professional experience includes working as a Project Coordinator at TechSolutions Inc. in Portland from June 2016 to August 2020, where he focused on managing cross-functional teams and budget tracking; he left to pursue career growth. Prior to that, he was a Junior Analyst at BuildRight Construction in Salem, OR, from May 2014 to May 2016, leaving due to relocation after handling data analysis and reporting.
+
+For professional references, he has listed Sarah Jenkins, his former manager, and David Miller, a colleague. He is also PMP certified. Julian signed the application on October 15, 2023.

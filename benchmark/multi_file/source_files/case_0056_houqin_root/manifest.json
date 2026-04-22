@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0056_houqin_root",
+    "tenant":  "houqin",
+    "topic":  "",
+    "subtopic":  "",
+    "source_dir":  "houqin",
+    "total_files_in_source_dir":  5,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\完整文件清单.txt",
+                      "copied_name":  "完整文件清单.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  9062
+                  },
+                  {
+                      "source_rel":  "houqin\\目录结构说明.txt",
+                      "copied_name":  "目录结构说明.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  8409
+                  },
+                  {
+                      "source_rel":  "houqin\\快速导航索引.txt",
+                      "copied_name":  "快速导航索引.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  6582
+                  },
+                  {
+                      "source_rel":  "houqin\\系统统计总结.txt",
+                      "copied_name":  "系统统计总结.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  6449
+                  },
+                  {
+                      "source_rel":  "houqin\\README.txt",
+                      "copied_name":  "README.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  5922
+                  }
+              ]
+}

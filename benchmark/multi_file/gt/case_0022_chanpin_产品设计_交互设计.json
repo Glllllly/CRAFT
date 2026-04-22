@@ -1,0 +1,26 @@
+{
+  "excel": "case_0022_chanpin_产品设计_交互设计__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "功能",
+      "value_cell": "A7:D8",
+      "value": "列表展示"
+    },
+    {
+      "label": "间距",
+      "value_cell": "F7:I8",
+      "value": "标准间距"
+    },
+    {
+      "label": "访问频率",
+      "value_cell": "A13:D14",
+      "value": "高"
+    },
+    {
+      "label": "审批状态",
+      "value_cell": "A19:D20",
+      "value": "待审批"
+    }
+  ]
+}

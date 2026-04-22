@@ -1,0 +1,793 @@
+{
+  "bundle_dir": "case_0210_houqin_采购管理",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "采购单_14.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥56000",
+          "raw_key": "金额",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥56000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商17",
+          "raw_key": "供应商",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-06-12",
+          "raw_key": "日期",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-06-12",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "采购单_3.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥45000",
+          "raw_key": "金额",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥45000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商11",
+          "raw_key": "供应商",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-03-18",
+          "raw_key": "日期",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-03-18",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "采购单_5.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥10000",
+          "raw_key": "金额",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥10000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商19",
+          "raw_key": "供应商",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商19",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-10-12",
+          "raw_key": "日期",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-10-12",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 已批准",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "采购单_7.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥20000",
+          "raw_key": "金额",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥20000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商17",
+          "raw_key": "供应商",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-08-26",
+          "raw_key": "日期",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-08-26",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 已批准",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "采购单_8.txt",
+      "source_type": "txt",
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥55000",
+          "raw_key": "金额",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥55000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商15",
+          "raw_key": "供应商",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-07-05",
+          "raw_key": "日期",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-07-05",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "budget",
+      "candidates": [
+        {
+          "key": "budget",
+          "value": "¥56000",
+          "raw_key": "金额",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥56000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "budget",
+          "value": "¥45000",
+          "raw_key": "金额",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥45000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "budget",
+          "value": "¥10000",
+          "raw_key": "金额",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥10000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "budget",
+          "value": "¥20000",
+          "raw_key": "金额",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥20000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "budget",
+          "value": "¥55000",
+          "raw_key": "金额",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "金额: ¥55000",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "供应商",
+      "candidates": [
+        {
+          "key": "供应商",
+          "value": "供应商17",
+          "raw_key": "供应商",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商11",
+          "raw_key": "供应商",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商11",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商19",
+          "raw_key": "供应商",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商19",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商17",
+          "raw_key": "供应商",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商17",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "供应商",
+          "value": "供应商15",
+          "raw_key": "供应商",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "供应商: 供应商15",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "备注",
+      "candidates": [
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "备注",
+          "value": "日常办公需求补充",
+          "raw_key": "备注",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "备注: 日常办公需求补充",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "日期",
+      "candidates": [
+        {
+          "key": "日期",
+          "value": "2024-06-12",
+          "raw_key": "日期",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-06-12",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-03-18",
+          "raw_key": "日期",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-03-18",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-10-12",
+          "raw_key": "日期",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-10-12",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-08-26",
+          "raw_key": "日期",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-08-26",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "日期",
+          "value": "2024-07-05",
+          "raw_key": "日期",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "日期: 2024-07-05",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "物品",
+      "candidates": [
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "物品",
+          "value": "办公设备、家具、工具等",
+          "raw_key": "物品",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "物品: 办公设备、家具、工具等",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "状态",
+      "candidates": [
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_14.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_3.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "采购单_5.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 已批准",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "已批准",
+          "raw_key": "状态",
+          "source_file": "采购单_7.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 已批准",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "状态",
+          "value": "待审批",
+          "raw_key": "状态",
+          "source_file": "采购单_8.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "状态: 待审批",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

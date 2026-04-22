@@ -1,0 +1,92 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Event Name",
+      "value_text": "Annual Tech Innovation Summit"
+    },
+    {
+      "key_text": "Event Date(s)",
+      "value_text": "October 12-14, 2023"
+    },
+    {
+      "key_text": "Venue / Location",
+      "value_text": "Grand Convention Center, San Francisco"
+    },
+    {
+      "key_text": "Expected Attendance",
+      "value_text": "500"
+    },
+    {
+      "key_text": "Event Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department / Client",
+      "value_text": "Marketing Operations"
+    },
+    {
+      "key_text": "Budget Code / PO",
+      "value_text": "MKT-2023-8842"
+    },
+    {
+      "key_text": "Total Approved Budget $",
+      "value_text": "50,000.00"
+    },
+    {
+      "key_text": "Contingency Reserve $",
+      "value_text": "5,000.00"
+    },
+    {
+      "key_text": "Total Budgeted  $",
+      "value_text": "55,000.00"
+    },
+    {
+      "key_text": "Total Actual Spend  $",
+      "value_text": "53,250.00"
+    },
+    {
+      "key_text": "Total Variance  $  (Over/Under)",
+      "value_text": "1,750.00 (Under)"
+    },
+    {
+      "key_text": "Budget Utilisation  %",
+      "value_text": "96.8%"
+    },
+    {
+      "key_text": "Final Financial Status  (On Budget / Over / Under)",
+      "value_text": "Under"
+    },
+    {
+      "key_text": "Notes / Explanations for Significant Variances",
+      "value_text": "Savings achieved on AV equipment rental and reduced catering headcounts compared to initial projections."
+    },
+    {
+      "key_text": "Event Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Finance Controller",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-22"
+    },
+    {
+      "key_text": "Authorising Director",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-25"
+    }
+  ]
+}
+
+Narrative:
+The Annual Tech Innovation Summit, managed by Sarah Jenkins for the Marketing Operations department (Budget Code MKT-2023-8842), took place at the Grand Convention Center in San Francisco from October 12th to 14th, 2023, with 500 attendees. The event started with a total approved budget of $50,000 plus a $5,000 contingency, bringing the total budgeted amount to $55,000. The final actual spend was $53,250, resulting in a favorable variance of $1,750 and a budget utilization rate of 96.8%. The final financial status is categorized as "Under" budget, primarily due to cost savings on AV rentals and catering. The form was signed by Sarah Jenkins on October 20th, approved by Finance Controller Mark Thompson on October 22nd, and authorized by Director Elena Rodriguez on October 25th.

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0002_chanpin_OKR和目标_目标评审",
+    "tenant":  "chanpin",
+    "topic":  "OKR和目标",
+    "subtopic":  "目标评审",
+    "source_dir":  "chanpin\\OKR和目标\\目标评审",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\OKR和目标\\目标评审\\评审_48.txt",
+                      "copied_name":  "评审_48.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  671
+                  },
+                  {
+                      "source_rel":  "chanpin\\OKR和目标\\目标评审\\评审_47.txt",
+                      "copied_name":  "评审_47.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  671
+                  },
+                  {
+                      "source_rel":  "chanpin\\OKR和目标\\目标评审\\评审_46.txt",
+                      "copied_name":  "评审_46.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  671
+                  },
+                  {
+                      "source_rel":  "chanpin\\OKR和目标\\目标评审\\评审_50.txt",
+                      "copied_name":  "评审_50.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  671
+                  },
+                  {
+                      "source_rel":  "chanpin\\OKR和目标\\目标评审\\评审_55.txt",
+                      "copied_name":  "评审_55.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  671
+                  }
+              ]
+}

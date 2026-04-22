@@ -1,0 +1,43 @@
+{
+  "product_id": "product_19",
+  "version": "1.15",
+  "name": "产品10",
+  "description": "这是产品19的配置文件",
+  "status": "active",
+  "enabled_features": [
+    "feature_core",
+    "feature_premium",
+    "feature_analytics",
+    "feature_integration"
+  ],
+  "limits": {
+    "max_users": 1945,
+    "max_api_calls": 130831,
+    "storage_gb": 198
+  },
+  "pricing": {
+    "currency": "CNY",
+    "basic_price": 365,
+    "premium_price": 4255,
+    "enterprise_price": 14868
+  },
+  "regions": [
+    "china",
+    "asia",
+    "global"
+  ],
+  "support_level": "community",
+  "sla": {
+    "uptime": "99%",
+    "response_time_ms": 318,
+    "support_hours": "24/7"
+  },
+  "created_at": "2024-12-13T20:50:00Z",
+  "updated_at": "2024-09-22T07:42:00Z",
+  "owner": "product_team_5",
+  "tags": [
+    "important",
+    "production",
+    "monitored"
+  ]
+}

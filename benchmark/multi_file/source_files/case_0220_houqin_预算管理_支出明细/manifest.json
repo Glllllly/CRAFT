@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0220_houqin_预算管理_支出明细",
+    "tenant":  "houqin",
+    "topic":  "预算管理",
+    "subtopic":  "支出明细",
+    "source_dir":  "houqin\\预算管理\\支出明细",
+    "total_files_in_source_dir":  50,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\预算管理\\支出明细\\费用统计_8149.json",
+                      "copied_name":  "费用统计_8149.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\支出明细\\维修记录_3661.csv",
+                      "copied_name":  "维修记录_3661.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\支出明细\\采购申请_5549.txt",
+                      "copied_name":  "采购申请_5549.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\支出明细\\物品清单_6003.eml",
+                      "copied_name":  "物品清单_6003.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\预算管理\\支出明细\\采购申请_8510.csv",
+                      "copied_name":  "采购申请_8510.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

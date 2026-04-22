@@ -1,0 +1,44 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "format",
+                                   "selected_value":  "Online interactive course",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "duration",
+                                   "selected_value":  "4 hours",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lesson1",
+                                   "selected_value":  "Fundamentals (60 min)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lesson2",
+                                   "selected_value":  "Process Design (60 min)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lesson3",
+                                   "selected_value":  "Tools and Technology (60 min)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "lesson4",
+                                   "selected_value":  "Practical Application (60 min)",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "assessment",
+                                   "selected_value":  "Quiz and case study",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "trainingmodule",
+                                   "selected_value":  "Marketing Operations Best Practices",
+                                   "conflict":  false
+                               }
+                           ]
+}

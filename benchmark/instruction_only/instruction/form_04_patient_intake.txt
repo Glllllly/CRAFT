@@ -1,0 +1,172 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Last Name",
+      "value_text": "Montgomery"
+    },
+    {
+      "key_text": "First Name",
+      "value_text": "Elena"
+    },
+    {
+      "key_text": "Date of Birth  mm/dd/yyyy",
+      "value_text": "04/12/1992"
+    },
+    {
+      "key_text": "Student / Employee ID",
+      "value_text": "EMP-88429"
+    },
+    {
+      "key_text": "Gender Identity",
+      "value_text": "Female"
+    },
+    {
+      "key_text": "Preferred Pronouns",
+      "value_text": "She/Her"
+    },
+    {
+      "key_text": "Marital Status",
+      "value_text": "Single"
+    },
+    {
+      "key_text": "Permanent Home Address",
+      "value_text": "742 Evergreen Terrace"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Springfield"
+    },
+    {
+      "key_text": "State",
+      "value_text": "IL"
+    },
+    {
+      "key_text": "ZIP",
+      "value_text": "62704"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-012-3456"
+    },
+    {
+      "key_text": "Home Phone",
+      "value_text": null
+    },
+    {
+      "key_text": "Work Phone",
+      "value_text": "555-987-6543"
+    },
+    {
+      "key_text": "Primary E-mail Address",
+      "value_text": "elena.m@email.com"
+    },
+    {
+      "key_text": "Secondary E-mail Address",
+      "value_text": null
+    },
+    {
+      "key_text": "Emergency Contact — Full Name",
+      "value_text": "Marcus Montgomery"
+    },
+    {
+      "key_text": "Relationship",
+      "value_text": "Brother"
+    },
+    {
+      "key_text": "Emergency Phone (Primary)",
+      "value_text": "555-222-3333"
+    },
+    {
+      "key_text": "Emergency Phone (Secondary)",
+      "value_text": null
+    },
+    {
+      "key_text": "Email",
+      "value_text": "marcus.m@email.com"
+    },
+    {
+      "key_text": "Primary Insurance Provider",
+      "value_text": "Blue Cross Blue Shield"
+    },
+    {
+      "key_text": "Policy / Member ID Number",
+      "value_text": "BCBS99887766"
+    },
+    {
+      "key_text": "Group Number",
+      "value_text": "G-55443"
+    },
+    {
+      "key_text": "Insurance Phone Number",
+      "value_text": "800-555-0199"
+    },
+    {
+      "key_text": "Policyholder's Full Name",
+      "value_text": "Elena Montgomery"
+    },
+    {
+      "key_text": "Policyholder's Date of Birth",
+      "value_text": "04/12/1992"
+    },
+    {
+      "key_text": "Secondary Insurance Provider (if any)",
+      "value_text": null
+    },
+    {
+      "key_text": "Secondary Policy Number",
+      "value_text": null
+    },
+    {
+      "key_text": "Current Medications (name, dosage, frequency)",
+      "value_text": "Lisinopril, 10mg, once daily"
+    },
+    {
+      "key_text": "Known Allergies (medication, food, environmental) — specify reactions",
+      "value_text": "Penicillin (hives)"
+    },
+    {
+      "key_text": "Chronic Conditions / Diagnoses",
+      "value_text": "Hypertension"
+    },
+    {
+      "key_text": "Previous Surgeries or Hospitalizations (with approximate dates)",
+      "value_text": "Appendectomy, 2015"
+    },
+    {
+      "key_text": "Primary Care Provider's Name & Contact (outside this clinic)",
+      "value_text": "Dr. Sarah Jenkins, 555-111-2222"
+    },
+    {
+      "key_text": "Chief Complaint / Reason for Visit",
+      "value_text": "Persistent dry cough and mild fever."
+    },
+    {
+      "key_text": "Symptom Duration",
+      "value_text": "4 days"
+    },
+    {
+      "key_text": "Severity (1–10)",
+      "value_text": "4"
+    },
+    {
+      "key_text": "Date Symptoms Began",
+      "value_text": "10/20/2023"
+    },
+    {
+      "key_text": "Patient Signature",
+      "value_text": "Elena Montgomery"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/24/2023"
+    }
+  ]
+}
+
+Narrative:
+The form is filled out for Elena Montgomery, born on April 12, 1992, who uses the employee ID EMP-88429. She identifies as female, uses she/her pronouns, and is single. She lives at 742 Evergreen Terrace in Springfield, IL, 62704, USA. Her contact information includes a cell phone number of 555-012-3456 and a work phone of 555-987-6543, with her primary email being elena.m@email.com. In case of emergency, the clinic should contact her brother, Marcus Montgomery, at 555-222-3333 or via email at marcus.m@email.com. Her primary insurance is Blue Cross Blue Shield (Policy ID BCBS99887766, Group G-55443), and she can be reached at 800-555-0199; she is the policyholder. She currently takes 10mg of Lisinopril daily, has an allergy to Penicillin which causes hives, suffers from hypertension, and had an appendectomy in 2015. Her primary care provider is Dr. Sarah Jenkins (555-111-2222). She is visiting today due to a persistent dry cough and mild fever that began on October 20, 2023, which she rates as a 4 out of 10 in severity. The form was signed by Elena Montgomery on October 24, 2023.

@@ -1,0 +1,71 @@
+﻿{
+    "excel":  "003d4386-5688-46d0-bfcf-d3d12d7ef1e5.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Name     (Last)",
+                      "value_cell":  "A26:C26",
+                      "value":  "Doe"
+                  },
+                  {
+                      "label":  "(First)",
+                      "value_cell":  "D26:G26",
+                      "value":  "Jane"
+                  },
+                  {
+                      "label":  "EMPL ID",
+                      "value_cell":  "H26:L26",
+                      "value":  "87654321"
+                  },
+                  {
+                      "label":  "Department Name",
+                      "value_cell":  "A28:C28",
+                      "value":  "Office of Information Technology"
+                  },
+                  {
+                      "label":  "Campus Phone",
+                      "value_cell":  "D28:G28",
+                      "value":  "214-768-0000"
+                  },
+                  {
+                      "label":  "Campus e-mail",
+                      "value_cell":  "H28:L28",
+                      "value":  "janedoe@smu.edu"
+                  },
+                  {
+                      "label":  "Signature:",
+                      "value_cell":  "B31:F31",
+                      "value":  "Jane Doe"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "H31:L31",
+                      "value":  "11/05/2023"
+                  },
+                  {
+                      "label":  "Name of Financial Institution:",
+                      "value_cell":  "A42:D42",
+                      "value":  "Bank of America"
+                  },
+                  {
+                      "label":  "Transit/ABA Number:",
+                      "value_cell":  "E42:G42",
+                      "value":  "111000025"
+                  },
+                  {
+                      "label":  "Account Number:",
+                      "value_cell":  "H42:L42",
+                      "value":  "00987654321"
+                  },
+                  {
+                      "label":  "Entered By:",
+                      "value_cell":  "A44:D44",
+                      "value":  "Mark Stevens"
+                  },
+                  {
+                      "label":  "Date Entered:",
+                      "value_cell":  "E44:G44",
+                      "value":  "11/07/2023"
+                  }
+              ]
+}

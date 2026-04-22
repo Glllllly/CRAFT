@@ -1,0 +1,181 @@
+﻿{
+    "excel":  "1_Wire Template.xlsx",
+    "sheet":  "Wire Transfer",
+    "pairs":  [
+                  {
+                      "label":  "DATE FUNDS TO BE WIRED (MMDDYY)",
+                      "value_cell":  "G4:I4",
+                      "value":  "102523"
+                  },
+                  {
+                      "label":  "COMPANY NAME PAYING (PAYOR)",
+                      "value_cell":  "A6:E6",
+                      "value":  "Global Tech Solutions Inc."
+                  },
+                  {
+                      "label":  "COMPANY NO.",
+                      "value_cell":  "F6",
+                      "value":  "GT-8842"
+                  },
+                  {
+                      "label":  "BANK ACCOUNT",
+                      "value_cell":  "H6:I6",
+                      "value":  "9988776655"
+                  },
+                  {
+                      "label":  "NAME",
+                      "value_cell":  "B8:F8",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "PHONE NO.",
+                      "value_cell":  "G8:I8",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "DEPARTMENT",
+                      "value_cell":  "B10:I10",
+                      "value":  "Accounts Payable"
+                  },
+                  {
+                      "label":  "INVOICE NUMBER",
+                      "value_cell":  "E13:G13",
+                      "value":  "INV-2023-559"
+                  },
+                  {
+                      "label":  "INVOICE DATE",
+                      "value_cell":  "H13:I13",
+                      "value":  "101523"
+                  },
+                  {
+                      "label":  "COUNTRY",
+                      "value_cell":  "B16",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "BANK KEY",
+                      "value_cell":  "C16:D16",
+                      "value":  "CHASUS33"
+                  },
+                  {
+                      "label":  "BANK ACCOUNT NO.",
+                      "value_cell":  "E16:G16",
+                      "value":  "123456789012"
+                  },
+                  {
+                      "label":  "BANK T (ROUTING ORDER)",
+                      "value_cell":  "H16:I16",
+                      "value":  "FEDWIRE"
+                  },
+                  {
+                      "label":  "PAYEE NAME",
+                      "value_cell":  "B18:I18",
+                      "value":  "Apex Manufacturing Services"
+                  },
+                  {
+                      "label":  "PAYEE ADDRESS",
+                      "value_cell":  "B20:G20",
+                      "value":  "452 Industrial Parkway"
+                  },
+                  {
+                      "label":  "Vendor Number",
+                      "value_cell":  "H20:I20",
+                      "value":  "V-90021"
+                  },
+                  {
+                      "label":  "CITY",
+                      "value_cell":  "B22:E22",
+                      "value":  "Chicago"
+                  },
+                  {
+                      "label":  "STATE",
+                      "value_cell":  "F22:G22",
+                      "value":  "IL"
+                  },
+                  {
+                      "label":  "COUNTRY",
+                      "value_cell":  "H22:I22",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "BANK NAME",
+                      "value_cell":  "B24:I24",
+                      "value":  "Chase Bank N.A."
+                  },
+                  {
+                      "label":  "BANK ADDRESS",
+                      "value_cell":  "B26:I26",
+                      "value":  "100 Financial District Blvd"
+                  },
+                  {
+                      "label":  "CITY",
+                      "value_cell":  "B28:E28",
+                      "value":  "New York"
+                  },
+                  {
+                      "label":  "STATE",
+                      "value_cell":  "F28:G28",
+                      "value":  "NY"
+                  },
+                  {
+                      "label":  "COUNTRY",
+                      "value_cell":  "H28:I28",
+                      "value":  "USA"
+                  },
+                  {
+                      "label":  "REFERENCE MESSAGE ON WIRE (20 CHARACTERS)",
+                      "value_cell":  "B30:I30",
+                      "value":  "INV-2023-559 PAYMENT"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "A48:C48",
+                      "value":  "Michael Ross"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "D48",
+                      "value":  "102023"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "E48:G48",
+                      "value":  "Elena Vance"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "H48:I48",
+                      "value":  "102123"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "A50:C50",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "D50",
+                      "value":  "102223"
+                  },
+                  {
+                      "label":  "APPROVAL",
+                      "value_cell":  "E50:G50",
+                      "value":  "Robert Miller"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "H50:I50",
+                      "value":  "102223"
+                  },
+                  {
+                      "label":  "A/P MANAGER APPROVAL",
+                      "value_cell":  "A52:C5",
+                      "value":  "Linda Thompson"
+                  },
+                  {
+                      "label":  "DATE",
+                      "value_cell":  "D52",
+                      "value":  "102323"
+                  }
+              ]
+}

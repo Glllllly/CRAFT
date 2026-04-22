@@ -1,0 +1,32 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Product:",
+      "value_text": "Microsoft SharePoint Server 2010 & SharePoint 2013"
+    },
+    {
+      "key_text": "Worksheet title:",
+      "value_text": "Analyze document usage data worksheet"
+    },
+    {
+      "key_text": "Related content:",
+      "value_text": "Identify users and analyze document usage (SharePoint Server 2010)\nIdentify users and analyze document usage in SharePoint 2013"
+    },
+    {
+      "key_text": "Prepared by:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date:",
+      "value_text": "November 14, 2023"
+    },
+    {
+      "key_text": "Instructions:",
+      "value_text": "1. After you identify the users in your organization, you can collect information about their document usage.\n2. Use this worksheet to help you analyze how documents are used in your organization.\n\nDocument type: For each kind of document that exists in your organization, fill out a row of the worksheet.\nDocument purpose: The reason that your organization creates this kind of document.\nDocument template: The name of the template on which the document type is based.\nMetadata: Any metadata that you have associated with this kind of document.\nWorkflow process: Any workflows that you have associated with this kind of document.\nAuthor role: The role of the person in your organization who typically creates this kind of document.\nUser role: The role of the person in your organization who typically uses this kind of document.\nOther roles: The role of any other person, inside or outside your organization, who typically uses this kind of document during its life cycle.\nFormat: The format in which your organization typically uses this kind of document. If you must create multiple formats to store this kind of document (including paper), make a note of it here.\nLocation: Links to the library or network share where you store this kind of document. If the location includes a physical storage site, make a note of it here."
+    }
+  ]
+}
+
+Narrative:
+This is an "Analyze document usage data worksheet" designed for Microsoft SharePoint Server 2010 and SharePoint 2013. It was prepared by Sarah Jenkins on November 14, 2023. The document is intended to help organizations collect and analyze data on how documents are used, referencing related content for identifying users in both SharePoint 2010 and 2013. The worksheet includes a detailed set of instructions and definitions to guide the user in filling out data regarding document types, purposes, templates, metadata, workflows, and various user roles. Additionally, it provides space to note the format and storage location of the documents being analyzed.

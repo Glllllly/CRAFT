@@ -1,0 +1,28 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date of Assignment",
+      "value_text": "05/10/2023"
+    },
+    {
+      "key_text": "Date current owner applied for title",
+      "value_text": "08/15/2023"
+    },
+    {
+      "key_text": "Days Late²",
+      "value_text": "97"
+    },
+    {
+      "key_text": "Transaction Type:",
+      "value_text": "Standard Sale"
+    },
+    {
+      "key_text": "Late Fee³",
+      "value_text": "$125.00"
+    }
+  ]
+}
+
+Narrative:
+This form calculates the penalty for a late vehicle title transfer. The vehicle was assigned on May 10th, 2023, but the current owner did not apply for the new title until August 15th, 2023. This gap resulted in the application being 97 days late. Based on a "Standard Sale" transaction type, the estimated late fee for this delay is $125.00.

@@ -1,0 +1,91 @@
+{
+  "excel": "case_0062_houqin_仓库管理_安全检查__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "16345"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "销售统计_8152"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "销售统计"
+    },
+    {
+      "label": "date",
+      "value_cell": "P6:S7",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "A10:D11",
+      "value": "2026-02-10T05:30:31.478101"
+    },
+    {
+      "label": "creator",
+      "value_cell": "F10:I11",
+      "value": "刘林"
+    },
+    {
+      "label": "status",
+      "value_cell": "A16:D17",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F16:I17",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K16:N17",
+      "value": "临时"
+    },
+    {
+      "label": "subject",
+      "value_cell": "P16:S17",
+      "value": "工作计划"
+    },
+    {
+      "label": "检查编号",
+      "value_cell": "A22:D23",
+      "value": "SAFE-019"
+    },
+    {
+      "label": "检查日期",
+      "value_cell": "F22:I23",
+      "value": "2024-01-06"
+    },
+    {
+      "label": "检查人",
+      "value_cell": "K22:N23",
+      "value": "安全员2"
+    },
+    {
+      "label": "总体评分",
+      "value_cell": "P22:S23",
+      "value": "85/100分"
+    },
+    {
+      "label": "from",
+      "value_cell": "A28:D29",
+      "value": "吴九@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F28:I29",
+      "value": "郑十@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A34:D35",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

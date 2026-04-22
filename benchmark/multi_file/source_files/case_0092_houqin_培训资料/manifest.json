@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0092_houqin_培训资料",
+    "tenant":  "houqin",
+    "topic":  "培训资料",
+    "subtopic":  "",
+    "source_dir":  "houqin\\培训资料",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\培训资料\\操作记录_4537.json",
+                      "copied_name":  "操作记录_4537.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\培训资料\\调查表_6683.csv",
+                      "copied_name":  "调查表_6683.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  },
+                  {
+                      "source_rel":  "houqin\\培训资料\\培训文档_2.txt",
+                      "copied_name":  "培训文档_2.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  769
+                  },
+                  {
+                      "source_rel":  "houqin\\培训资料\\维护计划_7463.eml",
+                      "copied_name":  "维护计划_7463.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\培训资料\\库存清单_1616.csv",
+                      "copied_name":  "库存清单_1616.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  }
+              ]
+}

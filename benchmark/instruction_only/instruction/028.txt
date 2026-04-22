@@ -1,0 +1,45 @@
+JSON:
+{
+  "pairs": [
+    { "key_text": "Policy Number", "value_text": "POL-8849201-X" },
+    { "key_text": "Claim Reference (if known)", "value_text": null },
+    { "key_text": "Policyholder Full Name", "value_text": "Jonathan D. Miller" },
+    { "key_text": "Date of Birth", "value_text": "1978-05-14" },
+    { "key_text": "Phone", "value_text": "555-012-9834" },
+    { "key_text": "E-mail", "value_text": "j.miller@email.com" },
+    { "key_text": "Property Address", "value_text": "42 Oakwood Terrace" },
+    { "key_text": "City, State, ZIP", "value_text": "Springfield, IL, 62704" },
+    { "key_text": "Insured Property Type (home / commercial / vehicle / other)", "value_text": "home" },
+    { "key_text": "Property Value at Time of Loss $", "value_text": "350,000" },
+    { "key_text": "Date of Loss / Damage", "value_text": "2023-11-12" },
+    { "key_text": "Time (approx.)", "value_text": "03:45 AM" },
+    { "key_text": "Location of Damage (specific area of property)", "value_text": "Kitchen and living room flooring" },
+    { "key_text": "Property Occupied at Time? Y / N", "value_text": "Y" },
+    { "key_text": "Detailed Description of Incident", "value_text": "A pipe burst in the wall behind the refrigerator during the night, causing significant water damage to the kitchen floor and adjacent living room hardwood." },
+    { "key_text": "Was property / system functioning normally before loss? Y / N", "value_text": "Y" },
+    { "key_text": "Maintenance record up to date? Y / N", "value_text": "Y" },
+    { "key_text": "Items / Areas Damaged (list each item and approximate value)", "value_text": "Hardwood floors ($8,500), Kitchen cabinetry ($3,200), Baseboards ($800)" },
+    { "key_text": "Total Estimated Loss $", "value_text": "12,500" },
+    { "key_text": "Structural Damage? Y / N", "value_text": "N" },
+    { "key_text": "Contents Damaged? Y / N", "value_text": "Y" },
+    { "key_text": "Contents Estimated Value $", "value_text": "2,000" },
+    { "key_text": "Deductible Amount  $", "value_text": "1,000" },
+    { "key_text": "Other Insurance Policy?  Y / N", "value_text": "N" },
+    { "key_text": "Other Insurer Name & Policy #", "value_text": null },
+    { "key_text": "Claim Lodged with Other Insurer?  Y / N", "value_text": "N" },
+    { "key_text": "Prior Claims in Last 5 Years?  Y / N", "value_text": "N" },
+    { "key_text": "Prior Claim Reference", "value_text": null },
+    { "key_text": "Contractor / Repairer Name", "value_text": "Reliable Home Restorations LLC" },
+    { "key_text": "Repair Cost (actual or estimate)  $", "value_text": "12,500" },
+    { "key_text": "Repair Description", "value_text": "Removal of water-damaged flooring and subfloor drying, followed by installation of new hardwood and cabinet base repair." },
+    { "key_text": "Claimant Signature", "value_text": "Jonathan D. Miller" },
+    { "key_text": "Repair Cost (actual or estimate)  $", "value_text": "12,500" },
+    { "key_text": "Loss Adjuster / Assessor", "value_text": "Sarah Jenkins" },
+    { "key_text": "Date", "value_text": "2023-11-15" }
+  ]
+}
+
+Narrative:
+Jonathan D. Miller, born on May 14, 1978, is filing a property damage claim under policy number POL-8849201-X. He can be reached at 555-012-9834 or via email at j.miller@email.com. The incident occurred at his home located at 42 Oakwood Terrace, Springfield, IL, 62704, which has an estimated value of $350,000. 
+
+On November 12, 2023, at approximately 3:45 AM, a pipe burst behind his kitchen refrigerator, damaging the kitchen and living room flooring while the home was occupied. Jonathan confirmed that the property was functioning normally and maintenance was up to date prior to this event. The total estimated loss is $12,500, including $2,000 in damaged contents. He noted no structural damage. He has a $1,000 deductible and confirmed he has no other relevant insurance policies or prior claims in the last five years. Reliable Home Restorations LLC has provided an estimate of $12,500 for the necessary repairs, which include flooring removal, drying, and installation. Jonathan signed the claim on November 15, 2023, and the assessment is being handled by loss adjuster Sarah Jenkins.

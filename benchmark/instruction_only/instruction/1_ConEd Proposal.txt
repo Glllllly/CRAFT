@@ -1,0 +1,40 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "NAME OF PROPOSER:",
+      "value_text": "Enron Power Marketing, Inc."
+    },
+    {
+      "key_text": "ADDRESS:",
+      "value_text": "1400 Smith Street, Houston, TX 77002-7361"
+    },
+    {
+      "key_text": "CONTACT:",
+      "value_text": "Pearce W. Hammond"
+    },
+    {
+      "key_text": "TELEPHONE NO.:",
+      "value_text": "713-853-7379"
+    },
+    {
+      "key_text": "AUTHORIZED SIGNATURE:",
+      "value_text": "P. W. Hammond"
+    },
+    {
+      "key_text": "PRINT NAME:",
+      "value_text": "Pearce W. Hammond"
+    },
+    {
+      "key_text": "TITLE:",
+      "value_text": "Director of Energy Trading"
+    },
+    {
+      "key_text": "DATE:",
+      "value_text": "January 4, 2001"
+    }
+  ]
+}
+
+Narrative:
+The proposal is submitted by Enron Power Marketing, Inc., located at 1400 Smith Street, Houston, TX 77002-7361. The designated point of contact for this proposal is Pearce W. Hammond, who can be reached by telephone at 713-853-7379. To formalize the document, Pearce W. Hammond has signed the proposal as the Director of Energy Trading on January 4, 2001.

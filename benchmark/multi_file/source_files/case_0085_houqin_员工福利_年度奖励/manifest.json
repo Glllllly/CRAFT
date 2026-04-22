@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0085_houqin_员工福利_年度奖励",
+    "tenant":  "houqin",
+    "topic":  "员工福利",
+    "subtopic":  "年度奖励",
+    "source_dir":  "houqin\\员工福利\\年度奖励",
+    "total_files_in_source_dir":  48,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\员工福利\\年度奖励\\销售统计_8810.json",
+                      "copied_name":  "销售统计_8810.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\年度奖励\\物资申请_2263.csv",
+                      "copied_name":  "物资申请_2263.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\年度奖励\\出差申请_4235.txt",
+                      "copied_name":  "出差申请_4235.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\年度奖励\\购置申请_4644.eml",
+                      "copied_name":  "购置申请_4644.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\员工福利\\年度奖励\\调查表_7970.csv",
+                      "copied_name":  "调查表_7970.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

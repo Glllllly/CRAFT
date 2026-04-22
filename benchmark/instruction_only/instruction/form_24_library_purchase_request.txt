@@ -1,0 +1,188 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requester Full Name",
+      "value_text": "Dr. Elena Vance"
+    },
+    {
+      "key_text": "Department / School",
+      "value_text": "Department of Biological Sciences"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "4482"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "e.vance@institution.edu"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Faculty",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Staff",
+      "value_text": null
+    },
+    {
+      "key_text": "Graduate Student",
+      "value_text": null
+    },
+    {
+      "key_text": "Undergraduate",
+      "value_text": null
+    },
+    {
+      "key_text": "Other",
+      "value_text": null
+    },
+    {
+      "key_text": "Title of Work",
+      "value_text": "Advanced Genomics: Principles and Applications"
+    },
+    {
+      "key_text": "Author(s) / Editor(s)",
+      "value_text": "Marcus Thorne, Sarah Jenkins"
+    },
+    {
+      "key_text": "Publisher",
+      "value_text": "Academic Press"
+    },
+    {
+      "key_text": "Publication Year",
+      "value_text": "2023"
+    },
+    {
+      "key_text": "Edition / Volume",
+      "value_text": "2nd Edition"
+    },
+    {
+      "key_text": "ISBN / ISSN",
+      "value_text": "978-0-12-821456-7"
+    },
+    {
+      "key_text": "Language",
+      "value_text": "English"
+    },
+    {
+      "key_text": "Print Book",
+      "value_text": "X"
+    },
+    {
+      "key_text": "E-book",
+      "value_text": null
+    },
+    {
+      "key_text": "Print Journal",
+      "value_text": null
+    },
+    {
+      "key_text": "Online Database",
+      "value_text": null
+    },
+    {
+      "key_text": "DVD / Media",
+      "value_text": null
+    },
+    {
+      "key_text": "Dataset",
+      "value_text": null
+    },
+    {
+      "key_text": "Other",
+      "value_text": null
+    },
+    {
+      "key_text": "Estimated Cost  $",
+      "value_text": "145.00"
+    },
+    {
+      "key_text": "Suggested Vendor / Source",
+      "value_text": "Amazon Academic"
+    },
+    {
+      "key_text": "URL or Catalog Record (if known)",
+      "value_text": "https://www.academicpress.com/genomics-2nd-ed"
+    },
+    {
+      "key_text": "How does this item support curriculum, research, or institutional needs?",
+      "value_text": "Primary textbook for the upcoming BIO-402 Advanced Genomics course; essential for student research projects."
+    },
+    {
+      "key_text": "Course Reserve",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Research Support",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Instruction",
+      "value_text": null
+    },
+    {
+      "key_text": "Accreditation",
+      "value_text": null
+    },
+    {
+      "key_text": "General Collection",
+      "value_text": null
+    },
+    {
+      "key_text": "Course Number / Name (if applicable)",
+      "value_text": "BIO-402 / Genomics"
+    },
+    {
+      "key_text": "Enrollment / Est. Users",
+      "value_text": "45"
+    },
+    {
+      "key_text": "Alternative Titles Considered (if any)",
+      "value_text": "None"
+    },
+    {
+      "key_text": "Received By",
+      "value_text": "J. Miller"
+    },
+    {
+      "key_text": "Fund Code",
+      "value_text": "SCI-BIO-2023"
+    },
+    {
+      "key_text": "Order Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Approved",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Approved — Modified Format",
+      "value_text": null
+    },
+    {
+      "key_text": "Deferred",
+      "value_text": null
+    },
+    {
+      "key_text": "Declined",
+      "value_text": null
+    },
+    {
+      "key_text": "Reason (if deferred/declined)",
+      "value_text": null
+    },
+    {
+      "key_text": "Selector Signature",
+      "value_text": "A. Thompson"
+    }
+  ]
+}
+
+Narrative:
+This material purchase request was submitted by Dr. Elena Vance from the Department of Biological Sciences on October 12, 2023. She can be reached at extension 4482 or via email at e.vance@institution.edu. Dr. Vance, as faculty, is requesting the purchase of the "Advanced Genomics: Principles and Applications" book, written by Marcus Thorne and Sarah Jenkins. Published by Academic Press in 2023, this is the 2nd edition with ISBN 978-0-12-821456-7, requested in English as a print book. The estimated cost is $145.00, and the suggested vendor is Amazon Academic; the URL for the item is provided. The book is intended to support the BIO-402 Genomics course, with an enrollment of 45 students, serving both course reserve and research support needs. The request was received by J. Miller on October 15, 2023, and was approved under fund code SCI-BIO-2023 by A. Thompson.

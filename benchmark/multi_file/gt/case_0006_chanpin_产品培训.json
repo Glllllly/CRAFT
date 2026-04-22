@@ -1,0 +1,16 @@
+{
+  "excel": "case_0006_chanpin_产品培训__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "培训主题",
+      "value_cell": "D6:H6",
+      "value": "产品介绍)"
+    },
+    {
+      "label": "更新内容",
+      "value_cell": "D11:H11",
+      "value": "新功能演示、案例补充、FAQ更新"
+    }
+  ]
+}

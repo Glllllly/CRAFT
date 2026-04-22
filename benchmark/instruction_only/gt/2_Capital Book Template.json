@@ -1,0 +1,76 @@
+﻿{
+    "excel":  "2_Capital Book Template.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "What is the total amount?",
+                      "value_cell":  "I5:P6",
+                      "value":  "$450,000.00"
+                  },
+                  {
+                      "label":  "What is the name of this transaction?",
+                      "value_cell":  "I7:P8",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Is this an allocation \"to\" or \"from\" the capital book reserve?",
+                      "value_cell":  "I9:P10",
+                      "value":  "To the capital book reserve"
+                  },
+                  {
+                      "label":  "What are the profit/cost centers we are to use for the SAP entry?",
+                      "value_cell":  "I11:P12",
+                      "value":  "PC-9982-A; CC-4421"
+                  },
+                  {
+                      "label":  "Who are the parties/counterparties?",
+                      "value_cell":  "I13:P14",
+                      "value":  "Global Energy Corp and Alpha Financial Partners"
+                  },
+                  {
+                      "label":  "Who is the book administrator?  Who booked this transaction?",
+                      "value_cell":  "I15:P16",
+                      "value":  "Sarah Jenkins (Admin); David Miller (Booker)"
+                  },
+                  {
+                      "label":  "Which book is this coming out of?",
+                      "value_cell":  "I17:P18",
+                      "value":  "Strategic Asset Book 04"
+                  },
+                  {
+                      "label":  "Who is the trading team/group?",
+                      "value_cell":  "I19:P20",
+                      "value":  "North American Power Trading"
+                  },
+                  {
+                      "label":  "What is the deal number?",
+                      "value_cell":  "I21:P22",
+                      "value":  "DEAL-889201-X"
+                  },
+                  {
+                      "label":  "What is the date of this transaction?",
+                      "value_cell":  "I23:P24",
+                      "value":  "October 12, 2023"
+                  },
+                  {
+                      "label":  "Has this been run through originations?",
+                      "value_cell":  "I25:P26",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Who is the contact for this transaction (for our inquiries)?",
+                      "value_cell":  "I27:P27",
+                      "value":  "David Miller"
+                  },
+                  {
+                      "label":  "(signoff from Deffners group)",
+                      "value_cell":  "A29:D29",
+                      "value":  "Marcus Edmonds"
+                  },
+                  {
+                      "label":  "(signoff from ENA Reporting group)",
+                      "value_cell":  "I29:L29",
+                      "value":  "Bob Haines"
+                  }
+              ]
+}

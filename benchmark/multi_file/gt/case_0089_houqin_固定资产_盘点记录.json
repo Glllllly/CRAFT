@@ -1,0 +1,96 @@
+{
+  "excel": "case_0089_houqin_固定资产_盘点记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "94213"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "反馈表_9534"
+    },
+    {
+      "label": "type",
+      "value_cell": "K6:N7",
+      "value": "反馈表"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "P6:S7",
+      "value": "2026-02-10T05:30:30.348355"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A10:D11",
+      "value": "李明"
+    },
+    {
+      "label": "status",
+      "value_cell": "A16:D17",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "F16:I17",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "K16:N17",
+      "value": "紧急"
+    },
+    {
+      "label": "date",
+      "value_cell": "P16:S17",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "A22:D23",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "F22:I23",
+      "value": "黄欢@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "K22:N23",
+      "value": "工作计划"
+    },
+    {
+      "label": "申请人",
+      "value_cell": "A28:D29",
+      "value": "张丽"
+    },
+    {
+      "label": "所属部门",
+      "value_cell": "F28:I29",
+      "value": "总经理办公室"
+    },
+    {
+      "label": "申请日期",
+      "value_cell": "K28:N29",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "申请事由",
+      "value_cell": "P28:S29",
+      "value": "根据公司相关规定提出本申请"
+    },
+    {
+      "label": "预期结果",
+      "value_cell": "A32:D33",
+      "value": "待审批"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A38:D39",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

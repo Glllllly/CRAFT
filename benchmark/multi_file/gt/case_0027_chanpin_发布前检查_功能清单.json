@@ -1,0 +1,51 @@
+{
+  "excel": "case_0027_chanpin_发布前检查_功能清单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "□操作系统",
+      "value_cell": "D6:H6",
+      "value": "支持 Windows/Mac/Linux)"
+    },
+    {
+      "label": "□网络环境",
+      "value_cell": "M6:Q6",
+      "value": "WiFi) 已测试"
+    },
+    {
+      "label": "□浏览器兼容",
+      "value_cell": "D9:H9",
+      "value": "支持 Chrome)"
+    },
+    {
+      "label": "□核心功能兼容性",
+      "value_cell": "M9:Q9",
+      "value": "支持 iOS) 平台"
+    },
+    {
+      "label": "□数据加密",
+      "value_cell": "D14:H14",
+      "value": "已实现 AES)"
+    },
+    {
+      "label": "□xss防护",
+      "value_cell": "M14:Q14",
+      "value": "检查通过"
+    },
+    {
+      "label": "□sql注入防护",
+      "value_cell": "D17:H17",
+      "value": "检查通过"
+    },
+    {
+      "label": "风险等级",
+      "value_cell": "D22:H22",
+      "value": "低)"
+    },
+    {
+      "label": "发布建议",
+      "value_cell": "M22:Q22",
+      "value": "可发布)"
+    }
+  ]
+}

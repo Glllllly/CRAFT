@@ -1,0 +1,79 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "2.content242",
+                                   "selected_value":  "131410000 views",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.content282",
+                                   "selected_value":  "108760000 views",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.content342",
+                                   "selected_value":  "126680000 views",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.content412",
+                                   "selected_value":  "151185000 views",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "2.content592",
+                                   "selected_value":  "78785000 views",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.campaign241",
+                                   "selected_value":  "128450000 impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.campaign281",
+                                   "selected_value":  "225770000 impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.campaign341",
+                                   "selected_value":  "167340000 impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.campaign411",
+                                   "selected_value":  "230830000 impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "1.campaign591",
+                                   "selected_value":  "219950000 impressions",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.socialpost243",
+                                   "selected_value":  "32744000 engagements",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.socialpost283",
+                                   "selected_value":  "40004000 engagements",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.socialpost343",
+                                   "selected_value":  "26546000 engagements",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.socialpost413",
+                                   "selected_value":  "58610000 engagements",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "3.socialpost593",
+                                   "selected_value":  "47122000 engagements",
+                                   "conflict":  false
+                               }
+                           ]
+}

@@ -1,0 +1,96 @@
+{
+  "excel": "case_0197_houqin_维修记录__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "22392"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "人员清单_8019"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "人员清单"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M9:Q9",
+      "value": "物品清单"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:30.090861"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D17:H17",
+      "value": "陈芳"
+    },
+    {
+      "label": "from",
+      "value_cell": "M17:Q17",
+      "value": "刘林@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D20:H20",
+      "value": "黄欢@company.com"
+    },
+    {
+      "label": "date",
+      "value_cell": "M20:Q20",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "status",
+      "value_cell": "D23:H23",
+      "value": "进行中"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M23:Q23",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D26:H26",
+      "value": "重要"
+    },
+    {
+      "label": "记录日期",
+      "value_cell": "D31:H31",
+      "value": "2026-02-10 05:30:30"
+    },
+    {
+      "label": "记录人",
+      "value_cell": "M31:Q31",
+      "value": "刘涛"
+    },
+    {
+      "label": "参与人员",
+      "value_cell": "D34:H34",
+      "value": "马腾, 陈芳"
+    },
+    {
+      "label": "事件内容",
+      "value_cell": "M34:Q34",
+      "value": "按照既定计划进行相关工作"
+    },
+    {
+      "label": "处理结果",
+      "value_cell": "D37:H37",
+      "value": "已按流程处理"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D42:H42",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

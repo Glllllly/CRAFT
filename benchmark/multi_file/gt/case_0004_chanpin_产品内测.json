@@ -1,0 +1,106 @@
+{
+  "excel": "case_0004_chanpin_产品内测__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "报告编号",
+      "value_cell": "D6:H6",
+      "value": "BT-0060"
+    },
+    {
+      "label": "内测版本",
+      "value_cell": "M6:Q6",
+      "value": "V1.17-beta"
+    },
+    {
+      "label": "内测周期",
+      "value_cell": "D9:H9",
+      "value": "18天"
+    },
+    {
+      "label": "内测人数",
+      "value_cell": "M9:Q9",
+      "value": "305人"
+    },
+    {
+      "label": "预期发布时间",
+      "value_cell": "D12:H12",
+      "value": "2024-01-05"
+    },
+    {
+      "label": "总问题数",
+      "value_cell": "D17:H17",
+      "value": "67个"
+    },
+    {
+      "label": "严重问题",
+      "value_cell": "M17:Q17",
+      "value": "2个"
+    },
+    {
+      "label": "一般问题",
+      "value_cell": "D20:H20",
+      "value": "16个"
+    },
+    {
+      "label": "待评估",
+      "value_cell": "M20:Q20",
+      "value": "11个"
+    },
+    {
+      "label": "已修复问题",
+      "value_cell": "D23:H23",
+      "value": "29个"
+    },
+    {
+      "label": "计划修复",
+      "value_cell": "M23:Q23",
+      "value": "17个"
+    },
+    {
+      "label": "功能完成度",
+      "value_cell": "D26:H26",
+      "value": "64%"
+    },
+    {
+      "label": "建议反馈",
+      "value_cell": "M26:Q26",
+      "value": "33条"
+    },
+    {
+      "label": "优点",
+      "value_cell": "D31:H31",
+      "value": "功能完整)"
+    },
+    {
+      "label": "缺点",
+      "value_cell": "M31:Q31",
+      "value": "功能不完善"
+    },
+    {
+      "label": "建议",
+      "value_cell": "D34:H34",
+      "value": "优化交互"
+    },
+    {
+      "label": "整体满意度",
+      "value_cell": "M34:Q34",
+      "value": "73/100"
+    },
+    {
+      "label": "易用性评分",
+      "value_cell": "D37:H37",
+      "value": "71/100"
+    },
+    {
+      "label": "界面设计评分",
+      "value_cell": "M37:Q37",
+      "value": "74/100"
+    },
+    {
+      "label": "是否可发布",
+      "value_cell": "D42:H42",
+      "value": "可发布"
+    }
+  ]
+}

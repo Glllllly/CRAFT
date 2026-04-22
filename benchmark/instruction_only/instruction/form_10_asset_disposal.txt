@@ -1,0 +1,146 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Asset Description / Name:",
+      "value_text": "Dell Latitude 5420 Laptop"
+    },
+    {
+      "key_text": "Asset Tag / ID Number:",
+      "value_text": "IT-2021-045"
+    },
+    {
+      "key_text": "Serial Number:",
+      "value_text": "DL5420-9982X"
+    },
+    {
+      "key_text": "Original Purchase Date:",
+      "value_text": "2021-05-12"
+    },
+    {
+      "key_text": "Original Cost  $:",
+      "value_text": "1,450.00"
+    },
+    {
+      "key_text": "Current Book Value  $:",
+      "value_text": "150.00"
+    },
+    {
+      "key_text": "Asset Location (Building / Room):",
+      "value_text": "Building A, Room 302"
+    },
+    {
+      "key_text": "Department / Cost Centre:",
+      "value_text": "Marketing / CC-402"
+    },
+    {
+      "key_text": "Custodian Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Obsolete",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Beyond Repair",
+      "value_text": null
+    },
+    {
+      "key_text": "Donated",
+      "value_text": null
+    },
+    {
+      "key_text": "Sold",
+      "value_text": null
+    },
+    {
+      "key_text": "Detailed Justification for Disposal:",
+      "value_text": "Device is obsolete and no longer meets minimum system requirements for current company software."
+    },
+    {
+      "key_text": "Proposed Disposal Date:",
+      "value_text": "2023-11-15"
+    },
+    {
+      "key_text": "Disposal Method:",
+      "value_text": "E-Waste Recycling"
+    },
+    {
+      "key_text": "Recipient Name (if donation/sale):",
+      "value_text": null
+    },
+    {
+      "key_text": "Proceeds from Sale  $:",
+      "value_text": "0.00"
+    },
+    {
+      "key_text": "Receiving Organisation Address (if donated):",
+      "value_text": null
+    },
+    {
+      "key_text": "Is asset insured?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Insurance Policy Reference:",
+      "value_text": "POL-9928374"
+    },
+    {
+      "key_text": "Audit Trail Updated?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Asset Register Removed Date:",
+      "value_text": "2023-11-16"
+    },
+    {
+      "key_text": "Notes / Additional Information",
+      "value_text": "Hard drive has been securely wiped prior to disposal."
+    },
+    {
+      "key_text": "PO / Disposal Ref. Number:",
+      "value_text": "DISP-2023-089"
+    },
+    {
+      "key_text": "Account Credited  $:",
+      "value_text": "N/A"
+    },
+    {
+      "key_text": "Entered into Asset Register by:",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Date of Entry:",
+      "value_text": "2023-11-16"
+    },
+    {
+      "key_text": "Department Head",
+      "value_text": "Linda Peterson"
+    },
+    {
+      "key_text": "Date (Dept Head)",
+      "value_text": "2023-11-10"
+    },
+    {
+      "key_text": "Asset Manager",
+      "value_text": "Robert Chen"
+    },
+    {
+      "key_text": "Date (Asset Mgr)",
+      "value_text": "2023-11-12"
+    },
+    {
+      "key_text": "Finance Officer",
+      "value_text": "Emily Davis"
+    },
+    {
+      "key_text": "Date (Finance)",
+      "value_text": "2023-11-14"
+    }
+  ]
+}
+
+Narrative:
+This asset disposal form details the retirement of a Dell Latitude 5420 laptop, identified by asset tag IT-2021-045 and serial number DL5420-9982X. The laptop was originally purchased on May 12, 2021, for $1,450.00 and currently has a book value of $150.00. It was located in Building A, Room 302, and was under the custodianship of Sarah Jenkins within the Marketing department (Cost Centre CC-402). 
+
+The item is being disposed of because it is obsolete. It is scheduled for disposal on November 15, 2023, via e-waste recycling. The asset was insured under policy POL-9928374, and the audit trail has been updated, with the asset removed from the register on November 16, 2023. A note indicates that the hard drive was securely wiped. The disposal reference number is DISP-2023-089, and the entry was processed by Mark Thompson on November 16, 2023. Authorization was provided by Department Head Linda Peterson on November 10, Asset Manager Robert Chen on November 12, and Finance Officer Emily Davis on November 14, 2023.

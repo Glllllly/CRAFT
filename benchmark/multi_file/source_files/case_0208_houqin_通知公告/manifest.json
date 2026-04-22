@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0208_houqin_通知公告",
+    "tenant":  "houqin",
+    "topic":  "通知公告",
+    "subtopic":  "",
+    "source_dir":  "houqin\\通知公告",
+    "total_files_in_source_dir":  60,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\通知公告\\工作计划_9148.json",
+                      "copied_name":  "工作计划_9148.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\通知公告\\购置申请_3388.csv",
+                      "copied_name":  "购置申请_3388.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1368
+                  },
+                  {
+                      "source_rel":  "houqin\\通知公告\\通知_012.txt",
+                      "copied_name":  "通知_012.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  802
+                  },
+                  {
+                      "source_rel":  "houqin\\通知公告\\审批表_3055.eml",
+                      "copied_name":  "审批表_3055.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  257
+                  },
+                  {
+                      "source_rel":  "houqin\\通知公告\\检查单_7201.csv",
+                      "copied_name":  "检查单_7201.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1365
+                  }
+              ]
+}

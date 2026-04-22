@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0291_yunyin_team_docs",
+    "tenant":  "yunyin",
+    "topic":  "team_docs",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\team_docs",
+    "total_files_in_source_dir":  200,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\team_docs\\存储资源治理OnePage.md",
+                      "copied_name":  "存储资源治理OnePage.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  22169
+                  },
+                  {
+                      "source_rel":  "yunyin\\team_docs\\长文版本修复结果.md",
+                      "copied_name":  "长文版本修复结果.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  19443
+                  },
+                  {
+                      "source_rel":  "yunyin\\team_docs\\文生图思路梳理纪要.md",
+                      "copied_name":  "文生图思路梳理纪要.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  18140
+                  },
+                  {
+                      "source_rel":  "yunyin\\team_docs\\快速上手_看这篇就够了.md",
+                      "copied_name":  "快速上手_看这篇就够了.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  17956
+                  },
+                  {
+                      "source_rel":  "yunyin\\team_docs\\产品质量评估规范.md",
+                      "copied_name":  "产品质量评估规范.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  17713
+                  }
+              ]
+}

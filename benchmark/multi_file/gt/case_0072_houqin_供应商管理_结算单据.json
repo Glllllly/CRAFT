@@ -1,0 +1,146 @@
+{
+  "excel": "case_0072_houqin_供应商管理_结算单据__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "A6:D7",
+      "value": "60565"
+    },
+    {
+      "label": "title",
+      "value_cell": "F6:I7",
+      "value": "访问记录_9374"
+    },
+    {
+      "label": "date",
+      "value_cell": "K6:N7",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "P6:S7",
+      "value": "2026-02-10T05:30:32.838074"
+    },
+    {
+      "label": "creator",
+      "value_cell": "A10:D11",
+      "value": "黄欢"
+    },
+    {
+      "label": "status",
+      "value_cell": "F10:I11",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "K10:N11",
+      "value": "低"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "P10:S11",
+      "value": "例行"
+    },
+    {
+      "label": "type",
+      "value_cell": "A16:D17",
+      "value": "访问记录"
+    },
+    {
+      "label": "subject",
+      "value_cell": "F16:I17",
+      "value": "工作报告"
+    },
+    {
+      "label": "from",
+      "value_cell": "K16:N17",
+      "value": "刘涛@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "P16:S17",
+      "value": "赵六@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "A20:D21",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "供应商",
+      "value_cell": "A26:D27",
+      "value": "供应商25"
+    },
+    {
+      "label": "合作年限",
+      "value_cell": "F26:I27",
+      "value": "9年"
+    },
+    {
+      "label": "银行账号",
+      "value_cell": "K26:N27",
+      "value": "1934-6514-3692-0162"
+    },
+    {
+      "label": "结算编号",
+      "value_cell": "A32:D33",
+      "value": "SETTLE-024"
+    },
+    {
+      "label": "结算周期",
+      "value_cell": "F32:I33",
+      "value": "2024年01月"
+    },
+    {
+      "label": "结算日期",
+      "value_cell": "K32:N33",
+      "value": "2024-24-20"
+    },
+    {
+      "label": "结算方式",
+      "value_cell": "P32:S33",
+      "value": "银行转账"
+    },
+    {
+      "label": "开票状态",
+      "value_cell": "A36:D37",
+      "value": "已完税"
+    },
+    {
+      "label": "采购总额",
+      "value_cell": "A42:D43",
+      "value": "¥513015"
+    },
+    {
+      "label": "本月采购",
+      "value_cell": "F42:I43",
+      "value": "10批次"
+    },
+    {
+      "label": "税款",
+      "value_cell": "K42:N43",
+      "value": "¥13049"
+    },
+    {
+      "label": "上期结余",
+      "value_cell": "P42:S43",
+      "value": "¥-15952"
+    },
+    {
+      "label": "已付款项",
+      "value_cell": "A46:D47",
+      "value": "¥326673"
+    },
+    {
+      "label": "本次结算",
+      "value_cell": "F46:I47",
+      "value": "¥64185"
+    },
+    {
+      "label": "待付余额",
+      "value_cell": "K46:N47",
+      "value": "¥50074"
+    }
+  ]
+}

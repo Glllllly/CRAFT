@@ -1,0 +1,1293 @@
+{
+  "bundle_dir": "case_0298_yunyin_whitepapers",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "whitepaper_32.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "whitepaper_33.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "whitepaper_34.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "whitepaper_35.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "whitepaper_36.md",
+      "source_type": "md",
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "###phase1",
+      "candidates": [
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase1",
+          "value": "Assessment",
+          "raw_key": "### Phase 1",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 1: Assessment",
+            "location": "line:42"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###phase2",
+      "candidates": [
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase2",
+          "value": "Planning",
+          "raw_key": "### Phase 2",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 2: Planning",
+            "location": "line:47"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###phase3",
+      "candidates": [
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase3",
+          "value": "Execution",
+          "raw_key": "### Phase 3",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 3: Execution",
+            "location": "line:52"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "###phase4",
+      "candidates": [
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "###phase4",
+          "value": "Optimization",
+          "raw_key": "### Phase 4",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "### Phase 4: Optimization",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "#whitepaper",
+      "candidates": [
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "#whitepaper",
+          "value": "Industry Trends and Best Practices",
+          "raw_key": "# Whitepaper",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "# Whitepaper: Industry Trends and Best Practices",
+            "location": "line:1"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "brandawareness",
+      "candidates": [
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "brandawareness",
+          "value": ">70%",
+          "raw_key": "- Brand Awareness",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Brand Awareness: >70%",
+            "location": "line:67"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "customeracquisitioncost",
+      "candidates": [
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "customeracquisitioncost",
+          "value": "<$50",
+          "raw_key": "- Customer Acquisition Cost",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Customer Acquisition Cost: <$50",
+            "location": "line:64"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "lifetimevalue",
+      "candidates": [
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "lifetimevalue",
+          "value": ">$500",
+          "raw_key": "- Lifetime Value",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Lifetime Value: >$500",
+            "location": "line:65"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "marketingroi",
+      "candidates": [
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "marketingroi",
+          "value": "3:1 or higher",
+          "raw_key": "- Marketing ROI",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Marketing ROI: 3:1 or higher",
+            "location": "line:63"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "retentionrate",
+      "candidates": [
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_32.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_33.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_34.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_35.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "retentionrate",
+          "value": ">90%",
+          "raw_key": "- Retention Rate",
+          "source_file": "whitepaper_36.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- Retention Rate: >90%",
+            "location": "line:66"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

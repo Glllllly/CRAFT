@@ -1,0 +1,171 @@
+﻿{
+    "excel":  "form_07_software_license.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M9:X9",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A11:H11",
+                      "value":  "Data Analytics"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "I11:P11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Request Date",
+                      "value_cell":  "Q11:X11",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Business E-mail",
+                      "value_cell":  "A13:L13",
+                      "value":  "m.thorne@company.com"
+                  },
+                  {
+                      "label":  "Phone Extension",
+                      "value_cell":  "M13:X13",
+                      "value":  "4421"
+                  },
+                  {
+                      "label":  "Software / Application Name (exact)",
+                      "value_cell":  "A18:X18",
+                      "value":  "Tableau Desktop Professional"
+                  },
+                  {
+                      "label":  "Version / Edition Required",
+                      "value_cell":  "A20:L20",
+                      "value":  "2023.2"
+                  },
+                  {
+                      "label":  "Vendor / Publisher Name",
+                      "value_cell":  "M20:X20",
+                      "value":  "Salesforce Inc."
+                  },
+                  {
+                      "label":  "Vendor Website",
+                      "value_cell":  "A22:L22",
+                      "value":  "www.tableau.com"
+                  },
+                  {
+                      "label":  "Vendor Sales Contact",
+                      "value_cell":  "M22:X22",
+                      "value":  "Jordan Smith (jsmith@tableau.com)"
+                  },
+                  {
+                      "label":  "Number of Licenses Required",
+                      "value_cell":  "A25:L25",
+                      "value":  "3"
+                  },
+                  {
+                      "label":  "License Duration / Subscription Period",
+                      "value_cell":  "M25:X25",
+                      "value":  "12 Months"
+                  },
+                  {
+                      "label":  "Estimated Cost per License  $",
+                      "value_cell":  "A27:L27",
+                      "value":  "840.00"
+                  },
+                  {
+                      "label":  "Total Estimated Cost  $",
+                      "value_cell":  "M27:X27",
+                      "value":  "2520.00"
+                  },
+                  {
+                      "label":  "Business Purpose / Use Case (be specific)",
+                      "value_cell":  "A33:X33; A34:X34",
+                      "value":  "Required for the Q4 client dashboard migration project to visualize complex SQL datasets for executive reporting."
+                  },
+                  {
+                      "label":  "BExisting Alternative Evaluated?  Y / N",
+                      "value_cell":  "A36:L36",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "If yes, why not suitable?",
+                      "value_cell":  "M36:X36",
+                      "value":  "PowerBI lacks the specific geospatial mapping features required for our current client contracts."
+                  },
+                  {
+                      "label":  "Integration with Existing Systems Required?",
+                      "value_cell":  "A41:L41",
+                      "value":  "Yes, Snowflake Database"
+                  },
+                  {
+                      "label":  "Security Review Required?  Y / N",
+                      "value_cell":  "M41:X41",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Budget Account / Cost Code",
+                      "value_cell":  "A44:L44",
+                      "value":  "ANALYTICS-2023-Q4"
+                  },
+                  {
+                      "label":  "Budget Available?  Y / N",
+                      "value_cell":  "M44:X44",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "PO Number (if pre-approved)",
+                      "value_cell":  "A46:L46",
+                      "value":  "PO-99281"
+                  },
+                  {
+                      "label":  "Required By Date",
+                      "value_cell":  "M46:X46",
+                      "value":  "2023-11-01"
+                  },
+                  {
+                      "label":  "Requester Signature",
+                      "value_cell":  "A54:M54",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q54:X54",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Manager Approval",
+                      "value_cell":  "A56:M56",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q56:X56",
+                      "value":  "2023-10-13"
+                  },
+                  {
+                      "label":  "IT Asset Manager",
+                      "value_cell":  "A58:M58",
+                      "value":  "David Chen"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "Q58:X58",
+                      "value":  "2023-10-14"
+                  },
+                  {
+                      "label":  "Finance (if \u003e $1,000)",
+                      "value_cell":  "A60:M60",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Required By Date",
+                      "value_cell":  "Q60:X60",
+                      "value":  "2023-10-15"
+                  }
+              ]
+}

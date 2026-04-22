@@ -1,0 +1,149 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "工作报告_1616",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "例行",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.887909",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "73327",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "刘涛@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "王军@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "工作报告",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "张丽",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "操作记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240104]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 王芳 | 备注: 采购入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240105]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240106]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 张华 | 备注: 现场发货后补充",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240108]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240109]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 张华 | 备注: 现场发货后补充",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240111]入库",
+                                   "selected_value":  "显示器(2台) | 经手人: 赵敏 | 备注: 样品入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240116]入库",
+                                   "selected_value":  "显示器(2台) | 经手人: 王芳 | 备注: 采购入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240117]入库",
+                                   "selected_value":  "打印机墨盒(30个) | 经手人: 张华 | 备注: 样品入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240119]入库",
+                                   "selected_value":  "打印机墨盒(30个) | 经手人: 张华 | 备注: 退货处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240205]入库",
+                                   "selected_value":  "A4纸(10箱) | 经手人: 张华 | 备注: 退货处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240206]入库",
+                                   "selected_value":  "A4纸(10箱) | 经手人: 李军 | 备注: 退货处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240211]入库",
+                                   "selected_value":  "显示器(2台) | 经手人: 张华 | 备注: 采购入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240212]入库",
+                                   "selected_value":  "A4纸(10箱) | 经手人: 李军 | 备注: 采购入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240216]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 李军 | 备注: 退货处理",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240218]入库",
+                                   "selected_value":  "办公椅(5把) | 经手人: 王芳 | 备注: 样品入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "[20240227]入库",
+                                   "selected_value":  "打印机墨盒(30个) | 经手人: 赵敏 | 备注: 退货处理",
+                                   "conflict":  false
+                               }
+                           ]
+}

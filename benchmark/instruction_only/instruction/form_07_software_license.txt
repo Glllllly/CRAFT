@@ -1,0 +1,140 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Full Name",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Data Analytics"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Request Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Business E-mail",
+      "value_text": "m.thorne@company.com"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "4421"
+    },
+    {
+      "key_text": "Software / Application Name (exact)",
+      "value_text": "Tableau Desktop Professional"
+    },
+    {
+      "key_text": "Version / Edition Required",
+      "value_text": "2023.2"
+    },
+    {
+      "key_text": "Vendor / Publisher Name",
+      "value_text": "Salesforce Inc."
+    },
+    {
+      "key_text": "Vendor Website",
+      "value_text": "www.tableau.com"
+    },
+    {
+      "key_text": "Vendor Sales Contact",
+      "value_text": "Jordan Smith (jsmith@tableau.com)"
+    },
+    {
+      "key_text": "Number of Licenses Required",
+      "value_text": "3"
+    },
+    {
+      "key_text": "License Duration / Subscription Period",
+      "value_text": "12 Months"
+    },
+    {
+      "key_text": "Estimated Cost per License  $",
+      "value_text": "840.00"
+    },
+    {
+      "key_text": "Total Estimated Cost  $",
+      "value_text": "2520.00"
+    },
+    {
+      "key_text": "Business Purpose / Use Case (be specific)",
+      "value_text": "Required for the Q4 client dashboard migration project to visualize complex SQL datasets for executive reporting."
+    },
+    {
+      "key_text": "BExisting Alternative Evaluated?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "If yes, why not suitable?",
+      "value_text": "PowerBI lacks the specific geospatial mapping features required for our current client contracts."
+    },
+    {
+      "key_text": "Integration with Existing Systems Required?",
+      "value_text": "Yes, Snowflake Database"
+    },
+    {
+      "key_text": "Security Review Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Budget Account / Cost Code",
+      "value_text": "ANALYTICS-2023-Q4"
+    },
+    {
+      "key_text": "Budget Available?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "PO Number (if pre-approved)",
+      "value_text": "PO-99281"
+    },
+    {
+      "key_text": "Required By Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Requester Signature",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Manager Approval",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "IT Asset Manager",
+      "value_text": "David Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "Finance (if > $1,000)",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Required By Date",
+      "value_text": "2023-10-15"
+    }
+  ]
+}
+
+Narrative:
+This request is submitted by Marcus Thorne, an employee in the Data Analytics department (ID: EMP-8842), on October 12, 2023. He can be reached via email at m.thorne@company.com or at extension 4421. Marcus is requesting three licenses for Tableau Desktop Professional version 2023.2, published by Salesforce Inc. The estimated cost is $840.00 per license, bringing the total to $2,520.00 for a 12-month subscription. The software is necessary for a Q4 dashboard migration project. Although PowerBI was evaluated as an alternative, it was found unsuitable due to missing geospatial features. The software needs to integrate with the Snowflake Database and will require a security review. The expense is covered under budget code ANALYTICS-2023-Q4, which has funds available, and a pre-approved PO number (PO-99281) has been provided. The requested delivery date is November 1, 2023. The form includes signatures from Marcus Thorne (dated Oct 12), manager Sarah Jenkins (Oct 13), IT Asset Manager David Chen (Oct 14), and Finance officer Elena Rodriguez (Oct 15).

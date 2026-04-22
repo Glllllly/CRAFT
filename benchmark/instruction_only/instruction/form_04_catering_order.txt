@@ -1,0 +1,146 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Event Name / Title",
+      "value_text": "Annual Corporate Strategy Summit"
+    },
+    {
+      "key_text": "Event Date",
+      "value_text": "October 15, 2023"
+    },
+    {
+      "key_text": "Start Time",
+      "value_text": "09:00 AM"
+    },
+    {
+      "key_text": "End Time",
+      "value_text": "05:00 PM"
+    },
+    {
+      "key_text": "Setup Time Required",
+      "value_text": "2 Hours"
+    },
+    {
+      "key_text": "Event Location / Venue Name",
+      "value_text": "Grand Plaza Hotel"
+    },
+    {
+      "key_text": "Room / Hall / Outdoor Area",
+      "value_text": "Executive Ballroom"
+    },
+    {
+      "key_text": "Organiser Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department / Organisation",
+      "value_text": "Marketing Department"
+    },
+    {
+      "key_text": "Organiser Phone",
+      "value_text": "555-0128"
+    },
+    {
+      "key_text": "Organiser E-mail",
+      "value_text": "s.jenkins@corporate.com"
+    },
+    {
+      "key_text": "Budget Code / PO Number",
+      "value_text": "MKT-2023-884"
+    },
+    {
+      "key_text": "Expected Guest Count",
+      "value_text": "150"
+    },
+    {
+      "key_text": "VIP / Special Guests?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Breakfast Items Requested (if applicable)",
+      "value_text": "Assorted pastries, seasonal fruit platter, and yogurt parfaits."
+    },
+    {
+      "key_text": "Lunch / Dinner Items Requested",
+      "value_text": "Grilled chicken breast, roasted vegetables, and quinoa salad."
+    },
+    {
+      "key_text": "Beverages (coffee, tea, juice, water, alcohol)",
+      "value_text": "Freshly brewed coffee, selection of teas, orange juice, and sparkling water."
+    },
+    {
+      "key_text": "Desserts / Cake / Specialty Items",
+      "value_text": "Mini chocolate tarts and lemon drizzle cake."
+    },
+    {
+      "key_text": "Dietary Restrictions to Accommodate",
+      "value_text": "Vegetarian and Gluten-Free options required."
+    },
+    {
+      "key_text": "Allergen Information Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "None",
+      "value_text": null
+    },
+    {
+      "key_text": "White",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Colour (specify)",
+      "value_text": null
+    },
+    {
+      "key_text": "Setup Only",
+      "value_text": null
+    },
+    {
+      "key_text": "Full Service",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Bartender",
+      "value_text": null
+    },
+    {
+      "key_text": "Audio / Visual Needs",
+      "value_text": "Projector, screen, and wireless microphones."
+    },
+    {
+      "key_text": "Flowers / Centrepieces Required?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Estimated Budget  $",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "Final Invoice To  (Name / Dept)",
+      "value_text": "Finance Dept - Attn: Accounts Payable"
+    },
+    {
+      "key_text": "Organiser Signature",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "September 25, 2023"
+    },
+    {
+      "key_text": "Catering Manager Approval",
+      "value_text": "Robert Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "September 26, 2023"
+    }
+  ]
+}
+
+Narrative:
+This catering order form is for the "Annual Corporate Strategy Summit," scheduled to take place on October 15, 2023, at the Grand Plaza Hotel's Executive Ballroom. The event will run from 09:00 AM to 05:00 PM, with a two-hour setup time required. Sarah Jenkins from the Marketing Department is organizing the event and can be reached at 555-0128 or s.jenkins@corporate.com. The associated budget code is MKT-2023-884. We are expecting 150 guests, including some VIPs. 
+
+For catering, we have requested breakfast items like pastries and fruit, a lunch of grilled chicken and vegetables, a beverage station with coffee and tea, and desserts consisting of mini tarts and cake. We need to accommodate vegetarian and gluten-free dietary needs, and allergen information is required. We have selected white linens and full-service staff. Regarding equipment, we require a projector, screen, and wireless microphones, as well as flowers for the tables. The estimated budget is $5,000, with the final invoice to be sent to the Finance Department. The form was signed by the organizer, Sarah Jenkins, on September 25, 2023, and approved by the Catering Manager, Robert Miller, on September 26, 2023.

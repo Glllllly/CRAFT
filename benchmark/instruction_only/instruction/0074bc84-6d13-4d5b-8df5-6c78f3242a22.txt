@@ -1,0 +1,108 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Date of Appointment, Candidacy, Election, or Nomination (Month, Day, Year)",
+      "value_text": "May 15, 2023"
+    },
+    {
+      "key_text": "Incumbent",
+      "value_text": null
+    },
+    {
+      "key_text": "Calendar Year Covered by Report",
+      "value_text": "2022"
+    },
+    {
+      "key_text": "New Entrant, Nominee, or Candidate",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Termination Filer",
+      "value_text": null
+    },
+    {
+      "key_text": "Termination Date (If Applicable) (Month, Day, Year)",
+      "value_text": null
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Miller"
+    },
+    {
+      "key_text": "First Name and Middle Initial",
+      "value_text": "Sarah J."
+    },
+    {
+      "key_text": "Title of Position",
+      "value_text": "Deputy Assistant Secretary"
+    },
+    {
+      "key_text": "Department or Agency (If Applicable)",
+      "value_text": "Department of Energy"
+    },
+    {
+      "key_text": "Address (Number, Street, City, State, and ZIP Code)",
+      "value_text": "1000 Independence Ave SW, Washington, DC 20585"
+    },
+    {
+      "key_text": "Telephone No. (Include Area Code)",
+      "value_text": "(202) 586-5000"
+    },
+    {
+      "key_text": "Title of Position(s) and Date(s) Held",
+      "value_text": "Senior Advisor, Department of Energy, Jan 2022 - May 2023"
+    },
+    {
+      "key_text": "Name of Congressional Committee Considering Nomination",
+      "value_text": "Senate Committee on Energy and Natural Resources"
+    },
+    {
+      "key_text": "Yes",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Signature of Reporting Individual",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date (Month, Day, Year)",
+      "value_text": "June 10, 2023"
+    },
+    {
+      "key_text": "Signature of Other Reviewer",
+      "value_text": "Robert Smith"
+    },
+    {
+      "key_text": "Date (Month, Day, Year)",
+      "value_text": "June 15, 2023"
+    },
+    {
+      "key_text": "Signature of Designated Agency Ethics Official/Reviewing Official",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (Month, Day, Year)",
+      "value_text": "June 20, 2023"
+    },
+    {
+      "key_text": "Signature",
+      "value_text": null
+    },
+    {
+      "key_text": "Date (Month, Day, Year)",
+      "value_text": null
+    },
+    {
+      "key_text": "Comments of Reviewing Officials (If additional space is required, use the reverse side of this sheet)",
+      "value_text": "Initial review completed with no issues found."
+    }
+  ]
+}
+
+Narrative:
+This Public Financial Disclosure Report (OGE Form 278) was filed by Sarah J. Miller for her appointment as Deputy Assistant Secretary at the Department of Energy, effective May 15, 2023. She is filing as a new entrant, and the report covers the calendar year 2022. Sarah's office is located at 1000 Independence Ave SW, Washington, DC 20585, and her contact number is (202) 586-5000. Prior to this role, she served as a Senior Advisor within the Department of Energy from January 2022 until her recent appointment. Her nomination is currently under consideration by the Senate Committee on Energy and Natural Resources. She has indicated that she does not intend to create a qualified diversified trust. Sarah signed the report on June 10, 2023. It was subsequently reviewed by Robert Smith on June 15, 2023, and received final approval from the Agency Ethics Official, Elena Rodriguez, on June 20, 2023. A comment notes that the initial review was completed with no issues found.

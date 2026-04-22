@@ -1,0 +1,51 @@
+{
+  "excel": "case_0273_yunyin_core_operations_daily_reports__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "存储治理",
+      "value_cell": "D6:H6",
+      "value": "旧版本管道下线已完成，Redis实例拆分进行中，Abase实例优化调研已完成。"
+    },
+    {
+      "label": "容灾优化",
+      "value_cell": "M6:Q6",
+      "value": "待启动。"
+    },
+    {
+      "label": "监控看板",
+      "value_cell": "D9:H9",
+      "value": "部分已完成，部分开发中。"
+    },
+    {
+      "label": "核心问题",
+      "value_cell": "D14:H14",
+      "value": "Pipeline资源增速超预期"
+    },
+    {
+      "label": "后制动片remark",
+      "value_cell": "D19:H19",
+      "value": "OE# 34216873093 = 0986AB1733"
+    },
+    {
+      "label": "空调滤清器remark",
+      "value_cell": "M19:Q19",
+      "value": "外置,多效 Pro+"
+    },
+    {
+      "label": "燃油滤清器",
+      "value_cell": "D22:H22",
+      "value": "0986AF8190"
+    },
+    {
+      "label": "空调滤清器（单效）",
+      "value_cell": "M22:Q22",
+      "value": "0986AF5263"
+    },
+    {
+      "label": "空调滤清器（银抗菌）",
+      "value_cell": "D25:H25",
+      "value": "0986AF5623"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Project Name:",
+      "value_text": "Project Meridian"
+    },
+    {
+      "key_text": "ENE Banker:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "ENE O/S Legal:",
+      "value_text": "Davis Polk & Wardwell"
+    },
+    {
+      "key_text": "Counterparty Banker:",
+      "value_text": "Mark Sterling"
+    },
+    {
+      "key_text": "Counterparty O/S Legal:",
+      "value_text": "Sullivan & Cromwell LLP"
+    },
+    {
+      "key_text": "Overview:",
+      "value_text": "Strategic acquisition of regional logistics assets to expand operational footprint."
+    },
+    {
+      "key_text": "Action Items:",
+      "value_text": "Finalize due diligence report; schedule board approval meeting; draft definitive purchase agreement."
+    },
+    {
+      "key_text": "Size ($MM)",
+      "value_text": "450"
+    },
+    {
+      "key_text": "Working Group",
+      "value_text": "Internal M&A Team, Legal Counsel, Financial Advisors"
+    }
+  ]
+}
+
+Narrative:
+This weekly update pertains to Project Meridian. The project is being led by ENE banker Sarah Jenkins, with legal oversight provided by Davis Polk & Wardwell. On the counterparty side, the lead banker is Mark Sterling, and legal counsel is represented by Sullivan & Cromwell LLP. The primary objective of this project is the strategic acquisition of regional logistics assets, which is expected to significantly expand our operational footprint. The total size of the transaction is $450 million. Currently, the working group—comprised of our internal M&A team, legal counsel, and financial advisors—is tasked with finalizing the due diligence report, scheduling the board approval meeting, and drafting the definitive purchase agreement.

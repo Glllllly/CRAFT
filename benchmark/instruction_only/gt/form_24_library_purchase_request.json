@@ -1,0 +1,231 @@
+﻿{
+    "excel":  "form_24_library_purchase_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Requester Full Name",
+                      "value_cell":  "A9:L9",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Department / School",
+                      "value_cell":  "M9:U9",
+                      "value":  "Department of Biological Sciences"
+                  },
+                  {
+                      "label":  "Phone Extension",
+                      "value_cell":  "A11:H11",
+                      "value":  "4482"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "I11:P11",
+                      "value":  "e.vance@institution.edu"
+                  },
+                  {
+                      "label":  "Date of Request",
+                      "value_cell":  "Q11:U11",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Faculty",
+                      "value_cell":  "F13:G13",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Staff",
+                      "value_cell":  "L13:M13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Graduate Student",
+                      "value_cell":  "R13:S13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Undergraduate",
+                      "value_cell":  "X13:Y13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "AD13:AE13",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Title of Work",
+                      "value_cell":  "A17:X17",
+                      "value":  "Advanced Genomics: Principles and Applications"
+                  },
+                  {
+                      "label":  "Author(s) / Editor(s)",
+                      "value_cell":  "A19:L19",
+                      "value":  "Marcus Thorne, Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Publisher",
+                      "value_cell":  "M19:X19",
+                      "value":  "Academic Press"
+                  },
+                  {
+                      "label":  "Publication Year",
+                      "value_cell":  "A21:F21",
+                      "value":  "2023"
+                  },
+                  {
+                      "label":  "Edition / Volume",
+                      "value_cell":  "G21:L21",
+                      "value":  "2nd Edition"
+                  },
+                  {
+                      "label":  "ISBN / ISSN",
+                      "value_cell":  "M21:R21",
+                      "value":  "978-0-12-821456-7"
+                  },
+                  {
+                      "label":  "Language",
+                      "value_cell":  "S21:X21",
+                      "value":  "English"
+                  },
+                  {
+                      "label":  "Print Book",
+                      "value_cell":  "F23:G23",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "E-book",
+                      "value_cell":  "L23:M23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Print Journal",
+                      "value_cell":  "R23:S23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Online Database",
+                      "value_cell":  "X23:Y23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "DVD / Media",
+                      "value_cell":  "AD23:AE23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Dataset",
+                      "value_cell":  "AJ23:AK23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "AP23:AQ23",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Estimated Cost  $",
+                      "value_cell":  "A24:L24",
+                      "value":  "145.00"
+                  },
+                  {
+                      "label":  "Suggested Vendor / Source",
+                      "value_cell":  "M24:X24",
+                      "value":  "Amazon Academic"
+                  },
+                  {
+                      "label":  "URL or Catalog Record (if known)",
+                      "value_cell":  "A26:X26",
+                      "value":  "https://www.academicpress.com/genomics-2nd-ed"
+                  },
+                  {
+                      "label":  "How does this item support curriculum, research, or institutional needs?",
+                      "value_cell":  "A31:X32",
+                      "value":  "Primary textbook for the upcoming BIO-402 Advanced Genomics course; essential for student research projects."
+                  },
+                  {
+                      "label":  "Course Reserve",
+                      "value_cell":  "F34:G34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Research Support",
+                      "value_cell":  "L34:M34",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Instruction",
+                      "value_cell":  "R34:S34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Accreditation",
+                      "value_cell":  "X34:Y34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "General Collection",
+                      "value_cell":  "AD34:AE34",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Course Number / Name (if applicable)",
+                      "value_cell":  "A35:N35",
+                      "value":  "BIO-402 / Genomics"
+                  },
+                  {
+                      "label":  "Enrollment / Est. Users",
+                      "value_cell":  "O35:X35",
+                      "value":  "45"
+                  },
+                  {
+                      "label":  "Alternative Titles Considered (if any)",
+                      "value_cell":  "A37:X37",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Received By",
+                      "value_cell":  "A42:H42",
+                      "value":  "J. Miller"
+                  },
+                  {
+                      "label":  "Fund Code",
+                      "value_cell":  "I42:P42",
+                      "value":  "SCI-BIO-2023"
+                  },
+                  {
+                      "label":  "Order Date",
+                      "value_cell":  "Q42:X42",
+                      "value":  "2023-10-15"
+                  },
+                  {
+                      "label":  "Approved",
+                      "value_cell":  "F44:G44",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Approved 鈥?Modified Format",
+                      "value_cell":  "L44:M44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Deferred",
+                      "value_cell":  "R44:S44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Declined",
+                      "value_cell":  "X44:Y44",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason (if deferred/declined)",
+                      "value_cell":  "A45:L45",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Selector Signature",
+                      "value_cell":  "M45:X45",
+                      "value":  "A. Thompson"
+                  }
+              ]
+}

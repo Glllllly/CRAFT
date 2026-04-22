@@ -1,0 +1,164 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "First Name",
+      "value_text": "Jonathan"
+    },
+    {
+      "key_text": "Middle Initial",
+      "value_text": "A"
+    },
+    {
+      "key_text": "Last Name",
+      "value_text": "Miller"
+    },
+    {
+      "key_text": "Work Phone Number",
+      "value_text": "(509) 527-5555"
+    },
+    {
+      "key_text": "Whitman e-mail address",
+      "value_text": "milleja@whitman.edu"
+    },
+    {
+      "key_text": "Mother's maiden name (for security purposes)",
+      "value_text": "Henderson"
+    },
+    {
+      "key_text": "Cardholder's Department Name",
+      "value_text": "Biology Department"
+    },
+    {
+      "key_text": "Job Title or Position",
+      "value_text": "Laboratory Manager"
+    },
+    {
+      "key_text": "Travel Only",
+      "value_text": null
+    },
+    {
+      "key_text": "Purchase Only",
+      "value_text": null
+    },
+    {
+      "key_text": "Travel & Purchase",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Yes",
+      "value_text": null
+    },
+    {
+      "key_text": "No",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Custodian First & Last Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Card Custodian Phone Number",
+      "value_text": "(509) 527-4321"
+    },
+    {
+      "key_text": "Custodian E-mail Address",
+      "value_text": "jenkinss@whitman.edu"
+    },
+    {
+      "key_text": "Statement Street Address",
+      "value_text": "345 Boyer Avenue"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Walla Walla"
+    },
+    {
+      "key_text": "State",
+      "value_text": "WA"
+    },
+    {
+      "key_text": "Zip",
+      "value_text": "99362"
+    },
+    {
+      "key_text": "Department or Budget Name",
+      "value_text": "Biology Lab Operations"
+    },
+    {
+      "key_text": "Department or Budget Code including dashes",
+      "value_text": "BIO-105-44"
+    },
+    {
+      "key_text": "Requested Monthly Limit",
+      "value_text": "5000"
+    },
+    {
+      "key_text": "Requested Single Trans Limit",
+      "value_text": "2000"
+    },
+    {
+      "key_text": "Requested Daily # Limit",
+      "value_text": "5"
+    },
+    {
+      "key_text": "Special vendor types or other information",
+      "value_text": "Scientific equipment and lab supply vendors"
+    },
+    {
+      "key_text": "Birth Date",
+      "value_text": "05/12/1985"
+    },
+    {
+      "key_text": "Last 4 digits of office phone no.",
+      "value_text": "5555"
+    },
+    {
+      "key_text": "Home Street Address",
+      "value_text": "123 Maple Street"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Walla Walla"
+    },
+    {
+      "key_text": "State",
+      "value_text": "WA"
+    },
+    {
+      "key_text": "Zip",
+      "value_text": "99362"
+    },
+    {
+      "key_text": "Country",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Country of Citizenship",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Signature of Employee/Cardholder and Date",
+      "value_text": "Jonathan A. Miller, 10/24/2023"
+    },
+    {
+      "key_text": "Signature of Budget Officer / Date",
+      "value_text": "Dr. Susan Thorne, 10/25/2023"
+    },
+    {
+      "key_text": "Hierachy Level/Hierarchy ID",
+      "value_text": "Level 2 / 998234"
+    },
+    {
+      "key_text": "Program Administrator Signature/Date",
+      "value_text": "Admin Office, 10/26/2023"
+    }
+  ]
+}
+
+Narrative:
+This application for a Whitman College MasterCard is for Jonathan A. Miller, a Laboratory Manager in the Biology Department. He can be reached at (509) 527-5555 or via his email at milleja@whitman.edu. For security, he has provided "Henderson" as his mother's maiden name. Jonathan has requested a card for both travel and purchase needs, and he has opted out of cash advances. 
+
+The department custodian handling his paperwork is Sarah Jenkins, who can be contacted at (509) 527-4321 or jenkinss@whitman.edu. The official statement address is the college address at 345 Boyer Avenue, Walla Walla, WA 99362. The requested budget code for his expenses is BIO-105-44, with a monthly limit of $5,000, a single transaction limit of $2,000, and a daily limit of 5 transactions. He intends to use the card primarily for scientific equipment and lab supplies. 
+
+Jonathan’s personal details include a birth date of 05/12/1985 and a home address at 123 Maple Street, Walla Walla, WA 99362. He is a U.S. citizen. The form includes his signature dated 10/24/2023, the approval signature of the budget officer, Dr. Susan Thorne, dated 10/25/2023, and the final processing authorization by the Program Administrator on 10/26/2023 under hierarchy ID 998234.

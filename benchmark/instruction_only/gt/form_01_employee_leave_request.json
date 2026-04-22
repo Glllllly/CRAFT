@@ -1,0 +1,101 @@
+﻿{
+    "excel":  "form_01_employee_leave_request.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "E6:H6",
+                      "value":  "Jonathan P. Sterling"
+                  },
+                  {
+                      "label":  "Employee ID / Staff No.",
+                      "value_cell":  "M6:P6",
+                      "value":  "EMP-8842"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "E7:H7",
+                      "value":  "Marketing"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "M7:P7",
+                      "value":  "Senior Copywriter"
+                  },
+                  {
+                      "label":  "Supervisor Name",
+                      "value_cell":  "E8:H8",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Contact Email",
+                      "value_cell":  "M8:P8",
+                      "value":  "j.sterling@company.com"
+                  },
+                  {
+                      "label":  "Leave Type  (Sick / Vacation / Personal / Other)",
+                      "value_cell":  "E11:H11",
+                      "value":  "Vacation"
+                  },
+                  {
+                      "label":  "Priority Level",
+                      "value_cell":  "M11:P11",
+                      "value":  "Medium"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "E12:H12",
+                      "value":  "2023-11-15"
+                  },
+                  {
+                      "label":  "End Date",
+                      "value_cell":  "M12:P12",
+                      "value":  "2023-11-20"
+                  },
+                  {
+                      "label":  "Total Days Requested",
+                      "value_cell":  "E13:H13",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Backup Coverage Arranged?  Y / N",
+                      "value_cell":  "M13:P13",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Reason / Description",
+                      "value_cell":  "E14:P14",
+                      "value":  "Family trip to visit relatives out of state."
+                  },
+                  {
+                      "label":  "Direct Manager",
+                      "value_cell":  "A20:J20",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M20:P20",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "HR Representative",
+                      "value_cell":  "A22:J22",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M22:P22",
+                      "value":  "2023-10-26"
+                  },
+                  {
+                      "label":  "Department Head",
+                      "value_cell":  "A24:J24",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M24:P24",
+                      "value":  "2023-10-27"
+                  }
+              ]
+}

@@ -1,0 +1,81 @@
+﻿{
+    "excel":  "01133732-00f7-4e76-90bd-f38f40eb50d9.xlsx",
+    "sheet":  "Application for",
+    "pairs":  [
+                  {
+                      "label":  "name",
+                      "value_cell":  "B17:D17",
+                      "value":  "Marco"
+                  },
+                  {
+                      "label":  "surname",
+                      "value_cell":  "F17:H17",
+                      "value":  "Rossi"
+                  },
+                  {
+                      "label":  "M/F",
+                      "value_cell":  "I17",
+                      "value":  "M"
+                  },
+                  {
+                      "label":  "ITF degree number",
+                      "value_cell":  "C20:D20",
+                      "value":  "ITA-4-1025"
+                  },
+                  {
+                      "label":  "ITF Online number",
+                      "value_cell":  "H20:I20",
+                      "value":  "8942"
+                  },
+                  {
+                      "label":  "ITF Plaque number",
+                      "value_cell":  "C22:D22",
+                      "value":  "5678"
+                  },
+                  {
+                      "label":  "Country",
+                      "value_cell":  "B25:D25",
+                      "value":  "Italy"
+                  },
+                  {
+                      "label":  "year",
+                      "value_cell":  "B27",
+                      "value":  "1985"
+                  },
+                  {
+                      "label":  "month",
+                      "value_cell":  "C27",
+                      "value":  "05"
+                  },
+                  {
+                      "label":  "day",
+                      "value_cell":  "D27",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "Nationality:",
+                      "value_cell":  "G27:I27",
+                      "value":  "Italian"
+                  },
+                  {
+                      "label":  "e.mail:",
+                      "value_cell":  "B30:F30",
+                      "value":  "marco.rossi@gmail.com"
+                  },
+                  {
+                      "label":  "Your NA/AA",
+                      "value_cell":  "B35:H35",
+                      "value":  "FITAE-ITF"
+                  },
+                  {
+                      "label":  "This is confirm that I,",
+                      "value_cell":  "C38:I38",
+                      "value":  "Giovanni Cecconato"
+                  },
+                  {
+                      "label":  "in the position of :",
+                      "value_cell":  "C39:I39",
+                      "value":  "President of FITAE-ITF"
+                  }
+              ]
+}

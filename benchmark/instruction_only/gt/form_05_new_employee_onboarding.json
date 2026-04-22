@@ -1,0 +1,116 @@
+﻿{
+    "excel":  "form_05_new_employee_onboarding.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Name",
+                      "value_cell":  "A7:H7",
+                      "value":  "Jonathan A. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "I7:P7",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Start Date",
+                      "value_cell":  "A9:H9",
+                      "value":  "2023-10-02"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "I9:P9",
+                      "value":  "Software Engineering"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "A11:H11",
+                      "value":  "Senior Backend Developer"
+                  },
+                  {
+                      "label":  "Reporting Manager",
+                      "value_cell":  "I11:P11",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "HR Orientation Completed",
+                      "value_cell":  "A15:H15",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Date Completed",
+                      "value_cell":  "I11:P11",
+                      "value":  "2023-10-02"
+                  },
+                  {
+                      "label":  "IT Accounts Setup Completed",
+                      "value_cell":  "A17:H17",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Date Completed",
+                      "value_cell":  "I17:P17",
+                      "value":  "2023-10-02"
+                  },
+                  {
+                      "label":  "Building Access Card Issued",
+                      "value_cell":  "A19:H19",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "Date Issued",
+                      "value_cell":  "I19:P19",
+                      "value":  "2023-10-03"
+                  },
+                  {
+                      "label":  "Employee Handbook Received  Y / N",
+                      "value_cell":  "A21:H21",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Benefits Enrollment Completed  Y / N",
+                      "value_cell":  "I21:P21",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Payroll Setup Confirmed  Y / N",
+                      "value_cell":  "A23:H23",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "30-Day Check-in Scheduled  Y / N",
+                      "value_cell":  "I23:P23",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "HR Coordinator",
+                      "value_cell":  "A29:J29",
+                      "value":  "Amanda Richards"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M29:P29",
+                      "value":  "2023-10-04"
+                  },
+                  {
+                      "label":  "Department Manager",
+                      "value_cell":  "A31:J31",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M31:P31",
+                      "value":  "2023-10-04"
+                  },
+                  {
+                      "label":  "IT Representative",
+                      "value_cell":  "A33:J33",
+                      "value":  "Kevin Thompson"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "M33:P33",
+                      "value":  "2023-10-04"
+                  }
+              ]
+}

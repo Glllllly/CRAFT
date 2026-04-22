@@ -1,0 +1,111 @@
+{
+  "excel": "case_0087_houqin_员工福利_福利发放__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "60725"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "销售统计_2263"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D9:H9",
+      "value": "报销申请"
+    },
+    {
+      "label": "type",
+      "value_cell": "M9:Q9",
+      "value": "销售统计"
+    },
+    {
+      "label": "status",
+      "value_cell": "D12:H12",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M12:Q12",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D15:H15",
+      "value": "例行"
+    },
+    {
+      "label": "发放编号",
+      "value_cell": "D20:H20",
+      "value": "BENEFIT-18"
+    },
+    {
+      "label": "发放月份",
+      "value_cell": "M20:Q20",
+      "value": "2024年07月"
+    },
+    {
+      "label": "发放日期",
+      "value_cell": "D23:H23",
+      "value": "2024-18-28"
+    },
+    {
+      "label": "发放对象",
+      "value_cell": "M23:Q23",
+      "value": "全体员工"
+    },
+    {
+      "label": "季度奖励",
+      "value_cell": "D26:H26",
+      "value": "¥500×167人 = ¥92000"
+    },
+    {
+      "label": "年终奖励",
+      "value_cell": "M26:Q26",
+      "value": "¥2000×135人 = ¥264000"
+    },
+    {
+      "label": "生日礼金",
+      "value_cell": "D29:H29",
+      "value": "¥200×24人 = ¥2000"
+    },
+    {
+      "label": "总金额",
+      "value_cell": "M29:Q29",
+      "value": "¥51259"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D34:H34",
+      "value": "李明"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M34:Q34",
+      "value": "2026-02-10T05:30:32.511630"
+    },
+    {
+      "label": "date",
+      "value_cell": "D37:H37",
+      "value": "Tue, 10 Feb 2026 05:30:32 +0800"
+    },
+    {
+      "label": "from",
+      "value_cell": "M37:Q37",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D40:H40",
+      "value": "孙七@company.com"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D45:H45",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

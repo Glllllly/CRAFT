@@ -1,0 +1,128 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "PI Full Name",
+      "value_text": "Dr. Elena R. Vance"
+    },
+    {
+      "key_text": "Faculty / Staff ID",
+      "value_text": "8829301-EV"
+    },
+    {
+      "key_text": "Department / School",
+      "value_text": "Department of Behavioral Psychology"
+    },
+    {
+      "key_text": "Academic Rank / Title",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "Office Phone",
+      "value_text": "555-012-9988"
+    },
+    {
+      "key_text": "Cell Phone",
+      "value_text": "555-098-7654"
+    },
+    {
+      "key_text": "PI E-mail Address",
+      "value_text": "e.vance@university.edu"
+    },
+    {
+      "key_text": "Institution",
+      "value_text": "State Metropolitan University"
+    },
+    {
+      "key_text": "Co-Investigator(s)",
+      "value_text": "Dr. Marcus Thorne, Sarah Jenkins"
+    },
+    {
+      "key_text": "Project Title",
+      "value_text": "Longitudinal Analysis of Remote Learning Engagement in Undergraduate Students"
+    },
+    {
+      "key_text": "Funding Agency / Sponsor",
+      "value_text": "National Education Research Council"
+    },
+    {
+      "key_text": "Grant / Project Number",
+      "value_text": "NERC-2024-889"
+    },
+    {
+      "key_text": "Proposed Start Date",
+      "value_text": "2024-09-01"
+    },
+    {
+      "key_text": "Proposed End Date",
+      "value_text": "2025-08-31"
+    },
+    {
+      "key_text": "Project Duration (months)",
+      "value_text": "12"
+    },
+    {
+      "key_text": "Participant Population",
+      "value_text": "Undergraduate students aged 18-24"
+    },
+    {
+      "key_text": "Estimated Number of Participants",
+      "value_text": "250"
+    },
+    {
+      "key_text": "Data Collection Method",
+      "value_text": "Online surveys and bi-weekly behavioral logs"
+    },
+    {
+      "key_text": "Data Storage / Retention Plan",
+      "value_text": "Encrypted cloud server; data deleted after 5 years"
+    },
+    {
+      "key_text": "Description of Risks and Mitigation",
+      "value_text": "Minimal risk of data breach; mitigation includes anonymization and secure server access controls."
+    },
+    {
+      "key_text": "Consent Form Attached?  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Participant Debrief Required?  Y / N",
+      "value_text": "N"
+    },
+    {
+      "key_text": "I declare this project complies with all relevant regulations.",
+      "value_text": "Signed: Elena R. Vance"
+    },
+    {
+      "key_text": "Principal Investigator",
+      "value_text": "Dr. Elena R. Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-07-15"
+    },
+    {
+      "key_text": "Department Ethics Representative",
+      "value_text": "Prof. Alan Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-07-18"
+    },
+    {
+      "key_text": "IRB Chair",
+      "value_text": "Dr. Sarah Whitmore"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2024-07-25"
+    }
+  ]
+}
+
+Narrative:
+This ethics application is submitted by Dr. Elena R. Vance (ID: 8829301-EV), an Associate Professor in the Department of Behavioral Psychology at State Metropolitan University. Dr. Vance can be reached at 555-012-9988 or via email at e.vance@university.edu. For this research, she is collaborating with co-investigators Dr. Marcus Thorne and Sarah Jenkins.
+
+The project, titled "Longitudinal Analysis of Remote Learning Engagement in Undergraduate Students," is funded by the National Education Research Council under grant number NERC-2024-889. The study is scheduled to run for 12 months, from September 1, 2024, to August 31, 2025.
+
+The research will involve 250 undergraduate students, aged 18 to 24, with data collected through online surveys and behavioral logs. All data will be stored on an encrypted cloud server and retained for five years. The risk is considered minimal, mitigated by anonymization protocols. A consent form is attached, though no participant debrief is required. Dr. Vance has declared compliance with all relevant regulations and has signed the application along with department representative Prof. Alan Smith and IRB Chair Dr. Sarah Whitmore, with signatures dated in July 2024.

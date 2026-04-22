@@ -1,0 +1,96 @@
+{
+  "excel": "case_0206_houqin_车队管理_维护保养__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "66835"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "报销申请_4645"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "报销申请"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M9:Q9",
+      "value": "2026-02-10T05:30:31.387221"
+    },
+    {
+      "label": "date",
+      "value_cell": "D12:H12",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "status",
+      "value_cell": "M12:Q12",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D15:H15",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M15:Q15",
+      "value": "重要"
+    },
+    {
+      "label": "from",
+      "value_cell": "D20:H20",
+      "value": "李四@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M20:Q20",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D23:H23",
+      "value": "周八"
+    },
+    {
+      "label": "subject",
+      "value_cell": "D28:H28",
+      "value": "采购计划"
+    },
+    {
+      "label": "事件内容",
+      "value_cell": "M28:Q28",
+      "value": "按照既定计划进行相关工作"
+    },
+    {
+      "label": "参与人员",
+      "value_cell": "D31:H31",
+      "value": "李四, 吴九"
+    },
+    {
+      "label": "记录人",
+      "value_cell": "M31:Q31",
+      "value": "马腾"
+    },
+    {
+      "label": "记录日期",
+      "value_cell": "D34:H34",
+      "value": "2026-02-10 05:30:31"
+    },
+    {
+      "label": "处理结果",
+      "value_cell": "D39:H39",
+      "value": "已按流程处理"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "M39:Q39",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

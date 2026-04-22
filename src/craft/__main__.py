@@ -1,0 +1,5 @@
+from .pipeline_agent_runner import main
+
+
+if __name__ == "__main__":
+    main()

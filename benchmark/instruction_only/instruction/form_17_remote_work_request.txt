@@ -1,0 +1,96 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Employee Name",
+      "value_text": "Jonathan P. Sterling"
+    },
+    {
+      "key_text": "Employee ID",
+      "value_text": "EMP-8842"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Software Engineering"
+    },
+    {
+      "key_text": "Job Title",
+      "value_text": "Senior Backend Developer"
+    },
+    {
+      "key_text": "Manager Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Type  (Temporary / Permanent / Hybrid)",
+      "value_text": "Hybrid"
+    },
+    {
+      "key_text": "Proposed Start Date",
+      "value_text": "2023-11-01"
+    },
+    {
+      "key_text": "Proposed End Date  (if temporary)",
+      "value_text": null
+    },
+    {
+      "key_text": "Remote Days per Week",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Remote Work Location",
+      "value_text": "Home Office, Austin, TX"
+    },
+    {
+      "key_text": "Secure Home Network Available  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Company Equipment Required  Y / N",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Business Justification / Case",
+      "value_text": "Reduced commute time will increase focus hours for deep-work coding tasks."
+    },
+    {
+      "key_text": "Impact on Team Collaboration",
+      "value_text": "Will maintain core office presence on Tuesdays and Thursdays for team meetings."
+    },
+    {
+      "key_text": "Direct Manager",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date (Manager)",
+      "value_text": "2023-10-14"
+    },
+    {
+      "key_text": "HR Business Partner",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date (HRBP)",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Department Head",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (Dept Head)",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+This remote work request is submitted by Jonathan P. Sterling, a Senior Backend Developer (Employee ID: EMP-8842) within the Software Engineering department. Jonathan is requesting a hybrid work arrangement starting on November 1st, 2023, under the supervision of his manager, Sarah Jenkins. The request was formally filed on October 12, 2023.
+
+Jonathan plans to work remotely 3 days per week from his home office in Austin, Texas. He has confirmed that a secure home network is available and that he requires company-issued equipment to perform his duties. His business justification centers on the increased productivity gained from reduced commute times, allowing for more "deep-work" focus. To ensure team collaboration remains strong, he has committed to being in the office every Tuesday and Thursday.
+
+The request has received the necessary approvals: Sarah Jenkins signed off on October 14, HR Business Partner Marcus Thorne approved it on October 15, and Department Head Elena Rodriguez provided final authorization on October 16, 2023.

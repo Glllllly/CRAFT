@@ -1,0 +1,90 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "EVENT NAME:",
+      "value_text": "Otronicon"
+    },
+    {
+      "key_text": "EVENT DATE:",
+      "value_text": "17-20 January 2014"
+    },
+    {
+      "key_text": "LOAD-IN DATE:",
+      "value_text": "16 January 2014"
+    },
+    {
+      "key_text": "EXHIBIT HALL:",
+      "value_text": "Level 4 Hall A"
+    },
+    {
+      "key_text": "COMPANY NAME:",
+      "value_text": "Pixel Pioneers"
+    },
+    {
+      "key_text": "Street",
+      "value_text": "789 Gaming Way"
+    },
+    {
+      "key_text": "City",
+      "value_text": "Orlando"
+    },
+    {
+      "key_text": "State",
+      "value_text": "FL"
+    },
+    {
+      "key_text": "Postal/Zip Code",
+      "value_text": "32801"
+    },
+    {
+      "key_text": "CONTACT NAME:",
+      "value_text": "Alex Rivera"
+    },
+    {
+      "key_text": "TELEPHONE#:",
+      "value_text": "407-555-8822"
+    },
+    {
+      "key_text": "E-MAIL:",
+      "value_text": "a.rivera@pixelpioneers.com"
+    },
+    {
+      "key_text": "FAX#:",
+      "value_text": "(407) 555-8823"
+    },
+    {
+      "key_text": "# REQUIRED:",
+      "value_text": "3"
+    },
+    {
+      "key_text": "# REQUIRED:",
+      "value_text": "12"
+    },
+    {
+      "key_text": "# REQUIRED:",
+      "value_text": "2"
+    },
+    {
+      "key_text": "# OF PHONE LINES",
+      "value_text": "1"
+    },
+    {
+      "key_text": "LOCATION:",
+      "value_text": "Booth #412"
+    },
+    {
+      "key_text": "# OF PHONE LINES",
+      "value_text": null
+    },
+    {
+      "key_text": "LOCATION:",
+      "value_text": null
+    }
+  ]
+}
+
+Narrative:
+This request form is for the Otronicon event held at the Orlando Science Center from January 17th to 20th, 2014. The customer, Pixel Pioneers, is located at 789 Gaming Way, Orlando, FL 32801. Their primary contact is Alex Rivera, who can be reached at 407-555-8822 or via email at a.rivera@pixelpioneers.com. 
+
+The company is scheduled for load-in on January 16th at Level 4 Hall A. For their exhibit, they have requested 3 wired internet connections, 12 wireless internet device connections, and 2 additional devices. Furthermore, they require one credit card phone line to be set up at Booth #412.

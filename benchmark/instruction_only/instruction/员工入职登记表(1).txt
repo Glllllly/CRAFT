@@ -1,0 +1,76 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "部门",
+      "value_text": "研发部"
+    },
+    {
+      "key_text": "工号",
+      "value_text": "RD-8802"
+    },
+    {
+      "key_text": "职务",
+      "value_text": "高级软件工程师"
+    },
+    {
+      "key_text": "填表日期：",
+      "value_text": "2023年10月15日"
+    },
+    {
+      "key_text": "姓名",
+      "value_text": "张伟"
+    },
+    {
+      "key_text": "性别",
+      "value_text": "男"
+    },
+    {
+      "key_text": "出生年月",
+      "value_text": "1992年05月"
+    },
+    {
+      "key_text": "婚姻状况",
+      "value_text": "已婚"
+    },
+    {
+      "key_text": "籍贯",
+      "value_text": "山东青岛"
+    },
+    {
+      "key_text": "民族",
+      "value_text": "汉族"
+    },
+    {
+      "key_text": "户口所在地",
+      "value_text": "上海市浦东新区"
+    },
+    {
+      "key_text": "生育情况",
+      "value_text": "已育"
+    },
+    {
+      "key_text": "身份证号码",
+      "value_text": "37020219920512XXXX"
+    },
+    {
+      "key_text": "文化程度",
+      "value_text": "硕士"
+    },
+    {
+      "key_text": "紧急情况联络人",
+      "value_text": "李芳"
+    },
+    {
+      "key_text": "紧急情况联络人关系",
+      "value_text": "妻子"
+    },
+    {
+      "key_text": "紧急情况联络人电话",
+      "value_text": "13800138000"
+    }
+  ]
+}
+
+Narrative:
+这是一份由研发部员工张伟填写的入职登记表。张伟工号为RD-8802，担任高级软件工程师一职，填表日期是2023年10月15日。他出生于1992年5月，性别为男，汉族，籍贯山东青岛，目前户口在上海市浦东新区。他已婚并已育，学历为硕士。身份证号显示为37020219920512XXXX。在紧急联络信息方面，他填写的联络人是其妻子李芳，联系电话为13800138000。

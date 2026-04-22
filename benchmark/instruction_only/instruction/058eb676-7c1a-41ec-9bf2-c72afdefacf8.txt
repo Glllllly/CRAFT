@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name:",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "V Number:",
+      "value_text": "V00123456"
+    },
+    {
+      "key_text": "Primary Department:",
+      "value_text": "Biological Sciences"
+    },
+    {
+      "key_text": "Phone:",
+      "value_text": "208-885-1234"
+    },
+    {
+      "key_text": "Primary Job Title:",
+      "value_text": "Associate Professor"
+    },
+    {
+      "key_text": "% Primary Appointment:",
+      "value_text": "100%"
+    },
+    {
+      "key_text": "Faculty,Non-faculty Exempt,Classified,Classifed Exempt:",
+      "value_text": "Faculty"
+    },
+    {
+      "key_text": "Permanent Salary Base",
+      "value_text": "85,000"
+    },
+    {
+      "key_text": "Hiring Department:",
+      "value_text": "College of Science - Dean's Office"
+    },
+    {
+      "key_text": "AY or FY:",
+      "value_text": "AY"
+    },
+    {
+      "key_text": "Primary Contact Person/Phone:",
+      "value_text": "Sarah Miller / 208-885-5678"
+    },
+    {
+      "key_text": "Campus Zip:",
+      "value_text": "3051"
+    },
+    {
+      "key_text": "Secondary Contact Person/Phone:",
+      "value_text": null
+    },
+    {
+      "key_text": "Campus Zip:",
+      "value_text": null
+    },
+    {
+      "key_text": "Temporary Increase",
+      "value_text": "5,000"
+    },
+    {
+      "key_text": "Source of funds:",
+      "value_text": "General Fund - 10101"
+    },
+    {
+      "key_text": "Additional Compensation",
+      "value_text": null
+    },
+    {
+      "key_text": "Source of funds:",
+      "value_text": null
+    },
+    {
+      "key_text": "Period of Time:",
+      "value_text": "August 15, 2023 - May 15, 2024"
+    },
+    {
+      "key_text": "Description/Justification:",
+      "value_text": "Temporary salary increase for serving as the Interim Department Chair during the 2023-2024 Academic Year. Responsibilities include overseeing departmental budget, faculty reviews, and curriculum planning."
+    },
+    {
+      "key_text": "Primary Department Administrator",
+      "value_text": "Dr. James Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "07/15/2023"
+    },
+    {
+      "key_text": "Primary RCM/Unit Administrator",
+      "value_text": "Dean Robert Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "07/18/2023"
+    },
+    {
+      "key_text": "Secondary/Hiring Department Administrator",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Secondary/Hiring RCM/Unit Administrator",
+      "value_text": null
+    },
+    {
+      "key_text": "Date",
+      "value_text": null
+    },
+    {
+      "key_text": "Executive Director of Planning and Budget",
+      "value_text": "Linda Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "07/25/2023"
+    },
+    {
+      "key_text": "Provost/Vice President/President",
+      "value_text": "Dr. Torrey Lawrence"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "08/01/2023"
+    }
+  ]
+}
+
+Narrative:
+This University of Idaho form documents a temporary salary increase for Dr. Elena Rodriguez (V00123456), an Associate Professor in the Biological Sciences department. Dr. Rodriguez, who has a 100% faculty appointment and a base salary of $85,000 on an Academic Year (AY) basis, is being awarded a temporary increase of $5,000. This increase, funded by General Fund 10101, is to compensate her for serving as the Interim Department Chair from August 15, 2023, to May 15, 2024. The hiring department is listed as the College of Science - Dean's Office. Sarah Miller is the primary contact person for this request at campus zip 3051. The form has received all necessary approvals, starting with Department Administrator Dr. James Chen on July 15, 2023, and concluding with Provost Dr. Torrey Lawrence on August 1, 2023.

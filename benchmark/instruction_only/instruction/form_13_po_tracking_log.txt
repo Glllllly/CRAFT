@@ -1,0 +1,44 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Log Period  (From)",
+      "value_text": "01/08/2023"
+    },
+    {
+      "key_text": "Log Period  (To)",
+      "value_text": "31/08/2023"
+    },
+    {
+      "key_text": "Prepared By",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department / Business Unit",
+      "value_text": "Information Technology"
+    },
+    {
+      "key_text": "Approved Budget  $",
+      "value_text": "50,000.00"
+    },
+    {
+      "key_text": "Procurement Officer",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Date (Procurement)",
+      "value_text": "05/09/2023"
+    },
+    {
+      "key_text": "Finance Controller",
+      "value_text": "Elena Rodriguez"
+    },
+    {
+      "key_text": "Date (Finance)",
+      "value_text": "07/09/2023"
+    }
+  ]
+}
+
+Narrative:
+This Purchase Order Tracking Log covers the period from August 1st, 2023, to August 31st, 2023, and was prepared by Sarah Jenkins. The report pertains to the Information Technology department, which operated with an approved budget of $50,000.00. The document was reviewed and signed off by Procurement Officer Marcus Thorne on September 5th, 2023, and subsequently authorized by Finance Controller Elena Rodriguez on September 7th, 2023.

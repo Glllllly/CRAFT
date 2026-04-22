@@ -1,0 +1,166 @@
+﻿{
+    "excel":  "form_25_medical_leave.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Employee Full Name",
+                      "value_cell":  "A11:L11",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Employee ID",
+                      "value_cell":  "M11:X11",
+                      "value":  "EMP-88429"
+                  },
+                  {
+                      "label":  "Department",
+                      "value_cell":  "A13:H13",
+                      "value":  "Logistics"
+                  },
+                  {
+                      "label":  "Job Title",
+                      "value_cell":  "I13:P13",
+                      "value":  "Warehouse Supervisor"
+                  },
+                  {
+                      "label":  "Manager Name",
+                      "value_cell":  "Q13:X13",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Work Phone / Extension",
+                      "value_cell":  "A15:H15",
+                      "value":  "555-012-3488"
+                  },
+                  {
+                      "label":  "Personal Cell Phone",
+                      "value_cell":  "I15:P15",
+                      "value":  "555-987-6543"
+                  },
+                  {
+                      "label":  "Personal E-mail",
+                      "value_cell":  "Q15:X15",
+                      "value":  "j.miller.work@email.com"
+                  },
+                  {
+                      "label":  "Date of Hire",
+                      "value_cell":  "A17:L17",
+                      "value":  "March 15, 2018"
+                  },
+                  {
+                      "label":  "Employment Type  (Full/Part-Time / Exempt/Non-Exempt)",
+                      "value_cell":  "M17:X17",
+                      "value":  "Full-Time / Exempt"
+                  },
+                  {
+                      "label":  "Requested Leave Start Date",
+                      "value_cell":  "A23:L23",
+                      "value":  "November 10, 2023"
+                  },
+                  {
+                      "label":  "Anticipated Return-to-Work Date",
+                      "value_cell":  "M23:X23",
+                      "value":  "December 8, 2023"
+                  },
+                  {
+                      "label":  "Total Duration Requested  (days / weeks)",
+                      "value_cell":  "A25:L25",
+                      "value":  "4 weeks"
+                  },
+                  {
+                      "label":  "Intermittent Leave?  Y / N",
+                      "value_cell":  "M25:X25",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "If intermittent, describe expected frequency and duration of absences",
+                      "value_cell":  "A27:X27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reduced Schedule Details  (hours/days if applicable)",
+                      "value_cell":  "A30:X30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Healthcare Provider\u0027s Name",
+                      "value_cell":  "A36:L36",
+                      "value":  "Dr. Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Provider\u0027s Phone \u0026 Fax",
+                      "value_cell":  "M36:X36",
+                      "value":  "555-222-9900 / 555-222-9901"
+                  },
+                  {
+                      "label":  "Diagnosis / Condition  (general description 鈥?details on certification)",
+                      "value_cell":  "A38:L38",
+                      "value":  "Post-surgical recovery"
+                  },
+                  {
+                      "label":  "Hospital / Facility Name (if applicable)",
+                      "value_cell":  "A40:L40",
+                      "value":  "City General Hospital"
+                  },
+                  {
+                      "label":  "Admission / Procedure Date",
+                      "value_cell":  "M40:X40",
+                      "value":  "November 10, 2023"
+                  },
+                  {
+                      "label":  "PTO Balance  (days)",
+                      "value_cell":  "A46:L46",
+                      "value":  "12"
+                  },
+                  {
+                      "label":  "STD Claim Number (if applicable)",
+                      "value_cell":  "M46:X46",
+                      "value":  "STD-99887766"
+                  },
+                  {
+                      "label":  "Health Insurance Continued During Leave?  Y / N",
+                      "value_cell":  "A48:L48",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Benefit Premium Payment Method",
+                      "value_cell":  "M48:X48",
+                      "value":  "Payroll Deduction"
+                  },
+                  {
+                      "label":  "Modified Duty Restrictions / Limitations  (if known)",
+                      "value_cell":  "A54:X54",
+                      "value":  "No lifting over 10 lbs for 2 weeks upon return"
+                  },
+                  {
+                      "label":  "Employee Signature",
+                      "value_cell":  "A62:L62",
+                      "value":  "Jonathan D. Miller"
+                  },
+                  {
+                      "label":  "Date (Employee)",
+                      "value_cell":  "P62:X62",
+                      "value":  "October 20, 2023"
+                  },
+                  {
+                      "label":  "Manager Acknowledgement",
+                      "value_cell":  "A64:L64",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "P64:X64",
+                      "value":  "October 21, 2023"
+                  },
+                  {
+                      "label":  "HR Leave Administrator",
+                      "value_cell":  "A66:L66",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "P66:X66",
+                      "value":  "October 23, 2023"
+                  }
+              ]
+}

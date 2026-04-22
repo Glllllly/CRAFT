@@ -1,0 +1,106 @@
+{
+  "excel": "case_0200_houqin_设备维护_维修工单__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "12567"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "休假申请_5083"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "休假申请"
+    },
+    {
+      "label": "creator",
+      "value_cell": "M9:Q9",
+      "value": "刘涛"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:30.982995"
+    },
+    {
+      "label": "date",
+      "value_cell": "M12:Q12",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "status",
+      "value_cell": "D15:H15",
+      "value": "已完成"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M15:Q15",
+      "value": "高"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D18:H18",
+      "value": "紧急"
+    },
+    {
+      "label": "from",
+      "value_cell": "D23:H23",
+      "value": "陈芳@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M23:Q23",
+      "value": "张丽@company.com"
+    },
+    {
+      "label": "报告人",
+      "value_cell": "D28:H28",
+      "value": "李明"
+    },
+    {
+      "label": "汇报部门",
+      "value_cell": "M28:Q28",
+      "value": "总经理办公室"
+    },
+    {
+      "label": "报告时间",
+      "value_cell": "D31:H31",
+      "value": "2026-02-10"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M31:Q31",
+      "value": "费用统计"
+    },
+    {
+      "label": "主要成果",
+      "value_cell": "D34:H34",
+      "value": "圆满完成各项任务"
+    },
+    {
+      "label": "关键指标",
+      "value_cell": "M34:Q34",
+      "value": "完成率84%"
+    },
+    {
+      "label": "存在问题",
+      "value_cell": "D37:H37",
+      "value": "持续改进中"
+    },
+    {
+      "label": "下一步计划",
+      "value_cell": "M37:Q37",
+      "value": "继续深化执行"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D42:H42",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

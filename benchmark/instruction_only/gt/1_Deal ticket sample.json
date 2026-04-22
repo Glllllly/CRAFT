@@ -1,0 +1,146 @@
+﻿{
+    "excel":  "1_Deal ticket sample.xlsx",
+    "sheet":  "Sample Ticket",
+    "pairs":  [
+                  {
+                      "label":  "UPDATE:",
+                      "value_cell":  "B2:F2",
+                      "value":  "2023-10-25"
+                  },
+                  {
+                      "label":  "PREP:",
+                      "value_cell":  "B3:F3",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "PHONE:",
+                      "value_cell":  "B4:F4",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "PURCHASE BEHIND PLANT",
+                      "value_cell":  "M1",
+                      "value":  "Yes"
+                  },
+                  {
+                      "label":  "DEDICATED RESERVES",
+                      "value_cell":  "Q1",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "NAME PLANT:",
+                      "value_cell":  "F3:M3",
+                      "value":  "Blue Ridge Energy Center"
+                  },
+                  {
+                      "label":  "FIRST PURCHASER",
+                      "value_cell":  "Q3",
+                      "value":  "Alpha Gas Corp"
+                  },
+                  {
+                      "label":  "DEAL NUMBER",
+                      "value_cell":  "L6:M6",
+                      "value":  "BR-99821"
+                  },
+                  {
+                      "label":  "Deal # ",
+                      "value_cell":  "P5:Q6",
+                      "value":  "99821-X"
+                  },
+                  {
+                      "label":  "COUNTERPARTY/CUSTOMER",
+                      "value_cell":  "A8:C8",
+                      "value":  "Summit Utilities"
+                  },
+                  {
+                      "label":  "CONTACT     ",
+                      "value_cell":  "D8:F8",
+                      "value":  "Mark Thompson"
+                  },
+                  {
+                      "label":  "ORIGINATOR      ",
+                      "value_cell":  "G8:I8",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "DEAL DATE",
+                      "value_cell":  "J8:K8",
+                      "value":  "2023-10-24"
+                  },
+                  {
+                      "label":  "TRANSACTION TYPE (SWAP, CAP, INDEX, ETC.)",
+                      "value_cell":  "L8:O8",
+                      "value":  "INDEX"
+                  },
+                  {
+                      "label":  "Affiliate?",
+                      "value_cell":  "P8:Q8",
+                      "value":  "No"
+                  },
+                  {
+                      "label":  "Buy or sell?",
+                      "value_cell":  "A10:F10",
+                      "value":  "Buy"
+                  },
+                  {
+                      "label":  "Financial or Physical?",
+                      "value_cell":  "G10:I10",
+                      "value":  "Physical"
+                  },
+                  {
+                      "label":  "IFGMR, NGI, NGW, GAS DAILY INDEX",
+                      "value_cell":  "J10:K10",
+                      "value":  "NGI"
+                  },
+                  {
+                      "label":  "PHYSICAL DELIVERY POINT/PIPELINE",
+                      "value_cell":  "L10:O10",
+                      "value":  "Henry Hub"
+                  },
+                  {
+                      "label":  "COMMODITY",
+                      "value_cell":  "P10:Q10",
+                      "value":  "Natural Gas"
+                  },
+                  {
+                      "label":  "UNIT OF MEASURE",
+                      "value_cell":  "A12:D12",
+                      "value":  "MMBtu"
+                  },
+                  {
+                      "label":  "MW",
+                      "value_cell":  "E12:F12",
+                      "value":  "N/A"
+                  },
+                  {
+                      "label":  "CURRENCY",
+                      "value_cell":  "G12:H12",
+                      "value":  "USD"
+                  },
+                  {
+                      "label":  "BROKER",
+                      "value_cell":  "I12:J12",
+                      "value":  "Intercontinental Exchange"
+                  },
+                  {
+                      "label":  "FEE",
+                      "value_cell":  "K12",
+                      "value":  "0.02"
+                  },
+                  {
+                      "label":  "DEAL STATUS",
+                      "value_cell":  "L12:M12",
+                      "value":  "Confirmed"
+                  },
+                  {
+                      "label":  "SETTLEMENT",
+                      "value_cell":  "N12:Q12",
+                      "value":  "Monthly Net"
+                  },
+                  {
+                      "label":  "DESCRIPTION:",
+                      "value_cell":  "B35:Q35, A36:Q37",
+                      "value":  "Physical purchase of natural gas at Henry Hub for delivery to the Blue Ridge Energy Center. Transaction processed through the Intercontinental Exchange with a monthly net settlement."
+                  }
+              ]
+}

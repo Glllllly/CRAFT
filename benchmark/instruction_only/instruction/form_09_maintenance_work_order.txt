@@ -1,0 +1,94 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requester Full Name",
+      "value_text": "Jonathan D. Miller"
+    },
+    {
+      "key_text": "Department / Cost Center",
+      "value_text": "Facilities Management / CC-402"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "x4492"
+    },
+    {
+      "key_text": "E-mail Address",
+      "value_text": "j.miller@company.com"
+    },
+    {
+      "key_text": "Date of Request",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Building Name",
+      "value_text": "North Wing Annex"
+    },
+    {
+      "key_text": "Room / Floor / Area",
+      "value_text": "Room 304 / 3rd Floor"
+    },
+    {
+      "key_text": "Brief Description of Issue / Work Needed",
+      "value_text": "HVAC unit in conference room is making a loud rattling noise and failing to cool the space properly."
+    },
+    {
+      "key_text": "Requested Completion Date",
+      "value_text": "2023-10-16"
+    },
+    {
+      "key_text": "Access Availability",
+      "value_text": "Mon-Fri, 9:00 AM - 4:00 PM"
+    },
+    {
+      "key_text": "Special Instructions / Access Restrictions",
+      "value_text": "Please notify the front desk before entering the room to ensure the meeting is not in progress."
+    },
+    {
+      "key_text": "Work Order Number",
+      "value_text": "WO-99821"
+    },
+    {
+      "key_text": "Assigned Technician",
+      "value_text": "Marcus Thorne"
+    },
+    {
+      "key_text": "Assigned Date",
+      "value_text": "2023-10-13"
+    },
+    {
+      "key_text": "Estimated Hours",
+      "value_text": "3.5"
+    },
+    {
+      "key_text": "Estimated Parts Cost  $",
+      "value_text": "125.00"
+    },
+    {
+      "key_text": "Account Code",
+      "value_text": "AC-99-B"
+    },
+    {
+      "key_text": "Actual Completion Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Technician Signature",
+      "value_text": "M. Thorne"
+    },
+    {
+      "key_text": "Supervisor Sign-off",
+      "value_text": "Approved"
+    },
+    {
+      "key_text": "Work Performed / Notes",
+      "value_text": "Replaced faulty fan motor and tightened mounting brackets. System tested and cooling at nominal levels."
+    }
+  ]
+}
+
+Narrative:
+This maintenance request was submitted by Jonathan D. Miller from the Facilities Management department (cost center CC-402) on October 12, 2023. He can be reached at extension 4492 or via email at j.miller@company.com. The issue involves a noisy and malfunctioning HVAC unit located in Room 304 on the 3rd floor of the North Wing Annex. Jonathan requested that the work be completed by October 16, 2023, and noted that technicians can access the room between 9:00 AM and 4:00 PM, provided they check in at the front desk first.
+
+The job was assigned work order number WO-99821 to technician Marcus Thorne on October 13, 2023. The estimated labor was 3.5 hours with a parts cost of $125.00, charged to account code AC-99-B. The work was finished ahead of schedule on October 15, 2023, by Marcus Thorne, and subsequently approved by a supervisor. The final notes indicate that the faulty fan motor was replaced and the mounting brackets were tightened, with the system now functioning properly.

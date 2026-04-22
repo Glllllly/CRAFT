@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0269_yunyin_case-studies",
+    "tenant":  "yunyin",
+    "topic":  "case-studies",
+    "subtopic":  "",
+    "source_dir":  "yunyin\\case-studies",
+    "total_files_in_source_dir":  1041,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "yunyin\\case-studies\\国家药品编码本位码信息（国产药品）截至2024年12月31日.xlsx",
+                      "copied_name":  "国家药品编码本位码信息（国产药品）截至2024年12月31日.xlsx",
+                      "bucket":  "table",
+                      "ext":  ".xlsx",
+                      "size":  13287724
+                  },
+                  {
+                      "source_rel":  "yunyin\\case-studies\\case_study_4.md",
+                      "copied_name":  "case_study_4.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  1294
+                  },
+                  {
+                      "source_rel":  "yunyin\\case-studies\\RROxTalk-Inclusivity-in-OpenSci.pptx",
+                      "copied_name":  "RROxTalk-Inclusivity-in-OpenSci.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  134080608
+                  },
+                  {
+                      "source_rel":  "yunyin\\case-studies\\Blue-Action_UKArcticConf.pptx",
+                      "copied_name":  "Blue-Action_UKArcticConf.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  132493100
+                  },
+                  {
+                      "source_rel":  "yunyin\\case-studies\\2.22_Manolesos Aerodynamic and Aeroelastic Experiments at the new Swansea University Wind Tunnel.pptx",
+                      "copied_name":  "2.22_Manolesos Aerodynamic and Aeroelastic Experiments at the new Swansea University Wind Tunnel.pptx",
+                      "bucket":  "document",
+                      "ext":  ".pptx",
+                      "size":  86159336
+                  }
+              ]
+}

@@ -1,0 +1,76 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name of Person Requesting Stipend:",
+      "value_text": "Dr. Sarah Jenkins"
+    },
+    {
+      "key_text": "Name of Person to Receive the Stipend:",
+      "value_text": "Michael Thorne"
+    },
+    {
+      "key_text": "Position Name / Title of Position:",
+      "value_text": "Graduate Research Assistant"
+    },
+    {
+      "key_text": "School/Dept of Person Receiving Stipend:",
+      "value_text": "School of Health Professions / Dept. of Nursing"
+    },
+    {
+      "key_text": "Purpose for Stipend:",
+      "value_text": "To provide support for the 'Urban Health Outreach Project,' involving data collection and community engagement during the summer term."
+    },
+    {
+      "key_text": "Time Period for Stipend:",
+      "value_text": "June 1, 2024 - August 15, 2024"
+    },
+    {
+      "key_text": "Amount of Stipend:",
+      "value_text": "$2,500.00"
+    },
+    {
+      "key_text": "Chartfield #",
+      "value_text": "10-450-22-8901"
+    },
+    {
+      "key_text": "Account Name",
+      "value_text": "Summer Research Grant - Nursing"
+    },
+    {
+      "key_text": "Requestor:",
+      "value_text": "Dr. Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/10/2024"
+    },
+    {
+      "key_text": "Dean:",
+      "value_text": "Dr. Robert Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/12/2024"
+    },
+    {
+      "key_text": "Deputy VPAA:",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/15/2024"
+    },
+    {
+      "key_text": "AA Budgets:",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "05/18/2024"
+    }
+  ]
+}
+
+Narrative:
+This is a Request for Stipend Approval from Long Island University's Office of Academic Affairs. Dr. Sarah Jenkins is requesting a stipend of $2,500.00 for Michael Thorne, who holds the position of Graduate Research Assistant in the School of Health Professions' Department of Nursing. The stipend is intended to support the "Urban Health Outreach Project" through data collection and community engagement from June 1 to August 15, 2024. The funding is sourced from the "Summer Research Grant - Nursing" account, identified by Chartfield # 10-450-22-8901. The request was initiated by Dr. Jenkins on May 10, 2024, and subsequently approved by Dean Robert Miller on May 12, Deputy VPAA Elena Rodriguez on May 15, and finally by Mark Thompson from AA Budgets on May 18, 2024.

@@ -1,0 +1,112 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Location / Warehouse Name",
+      "value_text": "North Distribution Center"
+    },
+    {
+      "key_text": "Section / Aisle / Bay",
+      "value_text": "Aisle 4, Bay B2"
+    },
+    {
+      "key_text": "Count Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Count Time",
+      "value_text": "09:30 AM"
+    },
+    {
+      "key_text": "Counted By (Name)",
+      "value_text": "Mark Johnson"
+    },
+    {
+      "key_text": "Supervisor / Verifier Name",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Stocktake Reference Number",
+      "value_text": "ST-2023-8842"
+    },
+    {
+      "key_text": "Item Code",
+      "value_text": "SKU-9921; SKU-4430"
+    },
+    {
+      "key_text": "Description",
+      "value_text": "Industrial Bolts; Steel Brackets"
+    },
+    {
+      "key_text": "Unit",
+      "value_text": "Box; Each"
+    },
+    {
+      "key_text": "System Qty",
+      "value_text": "50; 120"
+    },
+    {
+      "key_text": "Counted Qty",
+      "value_text": "48; 122"
+    },
+    {
+      "key_text": "Variance",
+      "value_text": "-2; +2"
+    },
+    {
+      "key_text": "Notes",
+      "value_text": "Damaged in transit; Extra stock found"
+    },
+    {
+      "key_text": "Total Items Counted",
+      "value_text": "170"
+    },
+    {
+      "key_text": "Total Variances Found",
+      "value_text": "2"
+    },
+    {
+      "key_text": "Total Variance Value  $",
+      "value_text": "45.00"
+    },
+    {
+      "key_text": "Items with Positive Variance (over-count)",
+      "value_text": "SKU-4430"
+    },
+    {
+      "key_text": "Items with Negative Variance (under-count)",
+      "value_text": "SKU-9921"
+    },
+    {
+      "key_text": "Notes / Explanations for Variances",
+      "value_text": "Two boxes of bolts were damaged and removed from inventory; two extra brackets found in secondary bin."
+    },
+    {
+      "key_text": "Counter Signature",
+      "value_text": "Mark Johnson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Supervisor / Verifier",
+      "value_text": "Sarah Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-15"
+    },
+    {
+      "key_text": "Inventory Manager",
+      "value_text": "David Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-16"
+    }
+  ]
+}
+
+Narrative:
+The annual stocktake for the North Distribution Center was performed on October 15, 2023, at 9:30 AM in Aisle 4, Bay B2. Mark Johnson conducted the count, which was verified by Sarah Miller under reference number ST-2023-8842. The inventory audit covered two primary items: Industrial Bolts (SKU-9921), where 48 units were found against a system quantity of 50, and Steel Brackets (SKU-4430), where 122 units were found against a system quantity of 120. This resulted in a total of 170 items counted with two variances identified, totaling a value of $45.00. The negative variance for the bolts was attributed to damaged goods, while the positive variance for the brackets was due to extra stock located in a secondary bin. The report was signed by Mark Johnson and Sarah Miller on the day of the count, with Inventory Manager David Thompson providing final approval on October 16, 2023.

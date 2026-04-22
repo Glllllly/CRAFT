@@ -1,0 +1,4023 @@
+{
+  "bundle_dir": "case_0037_chanpin_文档_API文档",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "api_032.md",
+      "source_type": "md",
+      "candidate_count": 32,
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "api_033.md",
+      "source_type": "md",
+      "candidate_count": 32,
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "api_034.md",
+      "source_type": "md",
+      "candidate_count": 32,
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "api_036.md",
+      "source_type": "md",
+      "candidate_count": 32,
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "api_037.md",
+      "source_type": "md",
+      "candidate_count": 32,
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "\"category\"",
+      "candidates": [
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"category\"",
+          "value": "\"category_name\"",
+          "raw_key": "\"category\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"category\": \"category_name\"",
+            "location": "line:51"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"code\"",
+      "candidates": [
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"code\"",
+          "value": "0,",
+          "raw_key": "\"code\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"code\": 0,",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"createdat\"",
+      "candidates": [
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"createdat\"",
+          "value": "\"2024-01-01T00:00:00Z\"",
+          "raw_key": "\"created_at\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"created_at\": \"2024-01-01T00:00:00Z\"",
+            "location": "line:34"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"data\"",
+      "candidates": [
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"data\"",
+          "value": "{",
+          "raw_key": "\"data\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"data\": {",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"description\"",
+      "candidates": [
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"description\"",
+          "value": "\"产品描述\",",
+          "raw_key": "\"description\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"description\": \"产品描述\",",
+            "location": "line:50"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"id\"",
+      "candidates": [
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"id\"",
+          "value": "1,",
+          "raw_key": "\"id\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"id\": 1,",
+            "location": "line:31"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"list\"",
+      "candidates": [
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"list\"",
+          "value": "[",
+          "raw_key": "\"list\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"list\": [",
+            "location": "line:29"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"message\"",
+      "candidates": [
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"message\"",
+          "value": "\"success\",",
+          "raw_key": "\"message\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"message\": \"success\",",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"name\"",
+      "candidates": [
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"产品A\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"产品A\",",
+            "location": "line:32"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"name\"",
+          "value": "\"新产品\",",
+          "raw_key": "\"name\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"name\": \"新产品\",",
+            "location": "line:49"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"page\"",
+      "candidates": [
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"page\"",
+          "value": "1,",
+          "raw_key": "\"page\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"page\": 1,",
+            "location": "line:28"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"status\"",
+      "candidates": [
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"status\"",
+          "value": "\"active\",",
+          "raw_key": "\"status\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"status\": \"active\",",
+            "location": "line:33"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "\"total\"",
+      "candidates": [
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "\"total\"",
+          "value": "100,",
+          "raw_key": "\"total\"",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "\"total\": 100,",
+            "location": "line:27"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**api版本**",
+      "candidates": [
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**api版本**",
+          "value": "v1",
+          "raw_key": "- **API版本**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **API版本**: v1",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**响应",
+      "candidates": [
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应",
+          "value": "**",
+          "raw_key": "**响应",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应:**",
+            "location": "line:55"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**响应格式**",
+      "candidates": [
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应格式**",
+          "value": "JSON",
+          "raw_key": "- **响应格式**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **响应格式**: JSON",
+            "location": "line:7"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**响应示例",
+      "candidates": [
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**响应示例",
+          "value": "**",
+          "raw_key": "**响应示例",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**响应示例:**",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**基础url**",
+      "candidates": [
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**基础url**",
+          "value": "https://api.example.com/v1",
+          "raw_key": "- **基础URL**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **基础URL**: https://api.example.com/v1",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**认证方式**",
+      "candidates": [
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**认证方式**",
+          "value": "Bearer Token",
+          "raw_key": "- **认证方式**",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- **认证方式**: Bearer Token",
+            "location": "line:6"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**请求体",
+      "candidates": [
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求体",
+          "value": "**",
+          "raw_key": "**请求体",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求体:**",
+            "location": "line:46"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "**请求参数",
+      "candidates": [
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "**请求参数",
+          "value": "**",
+          "raw_key": "**请求参数",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "**请求参数:**",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "200",
+      "candidates": [
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "200",
+          "value": "创建成功",
+          "raw_key": "- 200",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 200: 创建成功",
+            "location": "line:56"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "400",
+      "candidates": [
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "400",
+          "value": "参数错误",
+          "raw_key": "- 400",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 400: 参数错误",
+            "location": "line:57"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "401",
+      "candidates": [
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "401",
+          "value": "未认证",
+          "raw_key": "- 401",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 401: 未认证",
+            "location": "line:58"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "403",
+      "candidates": [
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "403",
+          "value": "无权限",
+          "raw_key": "- 403",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- 403: 无权限",
+            "location": "line:59"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "`limit`(可选)",
+      "candidates": [
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`limit`(可选)",
+          "value": "每页数量，默认20",
+          "raw_key": "- `limit` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `limit` (可选): 每页数量，默认20",
+            "location": "line:18"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "`page`(可选)",
+      "candidates": [
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`page`(可选)",
+          "value": "页码，默认1",
+          "raw_key": "- `page` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `page` (可选): 页码，默认1",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "`status`(可选)",
+      "candidates": [
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "`status`(可选)",
+          "value": "产品状态过滤",
+          "raw_key": "- `status` (可选)",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "- `status` (可选): 产品状态过滤",
+            "location": "line:19"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "代码",
+      "candidates": [
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_032.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_033.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_034.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_036.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "参数验证失败",
+          "raw_key": "1001",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1001 | 参数验证失败 |",
+            "location": "markdown_table_row:4"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "成功",
+          "raw_key": "0",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 0 | 成功 |",
+            "location": "markdown_table_row:3"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "权限不足",
+          "raw_key": "1003",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1003 | 权限不足 |",
+            "location": "markdown_table_row:6"
+          },
+          "confidence": 0.9
+        },
+        {
+          "key": "代码",
+          "value": "资源不存在",
+          "raw_key": "1002",
+          "source_file": "api_037.md",
+          "source_type": "md",
+          "evidence": {
+            "text": "| 1002 | 资源不存在 |",
+            "location": "markdown_table_row:5"
+          },
+          "confidence": 0.9
+        }
+      ]
+    }
+  ]
+}

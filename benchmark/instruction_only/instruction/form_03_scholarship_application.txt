@@ -1,0 +1,154 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Full Legal Name:",
+      "value_text": "Jordan Alexander Smith"
+    },
+    {
+      "key_text": "Student ID:",
+      "value_text": "88293014"
+    },
+    {
+      "key_text": "Date of Birth  mm/dd/yyyy:",
+      "value_text": "05/12/2002"
+    },
+    {
+      "key_text": "Permanent Home Address:",
+      "value_text": "452 Oak Ridge Drive"
+    },
+    {
+      "key_text": "City, State, ZIP:",
+      "value_text": "Springfield, IL, 62704"
+    },
+    {
+      "key_text": "Country:",
+      "value_text": "USA"
+    },
+    {
+      "key_text": "Cell Phone:",
+      "value_text": "217-555-0198"
+    },
+    {
+      "key_text": "University E-mail:",
+      "value_text": "jasmith@university.edu"
+    },
+    {
+      "key_text": "Citizenship Status:",
+      "value_text": "U.S. Citizen"
+    },
+    {
+      "key_text": "First-Generation Student?  Y / N:",
+      "value_text": "Y"
+    },
+    {
+      "key_text": "Degree Programme / Major:",
+      "value_text": "Bachelor of Science in Environmental Engineering"
+    },
+    {
+      "key_text": "Current GPA (out of 4.0):",
+      "value_text": "3.85"
+    },
+    {
+      "key_text": "Credit Hours Completed:",
+      "value_text": "84"
+    },
+    {
+      "key_text": "Faculty Advisor Name:",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "Advisor E-mail:",
+      "value_text": "erodriguez@university.edu"
+    },
+    {
+      "key_text": "Expected Graduation Date:",
+      "value_text": "May 2026"
+    },
+    {
+      "key_text": "Enrolment Status  (Full/Part-Time):",
+      "value_text": "Full-Time"
+    },
+    {
+      "key_text": "Name of Scholarship Applied For:",
+      "value_text": "Sustainability Leadership Grant"
+    },
+    {
+      "key_text": "Award Amount (if specified)  $:",
+      "value_text": "5000"
+    },
+    {
+      "key_text": "Application Term / Year:",
+      "value_text": "Fall 2024"
+    },
+    {
+      "key_text": "How did you learn about this scholarship?:",
+      "value_text": "University Financial Aid Newsletter"
+    },
+    {
+      "key_text": "Annual Family Income (approx.)  $:",
+      "value_text": "42000"
+    },
+    {
+      "key_text": "Number of Dependants in Household:",
+      "value_text": "3"
+    },
+    {
+      "key_text": "Other Financial Aid Received  $:",
+      "value_text": "12000"
+    },
+    {
+      "key_text": "Source(s) of Other Aid:",
+      "value_text": "Federal Pell Grant"
+    },
+    {
+      "key_text": "Describe your academic and career goals and why you merit this scholarship (500 words max)",
+      "value_text": "My goal is to develop sustainable water filtration systems for rural communities. This scholarship will allow me to focus on my research project without the burden of part-time employment."
+    },
+    {
+      "key_text": "Reference 1 — Name & Title:",
+      "value_text": "Prof. Mark Thompson, Dept. Chair"
+    },
+    {
+      "key_text": "Reference 1 — E-mail & Phone:",
+      "value_text": "mthompson@university.edu, 555-0122"
+    },
+    {
+      "key_text": "Reference 2 — Name & Title:",
+      "value_text": "Sarah Jenkins, Lab Supervisor"
+    },
+    {
+      "key_text": "Reference 2 — E-mail & Phone:",
+      "value_text": "sjenkins@corp.com, 555-0987"
+    },
+    {
+      "key_text": "Applicant Signature",
+      "value_text": "Jordan A. Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/15/2023"
+    },
+    {
+      "key_text": "Faculty Advisor Signature",
+      "value_text": "Dr. Elena Rodriguez"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/16/2023"
+    },
+    {
+      "key_text": "Financial Aid Office",
+      "value_text": "Office Representative"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/20/2023"
+    }
+  ]
+}
+
+Narrative:
+Jordan Alexander Smith, a first-generation student with student ID 88293014, is applying for the Sustainability Leadership Grant for the Fall 2024 term. Born on May 12, 2002, Jordan resides at 452 Oak Ridge Drive, Springfield, IL 62704, USA. Jordan can be reached at 217-555-0198 or via university email at jasmith@university.edu. As a full-time Environmental Engineering major, Jordan maintains a 3.85 GPA and has completed 84 credit hours, with an expected graduation date of May 2026. Jordan's faculty advisor is Dr. Elena Rodriguez (erodriguez@university.edu). 
+
+Jordan learned about the $5,000 scholarship through the university's financial aid newsletter. Regarding financial need, Jordan reports an annual family income of approximately $42,000, three household dependents, and $12,000 in existing aid from the Federal Pell Grant. Jordan's personal statement highlights a career goal of creating sustainable water filtration systems for rural areas, noting that the scholarship would allow for more research focus. References include Prof. Mark Thompson (mthompson@university.edu, 555-0122) and Sarah Jenkins (sjenkins@corp.com, 555-0987). The application was signed by Jordan on 10/15/2023, with advisor signature on 10/16/2023 and financial aid office review on 10/20/2023.

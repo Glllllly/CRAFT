@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0072_houqin_供应商管理_结算单据",
+    "tenant":  "houqin",
+    "topic":  "供应商管理",
+    "subtopic":  "结算单据",
+    "source_dir":  "houqin\\供应商管理\\结算单据",
+    "total_files_in_source_dir":  72,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\供应商管理\\结算单据\\访问记录_5229.json",
+                      "copied_name":  "访问记录_5229.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\结算单据\\备件申请_8724.csv",
+                      "copied_name":  "备件申请_8724.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1362
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\结算单据\\结算单_24.txt",
+                      "copied_name":  "结算单_24.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  434
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\结算单据\\工作报告_5259.eml",
+                      "copied_name":  "工作报告_5259.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\供应商管理\\结算单据\\月报_8415.csv",
+                      "copied_name":  "月报_8415.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1356
+                  }
+              ]
+}

@@ -1,0 +1,136 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Requestor Name:",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Request Number:",
+      "value_text": "REQ-2023-8842"
+    },
+    {
+      "key_text": "Project Name:",
+      "value_text": "Northwest Expansion Phase II"
+    },
+    {
+      "key_text": "Cust. Rep. Name/Phone:",
+      "value_text": "Mark Thompson / 555-012-9988"
+    },
+    {
+      "key_text": "Pipeline:",
+      "value_text": "Mainline-A"
+    },
+    {
+      "key_text": "Other:",
+      "value_text": "N/A"
+    },
+    {
+      "key_text": "System/Line No.:",
+      "value_text": "SL-402"
+    },
+    {
+      "key_text": "Connection Mile Post:",
+      "value_text": "MP 142.5"
+    },
+    {
+      "key_text": "Facilty Planner:",
+      "value_text": "Robert Chen"
+    },
+    {
+      "key_text": "Region:",
+      "value_text": "Western Division"
+    },
+    {
+      "key_text": "Project Location(s):",
+      "value_text": "Clearwater County, Sector 7"
+    },
+    {
+      "key_text": "Location/Dept.:",
+      "value_text": "Engineering Dept - HQ"
+    },
+    {
+      "key_text": "Required Date:",
+      "value_text": "12/15/2023"
+    },
+    {
+      "key_text": "Type of:",
+      "value_text": "New"
+    },
+    {
+      "key_text": "Estimate:",
+      "value_text": "$450,000"
+    },
+    {
+      "key_text": "Scope:",
+      "value_text": "Installation of secondary pressure regulation valve and metering station upgrades."
+    },
+    {
+      "key_text": "Measurement:",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Regulation:",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Compression:",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Piping:",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Power:",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Other:",
+      "value_text": "No"
+    },
+    {
+      "key_text": "Other:",
+      "value_text": null
+    },
+    {
+      "key_text": "Other:",
+      "value_text": null
+    },
+    {
+      "key_text": "Other:",
+      "value_text": null
+    },
+    {
+      "key_text": "Describe Facility Ownership/Operation:",
+      "value_text": "Owned and operated by regional infrastructure division."
+    },
+    {
+      "key_text": "Regulatory:",
+      "value_text": "Pending"
+    },
+    {
+      "key_text": "Environmental:",
+      "value_text": "Approved"
+    },
+    {
+      "key_text": "Legal Review:",
+      "value_text": "In Progress"
+    },
+    {
+      "key_text": "Type:",
+      "value_text": "Standard"
+    },
+    {
+      "key_text": "Right-of-Way:",
+      "value_text": "Secured"
+    },
+    {
+      "key_text": "Comments:",
+      "value_text": "Expedite phase 1"
+    }
+  ]
+}
+
+Narrative:
+This request, filed by Sarah Jenkins under request number REQ-2023-8842, pertains to the "Northwest Expansion Phase II" project. The customer representative, Mark Thompson, can be reached at 555-012-9988. The project is associated with Mainline-A, system line SL-402, at connection mile post 142.5. Robert Chen is the facility planner for the Western Division, covering the project location in Clearwater County, Sector 7. The request originated from the Engineering Department and has a required completion date of December 15, 2023. It is a new project with an estimated cost of $450,000. The scope involves the installation of a secondary pressure regulation valve and metering station upgrades. Technical requirements include measurement, regulation, piping, and power. The facility is owned and operated by the regional infrastructure division. Regarding status, regulatory is pending, environmental is approved, legal review is in progress, and the right-of-way is secured. The standard project type is noted, and the comments section requests to expedite phase 1.

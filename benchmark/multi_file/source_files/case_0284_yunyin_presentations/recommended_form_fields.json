@@ -1,0 +1,154 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "February 10, 2024",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q12024",
+                                   "selected_value":  "Launch phase",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q22024",
+                                   "selected_value":  "Growth phase",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q32024",
+                                   "selected_value":  "Optimization phase",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "q42024",
+                                   "selected_value":  "Planning for next year",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide1",
+                                   "selected_value":  "Title Slide",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide2",
+                                   "selected_value":  "Executive Summary",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide3",
+                                   "selected_value":  "Market Overview",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide4",
+                                   "selected_value":  "Campaign Strategy",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide5",
+                                   "selected_value":  "Social Media Plan",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide6",
+                                   "selected_value":  "Email Marketing",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide7",
+                                   "selected_value":  "Content Strategy",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide8",
+                                   "selected_value":  "Budget Breakdown",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide9",
+                                   "selected_value":  "KPIs and Metrics",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creative",
+                                   "selected_value":  "25%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide10",
+                                   "selected_value":  "Timeline and Roadmap",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide11",
+                                   "selected_value":  "Risk Mitigation",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "slide12",
+                                   "selected_value":  "Q\u0026A",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "personnel",
+                                   "selected_value":  "25%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "presenter",
+                                   "selected_value":  "Marketing Director",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "campaign1",
+                                   "selected_value":  "Brand Awareness",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "campaign2",
+                                   "selected_value":  "Lead Generation",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "campaign3",
+                                   "selected_value":  "Customer Retention",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "growthrate",
+                                   "selected_value":  "25% CAGR",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "marketsize",
+                                   "selected_value":  "$50B",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "mediaspend",
+                                   "selected_value":  "40%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "platformfocus",
+                                   "selected_value":  "Facebook, Instagram, LinkedIn",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "contentcalendar",
+                                   "selected_value":  "30+ posts/month",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "toolstechnology",
+                                   "selected_value":  "10%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "presentationtitle",
+                                   "selected_value":  "\"Marketing Strategy Q1 2024\"",
+                                   "conflict":  false
+                               }
+                           ]
+}

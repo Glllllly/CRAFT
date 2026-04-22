@@ -1,0 +1,108 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Retention Schedule Number",
+      "value_text": "408"
+    },
+    {
+      "key_text": "R.C. Number",
+      "value_text": "0771"
+    },
+    {
+      "key_text": "Company Number",
+      "value_text": "413"
+    },
+    {
+      "key_text": "Destination Date",
+      "value_text": "10/15/1997"
+    },
+    {
+      "key_text": "Transfer Number",
+      "value_text": "97-024"
+    },
+    {
+      "key_text": "Company",
+      "value_text": "ENRON CORP"
+    },
+    {
+      "key_text": "Department",
+      "value_text": "Merchant Finance"
+    },
+    {
+      "key_text": "Section",
+      "value_text": "Accounting"
+    },
+    {
+      "key_text": "Retention Schedule Item Number",
+      "value_text": "20403"
+    },
+    {
+      "key_text": "Record Title by Filing Arrangement and Record Series Range, eg. 1-5, A-H, etc. (Title Same as Used in Retention Schedule)",
+      "value_text": "Cactus Reports 1997, Cactus Distribution Schedules, Cactus Report"
+    },
+    {
+      "key_text": "From",
+      "value_text": "01/01/1997"
+    },
+    {
+      "key_text": "To",
+      "value_text": "12/31/1997"
+    },
+    {
+      "key_text": "Container Number",
+      "value_text": "Z0063220"
+    },
+    {
+      "key_text": "Location #",
+      "value_text": "A-12"
+    },
+    {
+      "key_text": "Prepared By",
+      "value_text": "Dana Davis"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/12/1997"
+    },
+    {
+      "key_text": "Building/Room/City",
+      "value_text": "ENRON CORP./EB 2448a/HOUSTON"
+    },
+    {
+      "key_text": "Department Head",
+      "value_text": "Hope Vargas"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/13/1997"
+    },
+    {
+      "key_text": "Computer Input By",
+      "value_text": "John Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/14/1997"
+    },
+    {
+      "key_text": "Checked and Received by",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/16/1997"
+    },
+    {
+      "key_text": "Verified by",
+      "value_text": "Robert Smith"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "10/17/1997"
+    }
+  ]
+}
+
+Narrative:
+This Records Transfer List documents the archiving of files for Enron Corp under Retention Schedule 408, R.C. Number 0771, and Company Number 413. The transfer, identified as 97-024, is scheduled for a destination date of October 15, 1997. The records originate from the Merchant Finance department, specifically the Accounting section. The items being transferred include Cactus Reports from 1997, Cactus Distribution Schedules, and general Cactus Reports, all filed under item number 20403. These records cover the period from January 1, 1997, to December 31, 1997, and are contained in box Z0063220, located at A-12. The list was prepared by Dana Davis on October 12, 1997, at the EB 2448a building in Houston. Department Head Hope Vargas approved the transfer on October 13, 1997. John Miller completed the computer input on October 14, 1997. Finally, the records were checked and received by Sarah Jenkins on October 16, 1997, and verified by Robert Smith on October 17, 1997.

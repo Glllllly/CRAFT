@@ -1,0 +1,76 @@
+{
+  "excel": "case_0102_houqin_性能指标__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "49764"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "购置申请_9961"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "购置申请"
+    },
+    {
+      "label": "date",
+      "value_cell": "M9:Q9",
+      "value": "Tue, 10 Feb 2026 05:30:31 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "D12:H12",
+      "value": "2026-02-10T05:30:31.844860"
+    },
+    {
+      "label": "status",
+      "value_cell": "D17:H17",
+      "value": "待审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "M17:Q17",
+      "value": "中"
+    },
+    {
+      "label": "│趋势",
+      "value_cell": "D20:H20",
+      "value": "↑ 上升 │"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "M20:Q20",
+      "value": "临时"
+    },
+    {
+      "label": "creator",
+      "value_cell": "D25:H25",
+      "value": "郑十"
+    },
+    {
+      "label": "from",
+      "value_cell": "M25:Q25",
+      "value": "李明@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "D28:H28",
+      "value": "马腾@company.com"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M28:Q28",
+      "value": "工作计划"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D33:H33",
+      "value": "这是一条虚拟数据记录"
+    }
+  ]
+}

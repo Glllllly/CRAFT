@@ -1,0 +1,226 @@
+﻿{
+    "excel":  "030.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Project Title",
+                      "value_cell":  "A12:L12",
+                      "value":  "Neural Plasticity in Aging Populations"
+                  },
+                  {
+                      "label":  "Project / Grant Reference Number",
+                      "value_cell":  "M12:X12",
+                      "value":  "NIH-2024-8892"
+                  },
+                  {
+                      "label":  "Principal Investigator",
+                      "value_cell":  "A14:L14",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "PI E-mail",
+                      "value_cell":  "M14:X14",
+                      "value":  "e.vance@university.edu"
+                  },
+                  {
+                      "label":  "Institution / Department",
+                      "value_cell":  "A16:L16",
+                      "value":  "Department of Neuroscience"
+                  },
+                  {
+                      "label":  "Project Duration (months)",
+                      "value_cell":  "M16:X16",
+                      "value":  "36"
+                  },
+                  {
+                      "label":  "Funding Body",
+                      "value_cell":  "A18:L18",
+                      "value":  "National Institutes of Health"
+                  },
+                  {
+                      "label":  "Grant Value $",
+                      "value_cell":  "M18:X18",
+                      "value":  "450,000"
+                  },
+                  {
+                      "label":  "DMP Version",
+                      "value_cell":  "A20:L20",
+                      "value":  "1.0"
+                  },
+                  {
+                      "label":  "Date of This Version",
+                      "value_cell":  "M20:X20",
+                      "value":  "2024-05-15"
+                  },
+                  {
+                      "label":  "What types of data will be collected or created?",
+                      "value_cell":  "A25:X26",
+                      "value":  "High-resolution fMRI brain imaging scans, cognitive assessment scores, and demographic survey data."
+                  },
+                  {
+                      "label":  "Estimated Volume of Data",
+                      "value_cell":  "A29:L29",
+                      "value":  "2.5 TB"
+                  },
+                  {
+                      "label":  "File Formats to be Used",
+                      "value_cell":  "M29:X29",
+                      "value":  "NIfTI, CSV, JSON"
+                  },
+                  {
+                      "label":  "How will data be collected?",
+                      "value_cell":  "A31:L31",
+                      "value":  "Clinical MRI scanning sessions and electronic participant questionnaires."
+                  },
+                  {
+                      "label":  "Who will collect it?",
+                      "value_cell":  "M31:X31",
+                      "value":  "Postdoctoral research associates and clinical technicians."
+                  },
+                  {
+                      "label":  "How will data quality and consistency be ensured?",
+                      "value_cell":  "A36:X36",
+                      "value":  "Standardized calibration of MRI machines and automated validation scripts for survey inputs."
+                  },
+                  {
+                      "label":  "Metadata Standards to be Used",
+                      "value_cell":  "A38:L38",
+                      "value":  "BIDS (Brain Imaging Data Structure)"
+                  },
+                  {
+                      "label":  "Documentation Method",
+                      "value_cell":  "M38:X38",
+                      "value":  "Electronic lab notebooks and project-specific codebooks."
+                  },
+                  {
+                      "label":  "How will data be organised / named",
+                      "value_cell":  "A40:X40",
+                      "value":  "Hierarchical folder structure by subject ID; files named by date and session type."
+                  },
+                  {
+                      "label":  "Ethics Approval Reference Number",
+                      "value_cell":  "A45:L45",
+                      "value":  "IRB-2024-0042"
+                  },
+                  {
+                      "label":  "Date of Approval",
+                      "value_cell":  "M45:X45",
+                      "value":  "2024-04-10"
+                  },
+                  {
+                      "label":  "Does data include personal data?  Y / N",
+                      "value_cell":  "A47:L47",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "GDPR / Privacy law compliance approach",
+                      "value_cell":  "M47:X47",
+                      "value":  "Pseudonymization of all participant records and secure storage on encrypted servers."
+                  },
+                  {
+                      "label":  "IP / Copyright Ownership",
+                      "value_cell":  "A49:L49",
+                      "value":  "University Intellectual Property Office"
+                  },
+                  {
+                      "label":  "Data Sharing Agreements Required?  Y / N",
+                      "value_cell":  "M49:X49",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Primary Storage Location",
+                      "value_cell":  "A55:L55",
+                      "value":  "University Secured Research Server"
+                  },
+                  {
+                      "label":  "Backup Location",
+                      "value_cell":  "M55:X55",
+                      "value":  "Off-site cloud storage (AWS GovCloud)"
+                  },
+                  {
+                      "label":  "Backup Frequency",
+                      "value_cell":  "A57:L57",
+                      "value":  "Daily"
+                  },
+                  {
+                      "label":  "Access Controls  (who can access?)",
+                      "value_cell":  "M57:X57",
+                      "value":  "Principal Investigator and authorized research staff via LDAP credentials."
+                  },
+                  {
+                      "label":  "Encryption Used?  Y / N",
+                      "value_cell":  "A60:L60",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Encryption Method / Tool",
+                      "value_cell":  "M60:X60",
+                      "value":  "AES-256 bit encryption"
+                  },
+                  {
+                      "label":  "Will data be shared?  Y / N",
+                      "value_cell":  "A65:L65",
+                      "value":  "Y"
+                  },
+                  {
+                      "label":  "Embargo Period  (if any)",
+                      "value_cell":  "M65:X65",
+                      "value":  "12 months"
+                  },
+                  {
+                      "label":  "Repository / Data Archive  (e.g., Zenodo, Dryad)",
+                      "value_cell":  "A67:L67",
+                      "value":  "OpenNeuro"
+                  },
+                  {
+                      "label":  "Licence for Shared Data  (e.g., CC-BY)",
+                      "value_cell":  "M67:X67",
+                      "value":  "CC-BY-NC 4.0"
+                  },
+                  {
+                      "label":  "Data Retention Period  (years)",
+                      "value_cell":  "A69:L69",
+                      "value":  "10"
+                  },
+                  {
+                      "label":  "Deletion / Destruction Method",
+                      "value_cell":  "M69:X69",
+                      "value":  "NIST-standard secure digital wiping"
+                  },
+                  {
+                      "label":  "Any data that cannot be shared 鈥?explain reasons",
+                      "value_cell":  "A71:X71",
+                      "value":  "Raw high-resolution structural scans containing potentially identifiable facial features."
+                  },
+                  {
+                      "label":  "Principal Investigator",
+                      "value_cell":  "A78:L78",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N78:X78",
+                      "value":  "2024-05-16"
+                  },
+                  {
+                      "label":  "Research Integrity Officer",
+                      "value_cell":  "A81:L81",
+                      "value":  "Marcus Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N81:X81",
+                      "value":  "2024-05-18"
+                  },
+                  {
+                      "label":  "Data Protection Officer",
+                      "value_cell":  "A84:L84",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N84:X84",
+                      "value":  "2024-05-19"
+                  }
+              ]
+}

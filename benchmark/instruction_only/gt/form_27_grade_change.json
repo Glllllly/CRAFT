@@ -1,0 +1,186 @@
+﻿{
+    "excel":  "form_27_grade_change.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Student ID",
+                      "value_cell":  "A9:H9",
+                      "value":  "88293041"
+                  },
+                  {
+                      "label":  "Last Name",
+                      "value_cell":  "I9:P9",
+                      "value":  "Henderson"
+                  },
+                  {
+                      "label":  "First Name",
+                      "value_cell":  "Q9:X9",
+                      "value":  "Marcus"
+                  },
+                  {
+                      "label":  "E-mail Address",
+                      "value_cell":  "A11:H11",
+                      "value":  "m.henderson@university.edu"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "I11:P11",
+                      "value":  "555-012-9988"
+                  },
+                  {
+                      "label":  "Current Academic Year / Level",
+                      "value_cell":  "Q11:X11",
+                      "value":  "Junior"
+                  },
+                  {
+                      "label":  "Course Subject",
+                      "value_cell":  "A16:F16",
+                      "value":  "BIO"
+                  },
+                  {
+                      "label":  "Course Number",
+                      "value_cell":  "G16:J16",
+                      "value":  "302"
+                  },
+                  {
+                      "label":  "Section",
+                      "value_cell":  "K16:N16",
+                      "value":  "01"
+                  },
+                  {
+                      "label":  "CRN",
+                      "value_cell":  "O16:R16",
+                      "value":  "44921"
+                  },
+                  {
+                      "label":  "Credit Hours",
+                      "value_cell":  "S16:X16",
+                      "value":  "4"
+                  },
+                  {
+                      "label":  "Course Title",
+                      "value_cell":  "A18:X18",
+                      "value":  "Advanced Cellular Biology"
+                  },
+                  {
+                      "label":  "Term / Semester",
+                      "value_cell":  "A20:H20",
+                      "value":  "Fall"
+                  },
+                  {
+                      "label":  "Year",
+                      "value_cell":  "I20:L20",
+                      "value":  "2023"
+                  },
+                  {
+                      "label":  "Instructor Name",
+                      "value_cell":  "M20:X20",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Current Grade on Record",
+                      "value_cell":  "A22:H22",
+                      "value":  "C+"
+                  },
+                  {
+                      "label":  "Requested Grade",
+                      "value_cell":  "I22:N22",
+                      "value":  "B"
+                  },
+                  {
+                      "label":  "Grade Type",
+                      "value_cell":  "O22:X22",
+                      "value":  "Letter"
+                  },
+                  {
+                      "label":  "Clerical / Recording Error",
+                      "value_cell":  "F27:G27",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Additional Work Submitted",
+                      "value_cell":  "L27:M27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Medical / Emergency",
+                      "value_cell":  "R27:S27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Incomplete Contract Fulfilled",
+                      "value_cell":  "X27:Y27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Other",
+                      "value_cell":  "AD27:AE27",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Reason:",
+                      "value_cell":  "A28:X29",
+                      "value":  "Clerical error in midterm exam score entry."
+                  },
+                  {
+                      "label":  "Detailed Explanation of Basis for Change / Appeal",
+                      "value_cell":  "A30:X30",
+                      "value":  "The midterm exam grade was recorded as 62/100 instead of 82/100, which significantly impacted the final course grade."
+                  },
+                  {
+                      "label":  "Documentation Attached",
+                      "value_cell":  "A32:X32",
+                      "value":  "Original graded midterm exam paper"
+                  },
+                  {
+                      "label":  "Approve Grade Change",
+                      "value_cell":  "F37:G37",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Deny Request",
+                      "value_cell":  "L37:M37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Refer to Academic Integrity",
+                      "value_cell":  "R37:S37",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Faculty Comments / Justification",
+                      "value_cell":  "A38:X38",
+                      "value":  "Verified the error against my grade book records. The correction is accurate."
+                  },
+                  {
+                      "label":  "Faculty Signature",
+                      "value_cell":  "A40:L40",
+                      "value":  "Dr. Elena Vance"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M40:T40",
+                      "value":  "01/15/2024"
+                  },
+                  {
+                      "label":  "New Grade Entered",
+                      "value_cell":  "U40:X40",
+                      "value":  "B"
+                  },
+                  {
+                      "label":  "Dept Chair / Dean",
+                      "value_cell":  "A45:L45",
+                      "value":  "Prof. Arthur Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "M45:T45",
+                      "value":  "01/18/2024"
+                  },
+                  {
+                      "label":  "Registrar Use",
+                      "value_cell":  "U45:X45",
+                      "value":  "Processed"
+                  }
+              ]
+}

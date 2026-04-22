@@ -1,0 +1,206 @@
+{
+  "excel": "case_0223_kaifa_ansible__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "0.become",
+      "value_cell": "D6:H6",
+      "value": "True"
+    },
+    {
+      "label": "0.remoteuser",
+      "value_cell": "M6:Q6",
+      "value": "ansible"
+    },
+    {
+      "label": "remoteuser",
+      "value_cell": "D9:H9",
+      "value": "ansible"
+    },
+    {
+      "label": "0.pretasks.0.name",
+      "value_cell": "D14:H14",
+      "value": "Validate service configuration"
+    },
+    {
+      "label": "0.pretasks.0.assert.that.0",
+      "value_cell": "M14:Q14",
+      "value": "service_name is defined"
+    },
+    {
+      "label": "0.pretasks.0.assert.that.1",
+      "value_cell": "D17:H17",
+      "value": "service_version is defined"
+    },
+    {
+      "label": "0.pretasks.0.assert.failmsg",
+      "value_cell": "M17:Q17",
+      "value": "Service configuration is invalid"
+    },
+    {
+      "label": "failmsg",
+      "value_cell": "D20:H20",
+      "value": "Service configuration is invalid"
+    },
+    {
+      "label": "0.tasks.0.name",
+      "value_cell": "D25:H25",
+      "value": "Pull latest service image"
+    },
+    {
+      "label": "0.tasks.0.dockerimage.name",
+      "value_cell": "M25:Q25",
+      "value": "registry.example.com/{{ service_name }}"
+    },
+    {
+      "label": "0.tasks.0.dockerimage.tag",
+      "value_cell": "D28:H28",
+      "value": "{{ service_version }}"
+    },
+    {
+      "label": "0.tasks.0.dockerimage.state",
+      "value_cell": "M28:Q28",
+      "value": "present"
+    },
+    {
+      "label": "0.tasks.1.name",
+      "value_cell": "D31:H31",
+      "value": "Stop existing service"
+    },
+    {
+      "label": "0.tasks.1.dockercontainer.state",
+      "value_cell": "M31:Q31",
+      "value": "stopped"
+    },
+    {
+      "label": "0.tasks.1.dockercontainer.forcekill",
+      "value_cell": "D34:H34",
+      "value": "True"
+    },
+    {
+      "label": "0.tasks.1.ignoreerrors",
+      "value_cell": "M34:Q34",
+      "value": "True"
+    },
+    {
+      "label": "forcekill",
+      "value_cell": "D37:H37",
+      "value": "True"
+    },
+    {
+      "label": "0.tasks.2.name",
+      "value_cell": "M37:Q37",
+      "value": "Start service container"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.name",
+      "value_cell": "D40:H40",
+      "value": "{{ service_name }}"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.image",
+      "value_cell": "M40:Q40",
+      "value": "registry.example.com/{{ service_name }}:{{ service_version }}"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.state",
+      "value_cell": "D43:H43",
+      "value": "started"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.ports.0",
+      "value_cell": "M43:Q43",
+      "value": "{{ service_port }}:{{ service_port }}"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.restartpolicy",
+      "value_cell": "D46:H46",
+      "value": "always"
+    },
+    {
+      "label": "0.tasks.2.dockercontainer.env.javaopts",
+      "value_cell": "M46:Q46",
+      "value": "-Xms256m -Xmx512m"
+    },
+    {
+      "label": "javaopts",
+      "value_cell": "D49:H49",
+      "value": "-Xms256m -Xmx512m"
+    },
+    {
+      "label": "0.tasks.3.name",
+      "value_cell": "D54:H54",
+      "value": "Verify service is running"
+    },
+    {
+      "label": "0.tasks.3.waitfor.host",
+      "value_cell": "M54:Q54",
+      "value": "localhost"
+    },
+    {
+      "label": "0.tasks.3.waitfor.port",
+      "value_cell": "D57:H57",
+      "value": "{{ service_port }}"
+    },
+    {
+      "label": "0.tasks.3.waitfor.state",
+      "value_cell": "M57:Q57",
+      "value": "present"
+    },
+    {
+      "label": "0.tasks.3.waitfor.timeout",
+      "value_cell": "D60:H60",
+      "value": "30"
+    },
+    {
+      "label": "0.posttasks.0.name",
+      "value_cell": "D65:H65",
+      "value": "Health check"
+    },
+    {
+      "label": "0.posttasks.0.uri.url",
+      "value_cell": "M65:Q65",
+      "value": "http://localhost:{{ service_port }}/actuator/health"
+    },
+    {
+      "label": "0.posttasks.0.uri.method",
+      "value_cell": "D68:H68",
+      "value": "GET"
+    },
+    {
+      "label": "0.posttasks.0.uri.statuscode",
+      "value_cell": "M68:Q68",
+      "value": "200"
+    },
+    {
+      "label": "0.posttasks.0.register",
+      "value_cell": "D71:H71",
+      "value": "health_result"
+    },
+    {
+      "label": "statuscode",
+      "value_cell": "M71:Q71",
+      "value": "200"
+    },
+    {
+      "label": "0.posttasks.1.name",
+      "value_cell": "D74:H74",
+      "value": "Deployment notification"
+    },
+    {
+      "label": "0.posttasks.1.debug.msg",
+      "value_cell": "M74:Q74",
+      "value": "Service {{ service_name }} v{{ service_version }} deployed successfully"
+    },
+    {
+      "label": "0.posttasks.1.when",
+      "value_cell": "D77:H77",
+      "value": "health_result.status == 200"
+    },
+    {
+      "label": "0.tasks.1.dockercontainer.name",
+      "value_cell": "D82:H82",
+      "value": "{{ service_name }}"
+    }
+  ]
+}

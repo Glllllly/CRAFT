@@ -1,0 +1,66 @@
+﻿{
+    "excel":  "05490745-546d-43e2-98f3-9b255be1bd28.xlsx",
+    "sheet":  "Sheet1",
+    "pairs":  [
+                  {
+                      "label":  "Charter:",
+                      "value_cell":  "B5:G5",
+                      "value":  "Lighthouse Charter School"
+                  },
+                  {
+                      "label":  "Employee Name:",
+                      "value_cell":  "B7:G7",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Employee Title:",
+                      "value_cell":  "B9:G9",
+                      "value":  "Reading Interventionist"
+                  },
+                  {
+                      "label":  "Fiscal Year:",
+                      "value_cell":  "B11:C11",
+                      "value":  "2023-2024"
+                  },
+                  {
+                      "label":  "(Employee Name)",
+                      "value_cell":  "B14:F14",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "(Beginning Date ex. Month/Date/Year)",
+                      "value_cell":  "B16:F16",
+                      "value":  "10/01/2023"
+                  },
+                  {
+                      "label":  "(Ending Date ex. Month/Date/Year)",
+                      "value_cell":  "A19:B19",
+                      "value":  "10/31/2023"
+                  },
+                  {
+                      "label":  "(Federal Funding Source/Grant)",
+                      "value_cell":  "A22:C22",
+                      "value":  "Title I, Part A"
+                  },
+                  {
+                      "label":  "Employee Signature:",
+                      "value_cell":  "B26:G26",
+                      "value":  "Elena Rodriguez"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B27:C27",
+                      "value":  "11/02/2023"
+                  },
+                  {
+                      "label":  "Supervisor\u0027s Signature:",
+                      "value_cell":  "B29:G29",
+                      "value":  "Marcus V. Chen"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B30:C30",
+                      "value":  "11/03/2023"
+                  }
+              ]
+}

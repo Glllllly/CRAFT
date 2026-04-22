@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0199_houqin_设备维护_保养计划",
+    "tenant":  "houqin",
+    "topic":  "设备维护",
+    "subtopic":  "保养计划",
+    "source_dir":  "houqin\\设备维护\\保养计划",
+    "total_files_in_source_dir":  53,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\设备维护\\保养计划\\费用统计_8851.json",
+                      "copied_name":  "费用统计_8851.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\保养计划\\考勤表_5673.csv",
+                      "copied_name":  "考勤表_5673.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1374
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\保养计划\\工作报告_5202.txt",
+                      "copied_name":  "工作报告_5202.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  212
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\保养计划\\出差申请_1137.eml",
+                      "copied_name":  "出差申请_1137.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\设备维护\\保养计划\\审核单_2825.csv",
+                      "copied_name":  "审核单_2825.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  }
+              ]
+}

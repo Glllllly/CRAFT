@@ -1,0 +1,16 @@
+﻿{
+    "excel":  "04e26b99-a1be-4096-b5e8-9405726b6eb4.xlsx",
+    "sheet":  "Instructions",
+    "pairs":  [
+                  {
+                      "label":  "Prepared by:",
+                      "value_cell":  "B6",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date:",
+                      "value_cell":  "B7",
+                      "value":  "November 14, 2023"
+                  }
+              ]
+}

@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0213_houqin_采购管理_2024",
+    "tenant":  "houqin",
+    "topic":  "采购管理",
+    "subtopic":  "2024",
+    "source_dir":  "houqin\\采购管理\\2024",
+    "total_files_in_source_dir":  34,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\采购管理\\2024\\报销申请_9170.json",
+                      "copied_name":  "报销申请_9170.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  303
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2024\\审核单_5108.csv",
+                      "copied_name":  "审核单_5108.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1350
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2024\\购置申请_3881.txt",
+                      "copied_name":  "购置申请_3881.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2024\\销售统计_4051.eml",
+                      "copied_name":  "销售统计_4051.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\采购管理\\2024\\备件申请_2372.csv",
+                      "copied_name":  "备件申请_2372.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1347
+                  }
+              ]
+}

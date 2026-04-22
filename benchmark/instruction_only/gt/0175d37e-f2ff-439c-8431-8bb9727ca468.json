@@ -1,0 +1,86 @@
+﻿{
+    "excel":  "0175d37e-f2ff-439c-8431-8bb9727ca468.xlsx",
+    "sheet":  "Info",
+    "pairs":  [
+                  {
+                      "label":  "Report Number",
+                      "value_cell":  "D4:F4",
+                      "value":  "2023-CR-102"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "D5:F5",
+                      "value":  "10/25/2023"
+                  },
+                  {
+                      "label":  "Project Ref. Number",
+                      "value_cell":  "D6:F6",
+                      "value":  "PRJ-998"
+                  },
+                  {
+                      "label":  "Project Number",
+                      "value_cell":  "D7:F7",
+                      "value":  "450-88-12"
+                  },
+                  {
+                      "label":  "Contract Number",
+                      "value_cell":  "D8:F8",
+                      "value":  "DOT-CN-2023-01"
+                  },
+                  {
+                      "label":  "Project Engineer",
+                      "value_cell":  "D9:F9",
+                      "value":  "Michael Henderson"
+                  },
+                  {
+                      "label":  "Contractor",
+                      "value_cell":  "D10:F10",
+                      "value":  "Apex Paving \u0026 Concrete"
+                  },
+                  {
+                      "label":  "Region",
+                      "value_cell":  "D11:F11",
+                      "value":  "District 4"
+                  },
+                  {
+                      "label":  "County",
+                      "value_cell":  "D12:F12",
+                      "value":  "Montgomery"
+                  },
+                  {
+                      "label":  "Route",
+                      "value_cell":  "D13:F13",
+                      "value":  "Highway 50"
+                  },
+                  {
+                      "label":  "Test Date",
+                      "value_cell":  "D14:F14",
+                      "value":  "10/24/2023"
+                  },
+                  {
+                      "label":  "Weather / Temp.",
+                      "value_cell":  "D15:F15",
+                      "value":  "Partly Cloudy / 68掳F"
+                  },
+                  {
+                      "label":  "Test Number",
+                      "value_cell":  "D16:F16",
+                      "value":  "TN-45-B"
+                  },
+                  {
+                      "label":  "Leave This Blank",
+                      "value_cell":  "D17:F17",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Standard Spec.",
+                      "value_cell":  "D18:F18",
+                      "value":  "Section 501 - Concrete Pavement"
+                  },
+                  {
+                      "label":  "Equip. Calib. Date",
+                      "value_cell":  "D19:F19",
+                      "value":  "06/15/2023"
+                  }
+              ]
+}

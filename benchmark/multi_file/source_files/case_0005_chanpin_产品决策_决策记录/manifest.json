@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0005_chanpin_产品决策_决策记录",
+    "tenant":  "chanpin",
+    "topic":  "产品决策",
+    "subtopic":  "决策记录",
+    "source_dir":  "chanpin\\产品决策\\决策记录",
+    "total_files_in_source_dir":  80,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品决策\\决策记录\\记录_74.txt",
+                      "copied_name":  "记录_74.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  788
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品决策\\决策记录\\记录_35.txt",
+                      "copied_name":  "记录_35.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  788
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品决策\\决策记录\\记录_51.txt",
+                      "copied_name":  "记录_51.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  788
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品决策\\决策记录\\记录_66.txt",
+                      "copied_name":  "记录_66.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  787
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品决策\\决策记录\\记录_65.txt",
+                      "copied_name":  "记录_65.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  787
+                  }
+              ]
+}

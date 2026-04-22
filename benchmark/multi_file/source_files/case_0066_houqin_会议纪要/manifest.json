@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0066_houqin_会议纪要",
+    "tenant":  "houqin",
+    "topic":  "会议纪要",
+    "subtopic":  "",
+    "source_dir":  "houqin\\会议纪要",
+    "total_files_in_source_dir":  355,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\会议纪要\\费用统计_6475.json",
+                      "copied_name":  "费用统计_6475.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  297
+                  },
+                  {
+                      "source_rel":  "houqin\\会议纪要\\审核单_5754.csv",
+                      "copied_name":  "审核单_5754.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1371
+                  },
+                  {
+                      "source_rel":  "houqin\\会议纪要\\图片分类插件.md",
+                      "copied_name":  "图片分类插件.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  20250
+                  },
+                  {
+                      "source_rel":  "houqin\\会议纪要\\访问记录_8071.eml",
+                      "copied_name":  "访问记录_8071.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\会议纪要\\通用周报.md",
+                      "copied_name":  "通用周报.md",
+                      "bucket":  "text",
+                      "ext":  ".md",
+                      "size":  20042
+                  }
+              ]
+}

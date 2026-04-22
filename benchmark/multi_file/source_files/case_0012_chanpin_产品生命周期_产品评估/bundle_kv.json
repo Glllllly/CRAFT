@@ -1,0 +1,2168 @@
+{
+  "bundle_dir": "case_0012_chanpin_产品生命周期_产品评估",
+  "file_count": 5,
+  "files": [
+    {
+      "source_file": "评估_39.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "262%",
+          "raw_key": "ROI",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：262%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品8",
+          "raw_key": "产品名称",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品8",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0039",
+          "raw_key": "产品编号",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0039",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "54%",
+          "raw_key": "利润率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：54%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "16%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：16%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥4177万",
+          "raw_key": "成本",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥4177万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥5909万",
+          "raw_key": "收入",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥5909万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-20%",
+          "raw_key": "月增长率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-20%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "1096万",
+          "raw_key": "用户数量",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1096万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-11-03",
+          "raw_key": "评估日期",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-11-03",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评估_4.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "238%",
+          "raw_key": "ROI",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：238%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品5",
+          "raw_key": "产品名称",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品5",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0004",
+          "raw_key": "产品编号",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0004",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "70%",
+          "raw_key": "利润率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：70%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "12%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：12%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥1213万",
+          "raw_key": "成本",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥1213万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥10709万",
+          "raw_key": "收入",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥10709万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "24%",
+          "raw_key": "月增长率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：24%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "853万",
+          "raw_key": "用户数量",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：853万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-11-26",
+          "raw_key": "评估日期",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-11-26",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评估_47.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "384%",
+          "raw_key": "ROI",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：384%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品8",
+          "raw_key": "产品名称",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品8",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0047",
+          "raw_key": "产品编号",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0047",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "33%",
+          "raw_key": "利润率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：33%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "36%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：36%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥2785万",
+          "raw_key": "成本",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥2785万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥3148万",
+          "raw_key": "收入",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥3148万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-10%",
+          "raw_key": "月增长率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-10%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "603万",
+          "raw_key": "用户数量",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：603万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-09-24",
+          "raw_key": "评估日期",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-09-24",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评估_50.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "130%",
+          "raw_key": "ROI",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：130%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品3",
+          "raw_key": "产品名称",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品3",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0050",
+          "raw_key": "产品编号",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0050",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "60%",
+          "raw_key": "利润率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：60%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "14%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：14%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥3187万",
+          "raw_key": "成本",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥3187万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥2929万",
+          "raw_key": "收入",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥2929万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-21%",
+          "raw_key": "月增长率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-21%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "1052万",
+          "raw_key": "用户数量",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1052万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第1位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第1位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-10-12",
+          "raw_key": "评估日期",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-10-12",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "source_file": "评估_54.txt",
+      "source_type": "txt",
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "160%",
+          "raw_key": "ROI",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：160%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品7",
+          "raw_key": "产品名称",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品7",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0054",
+          "raw_key": "产品编号",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0054",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "68%",
+          "raw_key": "利润率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：68%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "36%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：36%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥1538万",
+          "raw_key": "成本",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥1538万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥4920万",
+          "raw_key": "收入",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥4920万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-25%",
+          "raw_key": "月增长率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-25%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "1064万",
+          "raw_key": "用户数量",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1064万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第4位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第4位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-06-08",
+          "raw_key": "评估日期",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-06-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "bundle_kv": [
+    {
+      "key": "roi",
+      "candidates": [
+        {
+          "key": "roi",
+          "value": "262%",
+          "raw_key": "ROI",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：262%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "roi",
+          "value": "238%",
+          "raw_key": "ROI",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：238%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "roi",
+          "value": "384%",
+          "raw_key": "ROI",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：384%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "roi",
+          "value": "130%",
+          "raw_key": "ROI",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：130%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "roi",
+          "value": "160%",
+          "raw_key": "ROI",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "ROI：160%",
+            "location": "line:17"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "主要风险",
+      "candidates": [
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "主要风险",
+          "value": "市场饱和",
+          "raw_key": "主要风险",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "主要风险：市场饱和",
+            "location": "line:24"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "产品名称",
+      "candidates": [
+        {
+          "key": "产品名称",
+          "value": "产品8",
+          "raw_key": "产品名称",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品8",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品5",
+          "raw_key": "产品名称",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品5",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品8",
+          "raw_key": "产品名称",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品8",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品3",
+          "raw_key": "产品名称",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品3",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品名称",
+          "value": "产品7",
+          "raw_key": "产品名称",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品名称：产品7",
+            "location": "line:3"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "产品编号",
+      "candidates": [
+        {
+          "key": "产品编号",
+          "value": "PLM-0039",
+          "raw_key": "产品编号",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0039",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0004",
+          "raw_key": "产品编号",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0004",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0047",
+          "raw_key": "产品编号",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0047",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0050",
+          "raw_key": "产品编号",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0050",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "产品编号",
+          "value": "PLM-0054",
+          "raw_key": "产品编号",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "产品编号：PLM-0054",
+            "location": "line:2"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "利润率",
+      "candidates": [
+        {
+          "key": "利润率",
+          "value": "54%",
+          "raw_key": "利润率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：54%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "70%",
+          "raw_key": "利润率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：70%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "33%",
+          "raw_key": "利润率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：33%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "60%",
+          "raw_key": "利润率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：60%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "利润率",
+          "value": "68%",
+          "raw_key": "利润率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "利润率：68%",
+            "location": "line:16"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "后续发展方向",
+      "candidates": [
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "后续发展方向",
+          "value": "扩大市场",
+          "raw_key": "后续发展方向",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "后续发展方向：扩大市场",
+            "location": "line:21"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "市场占有率",
+      "candidates": [
+        {
+          "key": "市场占有率",
+          "value": "16%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：16%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "12%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：12%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "36%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：36%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "14%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：14%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "市场占有率",
+          "value": "36%",
+          "raw_key": "市场占有率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "市场占有率：36%",
+            "location": "line:10"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "当前阶段",
+      "candidates": [
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段",
+          "value": "导入期",
+          "raw_key": "当前阶段",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段：导入期",
+            "location": "line:4"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "当前阶段建议",
+      "candidates": [
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "当前阶段建议",
+          "value": "加大投入",
+          "raw_key": "当前阶段建议",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "当前阶段建议：加大投入",
+            "location": "line:20"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "成本",
+      "candidates": [
+        {
+          "key": "成本",
+          "value": "¥4177万",
+          "raw_key": "成本",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥4177万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥1213万",
+          "raw_key": "成本",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥1213万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥2785万",
+          "raw_key": "成本",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥2785万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥3187万",
+          "raw_key": "成本",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥3187万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "成本",
+          "value": "¥1538万",
+          "raw_key": "成本",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "成本：¥1538万",
+            "location": "line:15"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "收入",
+      "candidates": [
+        {
+          "key": "收入",
+          "value": "¥5909万",
+          "raw_key": "收入",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥5909万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥10709万",
+          "raw_key": "收入",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥10709万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥3148万",
+          "raw_key": "收入",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥3148万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥2929万",
+          "raw_key": "收入",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥2929万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "收入",
+          "value": "¥4920万",
+          "raw_key": "收入",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "收入：¥4920万",
+            "location": "line:14"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "月增长率",
+      "candidates": [
+        {
+          "key": "月增长率",
+          "value": "-20%",
+          "raw_key": "月增长率",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-20%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "24%",
+          "raw_key": "月增长率",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：24%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-10%",
+          "raw_key": "月增长率",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-10%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-21%",
+          "raw_key": "月增长率",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-21%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "月增长率",
+          "value": "-25%",
+          "raw_key": "月增长率",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "月增长率：-25%",
+            "location": "line:9"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "用户数量",
+      "candidates": [
+        {
+          "key": "用户数量",
+          "value": "1096万",
+          "raw_key": "用户数量",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1096万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "853万",
+          "raw_key": "用户数量",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：853万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "603万",
+          "raw_key": "用户数量",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：603万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "1052万",
+          "raw_key": "用户数量",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1052万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "用户数量",
+          "value": "1064万",
+          "raw_key": "用户数量",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "用户数量：1064万",
+            "location": "line:8"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "竞争地位",
+      "candidates": [
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第5位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第5位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第1位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第1位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "竞争地位",
+          "value": "第4位",
+          "raw_key": "竞争地位",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "竞争地位：第4位",
+            "location": "line:11"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "缓解措施",
+      "candidates": [
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "缓解措施",
+          "value": "已制定应对方案",
+          "raw_key": "缓解措施",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "缓解措施：已制定应对方案",
+            "location": "line:26"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "评估日期",
+      "candidates": [
+        {
+          "key": "评估日期",
+          "value": "2024-11-03",
+          "raw_key": "评估日期",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-11-03",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-11-26",
+          "raw_key": "评估日期",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-11-26",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-09-24",
+          "raw_key": "评估日期",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-09-24",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-10-12",
+          "raw_key": "评估日期",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-10-12",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "评估日期",
+          "value": "2024-06-08",
+          "raw_key": "评估日期",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "评估日期：2024-06-08",
+            "location": "line:5"
+          },
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "key": "风险等级",
+      "candidates": [
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_39.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_4.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_47.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_50.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        },
+        {
+          "key": "风险等级",
+          "value": "低)",
+          "raw_key": "风险等级",
+          "source_file": "评估_54.txt",
+          "source_type": "txt",
+          "evidence": {
+            "text": "风险等级：低)",
+            "location": "line:25"
+          },
+          "confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

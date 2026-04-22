@@ -1,0 +1,88 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Name:",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Position:",
+      "value_text": "Senior Education Specialist"
+    },
+    {
+      "key_text": "EID#:",
+      "value_text": "849201"
+    },
+    {
+      "key_text": "Period Covered:",
+      "value_text": "1-Jul-08 to 30-Jun-09"
+    },
+    {
+      "key_text": "Agency:",
+      "value_text": "Utah State Office of Education"
+    },
+    {
+      "key_text": "Unit/Division:",
+      "value_text": "Career and Technical Education"
+    },
+    {
+      "key_text": "Work Location:",
+      "value_text": "State Office Of Education"
+    },
+    {
+      "key_text": "Purpose:",
+      "value_text": "Annual Review"
+    },
+    {
+      "key_text": "Agency Strategic Goal(s)",
+      "value_text": "Provide leadership, vision and advocacy so that all students have educational opportunities to meet their potential and achieve competency. Do this by 1) Model integrity and character in behavior, leadership, and decision-making. 2) Display a strong work ethic. 3) Facilitate teamwork. 4) Ensure quality work in a timely manner. 5) Build positive relationships with others in the office, and with members of the board, government, schools and community."
+    },
+    {
+      "key_text": "Team Strategic Goal(s)",
+      "value_text": "Improve statewide graduation rates by 5% through enhanced vocational training programs and partnerships with local industries."
+    },
+    {
+      "key_text": "Individual Strategic Goal(s)",
+      "value_text": "Successfully implement the new digital literacy curriculum in 15 pilot schools by January 2009 and provide training to 50 educators."
+    },
+    {
+      "key_text": "Work Performed/Core Responsibilities -- activities, services provided and/or products produced by this position (or attach copy of PDQ):",
+      "value_text": "Oversees curriculum development for CTE programs, manages grant funding for district-level vocational initiatives, and coordinates professional development workshops for secondary school teachers."
+    },
+    {
+      "key_text": "The Performance Plan for this period has been discussed by the employee and the supervisor.",
+      "value_text": "Yes"
+    },
+    {
+      "key_text": "Employee Signature",
+      "value_text": "Sarah J. Miller"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "15-Jul-09"
+    },
+    {
+      "key_text": "Supervisor Signature",
+      "value_text": "David Thompson"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "16-Jul-09"
+    },
+    {
+      "key_text": "Next Higher Management Level Signature",
+      "value_text": "Linda Roberts"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "20-Jul-09"
+    }
+  ]
+}
+
+Narrative:
+This is an Individual Performance Plan and Evaluation form for Sarah J. Miller, a Senior Education Specialist (EID# 849201) at the Utah State Office of Education. She works within the Career and Technical Education unit at the State Office of Education. This evaluation is an Annual Review covering the period from July 1, 2008, to June 30, 2009.
+
+The agency's strategic goals focus on providing leadership and advocacy for student potential through integrity, teamwork, and building positive community relationships. Sarah's team aims to improve graduation rates by 5% via vocational programs, while her specific individual goal was to implement a new digital literacy curriculum in 15 pilot schools and train 50 educators by early 2009. Her core responsibilities involve overseeing CTE curriculum development, managing vocational grants, and coordinating teacher workshops.
+
+The form confirms that Sarah and her supervisor, David Thompson, discussed the performance plan. Sarah signed the document on July 15, 2009, followed by David Thompson on July 16, 2009. Final approval was given by the next higher management level, Linda Roberts, on July 20, 2009.

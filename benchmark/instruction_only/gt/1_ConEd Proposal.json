@@ -1,0 +1,46 @@
+﻿{
+    "excel":  "1_ConEd Proposal.xlsx",
+    "sheet":  "Proposal Three",
+    "pairs":  [
+                  {
+                      "label":  "NAME OF PROPOSER:",
+                      "value_cell":  "E9:H9",
+                      "value":  "Enron Power Marketing, Inc."
+                  },
+                  {
+                      "label":  "ADDRESS:",
+                      "value_cell":  "E10:H10",
+                      "value":  "1400 Smith Street, Houston, TX 77002-7361"
+                  },
+                  {
+                      "label":  "CONTACT:",
+                      "value_cell":  "E11:H11",
+                      "value":  "Pearce W. Hammond"
+                  },
+                  {
+                      "label":  "TELEPHONE NO.:",
+                      "value_cell":  "E12:H12",
+                      "value":  "713-853-7379"
+                  },
+                  {
+                      "label":  "AUTHORIZED SIGNATURE:",
+                      "value_cell":  "F26:H26",
+                      "value":  "P. W. Hammond"
+                  },
+                  {
+                      "label":  "PRINT NAME:",
+                      "value_cell":  "F27:H27",
+                      "value":  "Pearce W. Hammond"
+                  },
+                  {
+                      "label":  "TITLE:",
+                      "value_cell":  "F28:H28",
+                      "value":  "Director of Energy Trading"
+                  },
+                  {
+                      "label":  "DATE:",
+                      "value_cell":  "F29:H29",
+                      "value":  "January 4, 2001"
+                  }
+              ]
+}

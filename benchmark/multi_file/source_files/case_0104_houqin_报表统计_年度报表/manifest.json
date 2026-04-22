@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0104_houqin_报表统计_年度报表",
+    "tenant":  "houqin",
+    "topic":  "报表统计",
+    "subtopic":  "年度报表",
+    "source_dir":  "houqin\\报表统计\\年度报表",
+    "total_files_in_source_dir":  37,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "houqin\\报表统计\\年度报表\\工作日志_9348.json",
+                      "copied_name":  "工作日志_9348.json",
+                      "bucket":  "structured",
+                      "ext":  ".json",
+                      "size":  306
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\年度报表\\库存清单_2197.csv",
+                      "copied_name":  "库存清单_2197.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1359
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\年度报表\\报销申请_8356.txt",
+                      "copied_name":  "报销申请_8356.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  215
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\年度报表\\报销申请_3104.eml",
+                      "copied_name":  "报销申请_3104.eml",
+                      "bucket":  "webmail",
+                      "ext":  ".eml",
+                      "size":  263
+                  },
+                  {
+                      "source_rel":  "houqin\\报表统计\\年度报表\\采购申请_5375.csv",
+                      "copied_name":  "采购申请_5375.csv",
+                      "bucket":  "table",
+                      "ext":  ".csv",
+                      "size":  1353
+                  }
+              ]
+}

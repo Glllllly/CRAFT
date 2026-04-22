@@ -1,0 +1,31 @@
+{
+  "excel": "case_0007_chanpin_产品开发_开发任务__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "需要实现",
+      "value_cell": "D6:H6",
+      "value": "后端接口开发"
+    },
+    {
+      "label": "技术栈",
+      "value_cell": "D11:H11",
+      "value": "Java) / React)"
+    },
+    {
+      "label": "复杂度",
+      "value_cell": "M11:Q11",
+      "value": "简单)"
+    },
+    {
+      "label": "风险评级",
+      "value_cell": "D16:H16",
+      "value": "低)"
+    },
+    {
+      "label": "存在问题",
+      "value_cell": "M16:Q16",
+      "value": "无)"
+    }
+  ]
+}

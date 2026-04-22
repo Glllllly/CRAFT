@@ -1,0 +1,191 @@
+﻿{
+    "excel":  "05.xlsx",
+    "sheet":  "Form",
+    "pairs":  [
+                  {
+                      "label":  "Full Name",
+                      "value_cell":  "A8:L8",
+                      "value":  "Jonathan P. Miller"
+                  },
+                  {
+                      "label":  "Library Card / Patron ID",
+                      "value_cell":  "M8:X8",
+                      "value":  "LIB-992837465"
+                  },
+                  {
+                      "label":  "Department / Faculty",
+                      "value_cell":  "A10:H10",
+                      "value":  "History"
+                  },
+                  {
+                      "label":  "Phone",
+                      "value_cell":  "I10:P10",
+                      "value":  "555-012-3456"
+                  },
+                  {
+                      "label":  "E-mail",
+                      "value_cell":  "Q10:X10",
+                      "value":  "jmiller@university.edu"
+                  },
+                  {
+                      "label":  "Borrower Address",
+                      "value_cell":  "A12:L12",
+                      "value":  "452 Oakwood Avenue"
+                  },
+                  {
+                      "label":  "City, State, ZIP",
+                      "value_cell":  "M12:X12",
+                      "value":  "Springfield, IL, 62704"
+                  },
+                  {
+                      "label":  "Title of Item (book, journal, AV, equipment)",
+                      "value_cell":  "A17:X17",
+                      "value":  "The Rise and Fall of the Roman Empire"
+                  },
+                  {
+                      "label":  "Author(s) / Creator(s)",
+                      "value_cell":  "A19:L19",
+                      "value":  "Edward Gibbon"
+                  },
+                  {
+                      "label":  "Publication Year",
+                      "value_cell":  "M19:X19",
+                      "value":  "2015"
+                  },
+                  {
+                      "label":  "ISBN / ISSN / Barcode Number",
+                      "value_cell":  "A21:L21",
+                      "value":  "978-0140437645"
+                  },
+                  {
+                      "label":  "Call Number / Classification",
+                      "value_cell":  "M21:X21",
+                      "value":  "DG311 .G5 2015"
+                  },
+                  {
+                      "label":  "Item Format (Book / DVD / Equipment / Other)",
+                      "value_cell":  "A23:L23",
+                      "value":  "Book"
+                  },
+                  {
+                      "label":  "Item Value $",
+                      "value_cell":  "M23:X23",
+                      "value":  "45.00"
+                  },
+                  {
+                      "label":  "Date Item Was Borrowed",
+                      "value_cell":  "A25:L25",
+                      "value":  "2023-10-12"
+                  },
+                  {
+                      "label":  "Date Loss / Damage Discovered",
+                      "value_cell":  "M25:X25",
+                      "value":  "2023-11-05"
+                  },
+                  {
+                      "label":  "Incident Type: Lost",
+                      "value_cell":  "H30",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Incident Type: Stolen",
+                      "value_cell":  "M30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Incident Type: Water Damage",
+                      "value_cell":  "R30",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Description of Circumstances",
+                      "value_cell":  "A31:X31",
+                      "value":  "Item was misplaced while commuting on the campus shuttle."
+                  },
+                  {
+                      "label":  "Location Where Item Was Last Seen / Used",
+                      "value_cell":  "A33:X33",
+                      "value":  "Campus shuttle bus line 4"
+                  },
+                  {
+                      "label":  "Police Report Filed? Y / N",
+                      "value_cell":  "A35:L35",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Police Report Number (if applicable)",
+                      "value_cell":  "M35:X35",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Preferred Resolution: Pay Replacement Cost",
+                      "value_cell":  "H40",
+                      "value":  "X"
+                  },
+                  {
+                      "label":  "Preferred Resolution: Provide Replacement Copy",
+                      "value_cell":  "M40",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Preferred Resolution: Dispute Charge",
+                      "value_cell":  "R40",
+                      "value":  null
+                  },
+                  {
+                      "label":  "Replacement Copy Provided by Patron? Y / N",
+                      "value_cell":  "A41:L41",
+                      "value":  "N"
+                  },
+                  {
+                      "label":  "Date Resolved",
+                      "value_cell":  "M41:X41",
+                      "value":  "2023-11-10"
+                  },
+                  {
+                      "label":  "Invoice / Fine Amount $",
+                      "value_cell":  "A43:L43",
+                      "value":  "45.00"
+                  },
+                  {
+                      "label":  "Payment Method",
+                      "value_cell":  "M43:X43",
+                      "value":  "Credit Card"
+                  },
+                  {
+                      "label":  "Library Staff Notes",
+                      "value_cell":  "A45:X45",
+                      "value":  "Patron processed payment at circulation desk."
+                  },
+                  {
+                      "label":  "Patron Signature",
+                      "value_cell":  "A53:L53",
+                      "value":  "Jonathan P. Miller"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N53:X53",
+                      "value":  "2023-11-10"
+                  },
+                  {
+                      "label":  "Library Staff",
+                      "value_cell":  "A56:L56",
+                      "value":  "Sarah Jenkins"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N56:X56",
+                      "value":  "2023-11-10"
+                  },
+                  {
+                      "label":  "Library Manager",
+                      "value_cell":  "A59:L59",
+                      "value":  "Robert Thorne"
+                  },
+                  {
+                      "label":  "Date",
+                      "value_cell":  "N59:X59",
+                      "value":  "2023-11-12"
+                  }
+              ]
+}

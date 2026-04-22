@@ -1,0 +1,52 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "EVENT:",
+      "value_text": "Q3 Quarterly Strategic Planning Summit"
+    },
+    {
+      "key_text": "DATE:",
+      "value_text": "October 14-15, 2023"
+    },
+    {
+      "key_text": "TIME:",
+      "value_text": "09:00 AM - 05:00 PM"
+    },
+    {
+      "key_text": "PLACE:",
+      "value_text": "The Grand Hyatt, Conference Hall B, 1000 Austin St, Houston, TX 77002"
+    },
+    {
+      "key_text": "Contacts:",
+      "value_text": "Sarah Jenkins (Event Coordinator), 713-555-0123, sjenkins@enron.com"
+    },
+    {
+      "key_text": "Enron Participants:",
+      "value_text": "Kenneth Lay, Jeffrey Skilling, Richard Kinder, Andrew Fastow"
+    },
+    {
+      "key_text": "Flight Arrangements:",
+      "value_text": "Charter flight departing HOU at 07:00 AM on Oct 14"
+    },
+    {
+      "key_text": "Hotel Information:",
+      "value_text": "Grand Hyatt Houston, Executive Suite Block"
+    },
+    {
+      "key_text": "Hotel Guests:",
+      "value_text": "All Enron participants listed above"
+    },
+    {
+      "key_text": "Ground Information:",
+      "value_text": "Private car service provided by Executive Transport"
+    },
+    {
+      "key_text": "Additional Information:",
+      "value_text": "Business formal attire required; please bring all Q3 financial reports for review."
+    }
+  ]
+}
+
+Narrative:
+The upcoming Q3 Quarterly Strategic Planning Summit is scheduled for October 14th and 15th, 2023, running from 9:00 AM to 5:00 PM each day. The event will be held at The Grand Hyatt, specifically in Conference Hall B, located at 1000 Austin St, Houston, TX 77002. Sarah Jenkins is the point of contact for the event and can be reached at 713-555-0123 or via email at sjenkins@enron.com. The Enron participants attending are Kenneth Lay, Jeffrey Skilling, Richard Kinder, and Andrew Fastow. Regarding travel, there is a charter flight departing HOU at 7:00 AM on October 14th, and all participants will be staying at the Grand Hyatt Houston in the Executive Suite block. Transportation will be handled by a private car service provided by Executive Transport. Attendees are reminded that business formal attire is required and they should bring their Q3 financial reports for the review sessions.

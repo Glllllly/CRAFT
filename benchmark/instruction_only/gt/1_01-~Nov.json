@@ -1,0 +1,41 @@
+﻿{
+    "excel":  "1_01-~Nov.xlsx",
+    "sheet":  "November",
+    "pairs":  [
+                  {
+                      "label":  "Term:  ",
+                      "value_cell":  "C23",
+                      "value":  "October 1, 2023"
+                  },
+                  {
+                      "label":  "  to  ",
+                      "value_cell":  "E23",
+                      "value":  "October 31, 2023"
+                  },
+                  {
+                      "label":  "Delivery Points:",
+                      "value_cell":  "C25",
+                      "value":  "Cheyenne Hub"
+                  },
+                  {
+                      "label":  "EXCEPTIONS:",
+                      "value_cell":  "E25",
+                      "value":  "None"
+                  },
+                  {
+                      "label":  "Volumes requested:",
+                      "value_cell":  "C28",
+                      "value":  "5,000"
+                  },
+                  {
+                      "label":  "\u0027Our target is :",
+                      "value_cell":  "C30",
+                      "value":  "150,000"
+                  },
+                  {
+                      "label":  "\u0027Proposal Deadline: 11:00 a.m., Mountain Time: ",
+                      "value_cell":  "E33",
+                      "value":  "September 25, 2023"
+                  }
+              ]
+}

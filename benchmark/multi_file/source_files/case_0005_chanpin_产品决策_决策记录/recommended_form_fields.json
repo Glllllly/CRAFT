@@ -1,0 +1,44 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "主要风险",
+                                   "selected_value":  "执行风险",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "内部制约",
+                                   "selected_value":  "资源有限",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "决策主题",
+                                   "selected_value":  "功能取舍",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "决策反思",
+                                   "selected_value":  "待后续总结",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "市场机遇",
+                                   "selected_value":  "用户需求",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "应对措施",
+                                   "selected_value":  "已准备备选方案",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "成功指标",
+                                   "selected_value":  "用户增长",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采纳方案",
+                                   "selected_value":  "方案A",
+                                   "conflict":  false
+                               }
+                           ]
+}

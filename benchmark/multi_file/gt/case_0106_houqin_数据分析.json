@@ -1,0 +1,191 @@
+{
+  "excel": "case_0106_houqin_数据分析__blank.xlsx",
+  "sheet": "Form",
+  "pairs": [
+    {
+      "label": "id",
+      "value_cell": "D6:H6",
+      "value": "34161"
+    },
+    {
+      "label": "title",
+      "value_cell": "M6:Q6",
+      "value": "出差申请_9841"
+    },
+    {
+      "label": "type",
+      "value_cell": "D9:H9",
+      "value": "出差申请"
+    },
+    {
+      "label": "status",
+      "value_cell": "M9:Q9",
+      "value": "已审批"
+    },
+    {
+      "label": "priority",
+      "value_cell": "D12:H12",
+      "value": "低"
+    },
+    {
+      "label": "creator",
+      "value_cell": "M12:Q12",
+      "value": "马腾"
+    },
+    {
+      "label": "from",
+      "value_cell": "D15:H15",
+      "value": "张三@company.com"
+    },
+    {
+      "label": "to",
+      "value_cell": "M15:Q15",
+      "value": "王军@company.com"
+    },
+    {
+      "label": "date",
+      "value_cell": "D18:H18",
+      "value": "Tue, 10 Feb 2026 05:30:30 +0800"
+    },
+    {
+      "label": "createdate",
+      "value_cell": "M18:Q18",
+      "value": "2026-02-10T05:30:30.579847"
+    },
+    {
+      "label": "tags.0",
+      "value_cell": "D21:H21",
+      "value": "临时"
+    },
+    {
+      "label": "subject",
+      "value_cell": "M21:Q21",
+      "value": "操作记录"
+    },
+    {
+      "label": "remarks",
+      "value_cell": "D24:H24",
+      "value": "这是一条虚拟数据记录"
+    },
+    {
+      "label": "报告期",
+      "value_cell": "D29:H29",
+      "value": "2024年10月"
+    },
+    {
+      "label": "编制人",
+      "value_cell": "M29:Q29",
+      "value": "数据分析员"
+    },
+    {
+      "label": "编制日期",
+      "value_cell": "D32:H32",
+      "value": "2024-11-01"
+    },
+    {
+      "label": "供应商数量",
+      "value_cell": "M32:Q32",
+      "value": "22家"
+    },
+    {
+      "label": "采购订单数",
+      "value_cell": "D35:H35",
+      "value": "63个"
+    },
+    {
+      "label": "采购总额",
+      "value_cell": "M35:Q35",
+      "value": "¥1017789"
+    },
+    {
+      "label": "缺货率",
+      "value_cell": "D40:H40",
+      "value": "5%"
+    },
+    {
+      "label": "返修率",
+      "value_cell": "M40:Q40",
+      "value": "0%"
+    },
+    {
+      "label": "产品合格率",
+      "value_cell": "D43:H43",
+      "value": "98%"
+    },
+    {
+      "label": "库位利用率",
+      "value_cell": "M43:Q43",
+      "value": "90%"
+    },
+    {
+      "label": "库存准确率",
+      "value_cell": "D46:H46",
+      "value": "92%"
+    },
+    {
+      "label": "库存周转率",
+      "value_cell": "M46:Q46",
+      "value": "5次/月"
+    },
+    {
+      "label": "投诉处理率",
+      "value_cell": "D49:H49",
+      "value": "92%"
+    },
+    {
+      "label": "采购周期",
+      "value_cell": "M49:Q49",
+      "value": "平均24天"
+    },
+    {
+      "label": "月度成本",
+      "value_cell": "D54:H54",
+      "value": "¥504605"
+    },
+    {
+      "label": "人均成本",
+      "value_cell": "M54:Q54",
+      "value": "¥25339"
+    },
+    {
+      "label": "成本占比",
+      "value_cell": "D57:H57",
+      "value": "24%"
+    },
+    {
+      "label": "成本同比",
+      "value_cell": "M57:Q57",
+      "value": "-15%"
+    },
+    {
+      "label": "库存总值",
+      "value_cell": "D60:H60",
+      "value": "¥2021301"
+    },
+    {
+      "label": "同比增长",
+      "value_cell": "M60:Q60",
+      "value": "-25%"
+    },
+    {
+      "label": "1.问题",
+      "value_cell": "D65:H65",
+      "value": "库存周转率较低，建议优化库位"
+    },
+    {
+      "label": "2.问题",
+      "value_cell": "M65:Q65",
+      "value": "采购周期过长，需加强供应商协调"
+    },
+    {
+      "label": "3.建议",
+      "value_cell": "D68:H68",
+      "value": "推进信息系统升级，提高效率"
+    },
+    {
+      "label": "4.建议",
+      "value_cell": "M68:Q68",
+      "value": "完善质量管理体系，降低成本"
+    }
+  ]
+}

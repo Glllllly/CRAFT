@@ -1,0 +1,152 @@
+JSON:
+{
+  "pairs": [
+    {
+      "key_text": "Submitted By — Full Name",
+      "value_text": "Sarah Jenkins"
+    },
+    {
+      "key_text": "Department / Team",
+      "value_text": "Operations Procurement"
+    },
+    {
+      "key_text": "Phone Extension",
+      "value_text": "x4492"
+    },
+    {
+      "key_text": "E-mail",
+      "value_text": "s.jenkins@company.com"
+    },
+    {
+      "key_text": "Date of Submission",
+      "value_text": "2023-10-12"
+    },
+    {
+      "key_text": "Internal Reference / Ticket Number",
+      "value_text": "DISP-2023-9901"
+    },
+    {
+      "key_text": "Supplier / Vendor Name",
+      "value_text": "Global Logistics Solutions"
+    },
+    {
+      "key_text": "Supplier ID in System",
+      "value_text": "GLS-88291"
+    },
+    {
+      "key_text": "Supplier Contact Name",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Supplier Phone & E-mail",
+      "value_text": "555-012-3456 / m.thompson@globallogistics.com"
+    },
+    {
+      "key_text": "Invoice Number",
+      "value_text": "INV-998234"
+    },
+    {
+      "key_text": "Invoice Date",
+      "value_text": "2023-10-05"
+    },
+    {
+      "key_text": "Invoice Amount $",
+      "value_text": "12,500.00"
+    },
+    {
+      "key_text": "PO Number (if applicable)",
+      "value_text": "PO-7721"
+    },
+    {
+      "key_text": "Contract / Agreement Reference",
+      "value_text": "MSA-2022-004"
+    },
+    {
+      "key_text": "Currency",
+      "value_text": "USD"
+    },
+    {
+      "key_text": "GL / Account Code",
+      "value_text": "GL-5500-FREIGHT"
+    },
+    {
+      "key_text": "Cost Centre",
+      "value_text": "CC-LOG-01"
+    },
+    {
+      "key_text": "Incorrect Amount",
+      "value_text": "X"
+    },
+    {
+      "key_text": "Duplicate Invoice",
+      "value_text": null
+    },
+    {
+      "key_text": "Goods Not Received",
+      "value_text": null
+    },
+    {
+      "key_text": "Detailed Description of the Discrepancy",
+      "value_text": "The invoice includes a fuel surcharge of $1,500.00 which was explicitly waived in the signed MSA-2022-004 agreement."
+    },
+    {
+      "key_text": "Correct Amount (if known) $",
+      "value_text": "11,000.00"
+    },
+    {
+      "key_text": "Discrepancy Amount $",
+      "value_text": "1,500.00"
+    },
+    {
+      "key_text": "Supporting Evidence  (PO, GRN, contract clause, prior correspondence)",
+      "value_text": "Referenced clause 4.2 in MSA-2022-004 regarding fuel surcharge waivers."
+    },
+    {
+      "key_text": "Deadline for Supplier Response",
+      "value_text": "2023-10-20"
+    },
+    {
+      "key_text": "Escalation Contact if Unresolved",
+      "value_text": "David Miller, Procurement Director"
+    },
+    {
+      "key_text": "Supplier Response Date",
+      "value_text": "2023-10-18"
+    },
+    {
+      "key_text": "Response Provided By",
+      "value_text": "Mark Thompson"
+    },
+    {
+      "key_text": "Supplier Comments",
+      "value_text": "Acknowledged error; credit note will be issued for the $1,500.00 difference."
+    },
+    {
+      "key_text": "Accounts Payable Officer",
+      "value_text": "Linda Rossi"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-21"
+    },
+    {
+      "key_text": "Procurement Manager",
+      "value_text": "Robert Chen"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-22"
+    },
+    {
+      "key_text": "Finance Controller",
+      "value_text": "Elena Vance"
+    },
+    {
+      "key_text": "Date",
+      "value_text": "2023-10-23"
+    }
+  ]
+}
+
+Narrative:
+This dispute form was submitted by Sarah Jenkins from the Operations Procurement team on October 12, 2023, under internal ticket DISP-2023-9901. She is reporting an issue with Global Logistics Solutions (Supplier ID: GLS-88291) regarding invoice INV-998234, dated October 5, 2023. The invoice total is $12,500.00, linked to PO-7721 and contract MSA-2022-004. Sarah identified an "Incorrect Amount" discrepancy, noting that the invoice erroneously included a $1,500.00 fuel surcharge that should have been waived according to their contract. She provided the correct amount as $11,000.00 and cited clause 4.2 of the agreement as evidence. The supplier, represented by Mark Thompson, responded on October 18, 2023, admitting the error and agreeing to issue a credit note. The form was subsequently processed and signed by Linda Rossi in Accounts Payable, Procurement Manager Robert Chen, and Finance Controller Elena Vance between October 21 and October 23, 2023.

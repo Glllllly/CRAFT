@@ -1,0 +1,124 @@
+{
+    "recommended_fields":  [
+                               {
+                                   "key":  "date",
+                                   "selected_value":  "Tue, 10 Feb 2026 05:30:32 +0800",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "title",
+                                   "selected_value":  "会议记录_1292",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "status",
+                                   "selected_value":  "已完成",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "tags.0",
+                                   "selected_value":  "临时",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "createdate",
+                                   "selected_value":  "2026-02-10T05:30:32.138921",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "id",
+                                   "selected_value":  "76420",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "to",
+                                   "selected_value":  "马腾@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "from",
+                                   "selected_value":  "李四@company.com",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "type",
+                                   "selected_value":  "会议记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "creator",
+                                   "selected_value":  "黄欢",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "remarks",
+                                   "selected_value":  "这是一条虚拟数据记录",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "subject",
+                                   "selected_value":  "库存统计",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "priority",
+                                   "selected_value":  "高",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "功能测试",
+                                   "selected_value":  "正常",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "包装检查",
+                                   "selected_value":  "轻微损伤",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "外观检查",
+                                   "selected_value":  "部分不合格",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "合格率",
+                                   "selected_value":  "87%",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "检查员",
+                                   "selected_value":  "检查员5",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "处理意见",
+                                   "selected_value":  "全部入库",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "报告编号",
+                                   "selected_value":  "QC-009",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "检查日期",
+                                   "selected_value":  "2024-01-01",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "物品名称",
+                                   "selected_value":  "物品10",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "送检数量",
+                                   "selected_value":  "25个/箱",
+                                   "conflict":  false
+                               },
+                               {
+                                   "key":  "采购单号",
+                                   "selected_value":  "PO-2024-096",
+                                   "conflict":  false
+                               }
+                           ]
+}

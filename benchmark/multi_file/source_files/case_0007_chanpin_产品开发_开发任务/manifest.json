@@ -1,0 +1,46 @@
+﻿{
+    "case_id":  "case_0007_chanpin_产品开发_开发任务",
+    "tenant":  "chanpin",
+    "topic":  "产品开发",
+    "subtopic":  "开发任务",
+    "source_dir":  "chanpin\\产品开发\\开发任务",
+    "total_files_in_source_dir":  120,
+    "picked_count":  5,
+    "files":  [
+                  {
+                      "source_rel":  "chanpin\\产品开发\\开发任务\\开发任务_071.txt",
+                      "copied_name":  "开发任务_071.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  601
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品开发\\开发任务\\开发任务_059.txt",
+                      "copied_name":  "开发任务_059.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  600
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品开发\\开发任务\\开发任务_069.txt",
+                      "copied_name":  "开发任务_069.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  600
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品开发\\开发任务\\开发任务_058.txt",
+                      "copied_name":  "开发任务_058.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  600
+                  },
+                  {
+                      "source_rel":  "chanpin\\产品开发\\开发任务\\开发任务_057.txt",
+                      "copied_name":  "开发任务_057.txt",
+                      "bucket":  "text",
+                      "ext":  ".txt",
+                      "size":  600
+                  }
+              ]
+}
