@@ -183,24 +183,37 @@ For the current pipeline, both files are usually needed because slot detection s
 
 ## Examples
 
-Reserve this section for qualitative case studies, intermediate visualizations, and form-filling examples.
+This section shows representative qualitative examples from CRAFT. Each example illustrates how the pipeline interprets natural-language or multi-file evidence, grounds the evidence to spreadsheet regions, and fills the target workbook while preserving the original form layout.
 
-Recommended placement:
-- `docs/examples/example_01.png`
-- `docs/examples/example_02.png`
-- `docs/examples/example_03.png`
-
-Suggested README snippet after you add example images:
-
-```md
-<p align="center">
-  <img src="docs/examples/example_01.png" width="900" alt="CRAFT example 1" align="center" />
-</p>
+### Multilingual Spreadsheet Form Filling
 
 <p align="center">
-  <img src="docs/examples/example_02.png" width="900" alt="CRAFT example 2" align="center" />
+  <img src="docs/figures/examplephoto1_01.png" width="900" alt="CRAFT multilingual spreadsheet form filling example" align="center" />
 </p>
-```
+
+[Open the multilingual example PDF](docs/figures/examplephoto1.pdf)
+
+This example highlights CRAFT's ability to fill forms across different languages and form conventions. The inputs include Chinese, English, and Hungarian task descriptions, while the target spreadsheets use different field names, table structures, and formatting styles. CRAFT extracts the relevant entities, dates, contact information, approval fields, and free-text details from the source descriptions, then maps them into the correct spreadsheet cells without relying on a fixed language-specific schema.
+
+### Different Label-Value Layouts
+
+<p align="center">
+  <img src="docs/figures/examplephoto2_01.png" width="900" alt="CRAFT label-value layout example" align="center" />
+</p>
+
+[Open the label-value layout example PDF](docs/figures/examplephoto2.pdf)
+
+This example demonstrates form filling under varied label-value layouts. The three forms use different visual structures: compact reimbursement sections, two-column vehicle request fields, and a larger training enrollment form with grouped approval blocks. CRAFT uses the spreadsheet structure together with the rendered layout to identify writable regions, associate each label with its intended value cell, and avoid overwriting section headers or static template text.
+
+### Multi-File Form Filling
+
+<p align="center">
+  <img src="docs/figures/examplephoto3_01.png" width="900" alt="CRAFT multi-file form filling example" align="center" />
+</p>
+
+[Open the multi-file example PDF](docs/figures/examplephoto3.pdf)
+
+This example shows CRAFT filling a procurement and training approval form from a bundle of heterogeneous source files. The source evidence includes Excel files, an email-style work report, a JSON training record, and a text purchase request. CRAFT consolidates these files into a single evidence bundle, resolves overlapping or complementary fields, and writes the selected information into the final spreadsheet form across basic information, application details, processing information, status, priority, and remarks sections.
 
 ## Experimental Results
 
