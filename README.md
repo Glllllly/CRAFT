@@ -185,16 +185,6 @@ For the current pipeline, both files are usually needed because slot detection s
 
 This section shows representative qualitative examples from CRAFT. Each example illustrates how the pipeline interprets natural-language or multi-file evidence, grounds the evidence to spreadsheet regions, and fills the target workbook while preserving the original form layout.
 
-### Multilingual Spreadsheet Form Filling
-
-<p align="center">
-  <img src="docs/figures/examplephoto1_01.png" width="900" alt="CRAFT multilingual spreadsheet form filling example" align="center" />
-</p>
-
-[Open the multilingual example PDF](docs/figures/examplephoto1.pdf)
-
-This example highlights CRAFT's ability to fill forms across different languages and form conventions. The inputs include Chinese, English, and Hungarian task descriptions, while the target spreadsheets use different field names, table structures, and formatting styles. CRAFT extracts the relevant entities, dates, contact information, approval fields, and free-text details from the source descriptions, then maps them into the correct spreadsheet cells without relying on a fixed language-specific schema.
-
 ### Different Label-Value Layouts
 
 <p align="center">
