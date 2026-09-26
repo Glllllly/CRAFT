@@ -212,7 +212,11 @@ We compare CRAFT on benchmark tasks using the paper assets currently included in
 Main benchmark table on the Instruction-Only and Multi-File tracks:
 
 <p align="center">
-  <img src="docs/results/tables/image.png" width="900" alt="CRAFT main benchmark table" align="center" />
+  <img
+    src="https://github.com/user-attachments/assets/c4cc17f1-bfe1-456a-9225-e79435c29b4a"
+    width="900"
+    alt="CRAFT main benchmark table"
+  />
 </p>
 
 <p align="center">
